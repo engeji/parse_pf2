@@ -1,0 +1,208 @@
+Перевод терминов
+======================
+
+Ability: характеристика
+	ability boost: повышение характеристики
+	ability modifier: модификатор характеристики
+activity: активность
+Affliction: недуг
+agile (weapon): быстрое (TODO уточнить)
+Aid: Помощь
+alignment: мировоззрение
+Align Armament: (TODO перевод)
+ancestry: родословная
+arcane: мистический
+Arrest a Fall: Остановить Падение
+atone ritual: ритуал искупления
+attack roll: атака
+Attack of Opportunity: Возможность для Атаки
+auditory: слуховой
+
+basic saving throw: простое испытание (важен только успех/провал/криты, если не сказано другое в эффекте)
+bless: благословение
+bludgeoning: дробящий
+Broken Threshold: Предел Поломки
+Bulk (вес): Часть
+
+cantrip: чары
+Cast a Spell (activity/action): Использовать Заклинание
+circumstance bonus: бонус обстоятельств / бонус за обстоятельства
+Channel Smite: Направить силу
+Channeled Succor: Направленная Помощь
+cost (о заклинании/способности): стоимость
+condition: состояние
+	Blinded: Слепой
+	Broken: Сломано
+	Clumsy: Неуклюжесть
+	Concealed: Скрыт
+	Confused: Растерянный
+	Controlled: Под контролем
+	Dazzled: Ослеплен
+	Deafened: Оглушен
+	Doomed: Обречен
+	Drained: Опустошен
+	Dying: При смерти
+	Encumbered: Перегружен
+	Enfeebled: Ослаблен
+	Fascinated: Заворожен
+	Fatigued: Утомление
+	Flat-Footed: Застан врасплох
+	Fleeing: Бегство
+	Friendly: Дружественный
+	Frightened: Запуган
+	Grabbed: Схвачен
+	Helpful: Любезный
+	Hidden: Спрятанный
+	Hostile: Враждебный
+	Immobilized: Неподвижный
+	Indifferent: Безразличный
+	Invisible: Невидимый
+	Observed: На виду
+	Paralyzed: Парализованный
+	Persistent Damage: Продолжительные повреждения
+	Petrified: Окаменение
+	Prone: Распластан на земле
+	Quickened: Ускоренный
+	Restrained: Сдерживаем
+	Sickened: Болен
+	Slowed: Замедлен
+	Stunned: Ошеломлен
+	Stupefied: Одурманен
+	Unconscious: Без сознания
+	Undetected: Необнаруженный
+	Unfriendly: Недружественный
+	Unnoticed: Незамеченный
+	Wounded: Ранен
+
+damage: повреждение(я)
+darkvision: ночное зрение
+DC / difficulty class: класс сложности
+Deadly Simplicity: Убийственная Простота
+Decipher Writing: Расшифровка Писаний (писаний?)
+demon: демон
+detection: обнаружение
+devil: дьявол
+difficult terrain: сложно-проходимая поверхность
+Disrupting Actions: Прерывание действий
+divine (о заклинаниях): сакральный
+	divine font: божественная сила
+	divine focus: сакральное сосредоточение/фокус
+Domain Initiate: Посвященный в домен
+duration: продолжительность
+
+Emblazon Armament: Освящение Оружия (TODO перевод)
+
+feat: способность
+	general feat: общая способность
+	skill feat: способность навыка
+	cleric feat: способность жреца
+fiends: бесы (демоны, дьяволы, ...)
+Flat check: Чистая проверка
+Flat-Footed: застан врасплох, застигнут врасплох
+fleeing: убегающий
+focus spell: заклинание фокусировки (TODO уточнить)
+Focus Point: Очко Фокусировки
+focus pool: запас очков фокусировки
+
+GM: Мастер
+Grapple: захват
+
+Hardness: Твердость
+harm (spell/font): нанесение ран
+heal: исцеление
+	healing: исцеление / исцелять
+heightening spells: усиление заклинаний
+heritage: наследственность
+hit point: очко здоровья
+
+immunity: иммунитет
+intelligent (о существе): разумный
+Interact: Взаимодействовать
+Intimidate: Запугивание
+
+Leap: прыжок
+lesser cover: небольшое укрытие
+light: свет
+	bright: яркий
+	dim: тусклый
+linguistic: языковой
+low‐light vision: сумеречное зрение
+
+magic school: школа магии
+	Abjuration: преграждение
+	Conjuration: воплощение
+	Divination: прорицание
+	Enchantment: очарование
+	Evocation: разрушение
+	Illusion: иллюзии
+	Necromancy: некромантия
+	Transmutation: превращение
+Magic Missile: Волшебная стрела
+Maker of Miracles: Чудотворец
+Maneuver in Flight: Маневрирование в полете
+martial: воинский
+meld into stone: слияние с камнем
+mental: ментальный
+mindless: неразумный
+minion: миньон
+move action: перемещение
+move trait: признак "движение"
+multiple attack penalty: штраф множественных атак / штраф за множественные атаки
+
+negative: негативное
+negligible: незначительный
+
+occult: оккультный
+Outer Sphere: Внешняя Сфера
+
+persistent damage: продолжительный урон
+potency rune +1/2/3: руна мощи +1/2/3
+primal: природный
+proficiency bonus: бонус мастерства
+propulsive: тяговое
+
+range: дистанция
+	range increment: шаг дистанции
+reach: досягаемость
+remove disease: вылечить болезнь
+Recall Knowledge: Вспомнить Изученное (TODO уточнить)
+Refocus: Сфокусироваться
+
+saving throw: испытание
+shoddy: низкокачественный
+slashing damage: режущие повреждения
+Stonewalker: Каменотес
+status bonus: бонус состояния
+stealth: скрытность
+Stride: перемещение (длинное, как правило больше 5 футов, провоцирует AoO)
+striking rune: разящая руна
+Step: шаг (короткий, НЕ провоцирует AoO)
+stun / stuned: ошеломление / ошеломлен
+spell: заклинание
+	spell attack rolls: атака заклинанием
+	spell slots: слоты заклинаний
+	spells heightening: усиление заклинаний
+spell component: компонент заклинания
+	material: материальный
+	somatic: жестовый
+	verbal: словесный
+	focus: 
+spellcasting: колдовство / произнесение заклинания
+	spellcasting ability modifier: модификатор характеристики колдовства (TODO уточнить)
+Subordinate Actions: Вспомогательные Действия
+Sudden Charge: Внезапное нападение
+
+Taldane: Талдэйн (всеобщий язык)
+Toughness: Живучесть
+tradition (spell): обычай
+trait: признак / особенность
+Treat Wounds: лечение ран
+Tremorsense: виброчувствительность
+
+unarmored: без брони
+Undetected: Необнаруженный
+Unnoticed: Незамеченным
+
+wield smth.: использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
+willing: готовый / готовность
+weapon's critical specialization effect: критический эффект специализации оружия

@@ -1,0 +1,3 @@
+.. role:: uncommon
+
+.. role:: rare
