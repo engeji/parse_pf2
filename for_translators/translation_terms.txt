@@ -17,6 +17,8 @@ atone ritual: ритуал искупления
 attack roll: атака
 Attack of Opportunity: Возможность для Атаки
 auditory: слуховой
+area: область
+	area of effect: область действия (эффекта)
 
 basic saving throw: простое испытание (важен только успех/провал/криты, если не сказано другое в эффекте)
 bless: благословение
@@ -31,13 +33,13 @@ Channel Smite: Направить силу
 Channeled Succor: Направленная Помощь
 cost (о заклинании/способности): стоимость
 condition: состояние
-	Blinded: Слепой
+	Blinded: Слепой (нихрена не видно вообще, темно, вы слепы)
 	Broken: Сломано
 	Clumsy: Неуклюжесть
 	Concealed: Скрыт
 	Confused: Растерянный
 	Controlled: Под контролем
-	Dazzled: Ослеплен
+	Dazzled: Ослеплен (не так страшно как Слепой; вы плохо видите)
 	Deafened: Оглушен
 	Doomed: Обречен
 	Drained: Опустошен
@@ -57,7 +59,7 @@ condition: состояние
 	Immobilized: Неподвижный
 	Indifferent: Безразличный
 	Invisible: Невидимый
-	Observed: На виду
+	Observed: На виду / Замечен
 	Paralyzed: Парализованный
 	Persistent Damage: Продолжительные повреждения
 	Petrified: Окаменение
@@ -76,8 +78,11 @@ condition: состояние
 
 damage: повреждение(я)
 darkvision: ночное зрение
+	Greater Darkvision: Сильное ночное зрение
 DC / difficulty class: класс сложности
 Deadly Simplicity: Убийственная Простота
+Deception: Обман
+	Create a Diversion: Отвлечь Внимание
 Decipher Writing: Расшифровка Писаний (писаний?)
 demon: демон
 detection: обнаружение
@@ -91,6 +96,7 @@ Domain Initiate: Посвященный в домен
 duration: продолжительность
 
 Emblazon Armament: Освящение Оружия (TODO перевод)
+encounter: столкновение
 
 feat: способность
 	general feat: общая способность
@@ -125,6 +131,7 @@ lesser cover: небольшое укрытие
 light: свет
 	bright: яркий
 	dim: тусклый
+	darkness: темнота
 linguistic: языковой
 low‐light vision: сумеречное зрение
 
@@ -169,11 +176,15 @@ Recall Knowledge: Вспомнить Изученное (TODO уточнить)
 Refocus: Сфокусироваться
 
 saving throw: испытание
+Seek: Поиск
 shoddy: низкокачественный
 slashing damage: режущие повреждения
 Stonewalker: Каменотес
 status bonus: бонус состояния
-stealth: скрытность
+Stealth: скрытность
+	 Avoid Notice: Избежать Обнаружения
+	 Hide: Спрятаться
+	 Sneak: Красться
 Stride: перемещение (длинное, как правило больше 5 футов, провоцирует AoO)
 striking rune: разящая руна
 Step: шаг (короткий, НЕ провоцирует AoO)
@@ -200,8 +211,6 @@ Treat Wounds: лечение ран
 Tremorsense: виброчувствительность
 
 unarmored: без брони
-Undetected: Необнаруженный
-Unnoticed: Незамеченным
 
 wield smth.: использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
 willing: готовый / готовность
