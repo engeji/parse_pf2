@@ -113,6 +113,10 @@ div.section > p {
 	text-indent: 1em;
 }
 
+.rst-content div.sidebar ul {
+	font-size: initial;
+}
+
 .rst-content div.sidebar .sidebar-title {
 	background-color: #afa492;
 	text-transform: uppercase;
