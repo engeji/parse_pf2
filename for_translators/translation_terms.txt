@@ -14,6 +14,12 @@ actions:
 	Maneuver in Flight: Маневрирование в полете
 	Arrest a Fall: Остановить Падение
 	Request: Просьба
+	Take Cover: Укрыться
+	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO)
+	Step: Шаг (короткий, НЕ провоцирует AoO)
+	Escape: Вырваться
+	Force Open: Открыть Силой
+	Treat Wounds: лечение Ран
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
@@ -59,7 +65,7 @@ condition: состояние
 	Helpful: Любезный
 	Hidden: Спрятанный
 	Hostile: Враждебный
-	Immobilized: Неподвижный
+	Immobilized: Обездвижен
 	Indifferent: Безразличный
 	Invisible: Невидимый
 	Observed: На виду / Замечен
@@ -183,9 +189,7 @@ Stealth: скрытность
 	 Avoid Notice: Избежать Обнаружения
 	 Hide: Спрятаться
 	 Sneak: Красться
-Stride: перемещение (длинное, как правило больше 5 футов, провоцирует AoO)
 striking rune: разящая руна
-Step: шаг (короткий, НЕ провоцирует AoO)
 spell: заклинание
 	spell attack rolls: атака заклинанием
 	spell slots: слоты заклинаний
@@ -214,7 +218,6 @@ trait: признак / особенность
 		auditory: слуховой
 		move: движение
 		manipulate: воздействие
-Treat Wounds: лечение ран
 Tremorsense: виброчувствительность
 
 unarmored: без брони
