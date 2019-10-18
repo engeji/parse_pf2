@@ -20,7 +20,7 @@ Pathfinder 2 Core Rulebook
    playing_the_game
    game_mastering
    crafting_and_treasure
-   conditions_appendix
+   appendix_conditions
 
 
 

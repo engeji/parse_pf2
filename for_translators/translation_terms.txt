@@ -5,18 +5,28 @@ Ability: характеристика
 	ability boost: повышение характеристики
 	ability modifier: модификатор характеристики
 activity: активность
+actions:
+	Cast a Spell: Использовать Заклинание
+	Aid: Помощь
+	Delay: Выждать
+	Ready: Приготовиться
+	Seek: Поиск
+	Maneuver in Flight: Маневрирование в полете
+	Arrest a Fall: Остановить Падение
+	Request: Просьба
+	Take Cover: Укрыться
+	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO)
+	Step: Шаг (короткий, НЕ провоцирует AoO)
+	Escape: Вырваться
+	Force Open: Открыть Силой
+	Treat Wounds: лечение Ран
 Affliction: недуг
-agile (weapon): быстрое (TODO уточнить)
-Aid: Помощь
 alignment: мировоззрение
 Align Armament: (TODO перевод)
 ancestry: родословная
-arcane: мистический
-Arrest a Fall: Остановить Падение
 atone ritual: ритуал искупления
 attack roll: атака
 Attack of Opportunity: Возможность для Атаки
-auditory: слуховой
 area: область
 	area of effect: область действия (эффекта)
 
@@ -27,7 +37,6 @@ Broken Threshold: Предел Поломки
 Bulk (вес): Часть
 
 cantrip: чары
-Cast a Spell (activity/action): Использовать Заклинание
 circumstance bonus: бонус обстоятельств / бонус за обстоятельства
 Channel Smite: Направить силу
 Channeled Succor: Направленная Помощь
@@ -37,26 +46,26 @@ condition: состояние
 	Broken: Сломано
 	Clumsy: Неуклюжесть
 	Concealed: Скрыт
-	Confused: Растерянный
+	Confused: Замешательство
 	Controlled: Под контролем
 	Dazzled: Ослеплен (не так страшно как Слепой; вы плохо видите)
-	Deafened: Оглушен
+	Deafened: Глухота
 	Doomed: Обречен
-	Drained: Опустошен
+	Drained: Истощен
 	Dying: При смерти
 	Encumbered: Перегружен
 	Enfeebled: Ослаблен
 	Fascinated: Заворожен
 	Fatigued: Утомление
-	Flat-Footed: Застан врасплох
+	Flat-Footed: Застигнут врасплох
 	Fleeing: Бегство
 	Friendly: Дружественный
-	Frightened: Запуган
+	Frightened: Напуган
 	Grabbed: Схвачен
 	Helpful: Любезный
 	Hidden: Спрятанный
 	Hostile: Враждебный
-	Immobilized: Неподвижный
+	Immobilized: Обездвижен
 	Indifferent: Безразличный
 	Invisible: Невидимый
 	Observed: На виду / Замечен
@@ -146,25 +155,21 @@ magic school: школа магии
 	Transmutation: превращение
 Magic Missile: Волшебная стрела
 Maker of Miracles: Чудотворец
-Maneuver in Flight: Маневрирование в полете
 martial: воинский
 meld into stone: слияние с камнем
 mental: ментальный
 mindless: неразумный
 minion: миньон
 move action: перемещение
-move trait: признак "движение"
 multiple attack penalty: штраф множественных атак / штраф за множественные атаки
 
 negative: негативное
 negligible: незначительный
 
-occult: оккультный
 Outer Sphere: Внешняя Сфера
 
 persistent damage: продолжительный урон
 potency rune +1/2/3: руна мощи +1/2/3
-primal: природный
 proficiency bonus: бонус мастерства
 propulsive: тяговое
 
@@ -172,11 +177,10 @@ range: дистанция
 	range increment: шаг дистанции
 reach: досягаемость
 remove disease: вылечить болезнь
-Recall Knowledge: Вспомнить Изученное (TODO уточнить)
+Recall Knowledge: Вспомнить Изученное (TODO перевод)
 Refocus: Сфокусироваться
 
 saving throw: испытание
-Seek: Поиск
 shoddy: низкокачественный
 slashing damage: режущие повреждения
 Stonewalker: Каменотес
@@ -185,10 +189,7 @@ Stealth: скрытность
 	 Avoid Notice: Избежать Обнаружения
 	 Hide: Спрятаться
 	 Sneak: Красться
-Stride: перемещение (длинное, как правило больше 5 футов, провоцирует AoO)
 striking rune: разящая руна
-Step: шаг (короткий, НЕ провоцирует AoO)
-stun / stuned: ошеломление / ошеломлен
 spell: заклинание
 	spell attack rolls: атака заклинанием
 	spell slots: слоты заклинаний
@@ -199,19 +200,28 @@ spell component: компонент заклинания
 	verbal: словесный
 	focus: 
 spellcasting: колдовство / произнесение заклинания
-	spellcasting ability modifier: модификатор характеристики колдовства (TODO уточнить)
+	spellcasting ability modifier: модификатор характеристики колдовства (TODO перевод)
+	tradition: обычай
+		arcane: мистический
+		divine: сакральный
+		occult: оккультный
+		primal: природный
 Subordinate Actions: Вспомогательные Действия
 Sudden Charge: Внезапное нападение
 
 Taldane: Талдэйн (всеобщий язык)
 Toughness: Живучесть
-tradition (spell): обычай
 trait: признак / особенность
-Treat Wounds: лечение ран
+	оружие:
+		agile: быстрое
+	остальные:
+		auditory: слуховой
+		move: движение
+		manipulate: воздействие
 Tremorsense: виброчувствительность
 
 unarmored: без брони
 
-wield smth.: использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
+wield (что-либо): использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
 willing: готовый / готовность
 weapon's critical specialization effect: критический эффект специализации оружия
