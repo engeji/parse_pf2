@@ -20,6 +20,7 @@ actions:
 	Escape: Вырваться
 	Force Open: Открыть Силой
 	Treat Wounds: лечение Ран
+	Coerce: Принуждение
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
@@ -111,6 +112,7 @@ feat: способность
 	general feat: общая способность
 	skill feat: способность навыка
 	cleric feat: способность жреца
+	Untrained Improvisation: Импровизация без тренировки
 fiends: бесы (демоны, дьяволы, ...)
 Flat check: Чистая проверка
 Flat-Footed: застан врасплох, застигнут врасплох
@@ -194,6 +196,7 @@ spell: заклинание
 	spell attack rolls: атака заклинанием
 	spell slots: слоты заклинаний
 	spells heightening: усиление заклинаний
+	signature spell: коронное заклинание (у спонтанных колдунов)
 spell component: компонент заклинания
 	material: материальный
 	somatic: жестовый
