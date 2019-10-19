@@ -99,9 +99,9 @@ Air Bubble (con): React to create air for a creature to breathe.
 
 Alarm H (abj): Be alerted if a creature enters a warded area.
 
-Bane (enc): Weaken enemies’ attacks in an aura around you.
+Проклятие (очар.): Ослабляете атаки врагов в ауре вокруг вас.
 
-Bless (enc): Strengthen allies’ attacks in an aura around you.
+Благословение (очар.): Усиливаете атаки союзников в ауре вокруг вас.
 
 Command H (enc): Bid a creature to approach, run, release something, lie prone, or stand up.
 
@@ -111,17 +111,17 @@ Create Water (con): Conjure 2 gallons of water.
 
 Detect Poison U, H (div): Determine whether an object or creature is poisonous or venomous.
 
-Disrupting Weapons H (nec): Weapons deal positive damage to undead.
+Разрушающее оружие (Disrupting Weapons) :sup:`У` (некр.): Оружие наносит позитивный урон нежити.
 
 Fear H (enc): Frighten a creature, possibly making it flee.
 
 Harm H (nec): Negative energy harms the living or heals the undead, either a single creature or all in a burst.
 
-Heal H (nec): Positive energy heals the living or harms the undead, either a single creature or all in a burst.
+Исцеление (Heal) :sup:`У` (некр.): Позитивная энергия исцеляет живых и ранит нежить, как одно существо, так и всех в области.
 
 Lock H (abj): Make a lock hard to open.
 
-Magic Weapon (tra): Make a weapon temporarily magical.
+Волшебное оружие (Magic Weapon) (превр.): Сделайте оружие временно магическим.
 
 Mending H (tra): Repair one non-magical item.
 
@@ -133,13 +133,13 @@ Ray of Enfeeblement (nec): Sap a creature's strength.
 
 Sanctuary (abj): Protect a creature from being attacked.
 
-Spirit Link H (nec): Continually transfer your health to someone else.
+Духовная связь (Spirit Link) :sup:`У` (некр.): Непрерывно передаете ваше здоровье кому-то другому.
 
 Ventriloquism H (ill): Throw your voice.
 
 
-Divine 2st-Level Spells
-""""""""""""""""""""""""
+Сакральные заклинания 2-го ур.
+"""""""""""""""""""""""""""""""""""
 
 Augury (div): Predict whether a course of action brings good fortune.
 
@@ -177,7 +177,7 @@ Remove Paralysis H (nec): Free a creature from paralysis.
 
 Resist Energy H (abj): Protect a creature from one type of energy damage.
 
-Restoration H (nec): Reduce a condition or lessen a toxin.
+Восстановление (Restoration) :sup:`У` (некр.): Понизьте состояние или ослабьте токсин.
 
 Restore Senses H (nec): Remove a blinding or deafening effect.
 
@@ -191,7 +191,7 @@ Sound Burst H (evo): Damage and deafen creatures with a powerful din.
 
 Spiritual Weapon H (evo): Materialize a deific weapon of force that appears and attacks repeatedly.
 
-Status H (div): Keep track of a willing creature’s location and well-being.
+Status H (div): Keep track of a willing creature's location and well-being.
 
 Undetectable Alignment U (abj): Make a creature or object appear neutral to alignment detection.
 
@@ -200,8 +200,41 @@ Water Breathing H (tra): Allow creatures to breathe underwater.
 Water Walk H (tra): Buoy a creature so it can walk on water.
 
 
-Divine 3st-Level Spells
-""""""""""""""""""""""""
+Сакральные заклинания 3-го ур.
+"""""""""""""""""""""""""""""""""""
+
+Bind Undead (nec): Take control of a mindless undead.
+
+Blindness (nec): Strike a target blind.
+
+Chilling Darkness H (evo): Ray of evil darkness deals cold damage, counteracts light, and harms celestials.
+
+Circle of Protection U, H (abj): A creature emits an aura that protects those within against an alignment.
+
+Crisis of Faith H (enc): Cause mental damage and possibly make a worshipper unable to cast spells.
+
+Dream MessageH (enc): Send a message that arrives in a dream.
+
+Glyph of Warding (abj): Store a spell in a symbol to make a trap.
+
+Heroism H (enc): Stoke a creature's inner heroism to make it more competent.
+
+Locate U, H (div): Learn the direction to an object.
+
+Neutralize Poison (nec): Cure a poison afflicting a creature.
+
+Remove Disease (nec): Cure a disease afflicting a creature.
+
+Sanctified Ground (abj): Create a 24-hour area of protection against aberrations, celestials, dragons, fiends, or undead.
+
+Searing Light H (evo): A ray of burning light deals extra damage to undead and counteracts darkness.
+
+Vampiric Touch H (nec): Deal negative damage and gain temporary HP with a touch.
+
+Wanderer’s Guide (div): Find an ideal route to a location.
+
+Zone of Truth U (enc): Compel creatures to tell the truth.
+
 
 Divine 4st-Level Spells
 """"""""""""""""""""""""
