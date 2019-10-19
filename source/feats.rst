@@ -99,12 +99,6 @@ U
 
 - общий
 
-You’ve learned how to handle situations when you’re out of
-your depth. Your proficiency bonus to untrained skill checks
-is equal to half your level instead of +0. If you’re 7th level
-or higher, the bonus increases to your full level instead. This
-doesn’t allow you to use the skill’s trained actions.
-
 Вы научились справляться с ситуациями которые вам не по зубам.
 Для проверок навыков, в которых вы нетренированны, бонус мастерства равняется половине вашего уровня вместо +0.
 Если вы 7-го уровня или больше, бонус увеличивается до значения вашего уровня.
