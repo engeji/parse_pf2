@@ -21,6 +21,7 @@ actions:
 	Force Open: Открыть Силой
 	Treat Wounds: лечение Ран
 	Coerce: Принуждение
+	Dismiss (о заклинании или эффекте): Развеять
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
