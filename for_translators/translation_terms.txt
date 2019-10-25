@@ -6,6 +6,8 @@ Ability: характеристика
 	ability modifier: модификатор характеристики
 activity: активность
 actions:
+	Interact: Взаимодействовать
+	Strike: Удар
 	Cast a Spell: Использовать Заклинание
 	Aid: Помощь
 	Delay: Выждать
@@ -19,9 +21,14 @@ actions:
 	Step: Шаг (короткий, НЕ провоцирует AoO)
 	Escape: Вырваться
 	Force Open: Открыть Силой
-	Treat Wounds: лечение Ран
 	Coerce: Принуждение
 	Dismiss (о заклинании или эффекте): Развеять
+	High Jump: Высокий Прыжок
+	Sustain a Spell: Поддержать Заклинание
+	Sudden Charge: Внезапное нападение
+	Fly: Лететь
+	Climb: Карабкаться
+	Grab an Edge: Схватиться за Уступ
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
@@ -32,6 +39,7 @@ Attack of Opportunity: Возможность для Атаки
 area: область
 	area of effect: область действия (эффекта)
 
+Basic Action: основное действие
 basic saving throw: простое испытание (важен только успех/провал/криты, если не сказано другое в эффекте)
 bless: благословение
 bludgeoning: дробящий
@@ -92,8 +100,6 @@ darkvision: ночное зрение
 	Greater Darkvision: Сильное ночное зрение
 DC / difficulty class: класс сложности
 Deadly Simplicity: Убийственная Простота
-Deception: Обман
-	Create a Diversion: Отвлечь Внимание
 Decipher Writing: Расшифровка Писаний (писаний?)
 demon: демон
 detection: обнаружение
@@ -108,12 +114,14 @@ duration: продолжительность
 
 Emblazon Armament: Освящение Оружия (TODO перевод)
 encounter: столкновение
+Experience Points: Очки Опыта
 
 feat: способность
 	general feat: общая способность
 	skill feat: способность навыка
 	cleric feat: способность жреца
 	Untrained Improvisation: Импровизация без тренировки
+	Toughness: Живучесть
 fiends: бесы (демоны, дьяволы, ...)
 Flat check: Чистая проверка
 Flat-Footed: застан врасплох, застигнут врасплох
@@ -134,6 +142,7 @@ heritage: наследственность
 hit point: очко здоровья
 
 immunity: иммунитет
+initiative order: порядок инициативы
 intelligent (о существе): разумный
 Interact: Взаимодействовать
 Intimidate: Запугивание
@@ -185,13 +194,21 @@ Refocus: Сфокусироваться
 
 saving throw: испытание
 shoddy: низкокачественный
+Skill: Навык
+	Deception: Обман
+		Create a Diversion: Отвлечь Внимание
+		Lie: Солгать
+	Stealth: скрытность
+		Avoid Notice: Избежать Обнаружения
+		Hide: Спрятаться
+		Sneak: Красться
+	Medicine: Медицина
+		Treat Wounds: лечение Ран
+	Thievery: Воровство
+		Conceal the Object: Скрыть Объект
 slashing damage: режущие повреждения
 Stonewalker: Каменотес
 status bonus: бонус состояния
-Stealth: скрытность
-	 Avoid Notice: Избежать Обнаружения
-	 Hide: Спрятаться
-	 Sneak: Красться
 striking rune: разящая руна
 spell: заклинание
 	spell attack rolls: атака заклинанием
@@ -211,21 +228,22 @@ spellcasting: колдовство / произнесение заклинани
 		occult: оккультный
 		primal: природный
 Subordinate Actions: Вспомогательные Действия
-Sudden Charge: Внезапное нападение
 
 Taldane: Талдэйн (всеобщий язык)
-Toughness: Живучесть
 trait: признак / особенность
 	оружие:
 		agile: быстрое
 	остальные:
 		auditory: слуховой
+		visual: визуальный
 		move: движение
 		manipulate: воздействие
+		secret: тайна
+Trigger: Триггер
 Tremorsense: виброчувствительность
 
 unarmored: без брони
 
-wield (что-либо): использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
+wield (что-либо): экипировать; использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
 willing: готовый / готовность
 weapon's critical specialization effect: критический эффект специализации оружия
