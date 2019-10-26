@@ -208,6 +208,34 @@ div.section > p {
 
 
 /*
+	Изображения
+*/
+
+.rst-content div.figure > p.caption,
+.rst-content div.figure > div.legend {
+	background-color: #ede3c8;
+}
+
+.rst-content div.figure > p.caption {
+	color: #5e0000;
+	font-style: normal;
+	font-weight: bolder;
+	margin-bottom: 0;
+	padding: 1em 0 0.3em 3em;
+	/*text-indent: 1em;*/
+	text-transform: uppercase;
+}
+
+.rst-content div.figure > div.legend {
+	padding: 0 1.5em 0.5em 0.3em;
+}
+
+.rst-content div.figure > div.legend p {
+	margin: 0;
+}
+
+
+/*
 	Описание
 	Если надо по жесткому назначить какому-то разделу стиль описания
 */
