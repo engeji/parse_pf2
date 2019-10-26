@@ -27,8 +27,8 @@ actions:
 	Sustain a Spell: Поддержать Заклинание
 	Sudden Charge: Внезапное нападение
 	Fly: Лететь
-	Climb: Карабкаться
 	Grab an Edge: Схватиться за Уступ
+	Crawl: Ползти
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
@@ -104,7 +104,7 @@ Decipher Writing: Расшифровка Писаний (писаний?)
 demon: демон
 detection: обнаружение
 devil: дьявол
-difficult terrain: сложно-проходимая поверхность
+difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
 	divine font: божественная сила
@@ -195,6 +195,12 @@ Refocus: Сфокусироваться
 saving throw: испытание
 shoddy: низкокачественный
 Skill: Навык
+	Acrobatics: Акробатика
+		Balance: Балансировать
+		Tumble Through: Проскочить
+	Athletics: Атлетика
+		Climb: Карабкаться
+		Shove: Толкнуть
 	Deception: Обман
 		Create a Diversion: Отвлечь Внимание
 		Lie: Солгать
@@ -233,6 +239,7 @@ Taldane: Талдэйн (всеобщий язык)
 trait: признак / особенность
 	оружие:
 		agile: быстрое
+		reach: досягаемость
 	остальные:
 		auditory: слуховой
 		visual: визуальный
