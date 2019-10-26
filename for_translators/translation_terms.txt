@@ -29,6 +29,7 @@ actions:
 	Fly: Лететь
 	Grab an Edge: Схватиться за Уступ
 	Crawl: Ползти
+	Mount: Оседлать
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
@@ -122,6 +123,7 @@ feat: способность
 	cleric feat: способность жреца
 	Untrained Improvisation: Импровизация без тренировки
 	Toughness: Живучесть
+	Ride: Езда верхом
 fiends: бесы (демоны, дьяволы, ...)
 Flat check: Чистая проверка
 Flat-Footed: застан врасплох, застигнут врасплох
