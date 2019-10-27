@@ -58,7 +58,7 @@ h5, .h5 {
 
 .wy-nav-content {
 	background-color: #efede9;
-	max-width: 95%;
+	max-width: 100%;
 }
 
 .rst-content ul.simple,
@@ -109,7 +109,7 @@ div.section > p {
 }
 
 .rst-content div.sidebar > p {
-	margin-bottom: 0.3em;
+	margin-bottom: 0.2em;
 	text-indent: 1em;
 }
 
@@ -149,6 +149,7 @@ div.section > p {
 	color: #5e0000;
 	margin-bottom: 0;
 	text-indent: initial;
+	line-height: 1.4em;
 }
 
 .rst-content div.sidebar-char-ancestry-class p.rubric {
@@ -235,10 +236,122 @@ div.section > p {
 }
 
 
+
+/*
+	Вступление: родословные, классы
+*/
+
+
+.container-intro-anc-class {
+}
+
+.container-intro-anc-class .intro-anc {
+	width: 145px;
+	height: 660px;
+	display: inline-block;
+	vertical-align: top;
+	padding: 6px;
+}
+
+.container-intro-anc-class .intro-anc img {
+	margin-bottom: 1em;
+}
+
+.container-intro-anc-class .intro-anc > p {
+	font-size: 0.85em;
+	font-weight: 100;
+	line-height: 1.2em;
+	margin-bottom: 1em;
+}
+
+.ability-boost {
+	display: block;
+	color: green;
+	font-weight: bolder;
+}
+
+.ability-flaw {
+	display: block;
+	color: red;
+	font-weight: bolder;
+}
+
+
+
+.container-intro-anc-class .intro-class {
+	width: 212px;
+	height: 560px;
+	display: inline-block;
+	vertical-align: top;
+	padding: 6px;
+}
+
+.container-intro-anc-class .intro-class img {
+	margin-bottom: 1em;
+}
+
+.container-intro-anc-class .intro-class > p {
+	font-size: 0.85em;
+	font-weight: 100;
+	line-height: 1.2em;
+	margin-bottom: 1em;
+}
+
+.ability-key {
+	display: block;
+	color: green;
+	font-weight: bolder;
+}
+
+.ability-sec {
+	display: block;
+	color: navy;
+	font-weight: bolder;
+}
+
+
+
+/*
+	admonitions
+*/
+
+div.admonition {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	width: 66%;
+}
+
+div.admonition p {
+	margin-bottom: 0.2em;
+	line-height: 1.4em;
+}
+
+div.admonition.tip {
+	background-color: #d1d3d4;
+}
+
+div.admonition.tip p.admonition-title {
+	background-color: #002664;
+}
+
+
+div.admonition.intro-anc p.admonition-title {
+	font-weight: bolder;
+	font-size: initial;
+	background-color: #5e0000;
+}
+
+div.admonition.intro-class p.admonition-title {
+	font-weight: bolder;
+	font-size: initial;
+	background-color: #002664;
+}
+
 /*
 	Описание
 	Если надо по жесткому назначить какому-то разделу стиль описания
 */
+
 div.description.section {
 	margin-top: 1.2em;
 }
@@ -326,6 +439,7 @@ div.game-mode h2 {
 }
 
 /* as h2*/
+div.char-creation-step h3,
 div.ancestry h3,
 div.languages h3,
 div.char-class h3,
@@ -345,6 +459,7 @@ div.game-mode h3 {
 }
 
 /* as h3*/
+div.char-creation-step h4,
 div.ancestry h4,
 div.char-class h4,
 div.animal-companions h4,
@@ -363,6 +478,7 @@ div.game-mode h4 {
 }
 
 /* as h4*/
+div.char-creation-step h5,
 div.ancestry h5, 
 div.char-class h5,
 div.animal-companions h5,
