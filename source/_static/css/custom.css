@@ -58,7 +58,7 @@ h5, .h5 {
 
 .wy-nav-content {
 	background-color: #efede9;
-	max-width: 95%;
+	max-width: 100%;
 }
 
 .rst-content ul.simple,
@@ -149,6 +149,7 @@ div.section > p {
 	color: #5e0000;
 	margin-bottom: 0;
 	text-indent: initial;
+	line-height: 1.4em;
 }
 
 .rst-content div.sidebar-char-ancestry-class p.rubric {
@@ -245,7 +246,7 @@ div.section > p {
 }
 
 .container-intro-anc-class .intro-anc {
-	width: 141px;
+	width: 145px;
 	height: 660px;
 	display: inline-block;
 	vertical-align: top;
@@ -308,6 +309,43 @@ div.section > p {
 	font-weight: bolder;
 }
 
+
+
+/*
+	admonitions
+*/
+
+div.admonition {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	width: 66%;
+}
+
+div.admonition p {
+	margin-bottom: 0.2em;
+	line-height: 1.4em;
+}
+
+div.admonition.tip {
+	background-color: #d1d3d4;
+}
+
+div.admonition.tip p.admonition-title {
+	background-color: #002664;
+}
+
+
+div.admonition.intro-anc p.admonition-title {
+	font-weight: bolder;
+	font-size: initial;
+	background-color: #5e0000;
+}
+
+div.admonition.intro-class p.admonition-title {
+	font-weight: bolder;
+	font-size: initial;
+	background-color: #002664;
+}
 
 /*
 	Описание
