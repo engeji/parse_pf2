@@ -30,6 +30,7 @@ actions:
 	Grab an Edge: Схватиться за Уступ
 	Crawl: Ползти
 	Mount: Оседлать
+	Sense the Motive: Понять Намерение
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
@@ -128,6 +129,7 @@ Experience Points: Очки Опыта
 feat: способность
 	general feat: общая способность
 	skill feat: способность навыка
+	multiclass dedication feat: способность посвященности мультикласса
 	cleric feat: способность жреца
 	Untrained Improvisation: Импровизация без тренировки
 	Toughness: Живучесть
@@ -267,3 +269,6 @@ unarmored: без брони
 wield (что-либо): экипировать; использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
 willing: готовый / готовность
 weapon's critical specialization effect: критический эффект специализации оружия
+weapons:
+	falchion: фальшион
+	greataxe: двуручный топор
