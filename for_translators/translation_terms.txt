@@ -209,6 +209,8 @@ Skill: Навык
 	Deception: Обман
 		Create a Diversion: Отвлечь Внимание
 		Lie: Солгать
+	Intimidation: Запугивание
+		 Intimidating Prowess: Мастерство Запугивания
 	Stealth: скрытность
 		Avoid Notice: Избежать Обнаружения
 		Hide: Спрятаться
@@ -218,6 +220,7 @@ Skill: Навык
 	Thievery: Воровство
 		Conceal the Object: Скрыть Объект
 slashing damage: режущие повреждения
+statistics: показатели
 Stonewalker: Каменотес
 status bonus: бонус состояния
 striking rune: разящая руна
