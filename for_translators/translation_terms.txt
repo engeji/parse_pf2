@@ -220,7 +220,7 @@ Skill: Навык
 	Thievery: Воровство
 		Conceal the Object: Скрыть Объект
 slashing damage: режущие повреждения
-statistics: показатели
+statistic: показатель
 Stonewalker: Каменотес
 status bonus: бонус состояния
 striking rune: разящая руна
