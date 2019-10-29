@@ -31,6 +31,8 @@ actions:
 	Crawl: Ползти
 	Mount: Оседлать
 	Sense the Motive: Понять Намерение
+	Identify Magic: Определить Магию
+	Decipher Writing: Расшифровка Писаний
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
@@ -110,7 +112,6 @@ darkvision: ночное зрение
 	Greater Darkvision: Сильное ночное зрение
 DC / difficulty class: класс сложности
 Deadly Simplicity: Убийственная Простота
-Decipher Writing: Расшифровка Писаний (писаний?)
 demon: демон
 detection: обнаружение
 devil: дьявол
@@ -159,6 +160,15 @@ intelligent (о существе): разумный
 Interact: Взаимодействовать
 Intimidate: Запугивание
 
+Languages: языки
+	Elven: Эльфийский
+	Celestial: Небесный
+	Draconic: Драконий
+	Gnoll: гнолльский
+	Gnomish: Гномий
+	Goblin: Гоблинский
+	Orcish: Орочий
+	Sylvan: Сильван
 Leap: прыжок
 lesser cover: небольшое укрытие
 light: свет
