@@ -25,7 +25,6 @@ actions:
 	Dismiss (о заклинании или эффекте): Развеять
 	High Jump: Высокий Прыжок
 	Sustain a Spell: Поддержать Заклинание
-	Sudden Charge: Внезапное нападение
 	Fly: Лететь
 	Grab an Edge: Схватиться за Уступ
 	Crawl: Ползти
@@ -204,6 +203,7 @@ Outer Sphere: Внешняя Сфера
 
 persistent damage: продолжительный урон
 potency rune +1/2/3: руна мощи +1/2/3
+prerequisites: предварительные условия
 proficiency bonus: бонус мастерства
 propulsive: тяговое
 
@@ -265,13 +265,20 @@ trait: признак / особенность
 	оружие:
 		agile: быстрое
 		reach: досягаемость
+		volley: залповое
+		trip: подсечка
+		two-hand: двуручное
+		sweep: размах
+		parry: парирование
 	остальные:
 		auditory: слуховой
 		visual: визуальный
 		move: движение
 		manipulate: воздействие
 		secret: тайна
-Trigger: Триггер
+		emotion: эмоция
+		trip: подсечка
+Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 
 unarmored: без брони

@@ -202,7 +202,12 @@ div.section > p {
 }
 
 .rst-content table.docutils td {
-	padding: 0.5em;
+	padding: 0.3em 0.5em;
+}
+
+.rst-content table.docutils td div.line-block {
+	line-height: 1.4em;
+	margin-bottom: 0;
 }
 
 
