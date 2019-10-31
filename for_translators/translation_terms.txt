@@ -203,6 +203,7 @@ Outer Sphere: Внешняя Сфера
 
 persistent damage: продолжительный урон
 potency rune +1/2/3: руна мощи +1/2/3
+prerequisites: предварительные условия
 proficiency bonus: бонус мастерства
 propulsive: тяговое
 
@@ -266,6 +267,9 @@ trait: признак / особенность
 		reach: досягаемость
 		volley: залповое
 		trip: подсечка
+		two-hand: двуручное
+		sweep: размах
+		parry: парирование
 	остальные:
 		auditory: слуховой
 		visual: визуальный
@@ -274,7 +278,7 @@ trait: признак / особенность
 		secret: тайна
 		emotion: эмоция
 		trip: подсечка
-Trigger: Триггер
+Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 
 unarmored: без брони
