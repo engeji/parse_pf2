@@ -265,12 +265,15 @@ trait: признак / особенность
 		agile: быстрое
 		reach: досягаемость
 		volley: залповое
+		trip: подсечка
 	остальные:
 		auditory: слуховой
 		visual: визуальный
 		move: движение
 		manipulate: воздействие
 		secret: тайна
+		emotion: эмоция
+		trip: подсечка
 Trigger: Триггер
 Tremorsense: виброчувствительность
 
