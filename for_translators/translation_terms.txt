@@ -289,3 +289,4 @@ weapon's critical specialization effect: критический эффект с�
 weapons:
 	falchion: фальшион
 	greataxe: двуручный топор
+	Main-gauche: мэн-гош (дага)
