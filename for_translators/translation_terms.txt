@@ -227,6 +227,9 @@ Skill: Навык
 	Deception: Обман
 		Create a Diversion: Отвлечь Внимание
 		Lie: Солгать
+	Diplomacy: Дипломатия
+		Make an Impression: Произвести Впечатление
+		Request: Просьба
 	Intimidation: Запугивание
 		 Intimidating Prowess: Мастерство Запугивания
 	Stealth: скрытность
@@ -289,6 +292,11 @@ unarmored: без брони
 
 wield (что-либо): экипировать; использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
 willing: готовый / готовность
+weather:
+	cold: холод
+		severe: сильный
+		extreme: экстремальный
+	heat: жара
 weapon's critical specialization effect: критический эффект специализации оружия
 weapons:
 	falchion: фальшион
