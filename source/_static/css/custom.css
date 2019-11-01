@@ -352,6 +352,30 @@ div.admonition.intro-class p.admonition-title {
 	background-color: #002664;
 }
 
+
+/*
+	versionchanged, versionadded
+*/
+
+div.versionchanged {
+	color: darkred;
+}
+
+div.versionadded {
+	color: navy;
+}
+
+div.versionchanged p,
+div.versionadded p {
+	margin-bottom: 0.2em;
+}
+
+div.versionchanged span.versionmodified,
+div.versionadded span.versionmodified {
+	font-weight: bolder;
+}
+
+
 /*
 	Описание
 	Если надо по жесткому назначить какому-то разделу стиль описания
