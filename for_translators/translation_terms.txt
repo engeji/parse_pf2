@@ -36,6 +36,7 @@ Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
 ancestry: родословная
+animal companion: животное компаньон
 atone ritual: ритуал искупления
 attack roll: атака
 Attack of Opportunity: Возможность для Атаки
@@ -234,6 +235,9 @@ Skill: Навык
 		Sneak: Красться
 	Medicine: Медицина
 		Treat Wounds: лечение Ран
+	Survival: Выживание
+		Cover Tracks: Заметать Следы
+		Track: Выслеживать
 	Thievery: Воровство
 		Conceal the Object: Скрыть Объект
 slashing damage: режущие повреждения
