@@ -245,12 +245,15 @@ Skill: Навык
 	Intimidation: Запугивание
 		Coerce: Принуждение
 		Intimidating Prowess: Мастерство Запугивания
+	Society: Общество
+		Create Forgery: Создать подделку
 	Stealth: скрытность
 		Avoid Notice: Избежать Обнаружения
 		Hide: Спрятаться
 		Sneak: Красться
 	Medicine: Медицина
 		Treat Wounds: Лечение Ран
+		Treat Disease: Лечение Болезни
 	Nature: Природа
 		Command an Animal: Приказать Животному
 	Survival: Выживание
