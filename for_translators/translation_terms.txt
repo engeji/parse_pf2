@@ -101,6 +101,10 @@ condition: состояние
 	Unfriendly: Недружественный
 	Unnoticed: Незамеченный
 	Wounded: Ранен
+Creature: существо
+	animal: животное
+	beast: чудовище
+	
 Currency: Деньги
 	pp: пм / платиновая монета
 	gp: зм / золотая монета
@@ -157,8 +161,6 @@ hit point: очко здоровья
 immunity: иммунитет
 initiative order: порядок инициативы
 intelligent (о существе): разумный
-Interact: Взаимодействовать
-Intimidate: Запугивание
 
 Languages: языки
 	Elven: Эльфийский
@@ -224,6 +226,10 @@ Skill: Навык
 	Athletics: Атлетика
 		Climb: Карабкаться
 		Shove: Толкнуть
+	Crafting: Ремесло
+		Craft: Создать
+		formula: рецепт
+			common: обычный
 	Deception: Обман
 		Create a Diversion: Отвлечь Внимание
 		Lie: Солгать
@@ -238,6 +244,8 @@ Skill: Навык
 		Sneak: Красться
 	Medicine: Медицина
 		Treat Wounds: лечение Ран
+	Nature: Природа
+		Command an Animal: Приказать Животному
 	Survival: Выживание
 		Cover Tracks: Заметать Следы
 		Track: Выслеживать
