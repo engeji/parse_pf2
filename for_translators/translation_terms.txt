@@ -21,7 +21,6 @@ actions:
 	Step: Шаг (короткий, НЕ провоцирует AoO)
 	Escape: Вырваться
 	Force Open: Открыть Силой
-	Coerce: Принуждение
 	Dismiss (о заклинании или эффекте): Развеять
 	High Jump: Высокий Прыжок
 	Sustain a Spell: Поддержать Заклинание
@@ -139,6 +138,10 @@ feat: способность
 	Untrained Improvisation: Импровизация без тренировки
 	Toughness: Живучесть
 	Ride: Езда верхом
+	Expeditious Search: Оперативный Поиск
+	Stealth:
+		Swift Sneak: Быстро Красться
+		Legendary Sneak: Легендарно Красться
 fiends: бесы (демоны, дьяволы, ...)
 Flat check: Чистая проверка
 Flat-Footed: застан врасплох, застигнут врасплох
@@ -161,6 +164,7 @@ hit point: очко здоровья
 immunity: иммунитет
 initiative order: порядок инициативы
 intelligent (о существе): разумный
+invest: одевать (invest an item, invest a magic item)
 
 Languages: языки
 	Elven: Эльфийский
@@ -228,27 +232,34 @@ Skill: Навык
 		Shove: Толкнуть
 	Crafting: Ремесло
 		Craft: Создать
+		Repair: Ремонт
 		formula: рецепт
 			common: обычный
 	Deception: Обман
 		Create a Diversion: Отвлечь Внимание
 		Lie: Солгать
+		Impersonate: Перевоплотиться
 	Diplomacy: Дипломатия
 		Make an Impression: Произвести Впечатление
 		Request: Просьба
 	Intimidation: Запугивание
-		 Intimidating Prowess: Мастерство Запугивания
+		Coerce: Принуждение
+		Intimidating Prowess: Мастерство Запугивания
+	Society: Общество
+		Create Forgery: Создать подделку
 	Stealth: скрытность
 		Avoid Notice: Избежать Обнаружения
 		Hide: Спрятаться
 		Sneak: Красться
 	Medicine: Медицина
-		Treat Wounds: лечение Ран
+		Treat Wounds: Лечение Ран
+		Treat Disease: Лечение Болезни
 	Nature: Природа
 		Command an Animal: Приказать Животному
 	Survival: Выживание
 		Cover Tracks: Заметать Следы
 		Track: Выслеживать
+		Sense Direction: Понять Направление
 	Thievery: Воровство
 		Conceal the Object: Скрыть Объект
 slashing damage: режущие повреждения
