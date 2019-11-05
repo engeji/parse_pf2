@@ -325,6 +325,7 @@ weather:
 	heat: жара
 weapon's critical specialization effect: критический эффект специализации оружия
 weapons:
+	club: дубинка
 	falchion: фальшион
 	greataxe: двуручный топор
 	Main-gauche: мэн-гош (дага)

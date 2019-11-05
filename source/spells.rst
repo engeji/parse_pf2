@@ -10,7 +10,7 @@
 
 
 Списки заклинаний
-------------------
+-----------------------------------------------------------------------------------------
 
 Эти списки включают заклинания и чары для каждого магического обычая (заклинания фокусировки описаны на страницах 386-407 TODO ссылка).
 Надстрочный символ "У" обозначает заклинания которые могут быть усилены.
@@ -18,48 +18,189 @@
 Аббревиатуры в скобках обозначают школы магии.
 
 
-Arcane Spells
-~~~~~~~~~~~~~~
+Мистические заклинания
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Arcane Cantrips
-""""""""""""""""
+Мистические чары
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Arcane 1st-Level Spells
-""""""""""""""""""""""""
+Acid Splash H (evo): Damage creatures with acid.
 
-Arcane 2st-Level Spells
-""""""""""""""""""""""""
+Ледяное прикосновение (Chill Touch) :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
-Arcane 3st-Level Spells
-""""""""""""""""""""""""
+Dancing Lights (evo): Create four floating lights you can move.
 
-Arcane 4st-Level Spells
-""""""""""""""""""""""""
+Ступор (Daze) :sup:`У` (зачар.): Повреждает разум существа и возможно оглушает его.
 
-Arcane 5st-Level Spells
-""""""""""""""""""""""""
+Обнаружение магии (Detect Magic) :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
 
-Arcane 6st-Level Spells
-""""""""""""""""""""""""
+Electric Arc H (evo): Zap one or two creatures with lightning.
 
-Arcane 7st-Level Spells
-""""""""""""""""""""""""
+Ghost Sound H (ill): Make false sounds.
 
-Arcane 8st-Level Spells
-""""""""""""""""""""""""
+Свет (Light) :sup:`У` (разр.): Заставьте объект светиться.
 
-Arcane 9st-Level Spells
-""""""""""""""""""""""""
+Mage Hand H (evo): Command a floating hand to move an object.
 
-Arcane 10st-Level Spells
-""""""""""""""""""""""""
+Сообщение (Message) :sup:`У` (иллюз.): Произнестие сообщение отдаленному существу, которое может ответить.
+
+Престидижитация (Prestidigitation) (разр.): Совершите легкий магический трюк.
+
+Produce Flame H (evo): Kindle small flames to attack close or at range.
+
+Ray of Frost H (evo): Damage a creature with cold.
+
+Определить ауру (Read Aura) :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
+
+Щит (Shield) :sup:`У` (прегр.): Щит из магической силы блокирует атаки и волшебные стрелы.
+
+Магический символ (Sigil) :sup:`У` (превр.): Оставляете магическую метку.
+
+Tanglefoot H (con): Conjure a vine to entangle a creature.
+
+Telekinetic Projectile H (evo): Fling an object at a creature.
+
+
+Мистические заклинания 1-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Air Bubble (con): React to create air for a creature to breathe.
+
+Alarm H (abj): Be alerted if a creature enters a warded area.
+
+Ant Haul (tra): Target can carry more.
+
+Burning Hands H (evo): A small cone of flame rushes from your hands.
+
+Charm H (enc): A humanoid becomes more friendly to you.
+
+Color Spray (ill): Swirling colors dazzle or stun creatures.
+
+Command H (enc): Bid a creature to approach, run, release something, lie prone, or stand up.
+
+Create Water (con): Conjure 2 gallons of water.
+
+Fear H (enc): Frighten a creature, possibly making it flee.
+
+Feather Fall (abj): React to slow a creature’s fall.
+
+Fleet Step (tra): Make your Speed much faster.
+
+Floating Disk (con): A disk of energy follows you, carrying objects.
+
+Goblin Pox (nec): Infect a creature with goblin pox.
+
+Grease (con): Coat a surface or object in slippery grease.
+
+Grim Tendrils H (nec): Creatures in a line take negative damage and bleed.
+
+Gust of Wind (evo): Wind blows out fires and knocks back objects and creatures.
+
+Hydraulic Push H (evo): Damage and push a creature with a blast of water.
+
+Illusory Disguise H (ill): Make yourself look like a different creature.
+
+Illusory Object H (ill): Form a convincing illusion of an object.
+
+Item Facade H (ill): Disguise an item to look perfect or shoddy.
+
+Jump H (tra): Make an impressive leap.
+
+Lock H (abj): Make a lock hard to open.
+
+Longstrider H (tra): Increase your Speed for an hour.
+
+Mage ArmorH (abj): Ward yourself with magical armor.
+
+Magic Aura U, H (ill): Change how an item’s magic appears to detecting spells.
+
+Magic Missile H (evo): Pelt creatures with unerring bolts of magical force.
+
+Волшебное оружие (Magic Weapon) (превр.): Сделайте оружие временно магическим.
+
+Mending H (tra): Repair one non-magical item.
+
+Negate Aroma H (abj): Suppress a creature’s scent.
+
+Pest Form H (tra): Turn into a nonthreatening animal.
+
+Ray of Enfeeblement (nec): Sap a creature’s strength.
+
+Shocking GraspH (evo): Zap a creature with electricity.
+
+Sleep H (enc): Cause creatures in a small area to fall asleep.
+
+Spider Sting (nec): Damage a creature and afflict it with spider venom.
+
+Summon Animal H (con): Conjure an animal to fight on your behalf.
+
+Summon Construct H (con): Conjure a construct to fight on your behalf.
+
+True Strike (div): Make your next attack especially accurate.
+
+Unseen Servant (con): Create an invisible creature to help you.
+
+Ventriloquism H (ill): Throw your voice.
+
+
+
+Мистические заклинания 2-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Блестки (Glitterdust) (разр.): Сверкающая пыль прерывает невидимость и мешает зрению.
+
+< TODO >
+
+
+Мистические заклинания 3-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Земные оковы (Earthbind) (превр.): Опустите летающее существо на землю.
+
+< TODO >
+
+
+Мистические заклинания 4-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+Мистические заклинания 5-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+Мистические заклинания 5-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+Мистические заклинания 7-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+Мистические заклинания 8-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+Мистические заклинания 9-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+Мистические заклинания 10-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
 
 
 Сакральные заклинания
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Сакральные чары
-""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Ледяное прикосновение (Chill Touch) :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
@@ -93,15 +234,15 @@ Arcane 10st-Level Spells
 
 
 Сакральные заклинания 1-го ур.
-"""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Air Bubble (con): React to create air for a creature to breathe.
 
 Alarm H (abj): Be alerted if a creature enters a warded area.
 
-Проклятие (очар.): Ослабляете атаки врагов в ауре вокруг вас.
+Проклятие (Bane) (очар.): Ослабляете атаки врагов в ауре вокруг вас.
 
-Благословение (очар.): Усиливаете атаки союзников в ауре вокруг вас.
+Благословение (Bless) (очар.): Усиливаете атаки союзников в ауре вокруг вас.
 
 Command H (enc): Bid a creature to approach, run, release something, lie prone, or stand up.
 
@@ -139,7 +280,7 @@ Ventriloquism H (ill): Throw your voice.
 
 
 Сакральные заклинания 2-го ур.
-"""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Augury (div): Predict whether a course of action brings good fortune.
 
@@ -201,7 +342,7 @@ Water Walk H (tra): Buoy a creature so it can walk on water.
 
 
 Сакральные заклинания 3-го ур.
-"""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Bind Undead (nec): Take control of a mindless undead.
 
@@ -236,26 +377,42 @@ Wanderer’s Guide (div): Find an ideal route to a location.
 Zone of Truth U (enc): Compel creatures to tell the truth.
 
 
-Divine 4st-Level Spells
-""""""""""""""""""""""""
+Сакральные заклинания 4-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Divine 5st-Level Spells
-""""""""""""""""""""""""
+< TODO >
 
-Divine 6st-Level Spells
-""""""""""""""""""""""""
+Сакральные заклинания 5-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Divine 7st-Level Spells
-""""""""""""""""""""""""
+< TODO >
 
-Divine 8st-Level Spells
-""""""""""""""""""""""""
+Сакральные заклинания 6-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Divine 9st-Level Spells
-""""""""""""""""""""""""
+< TODO >
 
-Divine 10st-Level Spells
-""""""""""""""""""""""""
+Сакральные заклинания 7-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+Сакральные заклинания 8-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+Сакральные заклинания 9-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+Сакральные заклинания 10-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
 
 
 .. rst-class:: spells-descr
