@@ -118,6 +118,12 @@ darkvision: ночное зрение
 	Greater Darkvision: Сильное ночное зрение
 DC / difficulty class: класс сложности
 Deadly Simplicity: Убийственная Простота
+Deity: Божество
+	Irori: Ирори
+	Nethys: Нефис
+	Shelyn: Шелин
+	Desna: Дезна
+	Calistria: Калистрия
 demon: демон
 detection: обнаружение
 devil: дьявол
@@ -248,7 +254,9 @@ Skill: Навык
 		Request: Просьба
 	Intimidation: Запугивание
 		Coerce: Принуждение
+		Demoralize: Деморализовать
 		Intimidating Prowess: Мастерство Запугивания
+	Performance: Выступление
 	Society: Общество
 		Create Forgery: Создать подделку
 	Stealth: скрытность
@@ -327,6 +335,7 @@ weather:
 weapon's critical specialization effect: критический эффект специализации оружия
 weapons:
 	club: дубинка
+	sap: мягкая дубинка (как полицейская)
 	falchion: фальшион
 	greataxe: двуручный топор
 	Main-gauche: мэн-гош (дага)
