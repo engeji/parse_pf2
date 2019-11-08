@@ -247,6 +247,7 @@ Skill: Навык
 			common: обычный
 	Deception: Обман
 		Create a Diversion: Отвлечь Внимание
+		Feint: Ложный Выпад
 		Lie: Солгать
 		Impersonate: Перевоплотиться
 	Diplomacy: Дипломатия
