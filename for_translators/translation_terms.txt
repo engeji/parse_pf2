@@ -22,7 +22,6 @@ actions:
 	Escape: Вырваться
 	Force Open: Открыть Силой
 	Dismiss (о заклинании или эффекте): Развеять
-	High Jump: Высокий Прыжок
 	Sustain a Spell: Поддержать Заклинание
 	Fly: Лететь
 	Grab an Edge: Схватиться за Уступ
@@ -247,8 +246,8 @@ Skill: Навык
 		Grapple: Захват
 		Shove: Толкнуть
 		Trip: Опрокидывание
-		High Jump: Прыжка в Высоту
-		Long Jump: Прыжка в Длину
+		High Jump: Прыжок в Высоту
+		Long Jump: Прыжок в Длину
 	Crafting: Ремесло
 		Craft: Создать
 		Repair: Ремонт
