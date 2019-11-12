@@ -20,7 +20,6 @@ actions:
 	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO)
 	Step: Шаг (короткий, НЕ провоцирует AoO)
 	Escape: Вырваться
-	Force Open: Открыть Силой
 	Dismiss (о заклинании или эффекте): Развеять
 	Sustain a Spell: Поддержать Заклинание
 	Fly: Лететь
@@ -30,6 +29,7 @@ actions:
 	Sense the Motive: Понять Намерение
 	Identify Magic: Определить Магию
 	Decipher Writing: Расшифровка Писаний
+	Earn Income: Заработать деньги
 	Refocus: Сфокусироваться
 	Leap: Прыжок
 Affliction: недуг
@@ -177,7 +177,7 @@ invest: одевать (invest an item, invest a magic item)
 
 Languages: языки
 	Elven: Эльфийский
-	Celestial: Небесный
+	Celestial: Небесный (небожитель)
 	Draconic: Драконий
 	Gnoll: гнолльский
 	Gnomish: Гномий
@@ -238,16 +238,23 @@ rune: руна
 saving throw: испытание
 shoddy: низкокачественный
 Skill: Навык
+	Arcana: Мистика
+		Borrow an Arcane Spell: Одолжить мистическое заклинание
 	Acrobatics: Акробатика
 		Balance: Балансировать
 		Tumble Through: Проскочить
+		Maneuver in Flight: Маневрировать в полете
+		Squeeze: Протиснуться
 	Athletics: Атлетика
 		Climb: Карабкаться
+		Force Open: Открыть Силой
 		Grapple: Захват
-		Shove: Толкнуть
-		Trip: Опрокидывание
 		High Jump: Прыжок в Высоту
 		Long Jump: Прыжок в Длину
+		Shove: Толкнуть
+		Swim: Плавать
+		Trip: Опрокидывание
+		Disarm: Разоружить
 	Crafting: Ремесло
 		Craft: Создать
 		Repair: Ремонт
@@ -259,6 +266,7 @@ Skill: Навык
 		Lie: Солгать
 		Impersonate: Перевоплотиться
 	Diplomacy: Дипломатия
+		Gather Information: Собрать информацию
 		Make an Impression: Произвести Впечатление
 		Request: Просьба
 	Intimidation: Запугивание
@@ -266,15 +274,20 @@ Skill: Навык
 		Demoralize: Деморализовать
 		Intimidating Prowess: Мастерство Запугивания
 	Performance: Выступление
+		Perform: Выступать
 	Society: Общество
 		Create Forgery: Создать подделку
+		Subsist: Проживание
 	Stealth: скрытность
 		Avoid Notice: Избежать Обнаружения
+		Conceal an Object: Скрыть предмет
 		Hide: Спрятаться
 		Sneak: Красться
 	Medicine: Медицина
+		Administer First Aid: Первая Помощь
 		Treat Wounds: Лечение Ран
 		Treat Disease: Лечение Болезни
+		Treat Poison: Лечение от яда
 	Nature: Природа
 		Command an Animal: Приказать Животному
 	Survival: Выживание
@@ -282,7 +295,10 @@ Skill: Навык
 		Track: Выслеживать
 		Sense Direction: Понять Направление
 	Thievery: Воровство
-		Conceal the Object: Скрыть Объект
+		Palm an Object: Подсунуть предмет
+		Steal: Красть
+		Disable a Device: Отключить устройство
+		Pick a Lock: Вскрыть замок
 slashing damage: режущие повреждения
 statistic: показатель
 Stonewalker: Каменотес
