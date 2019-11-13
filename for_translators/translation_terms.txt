@@ -205,7 +205,6 @@ Magic Missile: Волшебная стрела
 Maker of Miracles: Чудотворец
 martial: воинский
 meld into stone: слияние с камнем
-mental: ментальный
 mindless: неразумный
 minion: миньон
 move action: перемещение
@@ -346,6 +345,7 @@ trait: признак / особенность
 		trip: опрокидывание
 		morph: трансформация
 		polymorph: полиморф
+		mental: ментальный
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 
