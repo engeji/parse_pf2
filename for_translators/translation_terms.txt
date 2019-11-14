@@ -55,6 +55,9 @@ Bulk (вес): Часть
 cantrip: чары
 cap: ограничение
 circumstance bonus: бонус обстоятельств / бонус за обстоятельства
+cities: города
+	Absalom: Абсалом
+	Magnimar: Магнимар
 Channel Smite: Направить силу
 Channeled Succor: Направленная Помощь
 champion's cause: побуждение/мотив чемпиона
@@ -125,6 +128,7 @@ Deity: Божество
 	Desna: Дезна
 	Calistria: Калистрия
 	Torag: Тораг
+	Iomedae: Иомедэй
 demon: демон
 detection: обнаружение
 devil: дьявол
@@ -189,7 +193,6 @@ light: свет
 	bright: яркий
 	dim: тусклый
 	darkness: темнота
-linguistic: языковой
 low‐light vision: сумеречное зрение
 
 magic school: школа магии
@@ -219,6 +222,10 @@ persistent damage: продолжительный урон
 prerequisites: предварительные условия
 proficiency bonus: бонус мастерства
 propulsive: тяговое
+plane: план
+	Abyss: Бездна
+	Astral: Астральный
+	Heaven: Небесный
 
 range: дистанция
 	range increment: шаг дистанции
@@ -336,8 +343,9 @@ trait: признак / особенность
 		sweep: размах
 		parry: парирование
 	остальные:
-		auditory: слуховой
 		visual: визуальный
+		auditory: слуховой
+		linguistic: языковой
 		move: движение
 		manipulate: воздействие
 		secret: тайна
