@@ -112,6 +112,9 @@ Creature: существо
 	fiends: бесы (демоны, дьяволы, ...)
 		devil: дьявол
 		demon: демон
+	ooze: слизь
+	aberration: аберрация
+	spirit: дух
 	
 Currency: Деньги
 	pp: пм / платиновая монета
@@ -229,6 +232,9 @@ plane: план
 	Heaven: Небесный
 	Elemental: Стихийный
 	Material: Материальный
+	Shadow: Теневой
+	Astral: Астральный
+	Ethereal: Эфемерный
 
 range: дистанция
 	range increment: шаг дистанции
