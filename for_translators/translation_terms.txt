@@ -227,6 +227,8 @@ plane: план
 	Abyss: Бездна
 	Astral: Астральный
 	Heaven: Небесный
+	Elemental: Стихийный
+	Material: Материальный
 
 range: дистанция
 	range increment: шаг дистанции
