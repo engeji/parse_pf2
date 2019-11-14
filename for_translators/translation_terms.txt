@@ -109,6 +109,9 @@ condition: состояние
 Creature: существо
 	animal: животное
 	beast: чудовище
+	fiends: бесы (демоны, дьяволы, ...)
+		devil: дьявол
+		demon: демон
 	
 Currency: Деньги
 	pp: пм / платиновая монета
@@ -129,9 +132,7 @@ Deity: Божество
 	Calistria: Калистрия
 	Torag: Тораг
 	Iomedae: Иомедэй
-demon: демон
 detection: обнаружение
-devil: дьявол
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
@@ -156,9 +157,7 @@ feat: способность
 	Stealth:
 		Swift Sneak: Быстро Красться
 		Legendary Sneak: Легендарно Красться
-fiends: бесы (демоны, дьяволы, ...)
 Flat check: Чистая проверка
-Flat-Footed: застан врасплох, застигнут врасплох
 fleeing: убегающий
 focus spell: заклинание фокусировки (TODO уточнить)
 Focus Point: Очко Фокусировки
@@ -178,6 +177,8 @@ immunity: иммунитет
 initiative order: порядок инициативы
 intelligent (о существе): разумный
 invest: одевать (invest an item, invest a magic item)
+items: предметы
+	healer's tools: набор лекаря
 
 Languages: языки
 	Elven: Эльфийский
