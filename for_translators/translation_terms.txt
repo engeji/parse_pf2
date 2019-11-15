@@ -220,13 +220,12 @@ multiple attack penalty: штраф множественных атак / штр
 negative: негативное
 negligible: незначительный
 
-Outer Sphere: Внешняя Сфера
-
 persistent damage: продолжительный урон
 prerequisites: предварительные условия
 proficiency bonus: бонус мастерства
 propulsive: тяговое
 plane: план
+	Outer Sphere: Внешняя Сфера
 	Abyss: Бездна
 	Astral: Астральный
 	Heaven: Небесный
