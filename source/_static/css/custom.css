@@ -16,7 +16,7 @@ h2, .h2 {
 	font-size: 150%;
 	font-weight: bold;
 	margin-bottom: 0.3em;
-	margin-top: 0;
+	margin-top: 2em;
 }
 
 h3, .h3 {
@@ -67,6 +67,11 @@ h5, .h5 {
 	margin-bottom: 0.1em;
 }
 
+.rst-content .section > .line-block {
+	border-left: 0.25em solid #cec1ac;
+	padding-left: 0.4em;
+}
+
 .rst-content div.admonition {
 	margin-bottom: 0.6em;
 }
@@ -80,7 +85,7 @@ h2 + blockquote.epigraph {
 
 h1 + blockquote.epigraph + hr.docutils,
 h2 + blockquote.epigraph + hr.docutils {
-	border-top: 1px solid #5e0000;
+	border-top: 1px solid;
 	margin: 0 0;
 	margin-bottom: 1em;
 }
@@ -485,7 +490,7 @@ div.game-mode h3 {
 	font-size: 150%;
 	font-weight: bold;
 	margin-bottom: 0.3em;
-	margin-top: 0;
+	margin-top: 2em;
 	text-transform: initial;
 }
 

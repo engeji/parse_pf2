@@ -20,7 +20,6 @@ actions:
 	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO)
 	Step: Шаг (короткий, НЕ провоцирует AoO)
 	Escape: Вырваться
-	Force Open: Открыть Силой
 	Dismiss (о заклинании или эффекте): Развеять
 	Sustain a Spell: Поддержать Заклинание
 	Fly: Лететь
@@ -30,6 +29,7 @@ actions:
 	Sense the Motive: Понять Намерение
 	Identify Magic: Определить Магию
 	Decipher Writing: Расшифровка Писаний
+	Earn Income: Заработать деньги
 	Refocus: Сфокусироваться
 	Leap: Прыжок
 Affliction: недуг
@@ -55,6 +55,9 @@ Bulk (вес): Часть
 cantrip: чары
 cap: ограничение
 circumstance bonus: бонус обстоятельств / бонус за обстоятельства
+cities: города
+	Absalom: Абсалом
+	Magnimar: Магнимар
 Channel Smite: Направить силу
 Channeled Succor: Направленная Помощь
 champion's cause: побуждение/мотив чемпиона
@@ -106,6 +109,12 @@ condition: состояние
 Creature: существо
 	animal: животное
 	beast: чудовище
+	fiends: бесы (демоны, дьяволы, ...)
+		devil: дьявол
+		demon: демон
+	ooze: слизь
+	aberration: аберрация
+	spirit: дух
 	
 Currency: Деньги
 	pp: пм / платиновая монета
@@ -125,9 +134,8 @@ Deity: Божество
 	Desna: Дезна
 	Calistria: Калистрия
 	Torag: Тораг
-demon: демон
+	Iomedae: Иомедэй
 detection: обнаружение
-devil: дьявол
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
@@ -152,9 +160,7 @@ feat: способность
 	Stealth:
 		Swift Sneak: Быстро Красться
 		Legendary Sneak: Легендарно Красться
-fiends: бесы (демоны, дьяволы, ...)
 Flat check: Чистая проверка
-Flat-Footed: застан врасплох, застигнут врасплох
 fleeing: убегающий
 focus spell: заклинание фокусировки (TODO уточнить)
 Focus Point: Очко Фокусировки
@@ -174,10 +180,12 @@ immunity: иммунитет
 initiative order: порядок инициативы
 intelligent (о существе): разумный
 invest: одевать (invest an item, invest a magic item)
+items: предметы
+	healer's tools: набор лекаря
 
 Languages: языки
 	Elven: Эльфийский
-	Celestial: Небесный
+	Celestial: Небесный (небожитель)
 	Draconic: Драконий
 	Gnoll: гнолльский
 	Gnomish: Гномий
@@ -189,7 +197,6 @@ light: свет
 	bright: яркий
 	dim: тусклый
 	darkness: темнота
-linguistic: языковой
 low‐light vision: сумеречное зрение
 
 magic school: школа магии
@@ -205,7 +212,6 @@ Magic Missile: Волшебная стрела
 Maker of Miracles: Чудотворец
 martial: воинский
 meld into stone: слияние с камнем
-mental: ментальный
 mindless: неразумный
 minion: миньон
 move action: перемещение
@@ -214,12 +220,20 @@ multiple attack penalty: штраф множественных атак / штр
 negative: негативное
 negligible: незначительный
 
-Outer Sphere: Внешняя Сфера
-
 persistent damage: продолжительный урон
 prerequisites: предварительные условия
 proficiency bonus: бонус мастерства
 propulsive: тяговое
+plane: план
+	Outer Sphere: Внешняя Сфера
+	Abyss: Бездна
+	Astral: Астральный
+	Heaven: Небесный
+	Elemental: Стихийный
+	Material: Материальный
+	Shadow: Теневой
+	Astral: Астральный
+	Ethereal: Эфемерный
 
 range: дистанция
 	range increment: шаг дистанции
@@ -238,16 +252,23 @@ rune: руна
 saving throw: испытание
 shoddy: низкокачественный
 Skill: Навык
+	Arcana: Мистика
+		Borrow an Arcane Spell: Одолжить мистическое заклинание
 	Acrobatics: Акробатика
 		Balance: Балансировать
 		Tumble Through: Проскочить
+		Maneuver in Flight: Маневрировать в полете
+		Squeeze: Протиснуться
 	Athletics: Атлетика
 		Climb: Карабкаться
+		Force Open: Открыть Силой
 		Grapple: Захват
-		Shove: Толкнуть
-		Trip: Опрокидывание
 		High Jump: Прыжок в Высоту
 		Long Jump: Прыжок в Длину
+		Shove: Толкнуть
+		Swim: Плавать
+		Trip: Опрокидывание
+		Disarm: Разоружить
 	Crafting: Ремесло
 		Craft: Создать
 		Repair: Ремонт
@@ -259,6 +280,7 @@ Skill: Навык
 		Lie: Солгать
 		Impersonate: Перевоплотиться
 	Diplomacy: Дипломатия
+		Gather Information: Собрать информацию
 		Make an Impression: Произвести Впечатление
 		Request: Просьба
 	Intimidation: Запугивание
@@ -266,15 +288,20 @@ Skill: Навык
 		Demoralize: Деморализовать
 		Intimidating Prowess: Мастерство Запугивания
 	Performance: Выступление
+		Perform: Выступать
 	Society: Общество
 		Create Forgery: Создать подделку
+		Subsist: Проживание
 	Stealth: скрытность
 		Avoid Notice: Избежать Обнаружения
+		Conceal an Object: Скрыть предмет
 		Hide: Спрятаться
 		Sneak: Красться
 	Medicine: Медицина
+		Administer First Aid: Первая Помощь
 		Treat Wounds: Лечение Ран
 		Treat Disease: Лечение Болезни
+		Treat Poison: Лечение от яда
 	Nature: Природа
 		Command an Animal: Приказать Животному
 	Survival: Выживание
@@ -282,7 +309,10 @@ Skill: Навык
 		Track: Выслеживать
 		Sense Direction: Понять Направление
 	Thievery: Воровство
-		Conceal the Object: Скрыть Объект
+		Palm an Object: Подсунуть предмет
+		Steal: Красть
+		Disable a Device: Отключить устройство
+		Pick a Lock: Вскрыть замок
 slashing damage: режущие повреждения
 statistic: показатель
 Stonewalker: Каменотес
@@ -321,8 +351,9 @@ trait: признак / особенность
 		sweep: размах
 		parry: парирование
 	остальные:
-		auditory: слуховой
 		visual: визуальный
+		auditory: слуховой
+		linguistic: языковой
 		move: движение
 		manipulate: воздействие
 		secret: тайна
@@ -330,6 +361,7 @@ trait: признак / особенность
 		trip: опрокидывание
 		morph: трансформация
 		polymorph: полиморф
+		mental: ментальный
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 
