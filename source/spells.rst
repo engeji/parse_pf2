@@ -26,47 +26,48 @@
 
 Acid Splash H (evo): Damage creatures with acid.
 
-Ледяное прикосновение (Chill Touch) :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
+:ref:`spell--c--chill-touch` :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
 Dancing Lights (evo): Create four floating lights you can move.
 
-Ступор (Daze) :sup:`У` (зачар.): Повреждает разум существа и возможно оглушает его.
+:ref:`spell--d--Daze` :sup:`У` (зачар.): Повреждает разум существа и возможно оглушает его.
 
-Обнаружение магии (Detect Magic) :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
+:ref:`spell--d--Detect-Magic` :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
 
 Electric Arc H (evo): Zap one or two creatures with lightning.
 
 Ghost Sound H (ill): Make false sounds.
 
-Свет (Light) :sup:`У` (разр.): Заставьте объект светиться.
+:ref:`spell--l--Light` :sup:`У` (разр.): Заставьте объект светиться.
 
 Mage Hand H (evo): Command a floating hand to move an object.
 
-Сообщение (Message) :sup:`У` (иллюз.): Произнестие сообщение отдаленному существу, которое может ответить.
+:ref:`spell--m--Message` :sup:`У` (иллюз.): Произнестие сообщение отдаленному существу, которое может ответить.
 
-Престидижитация (Prestidigitation) (разр.): Совершите легкий магический трюк.
+:ref:`spell--p--Prestidigitation` (разр.): Совершите легкий магический трюк.
 
 Produce Flame H (evo): Kindle small flames to attack close or at range.
 
 Ray of Frost H (evo): Damage a creature with cold.
 
-Определить ауру (Read Aura) :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
+:ref:`spell--r--Read-Aura` :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
 
-Щит (Shield) :sup:`У` (прегр.): Щит из магической силы блокирует атаки и волшебные стрелы.
+:ref:`spell--s--Shield` :sup:`У` (прегр.): Щит из магической силы блокирует атаки и волшебные стрелы.
 
-Магический символ (Sigil) :sup:`У` (превр.): Оставляете магическую метку.
+:ref:`spell--s--Sigil` :sup:`У` (превр.): Оставляете магическую метку.
 
 Tanglefoot H (con): Conjure a vine to entangle a creature.
 
 Telekinetic Projectile H (evo): Fling an object at a creature.
 
 
+
 Мистические заклинания 1-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Air Bubble (con): React to create air for a creature to breathe.
+:ref:`spell--a--air-bubble` (вопл.): Среагируйте, чтобы создать воздух для дыхания существа.
 
-Alarm H (abj): Be alerted if a creature enters a warded area.
+:ref:`spell--a--Alarm` :sup:`У` (прегр.): Будьте предупреждены, если существо входит в охраняемую зону.
 
 Ant Haul (tra): Target can carry more.
 
@@ -76,11 +77,11 @@ Charm H (enc): A humanoid becomes more friendly to you.
 
 Color Spray (ill): Swirling colors dazzle or stun creatures.
 
-Command H (enc): Bid a creature to approach, run, release something, lie prone, or stand up.
+:ref:`spell--c--Command` :sup:`У` (очар.): Прикажите существу приблизиться, убежать, отпустить что-нибудь, лечь ничком или встать.
 
-Create Water (con): Conjure 2 gallons of water.
+:ref:`spell--c--Create-Water` (вопл.): Создайте 2 галлона воды.
 
-Fear H (enc): Frighten a creature, possibly making it flee.
+:ref:`spell--f--Fear` :sup:`У` (очар.): Напугайте существо, возможно заставив его убегать.
 
 Feather Fall (abj): React to slow a creature’s fall.
 
@@ -106,7 +107,7 @@ Item Facade H (ill): Disguise an item to look perfect or shoddy.
 
 Jump H (tra): Make an impressive leap.
 
-Lock H (abj): Make a lock hard to open.
+:ref:`spell--l--Lock` :sup:`У` (прегр.): Сделайте замок трудно открываемым.
 
 Longstrider H (tra): Increase your Speed for an hour.
 
@@ -116,7 +117,7 @@ Magic Aura U, H (ill): Change how an item’s magic appears to detecting spells.
 
 Magic Missile H (evo): Pelt creatures with unerring bolts of magical force.
 
-Волшебное оружие (Magic Weapon) (превр.): Сделайте оружие временно магическим.
+:ref:`spell--m--Magic-Weapon` (превр.): Сделайте оружие временно магическим.
 
 Mending H (tra): Repair one non-magical item.
 
@@ -124,7 +125,7 @@ Negate Aroma H (abj): Suppress a creature’s scent.
 
 Pest Form H (tra): Turn into a nonthreatening animal.
 
-Ray of Enfeeblement (nec): Sap a creature’s strength.
+:ref:`spell--r--Ray-of-Enfeeblement` (некр.): Истощите силу существа.
 
 Shocking Grasp H (evo): Zap a creature with electricity.
 
@@ -140,7 +141,7 @@ True Strike (div): Make your next attack especially accurate.
 
 Unseen Servant (con): Create an invisible creature to help you.
 
-Ventriloquism H (ill): Throw your voice.
+:ref:`spell--v--Ventriloquism` :sup:`У` (иллюз.): Сделайте так, чтобы голос звучал со стороны.
 
 
 
@@ -152,12 +153,14 @@ Ventriloquism H (ill): Throw your voice.
 < TODO >
 
 
+
 Мистические заклинания 3-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Земные оковы (Earthbind) (превр.): Опустите летающее существо на землю.
 
 < TODO >
+
 
 
 Мистические заклинания 4-го ур.
@@ -196,87 +199,97 @@ Ventriloquism H (ill): Throw your voice.
 < TODO >
 
 
+
+
+
+
+
+
+
+
 Сакральные заклинания
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Сакральные чары
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Ледяное прикосновение (Chill Touch) :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
+:ref:`spell--c--chill-touch` :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
-Ступор (Daze) :sup:`У` (зачар.): Повреждает разум существа и возможно оглушает его.
+:ref:`spell--d--Daze` :sup:`У` (зачар.): Повреждает разум существа и возможно оглушает его.
 
-Обнаружение магии (Detect Magic) :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
+:ref:`spell--d--Detect-Magic` :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
 
-Разрушение нежити (Disrupt Undead) :sup:`У` (некр.): Наносит повреждение нежити позитивной энергией.
+:ref:`spell--d--Disrupt-Undead` :sup:`У` (некр.): Наносит повреждение нежити позитивной энергией.
 
-Божественное копье (Divine Lance) :sup:`У` (разр.): Бросьте божественную энергию, которая наносит ущерб, зависящий от мировоззрении вашего божества.
+:ref:`spell--d--Divine-Lance` :sup:`У` (разр.): Бросьте божественную энергию, которая наносит ущерб, зависящий от мировоззрении вашего божества.
 
-Защита союзника (Forbidding Ward) :sup:`У` (прегр.): Защищает союзника от конкретного врага.
+:ref:`spell--f--Forbidding-Ward` :sup:`У` (прегр.): Защищает союзника от конкретного врага.
 
-Наставление (Guidance) (прориц.): Божественное наставление помогает совершить одно действие.
+:ref:`spell--g--Guidance` (прориц.): Божественное наставление помогает совершить одно действие.
 
-Узнать направление (Know Direction) :sup:`У` (прориц.): Узнать где находится север.
+:ref:`spell--k--Know-Direction` :sup:`У` (прориц.): Узнать где находится север.
 
-Свет (Light) :sup:`У` (разр.): Заставьте объект светиться.
+:ref:`spell--l--Light` :sup:`У` (разр.): Заставьте объект светиться.
 
-Сообщение (Message) :sup:`У` (иллюз.): Произнестие сообщение отдаленному существу, которое может ответить.
+:ref:`spell--m--Message` :sup:`У` (иллюз.): Произнестие сообщение отдаленному существу, которое может ответить.
 
-Престидижитация (Prestidigitation) (разр.): Совершите легкий магический трюк.
+:ref:`spell--p--Prestidigitation` (разр.): Совершите легкий магический трюк.
 
-Определить ауру (Read Aura) :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
+:ref:`spell--r--Read-Aura` :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
 
-Щит (Shield) :sup:`У` (прегр.): Щит из магической силы блокирует атаки и волшебные стрелы.
+:ref:`spell--s--Shield` :sup:`У` (прегр.): Щит из магической силы блокирует атаки и волшебные стрелы.
 
-Магический символ (Sigil) :sup:`У` (превр.): Оставляете магическую метку.
+:ref:`spell--s--Sigil` :sup:`У` (превр.): Оставляете магическую метку.
 
-Стабилизировать (Stabilize) (некр.): Стабилизируете существо находящееся при смерти.
+:ref:`spell--s--Stabilize` (некр.): Стабилизируете существо находящееся при смерти.
+
 
 
 Сакральные заклинания 1-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Air Bubble (con): React to create air for a creature to breathe.
+:ref:`spell--a--Air-Bubble` (вопл.): Среагируйте, чтобы создать воздух для дыхания существа.
 
-Alarm H (abj): Be alerted if a creature enters a warded area.
+:ref:`spell--a--Alarm` :sup:`У` (прегр.): Будьте предупреждены, если существо входит в охраняемую зону.
 
-Проклятие (Bane) (очар.): Ослабляете атаки врагов в ауре вокруг вас.
+:ref:`spell--b--Bane` (очар.): Ослабляете атаки врагов в ауре вокруг вас.
 
-Благословение (Bless) (очар.): Усиливаете атаки союзников в ауре вокруг вас.
+:ref:`spell--b--Bless` (очар.): Усиливаете атаки союзников в ауре вокруг вас.
 
-Command H (enc): Bid a creature to approach, run, release something, lie prone, or stand up.
+:ref:`spell--c--Command` :sup:`У` (очар.): Прикажите существу приблизиться, убежать, отпустить что-нибудь, лечь ничком или встать.
 
-Create Water (con): Conjure 2 gallons of water.
+:ref:`spell--c--Create-Water` (вопл.): Создайте 2 галлона воды.
 
-Определить мировоззрение (Detect Alignment) :sup:`Н, У` (прориц.): Увидеть ауры выбранного мировоззрения.
+:ref:`spell--d--Detect-Alignment` :sup:`Н, У` (прориц.): Увидеть ауры выбранного мировоззрения.
 
-Detect Poison U, H (div): Determine whether an object or creature is poisonous or venomous.
+:ref:`spell--d--Detect-Poison` :sup:`Н, У` (прориц.): Определите, является ли объект или существо отравленным или ядовитым.
 
-Разрушающее оружие (Disrupting Weapons) :sup:`У` (некр.): Оружие наносит позитивный урон нежити.
+:ref:`spell--d--Disrupting-Weapons` :sup:`У` (некр.): Оружие наносит позитивный урон нежити.
 
-Fear H (enc): Frighten a creature, possibly making it flee.
+:ref:`spell--f--Fear` :sup:`У` (очар.): Напугайте существо, возможно заставив его убегать.
 
-Harm H (nec): Negative energy harms the living or heals the undead, either a single creature or all in a burst.
+:ref:`spell--h--Harm` H (nec): Negative energy harms the living or heals the undead, either a single creature or all in a burst.
 
-Исцеление (Heal) :sup:`У` (некр.): Позитивная энергия исцеляет живых и ранит нежить, как одно существо, так и всех в области.
+:ref:`spell--h--Heal` :sup:`У` (некр.): Позитивная энергия исцеляет живых и ранит нежить, как одно существо, так и всех в области.
 
-Lock H (abj): Make a lock hard to open.
+:ref:`spell--l--Lock` :sup:`У` (прегр.): Сделайте замок трудно открываемым.
 
-Волшебное оружие (Magic Weapon) (превр.): Сделайте оружие временно магическим.
+:ref:`spell--m--Magic-Weapon` (превр.): Сделайте оружие временно магическим.
 
-Mending H (tra): Repair one non-magical item.
+:ref:`spell--m--Mending` :sup:`У` (превр.): Почините один немагический объект.
 
-Protection U (abj): Shield a creature against those of a chosen alignment.
+:ref:`spell--p--Protection` :sup:`Н` (прегр.): Защитите существо от выбранного мировоззрения.
 
-Purify Food And Drink (nec): Make beverages and meals safe.
+:ref:`spell--p--Purify-Food-And-Drink` (некр.): Сделайте напитки и блюда безопасными.
 
-Ray of Enfeeblement (nec): Sap a creature's strength.
+:ref:`spell--r--Ray-of-Enfeeblement` (некр.): Истощите силу существа.
 
-Sanctuary (abj): Protect a creature from being attacked.
+:ref:`spell--s--Sanctuary` (прегр.): Не позвольте напасть на существо.
 
-Духовная связь (Spirit Link) :sup:`У` (некр.): Непрерывно передаете ваше здоровье кому-то другому.
+:ref:`spell--s--Spirit-Link` :sup:`У` (некр.): Непрерывно передаете ваше здоровье кому-то другому.
 
-Ventriloquism H (ill): Throw your voice.
+:ref:`spell--v--Ventriloquism` :sup:`У` (иллюз.): Сделайте так, чтобы голос звучал со стороны.
+
 
 
 Сакральные заклинания 2-го ур.
@@ -341,6 +354,7 @@ Water Breathing H (tra): Allow creatures to breathe underwater.
 Water Walk H (tra): Buoy a creature so it can walk on water.
 
 
+
 Сакральные заклинания 3-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
@@ -354,7 +368,7 @@ Circle of Protection U, H (abj): A creature emits an aura that protects those wi
 
 Crisis of Faith H (enc): Cause mental damage and possibly make a worshipper unable to cast spells.
 
-Dream MessageH (enc): Send a message that arrives in a dream.
+Dream Message H (enc): Send a message that arrives in a dream.
 
 Glyph of Warding (abj): Store a spell in a symbol to make a trap.
 
@@ -414,63 +428,73 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 
 
 
+
+
+
+
+
+
+
+
+
 Оккультные заклинания
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Оккультные чары
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Ледяное прикосновение (Chill Touch) :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
+:ref:`spell--c--chill-touch` :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
 Dancing Lights (evo): Create four floating lights you can move.
 
-Ступор (Daze) :sup:`У` (зачар.): Повреждает разум существа и возможно оглушает его.
+:ref:`spell--d--Daze` :sup:`У` (зачар.): Повреждает разум существа и возможно оглушает его.
 
-Обнаружение магии (Detect Magic) :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
+:ref:`spell--d--Detect-Magic` :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
 
-Защита союзника (Forbidding Ward) :sup:`У` (прегр.): Защищает союзника от конкретного врага.
+:ref:`spell--f--Forbidding-Ward` :sup:`У` (прегр.): Защищает союзника от конкретного врага.
 
 Ghost Sound H (ill): Make false sounds.
 
-Наставление (Guidance) (прориц.): Божественное наставление помогает совершить одно действие.
+:ref:`spell--g--Guidance` (прориц.): Божественное наставление помогает совершить одно действие.
 
-Узнать направление (Know Direction) :sup:`У` (прориц.): Узнать где находится север.
+:ref:`spell--k--Know-Direction` :sup:`У` (прориц.): Узнать где находится север.
 
-Свет (Light) :sup:`У` (разр.): Заставьте объект светиться.
+:ref:`spell--l--Light` :sup:`У` (разр.): Заставьте объект светиться.
 
 Mage Hand H (evo): Command a floating hand to move an object.
 
-Сообщение (Message) :sup:`У` (иллюз.): Произнестие сообщение отдаленному существу, которое может ответить.
+:ref:`spell--m--Message` :sup:`У` (иллюз.): Произнестие сообщение отдаленному существу, которое может ответить.
 
-Престидижитация (Prestidigitation) (разр.): Совершите легкий магический трюк.
+:ref:`spell--p--Prestidigitation` (разр.): Совершите легкий магический трюк.
 
-Определить ауру (Read Aura) :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
+:ref:`spell--r--Read-Aura` :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
 
-Щит (Shield) :sup:`У` (прегр.): Щит из магической силы блокирует атаки и волшебные стрелы.
+:ref:`spell--s--Shield` :sup:`У` (прегр.): Щит из магической силы блокирует атаки и волшебные стрелы.
 
-Магический символ (Sigil) :sup:`У` (превр.): Оставляете магическую метку.
+:ref:`spell--s--Sigil` :sup:`У` (превр.): Оставляете магическую метку.
 
 Telekinetic Projectile H (evo): Fling an object at a creature.
+
 
 
 Оккультные заклинания 1-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-AlarmH (abj): Be alerted if a creature enters a warded area.
+:ref:`spell--a--Alarm` :sup:`У` (прегр.): Будьте предупреждены, если существо входит в охраняемую зону.
 
-Проклятие (Bane) (очар.): Ослабляете атаки врагов в ауре вокруг вас.
+:ref:`spell--b--Bane` (очар.): Ослабляете атаки врагов в ауре вокруг вас.
 
-Благословение (Bless) (очар.): Усиливаете атаки союзников в ауре вокруг вас.
+:ref:`spell--b--Bless` (очар.): Усиливаете атаки союзников в ауре вокруг вас.
 
 Charm H (enc): A humanoid becomes more friendly to you.
 
 Color Spray (ill): Swirling colors dazzle or stun creatures.
 
-Command H (enc): Bid a creature to approach, run, release something, lie prone, or stand up.
+:ref:`spell--c--Command` :sup:`У` (очар.): Прикажите существу приблизиться, убежать, отпустить что-нибудь, лечь ничком или встать.
 
-Определить мировоззрение (Detect Alignment) :sup:`Н, У` (прориц.): Увидеть ауры выбранного мировоззрения.
+:ref:`spell--d--Detect-Alignment` :sup:`Н, У` (прориц.): Увидеть ауры выбранного мировоззрения.
 
-Fear H (enc): Frighten a creature, possibly making it flee.
+:ref:`spell--f--Fear` :sup:`У` (очар.): Напугайте существо, возможно заставив его убегать.
 
 Floating Disk (con): A disk of energy follows you, carrying objects.
 
@@ -482,7 +506,7 @@ Illusory Object H (ill): Form a convincing illusion of an object.
 
 Item Facade H (ill): Disguise an item to look perfect or shoddy.
 
-Lock H (abj): Make a lock hard to open.
+:ref:`spell--l--Lock` :sup:`У` (прегр.): Сделайте замок трудно открываемым.
 
 Mage Armor H (abj): Ward yourself with magical armor.
 
@@ -490,7 +514,7 @@ Magic Aura U, H (ill): Change how an item’s magic appears to detecting spells.
 
 Magic Missile H (evo): Pelt creatures with unerring bolts of magical force.
 
-Волшебное оружие (Magic Weapon) (превр.): Сделайте оружие временно магическим.
+:ref:`spell--m--Magic-Weapon` (превр.): Сделайте оружие временно магическим.
 
 Mending H (tra): Repair one non-magical item.
 
@@ -498,18 +522,17 @@ Mindlink (div): Mentally impart 10 minutes’ worth of information in an instant
 
 Phantom PainH (ill): Cause a creature ongoing pain that sickens it.
 
-Protection U (abj): Shield a creature against those of a chosen alignment.
+:ref:`spell--p--Protection` :sup:`Н` (прегр.): Защитите существо от выбранного мировоззрения.
 
-Ray of Enfeeblement (nec): Sap a 
-creature’s strength.
+:ref:`spell--r--Ray-of-Enfeeblement` (некр.): Истощите силу существа.
 
-Sanctuary (abj): Protect a creature from being attacked.
+:ref:`spell--s--Sanctuary` (прегр.): Не позвольте напасть на существо.
 
-SleepH (enc): Cause creatures in a small area to fall asleep.
+Sleep H (enc): Cause creatures in a small area to fall asleep.
 
 Soothe H (nec): Heal the target and bolster them against mental attacks.
 
-Spirit Link H (nec): Continually transfer your health to someone else.
+:ref:`spell--s--Spirit-Link` :sup:`У` (некр.): Непрерывно передаете ваше здоровье кому-то другому.
 
 Summon Fey H (con): Conjure a fey to fight on your behalf.
 
@@ -517,7 +540,14 @@ True Strike (div): Make your next attack especially accurate.
 
 Unseen Servant (con): Create an invisible creature to help you.
 
-Ventriloquism H (ill): Throw your voice.
+:ref:`spell--v--Ventriloquism` :sup:`У` (иллюз.): Сделайте так, чтобы голос звучал со стороны.
+
+
+
+
+
+
+
 
 
 
@@ -533,37 +563,40 @@ Acid Splash H (evo): Damage creatures with acid.
 
 Dancing Lights (evo): Create four floating lights you can move.
 
-Обнаружение магии (Detect Magic) :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
+:ref:`spell--d--Detect-Magic` :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
 
-Разрушение нежити (Disrupt Undead) :sup:`У` (некр.): Наносит повреждение нежити позитивной энергией.
+:ref:`spell--d--Disrupt-Undead` :sup:`У` (некр.): Наносит повреждение нежити позитивной энергией.
 
 Electric Arc H (evo): Zap one or two creatures with lightning.
 
-Наставление (Guidance) (прориц.): Божественное наставление помогает совершить одно действие.
+:ref:`spell--g--Guidance` (прориц.): Божественное наставление помогает совершить одно действие.
 
-Узнать направление (Know Direction) :sup:`У` (прориц.): Узнать где находится север.
+:ref:`spell--k--Know-Direction` :sup:`У` (прориц.): Узнать где находится север.
 
-Свет (Light) :sup:`У` (разр.): Заставьте объект светиться.
+:ref:`spell--l--Light` :sup:`У` (разр.): Заставьте объект светиться.
 
-Престидижитация (Prestidigitation) (разр.): Совершите легкий магический трюк.
+:ref:`spell--p--Prestidigitation` (разр.): Совершите легкий магический трюк.
 
 Produce Flame H (evo): Kindle small flames to attack close or at range.
 
 Ray of Frost H (evo): Damage a creature with cold.
 
-Определить ауру (Read Aura) :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
+:ref:`spell--r--Read-Aura` :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
 
-Магический символ (Sigil) :sup:`У` (превр.): Оставляете магическую метку.
+:ref:`spell--s--Sigil` :sup:`У` (превр.): Оставляете магическую метку.
+
+:ref:`spell--s--Stabilize` (некр.): Стабилизируете существо находящееся при смерти.
 
 Tanglefoot H (con): Conjure a vine to entangle a creature.
+
 
 
 Природные заклинания 1-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Air Bubble (con): React to create air for a creature to breathe.
+:ref:`spell--a--air-bubble` (вопл.): Среагируйте, чтобы создать воздух для дыхания существа.
 
-Alarm H (abj): Be alerted if a creature enters a warded area.
+:ref:`spell--a--Alarm` :sup:`У` (прегр.): Будьте предупреждены, если существо входит в охраняемую зону.
 
 Ant Haul (tra): Target can carry more.
 
@@ -571,11 +604,11 @@ Burning Hands H (evo): A small cone of flame rushes from your hands.
 
 Charm H (enc): A humanoid becomes more friendly to you.
 
-Create Water (con): Conjure 2 gallons of water.
+:ref:`spell--c--Create-Water` (вопл.): Создайте 2 галлона воды.
 
-Detect Poison U, H (div): Determine whether an object or creature is poisonous or venomous.
+:ref:`spell--d--Detect-Poison` :sup:`Н, У` (прориц.): Определите, является ли объект или существо отравленным или ядовитым.
 
-Fear H (enc): Frighten a creature, possibly making it flee.
+:ref:`spell--f--Fear` :sup:`У` (очар.): Напугайте существо, возможно заставив его убегать.
 
 Feather Fall (abj): React to slow a creature’s fall.
 
@@ -605,7 +638,7 @@ Pass without Trace H (abj): Make your tracks hard to find.
 
 Pest Form H (tra): Turn into a nonthreatening animal.
 
-Purify Food And Drink (nec): Make beverages and meals safe.
+:ref:`spell--p--Purify-Food-And-Drink` (некр.): Сделайте напитки и блюда безопасными.
 
 Shillelagh (tra): Make a club or staff temporarily magical, and deal more damage to unnatural creatures.
 
@@ -619,7 +652,7 @@ Summon Fey H (con): Conjure a fey to fight on your behalf.
 
 Summon Plants and Fungi H (con): Conjure a plant or fungus to fight on your behalf.
 
-Ventriloquism H (ill): Throw your voice.
+:ref:`spell--v--Ventriloquism` :sup:`У` (иллюз.): Сделайте так, чтобы голос звучал со стороны.
 
 
 
@@ -922,7 +955,78 @@ Ventriloquism H (ill): Throw your voice.
 Жрец
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+
+Благословение целителя (Healer's Blessing) / Фокус. 1 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+- :uncommon:`необычное`
+- некромантия
+- жрец
+
+**Домен**: исцеление
+
+**Использование**: |д-1| словесный
+
+**Дистанция**: 30 футов
+
+**Цели**: 1 готовое живое существо
+
+**Продолжительность**: 1 минута
+
+----------
+
+Ваши слова благословляют существо, усиливая связь с позитивной энергией.
+Когда цель получает Очки Здоровья от исцеляющего заклинания, она восстанавливает дополнительное 1 Очко Здоровья.
+
+Цель восстанавливает дополнительные Очки Здоровья при помощи *благословения целителя* только первый раз восстанавливая ОЗ от полученного заклинания, поэтому заклинание, которое исцеляет несколько раз в течение времени, восстанавливает дополнительные Очки Здоровья только один раз.
+
+----------
+
+**Усиление (+1)**: Дополнительное исцеление увеличивается на 2 ОЗ.
+
+
+
+Упрекнуть смерть (Rebuke Death) / Фокус. 4 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+- :uncommon:`необычное`
+- исцеление
+- некромантия
+- позитивное
+- жрец
+
+**Домен**: исцеление
+
+**Использование**: от |д-1| до |д-3| (жестовый)
+
+**Область**: 20-футовая эманация
+
+**Цели**: 1 живое существо за использованное при колдовстве действие
+
+----------
+
+Вы вырываете существ из пасти смерти.
+Вы можете потратить от 1 до 3 действий на Использование Заклинания, и можете выбрать количество целей, соответствующее количеству потраченных действий.
+Каждая цель восстанавливает 3d6 Очков Здоровья.
+Если цель была "при смерти", возвращение из него при помощи этого исцеления, не увеличивает ее состояние "ранен".
+
+----------
+
+**Усиление (+1)**: Увеличьте исцеление на 1d6.
+
+
+
+
+
+
 < TODO >
+
+
+
+
+
+
+
 
 
 
