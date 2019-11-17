@@ -28,7 +28,7 @@ Acid Splash H (evo): Damage creatures with acid.
 
 :ref:`spell--c--chill-touch` :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
-Dancing Lights (evo): Create four floating lights you can move.
+:ref:`spell--d--Dancing-Lights` (разр.): Создате четыре парящих огонька, которые вы можете перемещать.
 
 :ref:`spell--d--Daze` :sup:`У` (зачар.): Повреждает разум существа и возможно оглушает его.
 
@@ -36,7 +36,7 @@ Dancing Lights (evo): Create four floating lights you can move.
 
 Electric Arc H (evo): Zap one or two creatures with lightning.
 
-Ghost Sound H (ill): Make false sounds.
+:ref:`spell--g--Ghost-Sound` :sup:`У` (иллюз.): Издайте ложный звук.
 
 :ref:`spell--l--Light` :sup:`У` (разр.): Заставьте объект светиться.
 
@@ -58,7 +58,7 @@ Ray of Frost H (evo): Damage a creature with cold.
 
 Tanglefoot H (con): Conjure a vine to entangle a creature.
 
-Telekinetic Projectile H (evo): Fling an object at a creature.
+:ref:`spell--t--Telekinetic-Projectile` :sup:`У` (разр.): Швырните предмет в существо.
 
 
 
@@ -445,7 +445,7 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 
 :ref:`spell--c--chill-touch` :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
-Dancing Lights (evo): Create four floating lights you can move.
+:ref:`spell--d--Dancing-Lights` (разр.): Создате четыре парящих огонька, которые вы можете перемещать.
 
 :ref:`spell--d--Daze` :sup:`У` (зачар.): Повреждает разум существа и возможно оглушает его.
 
@@ -453,7 +453,7 @@ Dancing Lights (evo): Create four floating lights you can move.
 
 :ref:`spell--f--Forbidding-Ward` :sup:`У` (прегр.): Защищает союзника от конкретного врага.
 
-Ghost Sound H (ill): Make false sounds.
+:ref:`spell--g--Ghost-Sound` :sup:`У` (иллюз.): Создайте иллюзорный звук.
 
 :ref:`spell--g--Guidance` (прориц.): Божественное наставление помогает совершить одно действие.
 
@@ -461,7 +461,7 @@ Ghost Sound H (ill): Make false sounds.
 
 :ref:`spell--l--Light` :sup:`У` (разр.): Заставьте объект светиться.
 
-Mage Hand H (evo): Command a floating hand to move an object.
+:ref:`spell--m--Mage-Hand` :sup:`У` (разр.): Управляйте парящей рукой чтобы двигать объекты.
 
 :ref:`spell--m--Message` :sup:`У` (иллюз.): Произнестие сообщение отдаленному существу, которое может ответить.
 
@@ -473,7 +473,7 @@ Mage Hand H (evo): Command a floating hand to move an object.
 
 :ref:`spell--s--Sigil` :sup:`У` (превр.): Оставляете магическую метку.
 
-Telekinetic Projectile H (evo): Fling an object at a creature.
+:ref:`spell--t--Telekinetic-Projectile` :sup:`У` (разр.): Швырните предмет в существо.
 
 
 
@@ -520,7 +520,7 @@ Mending H (tra): Repair one non-magical item.
 
 Mindlink (div): Mentally impart 10 minutes’ worth of information in an instant.
 
-Phantom PainH (ill): Cause a creature ongoing pain that sickens it.
+Phantom Pain H (ill): Cause a creature ongoing pain that sickens it.
 
 :ref:`spell--p--Protection` :sup:`Н` (прегр.): Защитите существо от выбранного мировоззрения.
 
@@ -561,7 +561,7 @@ Unseen Servant (con): Create an invisible creature to help you.
 
 Acid Splash H (evo): Damage creatures with acid.
 
-Dancing Lights (evo): Create four floating lights you can move.
+:ref:`spell--d--Dancing-Lights` (разр.): Создате четыре парящих огонька, которые вы можете перемещать.
 
 :ref:`spell--d--Detect-Magic` :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
 
