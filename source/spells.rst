@@ -28,7 +28,7 @@ Acid Splash H (evo): Damage creatures with acid.
 
 :ref:`spell--c--chill-touch` :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
-Dancing Lights (evo): Create four floating lights you can move.
+:ref:`spell--d--Dancing-Lights` (разр.): Создате четыре парящих огонька, которые вы можете перемещать.
 
 :ref:`spell--d--Daze` :sup:`У` (зачар.): Повреждает разум существа и возможно оглушает его.
 
@@ -36,11 +36,11 @@ Dancing Lights (evo): Create four floating lights you can move.
 
 Electric Arc H (evo): Zap one or two creatures with lightning.
 
-Ghost Sound H (ill): Make false sounds.
+:ref:`spell--g--Ghost-Sound` :sup:`У` (иллюз.): Издайте ложный звук.
 
 :ref:`spell--l--Light` :sup:`У` (разр.): Заставьте объект светиться.
 
-Mage Hand H (evo): Command a floating hand to move an object.
+:ref:`spell--m--Mage-Hand` :sup:`У` (разр.): Управляйте парящей рукой чтобы двигать объекты.
 
 :ref:`spell--m--Message` :sup:`У` (иллюз.): Произнестие сообщение отдаленному существу, которое может ответить.
 
@@ -58,7 +58,7 @@ Ray of Frost H (evo): Damage a creature with cold.
 
 Tanglefoot H (con): Conjure a vine to entangle a creature.
 
-Telekinetic Projectile H (evo): Fling an object at a creature.
+:ref:`spell--t--Telekinetic-Projectile` :sup:`У` (разр.): Швырните предмет в существо.
 
 
 
@@ -73,9 +73,9 @@ Ant Haul (tra): Target can carry more.
 
 Burning Hands H (evo): A small cone of flame rushes from your hands.
 
-Charm H (enc): A humanoid becomes more friendly to you.
+:ref:`spell--c--Charm` :sup:`У` (очар.): Гуманоид становится более дружелюбным к вам.
 
-Color Spray (ill): Swirling colors dazzle or stun creatures.
+:ref:`spell--c--Color-Spray` (иллюз.): Цветной вихрь ослепляет или ошеломляет существ.
 
 :ref:`spell--c--Command` :sup:`У` (очар.): Прикажите существу приблизиться, убежать, отпустить что-нибудь, лечь ничком или встать.
 
@@ -87,23 +87,23 @@ Feather Fall (abj): React to slow a creature’s fall.
 
 Fleet Step (tra): Make your Speed much faster.
 
-Floating Disk (con): A disk of energy follows you, carrying objects.
+:ref:`spell--f--Floating-Disk` (вопл.): Диск из энергии следует за вами, перевозя предметы.
 
 Goblin Pox (nec): Infect a creature with goblin pox.
 
 Grease (con): Coat a surface or object in slippery grease.
 
-Grim Tendrils H (nec): Creatures in a line take negative damage and bleed.
+:ref:`spell--g--Grim-Tendrils` :sup:`У` (некр.): Существа в линии получают негативные повреждения и кровотечение.
 
 Gust of Wind (evo): Wind blows out fires and knocks back objects and creatures.
 
 Hydraulic Push H (evo): Damage and push a creature with a blast of water.
 
-Illusory Disguise H (ill): Make yourself look like a different creature.
+:ref:`spell--i--Illusory-Disguise` :sup:`У` (иллюз.): Сделай себя похожим на другое существо.
 
-Illusory Object H (ill): Form a convincing illusion of an object.
+:ref:`spell--i--Illusory-Object` :sup:`У` (иллюз.): Создайте убедительную иллюзию объекта.
 
-Item Facade H (ill): Disguise an item to look perfect or shoddy.
+:ref:`spell--i--Item-Facade` :sup:`У` (иллюз.): Замаскируйте объект, чтобы он выглядел иделаьно, или низкокачественно.
 
 Jump H (tra): Make an impressive leap.
 
@@ -111,15 +111,15 @@ Jump H (tra): Make an impressive leap.
 
 Longstrider H (tra): Increase your Speed for an hour.
 
-Mage Armor H (abj): Ward yourself with magical armor.
+:ref:`spell--m--Mage-Armor` :sup:`У` (прегр.): Защитете себя магическим доспехом.
 
-Magic Aura U, H (ill): Change how an item’s magic appears to detecting spells.
+:ref:`spell--m--Magic-Aura` :sup:`Н, У` (иллюз.): Измените облик ауры магического предмета для заклинаний обнаружения.
 
-Magic Missile H (evo): Pelt creatures with unerring bolts of magical force.
+:ref:`spell--m--Magic-Missile` :sup:`У` (разр.): Закидайте существ точными снарядами из магической силы.
 
 :ref:`spell--m--Magic-Weapon` (превр.): Сделайте оружие временно магическим.
 
-Mending H (tra): Repair one non-magical item.
+:ref:`spell--m--Mending` :sup:`У` (превр.): Почините один немагический предмет.
 
 Negate Aroma H (abj): Suppress a creature’s scent.
 
@@ -137,9 +137,9 @@ Summon Animal H (con): Conjure an animal to fight on your behalf.
 
 Summon Construct H (con): Conjure a construct to fight on your behalf.
 
-True Strike (div): Make your next attack especially accurate.
+:ref:`spell--t--True-Strike` (прориц.): Делает вашу следующую атаку особенно точной.
 
-Unseen Servant (con): Create an invisible creature to help you.
+:ref:`spell--u--Unseen-Servant` (вопл.): Создайте невидимое существо для помощи вам.
 
 :ref:`spell--v--Ventriloquism` :sup:`У` (иллюз.): Сделайте так, чтобы голос звучал со стороны.
 
@@ -445,7 +445,7 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 
 :ref:`spell--c--chill-touch` :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
-Dancing Lights (evo): Create four floating lights you can move.
+:ref:`spell--d--Dancing-Lights` (разр.): Создате четыре парящих огонька, которые вы можете перемещать.
 
 :ref:`spell--d--Daze` :sup:`У` (зачар.): Повреждает разум существа и возможно оглушает его.
 
@@ -453,7 +453,7 @@ Dancing Lights (evo): Create four floating lights you can move.
 
 :ref:`spell--f--Forbidding-Ward` :sup:`У` (прегр.): Защищает союзника от конкретного врага.
 
-Ghost Sound H (ill): Make false sounds.
+:ref:`spell--g--Ghost-Sound` :sup:`У` (иллюз.): Создайте иллюзорный звук.
 
 :ref:`spell--g--Guidance` (прориц.): Божественное наставление помогает совершить одно действие.
 
@@ -461,7 +461,7 @@ Ghost Sound H (ill): Make false sounds.
 
 :ref:`spell--l--Light` :sup:`У` (разр.): Заставьте объект светиться.
 
-Mage Hand H (evo): Command a floating hand to move an object.
+:ref:`spell--m--Mage-Hand` :sup:`У` (разр.): Управляйте парящей рукой чтобы двигать объекты.
 
 :ref:`spell--m--Message` :sup:`У` (иллюз.): Произнестие сообщение отдаленному существу, которое может ответить.
 
@@ -473,7 +473,7 @@ Mage Hand H (evo): Command a floating hand to move an object.
 
 :ref:`spell--s--Sigil` :sup:`У` (превр.): Оставляете магическую метку.
 
-Telekinetic Projectile H (evo): Fling an object at a creature.
+:ref:`spell--t--Telekinetic-Projectile` :sup:`У` (разр.): Швырните предмет в существо.
 
 
 
@@ -486,9 +486,9 @@ Telekinetic Projectile H (evo): Fling an object at a creature.
 
 :ref:`spell--b--Bless` (очар.): Усиливаете атаки союзников в ауре вокруг вас.
 
-Charm H (enc): A humanoid becomes more friendly to you.
+:ref:`spell--c--Charm` :sup:`У` (очар.): Гуманоид становится более дружелюбным к вам.
 
-Color Spray (ill): Swirling colors dazzle or stun creatures.
+:ref:`spell--c--Color-Spray` (иллюз.): Цветной вихрь ослепляет или ошеломляет существ.
 
 :ref:`spell--c--Command` :sup:`У` (очар.): Прикажите существу приблизиться, убежать, отпустить что-нибудь, лечь ничком или встать.
 
@@ -496,31 +496,31 @@ Color Spray (ill): Swirling colors dazzle or stun creatures.
 
 :ref:`spell--f--Fear` :sup:`У` (очар.): Напугайте существо, возможно заставив его убегать.
 
-Floating Disk (con): A disk of energy follows you, carrying objects.
+:ref:`spell--f--Floating-Disk` (вопл.): Диск из энергии следует за вами, перевозя предметы.
 
-Grim Tendrils H (nec): Creatures in a line take negative damage and bleed.
+:ref:`spell--g--Grim-Tendrils` :sup:`У` (некр.): Существа в линии получают негативные повреждения и кровотечение.
 
-Illusory Disguise H (ill): Make yourself look like a different creature.
+:ref:`spell--i--Illusory-Disguise` :sup:`У` (иллюз.): Сделай себя похожим на другое существо.
 
-Illusory Object H (ill): Form a convincing illusion of an object.
+:ref:`spell--i--Illusory-Object` :sup:`У` (иллюз.): Создайте убедительную иллюзию объекта.
 
-Item Facade H (ill): Disguise an item to look perfect or shoddy.
+:ref:`spell--i--Item-Facade` :sup:`У` (иллюз.): Замаскируйте объект, чтобы он выглядел иделаьно, или низкокачественно.
 
 :ref:`spell--l--Lock` :sup:`У` (прегр.): Сделайте замок трудно открываемым.
 
-Mage Armor H (abj): Ward yourself with magical armor.
+:ref:`spell--m--Mage-Armor` :sup:`У` (прегр.): Защитете себя магическим доспехом.
 
-Magic Aura U, H (ill): Change how an item’s magic appears to detecting spells.
+:ref:`spell--m--Magic-Aura` :sup:`Н, У` (иллюз.): Измените облик ауры магического предмета для заклинаний обнаружения.
 
-Magic Missile H (evo): Pelt creatures with unerring bolts of magical force.
+:ref:`spell--m--Magic-Missile` :sup:`У` (разр.): Закидайте существ точными снарядами из магической силы.
 
 :ref:`spell--m--Magic-Weapon` (превр.): Сделайте оружие временно магическим.
 
-Mending H (tra): Repair one non-magical item.
+:ref:`spell--m--Mending` :sup:`У` (превр.): Почините один немагический предмет.
 
-Mindlink (div): Mentally impart 10 minutes’ worth of information in an instant.
+:ref:`spell--m--Mindlink` (прориц.): Мысленно передайте объем информации на 10 минут за мгновение.
 
-Phantom PainH (ill): Cause a creature ongoing pain that sickens it.
+:ref:`spell--p--Phantom-Pain` :sup:`У` (иллюз.): Причините существу продолжительную боль, от которой оно заболевает.
 
 :ref:`spell--p--Protection` :sup:`Н` (прегр.): Защитите существо от выбранного мировоззрения.
 
@@ -528,20 +528,74 @@ Phantom PainH (ill): Cause a creature ongoing pain that sickens it.
 
 :ref:`spell--s--Sanctuary` (прегр.): Не позвольте напасть на существо.
 
-Sleep H (enc): Cause creatures in a small area to fall asleep.
+:ref:`spell--s--Sleep` :sup:`Н` (очар.): Заставьте существ в небольшой области заснуть.
 
-Soothe H (nec): Heal the target and bolster them against mental attacks.
+:ref:`spell--s--Soothe` :sup:`Н` (некр.): Исцелите цель и укрепите ее против ментальных атак.
 
 :ref:`spell--s--Spirit-Link` :sup:`У` (некр.): Непрерывно передаете ваше здоровье кому-то другому.
 
-Summon Fey H (con): Conjure a fey to fight on your behalf.
+:ref:`spell--s--Summon-Fey` :sup:`У` (вопл.): Призовите фею, которая сражает за вас.
 
-True Strike (div): Make your next attack especially accurate.
+:ref:`spell--t--True-Strike` (прориц.): Делает вашу следующую атаку особенно точной.
 
-Unseen Servant (con): Create an invisible creature to help you.
+:ref:`spell--u--Unseen-Servant` (вопл.): Создайте невидимое существо для помощи вам.
 
 :ref:`spell--v--Ventriloquism` :sup:`У` (иллюз.): Сделайте так, чтобы голос звучал со стороны.
 
+
+
+Оккультные заклинания 2-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Оккультные заклинания 3-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Оккультные заклинания 4-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Оккультные заклинания 5-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Оккультные заклинания 6-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Оккультные заклинания 7-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Оккультные заклинания 8-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Оккультные заклинания 9-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Оккультные заклинания 10-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
 
 
 
@@ -561,7 +615,7 @@ Unseen Servant (con): Create an invisible creature to help you.
 
 Acid Splash H (evo): Damage creatures with acid.
 
-Dancing Lights (evo): Create four floating lights you can move.
+:ref:`spell--d--Dancing-Lights` (разр.): Создате четыре парящих огонька, которые вы можете перемещать.
 
 :ref:`spell--d--Detect-Magic` :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
 
@@ -602,7 +656,7 @@ Ant Haul (tra): Target can carry more.
 
 Burning Hands H (evo): A small cone of flame rushes from your hands.
 
-Charm H (enc): A humanoid becomes more friendly to you.
+:ref:`spell--c--Charm` :sup:`У` (очар.): Гуманоид становится более дружелюбным к вам.
 
 :ref:`spell--c--Create-Water` (вопл.): Создайте 2 галлона воды.
 
@@ -630,7 +684,7 @@ Longstrider H (tra): Increase your Speed for an hour.
 
 Magic Fang (tra): Make a creature's unarmed attacks magical temporarily
 
-Mending H (tra): Repair one non-magical item.
+:ref:`spell--m--Mending` :sup:`У` (превр.): Почините один немагический предмет.
 
 Negate Aroma H (abj): Suppress a creature’s scent.
 
@@ -648,7 +702,7 @@ Spider Sting (nec): Damage a creature and afflict it with spider venom.
 
 Summon Animal H (con): Conjure an animal to fight on your behalf.
 
-Summon Fey H (con): Conjure a fey to fight on your behalf.
+:ref:`spell--s--Summon-Fey` :sup:`У` (вопл.): Призовите фею, которая сражает за вас.
 
 Summon Plants and Fungi H (con): Conjure a plant or fungus to fight on your behalf.
 
@@ -656,10 +710,59 @@ Summon Plants and Fungi H (con): Conjure a plant or fungus to fight on your beha
 
 
 
+Природные заклинания 2-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
 
 
+Природные заклинания 3-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO > 
+< TODO >
+
+
+Природные заклинания 4-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Природные заклинания 5-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Природные заклинания 6-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Природные заклинания 7-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Природные заклинания 8-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Природные заклинания 9-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
+
+Природные заклинания 10-го ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+< TODO >
+
 
 
 
