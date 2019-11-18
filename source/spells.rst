@@ -24,7 +24,7 @@
 Мистические чары
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Acid Splash H (evo): Damage creatures with acid.
+:ref:`spell--a--Acid-Splash` :sup:`У` (разр.): Наносите существам повреждения кислотой.
 
 :ref:`spell--c--chill-touch` :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
@@ -34,7 +34,7 @@ Acid Splash H (evo): Damage creatures with acid.
 
 :ref:`spell--d--Detect-Magic` :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
 
-Electric Arc H (evo): Zap one or two creatures with lightning.
+:ref:`spell--e--Electric-Arc` :sup:`У` (разр.): Ударьте молнией одного или двух существ.
 
 :ref:`spell--g--Ghost-Sound` :sup:`У` (иллюз.): Издайте ложный звук.
 
@@ -46,9 +46,9 @@ Electric Arc H (evo): Zap one or two creatures with lightning.
 
 :ref:`spell--p--Prestidigitation` (разр.): Совершите легкий магический трюк.
 
-Produce Flame H (evo): Kindle small flames to attack close or at range.
+:ref:`spell--p--Produce-Flame` :sup:`У` (разр.): Разожгите небольшое пламя, чтобы атаковать вблизи или на расстоянии.
 
-Ray of Frost H (evo): Damage a creature with cold.
+:ref:`spell--r--Ray-of-Frost` :sup:`У` (разр.): Нанесите существу повреждения холодом.
 
 :ref:`spell--r--Read-Aura` :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
 
@@ -56,7 +56,7 @@ Ray of Frost H (evo): Damage a creature with cold.
 
 :ref:`spell--s--Sigil` :sup:`У` (превр.): Оставляете магическую метку.
 
-Tanglefoot H (con): Conjure a vine to entangle a creature.
+:ref:`spell--t--Tanglefoot` :sup:`У` (вопл.): Создайте лозу, чтобы запутать существо.
 
 :ref:`spell--t--Telekinetic-Projectile` :sup:`У` (разр.): Швырните предмет в существо.
 
@@ -69,9 +69,9 @@ Tanglefoot H (con): Conjure a vine to entangle a creature.
 
 :ref:`spell--a--Alarm` :sup:`У` (прегр.): Будьте предупреждены, если существо входит в охраняемую зону.
 
-Ant Haul (tra): Target can carry more.
+:ref:`spell--a--Ant-Haul` (превр.): Цель может переносить больше веса.
 
-Burning Hands H (evo): A small cone of flame rushes from your hands.
+:ref:`spell--b--Burning-Hands` :sup:`У` (разр.): Небольшой конус пламени вырывается из ваших рук.
 
 :ref:`spell--c--Charm` :sup:`У` (очар.): Гуманоид становится более дружелюбным к вам.
 
@@ -129,7 +129,7 @@ Pest Form H (tra): Turn into a nonthreatening animal.
 
 Shocking Grasp H (evo): Zap a creature with electricity.
 
-Sleep H (enc): Cause creatures in a small area to fall asleep.
+:ref:`spell--s--Sleep` :sup:`Н` (очар.): Заставьте существ в небольшой области заснуть.
 
 Spider Sting (nec): Damage a creature and afflict it with spider venom.
 
@@ -613,7 +613,7 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 Природные чары
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Acid Splash H (evo): Damage creatures with acid.
+:ref:`spell--a--Acid-Splash` :sup:`У` (разр.): Наносите существам повреждения кислотой.
 
 :ref:`spell--d--Dancing-Lights` (разр.): Создате четыре парящих огонька, которые вы можете перемещать.
 
@@ -621,7 +621,7 @@ Acid Splash H (evo): Damage creatures with acid.
 
 :ref:`spell--d--Disrupt-Undead` :sup:`У` (некр.): Наносит повреждение нежити позитивной энергией.
 
-Electric Arc H (evo): Zap one or two creatures with lightning.
+:ref:`spell--e--Electric-Arc` :sup:`У` (разр.): Ударьте молнией одного или двух существ.
 
 :ref:`spell--g--Guidance` (прориц.): Божественное наставление помогает совершить одно действие.
 
@@ -631,9 +631,9 @@ Electric Arc H (evo): Zap one or two creatures with lightning.
 
 :ref:`spell--p--Prestidigitation` (разр.): Совершите легкий магический трюк.
 
-Produce Flame H (evo): Kindle small flames to attack close or at range.
+:ref:`spell--p--Produce-Flame` :sup:`У` (разр.): Разожгите небольшое пламя, чтобы атаковать вблизи или на расстоянии.
 
-Ray of Frost H (evo): Damage a creature with cold.
+:ref:`spell--r--Ray-of-Frost` :sup:`У` (разр.): Нанесите существу повреждения холодом.
 
 :ref:`spell--r--Read-Aura` :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
 
@@ -641,7 +641,7 @@ Ray of Frost H (evo): Damage a creature with cold.
 
 :ref:`spell--s--Stabilize` (некр.): Стабилизируете существо находящееся при смерти.
 
-Tanglefoot H (con): Conjure a vine to entangle a creature.
+:ref:`spell--t--Tanglefoot` :sup:`У` (вопл.): Создайте лозу, чтобы запутать существо.
 
 
 
@@ -652,7 +652,7 @@ Tanglefoot H (con): Conjure a vine to entangle a creature.
 
 :ref:`spell--a--Alarm` :sup:`У` (прегр.): Будьте предупреждены, если существо входит в охраняемую зону.
 
-Ant Haul (tra): Target can carry more.
+:ref:`spell--a--Ant-Haul` (превр.): Цель может переносить больше веса.
 
 Burning Hands H (evo): A small cone of flame rushes from your hands.
 
