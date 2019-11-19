@@ -167,6 +167,7 @@ Focus Point: Очко Фокусировки
 focus pool: запас очков фокусировки
 
 GM: Мастер
+Goblin Pox: Гоблинская оспа
 
 Hardness: Твердость
 harm (spell/font): нанесение ран
