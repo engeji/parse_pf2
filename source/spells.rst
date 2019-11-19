@@ -24,7 +24,7 @@
 Мистические чары
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Acid Splash H (evo): Damage creatures with acid.
+:ref:`spell--a--Acid-Splash` :sup:`У` (разр.): Наносите существам повреждения кислотой.
 
 :ref:`spell--c--chill-touch` :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
@@ -34,7 +34,7 @@ Acid Splash H (evo): Damage creatures with acid.
 
 :ref:`spell--d--Detect-Magic` :sup:`У` (прориц.): Почувствуйте, есть ли поблизости магия.
 
-Electric Arc H (evo): Zap one or two creatures with lightning.
+:ref:`spell--e--Electric-Arc` :sup:`У` (разр.): Ударьте молнией одного или двух существ.
 
 :ref:`spell--g--Ghost-Sound` :sup:`У` (иллюз.): Издайте ложный звук.
 
@@ -46,9 +46,9 @@ Electric Arc H (evo): Zap one or two creatures with lightning.
 
 :ref:`spell--p--Prestidigitation` (разр.): Совершите легкий магический трюк.
 
-Produce Flame H (evo): Kindle small flames to attack close or at range.
+:ref:`spell--p--Produce-Flame` :sup:`У` (разр.): Разожгите небольшое пламя, чтобы атаковать вблизи или на расстоянии.
 
-Ray of Frost H (evo): Damage a creature with cold.
+:ref:`spell--r--Ray-of-Frost` :sup:`У` (разр.): Нанесите существу повреждения холодом.
 
 :ref:`spell--r--Read-Aura` :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
 
@@ -56,7 +56,7 @@ Ray of Frost H (evo): Damage a creature with cold.
 
 :ref:`spell--s--Sigil` :sup:`У` (превр.): Оставляете магическую метку.
 
-Tanglefoot H (con): Conjure a vine to entangle a creature.
+:ref:`spell--t--Tanglefoot` :sup:`У` (вопл.): Создайте лозу, чтобы запутать существо.
 
 :ref:`spell--t--Telekinetic-Projectile` :sup:`У` (разр.): Швырните предмет в существо.
 
@@ -69,9 +69,9 @@ Tanglefoot H (con): Conjure a vine to entangle a creature.
 
 :ref:`spell--a--Alarm` :sup:`У` (прегр.): Будьте предупреждены, если существо входит в охраняемую зону.
 
-Ant Haul (tra): Target can carry more.
+:ref:`spell--a--Ant-Haul` (превр.): Цель может переносить больше веса.
 
-Burning Hands H (evo): A small cone of flame rushes from your hands.
+:ref:`spell--b--Burning-Hands` :sup:`У` (разр.): Небольшой конус пламени вырывается из ваших рук.
 
 :ref:`spell--c--Charm` :sup:`У` (очар.): Гуманоид становится более дружелюбным к вам.
 
@@ -83,21 +83,21 @@ Burning Hands H (evo): A small cone of flame rushes from your hands.
 
 :ref:`spell--f--Fear` :sup:`У` (очар.): Напугайте существо, возможно заставив его убегать.
 
-Feather Fall (abj): React to slow a creature’s fall.
+:ref:`spell--f--Feather-Fall` (прегр.): Среагируйте чтобы замедлить падение цели.
 
-Fleet Step (tra): Make your Speed much faster.
+:ref:`spell--f--Fleet-Step` (превр.): Значительно увеличьте вашу скорость.
 
 :ref:`spell--f--Floating-Disk` (вопл.): Диск из энергии следует за вами, перевозя предметы.
 
-Goblin Pox (nec): Infect a creature with goblin pox.
+:ref:`spell--g--Goblin-Pox` (некр.): Заразить существо гоблинской оспой.
 
-Grease (con): Coat a surface or object in slippery grease.
+:ref:`spell--g--Grease` (вопл.): Покрывает поверхность или объект скользким маслом.
 
 :ref:`spell--g--Grim-Tendrils` :sup:`У` (некр.): Существа в линии получают негативные повреждения и кровотечение.
 
-Gust of Wind (evo): Wind blows out fires and knocks back objects and creatures.
+:ref:`spell--g--Gust-of-Wind` (разр.): Ветер задувает огни и роняет существ и предметы.
 
-Hydraulic Push H (evo): Damage and push a creature with a blast of water.
+:ref:`spell--h--Hydraulic-Push` :sup:`У` (разр.): Нанесите повреждение и толкните существо ударом воды.
 
 :ref:`spell--i--Illusory-Disguise` :sup:`У` (иллюз.): Сделай себя похожим на другое существо.
 
@@ -105,11 +105,11 @@ Hydraulic Push H (evo): Damage and push a creature with a blast of water.
 
 :ref:`spell--i--Item-Facade` :sup:`У` (иллюз.): Замаскируйте объект, чтобы он выглядел иделаьно, или низкокачественно.
 
-Jump H (tra): Make an impressive leap.
+:ref:`spell--j--Jump` :sup:`У` (превр.): Сделайте впечатляющий прыжок.
 
 :ref:`spell--l--Lock` :sup:`У` (прегр.): Сделайте замок трудно открываемым.
 
-Longstrider H (tra): Increase your Speed for an hour.
+:ref:`spell--l--Longstrider` :sup:`У` (превр.): Увеличьте на час свою Скорость.
 
 :ref:`spell--m--Mage-Armor` :sup:`У` (прегр.): Защитете себя магическим доспехом.
 
@@ -121,21 +121,21 @@ Longstrider H (tra): Increase your Speed for an hour.
 
 :ref:`spell--m--Mending` :sup:`У` (превр.): Почините один немагический предмет.
 
-Negate Aroma H (abj): Suppress a creature’s scent.
+:ref:`spell--l--Negate-Aroma` :sup:`У` (прегр.): Подавите запах существа.
 
-Pest Form H (tra): Turn into a nonthreatening animal.
+:ref:`spell--p--Pest-Form` :sup:`У` (превр.): Превратитесь в неопасное животное.
 
 :ref:`spell--r--Ray-of-Enfeeblement` (некр.): Истощите силу существа.
 
-Shocking Grasp H (evo): Zap a creature with electricity.
+:ref:`spell--s--Shocking-Grasp` :sup:`У` (разр.): Ударьте током существо.
 
-Sleep H (enc): Cause creatures in a small area to fall asleep.
+:ref:`spell--s--Sleep` :sup:`Н` (очар.): Заставьте существ в небольшой области заснуть.
 
-Spider Sting (nec): Damage a creature and afflict it with spider venom.
+:ref:`spell--s--Spider-Sting` (некр.): Нанестие повреждения существу и поразите его паучьим ядом.
 
-Summon Animal H (con): Conjure an animal to fight on your behalf.
+:ref:`spell--s--Summon-Animal` :sup:`У` (вопл.): Призовите животное, которое сражается за вас.
 
-Summon Construct H (con): Conjure a construct to fight on your behalf.
+:ref:`spell--s--Summon-Construct` :sup:`У` (вопл.): Призовите конструкта, который сражается за вас.
 
 :ref:`spell--t--True-Strike` (прориц.): Делает вашу следующую атаку особенно точной.
 
@@ -534,7 +534,7 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 
 :ref:`spell--s--Spirit-Link` :sup:`У` (некр.): Непрерывно передаете ваше здоровье кому-то другому.
 
-:ref:`spell--s--Summon-Fey` :sup:`У` (вопл.): Призовите фею, которая сражает за вас.
+:ref:`spell--s--Summon-Fey` :sup:`У` (вопл.): Призовите фею, которая сражается за вас.
 
 :ref:`spell--t--True-Strike` (прориц.): Делает вашу следующую атаку особенно точной.
 
@@ -613,7 +613,7 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 Природные чары
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Acid Splash H (evo): Damage creatures with acid.
+:ref:`spell--a--Acid-Splash` :sup:`У` (разр.): Наносите существам повреждения кислотой.
 
 :ref:`spell--d--Dancing-Lights` (разр.): Создате четыре парящих огонька, которые вы можете перемещать.
 
@@ -621,7 +621,7 @@ Acid Splash H (evo): Damage creatures with acid.
 
 :ref:`spell--d--Disrupt-Undead` :sup:`У` (некр.): Наносит повреждение нежити позитивной энергией.
 
-Electric Arc H (evo): Zap one or two creatures with lightning.
+:ref:`spell--e--Electric-Arc` :sup:`У` (разр.): Ударьте молнией одного или двух существ.
 
 :ref:`spell--g--Guidance` (прориц.): Божественное наставление помогает совершить одно действие.
 
@@ -631,9 +631,9 @@ Electric Arc H (evo): Zap one or two creatures with lightning.
 
 :ref:`spell--p--Prestidigitation` (разр.): Совершите легкий магический трюк.
 
-Produce Flame H (evo): Kindle small flames to attack close or at range.
+:ref:`spell--p--Produce-Flame` :sup:`У` (разр.): Разожгите небольшое пламя, чтобы атаковать вблизи или на расстоянии.
 
-Ray of Frost H (evo): Damage a creature with cold.
+:ref:`spell--r--Ray-of-Frost` :sup:`У` (разр.): Нанесите существу повреждения холодом.
 
 :ref:`spell--r--Read-Aura` :sup:`У` (прориц.): Узнайте является ли объект магическим и определите школу магии.
 
@@ -641,7 +641,7 @@ Ray of Frost H (evo): Damage a creature with cold.
 
 :ref:`spell--s--Stabilize` (некр.): Стабилизируете существо находящееся при смерти.
 
-Tanglefoot H (con): Conjure a vine to entangle a creature.
+:ref:`spell--t--Tanglefoot` :sup:`У` (вопл.): Создайте лозу, чтобы запутать существо.
 
 
 
@@ -652,9 +652,9 @@ Tanglefoot H (con): Conjure a vine to entangle a creature.
 
 :ref:`spell--a--Alarm` :sup:`У` (прегр.): Будьте предупреждены, если существо входит в охраняемую зону.
 
-Ant Haul (tra): Target can carry more.
+:ref:`spell--a--Ant-Haul` (превр.): Цель может переносить больше веса.
 
-Burning Hands H (evo): A small cone of flame rushes from your hands.
+:ref:`spell--b--Burning-Hands` :sup:`У` (разр.): Небольшой конус пламени вырывается из ваших рук.
 
 :ref:`spell--c--Charm` :sup:`У` (очар.): Гуманоид становится более дружелюбным к вам.
 
@@ -664,45 +664,45 @@ Burning Hands H (evo): A small cone of flame rushes from your hands.
 
 :ref:`spell--f--Fear` :sup:`У` (очар.): Напугайте существо, возможно заставив его убегать.
 
-Feather Fall (abj): React to slow a creature’s fall.
+:ref:`spell--f--Feather-Fall` (прегр.): Среагируйте чтобы замедлить падение цели.
 
-Fleet Step (tra): Make your Speed much faster.
+:ref:`spell--f--Fleet-Step` (превр.): Значительно увеличьте вашу скорость.
 
-Goblin Pox (nec): Infect a creature with goblin pox.
+:ref:`spell--g--Goblin-Pox` (некр.): Заразить существо гоблинской оспой.
 
-Grease (con): Coat a surface or object in slippery grease.
+:ref:`spell--g--Grease` (вопл.): Покрывает поверхность или объект скользким маслом.
 
-Gust of Wind (evo): Wind blows out fires and knocks back objects and creatures.
+:ref:`spell--g--Gust-of-Wind` (разр.): Ветер задувает огни и роняет существ и предметы.
 
-Исцеление (Heal) :sup:`У` (некр.): Позитивная энергия исцеляет живых и ранит нежить, как одно существо, так и всех в области.
+:ref:`spell--h--heal` :sup:`У` (некр.): Позитивная энергия исцеляет живых и ранит нежить, как одно существо, так и всех в области.
 
-Hydraulic Push H (evo): Damage and push a creature with a blast of water.
+:ref:`spell--h--Hydraulic-Push` :sup:`У` (разр.): Нанесите повреждение и толкните существо ударом воды.
 
-Jump H (tra): Make an impressive leap.
+:ref:`spell--j--Jump` :sup:`У` (превр.): Сделайте впечатляющий прыжок.
 
-Longstrider H (tra): Increase your Speed for an hour.
+:ref:`spell--l--Longstrider` :sup:`У` (превр.): Увеличьте на час свою Скорость.
 
 Magic Fang (tra): Make a creature's unarmed attacks magical temporarily
 
 :ref:`spell--m--Mending` :sup:`У` (превр.): Почините один немагический предмет.
 
-Negate Aroma H (abj): Suppress a creature’s scent.
+:ref:`spell--l--Negate-Aroma` :sup:`У` (прегр.): Подавите запах существа.
 
 Pass without Trace H (abj): Make your tracks hard to find.
 
-Pest Form H (tra): Turn into a nonthreatening animal.
+:ref:`spell--p--Pest-Form` :sup:`У` (превр.): Превратитесь в неопасное существо.
 
 :ref:`spell--p--Purify-Food-And-Drink` (некр.): Сделайте напитки и блюда безопасными.
 
 Shillelagh (tra): Make a club or staff temporarily magical, and deal more damage to unnatural creatures.
 
-Shocking Grasp H (evo): Zap a creature with electricity.
+:ref:`spell--s--Shocking-Grasp` :sup:`У` (разр.): Ударьте током существо.
 
-Spider Sting (nec): Damage a creature and afflict it with spider venom.
+:ref:`spell--s--Spider-Sting` (некр.): Нанестие повреждения существу и поразите его паучьим ядом.
 
-Summon Animal H (con): Conjure an animal to fight on your behalf.
+:ref:`spell--s--Summon-Animal` :sup:`У` (вопл.): Призовите животное, которое сражает за вас.
 
-:ref:`spell--s--Summon-Fey` :sup:`У` (вопл.): Призовите фею, которая сражает за вас.
+:ref:`spell--s--Summon-Fey` :sup:`У` (вопл.): Призовите фею, которая сражается за вас.
 
 Summon Plants and Fungi H (con): Conjure a plant or fungus to fight on your behalf.
 
