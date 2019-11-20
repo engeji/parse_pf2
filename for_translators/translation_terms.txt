@@ -115,6 +115,7 @@ Creature: существо
 	ooze: слизь
 	aberration: аберрация
 	spirit: дух
+	extraplanar: экстрапланарный
 	
 Currency: Деньги
 	pp: пм / платиновая монета
