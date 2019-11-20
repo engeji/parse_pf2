@@ -648,7 +648,7 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 Природные заклинания 1-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-:ref:`spell--a--air-bubble` (вопл.): Среагируйте, чтобы создать воздух для дыхания существа.
+:ref:`spell--a--Air-Bubble` (вопл.): Среагируйте, чтобы создать воздух для дыхания существа.
 
 :ref:`spell--a--Alarm` :sup:`У` (прегр.): Будьте предупреждены, если существо входит в охраняемую зону.
 
@@ -674,7 +674,7 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 
 :ref:`spell--g--Gust-of-Wind` (разр.): Ветер задувает огни и роняет существ и предметы.
 
-:ref:`spell--h--heal` :sup:`У` (некр.): Позитивная энергия исцеляет живых и ранит нежить, как одно существо, так и всех в области.
+:ref:`spell--h--Heal` :sup:`У` (некр.): Позитивная энергия исцеляет живых и ранит нежить, как одно существо, так и всех в области.
 
 :ref:`spell--h--Hydraulic-Push` :sup:`У` (разр.): Нанесите повреждение и толкните существо ударом воды.
 
@@ -682,19 +682,19 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 
 :ref:`spell--l--Longstrider` :sup:`У` (превр.): Увеличьте на час свою Скорость.
 
-Magic Fang (tra): Make a creature's unarmed attacks magical temporarily
+:ref:`spell--m--Magic-Fang` (превр.): Временно сделайте безоружную атаку существа магической.
 
 :ref:`spell--m--Mending` :sup:`У` (превр.): Почините один немагический предмет.
 
 :ref:`spell--l--Negate-Aroma` :sup:`У` (прегр.): Подавите запах существа.
 
-Pass without Trace H (abj): Make your tracks hard to find.
+:ref:`spell--p--Pass-without-Trace` :sup:`У` (прегр.): Делает ваши следы трудно обнаруживаемыми.
 
 :ref:`spell--p--Pest-Form` :sup:`У` (превр.): Превратитесь в неопасное существо.
 
 :ref:`spell--p--Purify-Food-And-Drink` (некр.): Сделайте напитки и блюда безопасными.
 
-Shillelagh (tra): Make a club or staff temporarily magical, and deal more damage to unnatural creatures.
+:ref:`spell--s--Shillelagh` (превр.): Сделайте дубинку или посох временно волшебными, и наносите больше повреждений неестественным существам.
 
 :ref:`spell--s--Shocking-Grasp` :sup:`У` (разр.): Ударьте током существо.
 
@@ -704,7 +704,7 @@ Shillelagh (tra): Make a club or staff temporarily magical, and deal more damage
 
 :ref:`spell--s--Summon-Fey` :sup:`У` (вопл.): Призовите фею, которая сражается за вас.
 
-Summon Plants and Fungi H (con): Conjure a plant or fungus to fight on your behalf.
+:ref:`spell--s--Summon-Plant-or-Fungus` :sup:`У` (вопл.): Призовите растение или гриб, которые сражаются за вас.
 
 :ref:`spell--v--Ventriloquism` :sup:`У` (иллюз.): Сделайте так, чтобы голос звучал со стороны.
 
