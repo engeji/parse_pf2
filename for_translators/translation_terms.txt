@@ -184,6 +184,10 @@ intelligent (о существе): разумный
 invest: одевать (invest an item, invest a magic item)
 items: предметы
 	healer's tools: набор лекаря
+	Thieves' tools: инструменты вора
+		Replacement picks: запасные отмычки
+	Infiltrator thieves' tools: инструменты взломщика
+		Infiltrator picks: отмычки взломщика
 
 Languages: языки
 	Elven: Эльфийский
