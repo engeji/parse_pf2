@@ -157,7 +157,7 @@ feat: способность
 	Untrained Improvisation: Импровизация без тренировки
 	Toughness: Живучесть
 	Ride: Езда верхом
-	Expeditious Search: Оперативный Поиск
+	Expeditious Search: Оперативный Обыск
 	Stealth:
 		Swift Sneak: Быстро Красться
 		Legendary Sneak: Легендарно Красться
