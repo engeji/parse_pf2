@@ -315,8 +315,8 @@ Skill: Навык
 		Track: Выслеживать
 		Sense Direction: Понять Направление
 	Thievery: Воровство
-		Palm an Object: Подсунуть предмет
-		Steal: Красть
+		Palm an Object: Ловкость рук
+		Steal: Украсть
 		Disable a Device: Отключить устройство
 		Pick a Lock: Вскрыть замок
 slashing damage: режущие повреждения
