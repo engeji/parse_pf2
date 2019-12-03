@@ -290,8 +290,8 @@ Skill: Навык
 		Make an Impression: Произвести Впечатление
 		Request: Просьба
 	Intimidation: Запугивание
-		Coerce: Принуждение
-		Demoralize: Деморализовать
+		Coerce: Принуждение :ref:`skill--Intimidation--Coerce`
+		Demoralize: Деморализовать :ref:`skill--Intimidation--Demoralize`
 		Intimidating Prowess: Мастерство Запугивания
 	Performance: Выступление
 		Perform: Выступать
