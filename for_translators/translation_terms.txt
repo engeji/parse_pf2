@@ -17,13 +17,13 @@ actions:
 	Arrest a Fall: Остановить Падение
 	Request: Просьба
 	Take Cover: Укрыться
-	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO)
+	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO) :ref:`action--Stride`
 	Step: Шаг (короткий, НЕ провоцирует AoO)
 	Escape: Вырваться
 	Dismiss (о заклинании или эффекте): Развеять
 	Sustain a Spell: Поддержать Заклинание
 	Fly: Лететь
-	Grab an Edge: Схватиться за Уступ
+	Grab an Edge: Схватиться за Уступ :ref:`action--Grab-an-Edge`
 	Crawl: Ползти
 	Mount: Оседлать
 	Sense the Motive: Понять Намерение
@@ -31,7 +31,7 @@ actions:
 	Decipher Writing: Расшифровка Писаний
 	Earn Income: Заработать деньги
 	Refocus: Сфокусироваться
-	Leap: Прыжок
+	Leap: Прыжок :ref:`action--Leap`
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
@@ -266,15 +266,15 @@ Skill: Навык
 		Maneuver in Flight: Маневрировать в полете
 		Squeeze: Протиснуться
 	Athletics: Атлетика
-		Climb: Карабкаться
-		Force Open: Открыть Силой
-		Grapple: Захват
-		High Jump: Прыжок в Высоту
-		Long Jump: Прыжок в Длину
-		Shove: Толкнуть
-		Swim: Плавать
-		Trip: Опрокидывание
-		Disarm: Разоружить
+		Climb: Карабкаться :ref:`skill--Athletics--Climb`
+		Force Open: Открыть Силой :ref:`skill--Athletics--Force-Open`
+		Grapple: Захват :ref:`skill--Athletics--Grapple`
+		High Jump: Прыжок в Высоту :ref:`skill--Athletics--HJump`
+		Long Jump: Прыжок в Длину :ref:`skill--Athletics--LJump`
+		Shove: Толкнуть :ref:`skill--Athletics--Shove`
+		Swim: Плавать :ref:`skill--Athletics--Swim`
+		Trip: Опрокидывание :ref:`skill--Athletics--Trip`
+		Disarm: Разоружить :ref:`skill--Athletics--Disarm`
 	Crafting: Ремесло
 		Craft: Создать
 		Repair: Ремонт
@@ -290,8 +290,8 @@ Skill: Навык
 		Make an Impression: Произвести Впечатление
 		Request: Просьба
 	Intimidation: Запугивание
-		Coerce: Принуждение
-		Demoralize: Деморализовать
+		Coerce: Принуждение :ref:`skill--Intimidation--Coerce`
+		Demoralize: Деморализовать :ref:`skill--Intimidation--Demoralize`
 		Intimidating Prowess: Мастерство Запугивания
 	Performance: Выступление
 		Perform: Выступать
