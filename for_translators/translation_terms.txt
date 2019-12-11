@@ -369,6 +369,9 @@ trait: признак / особенность
 		polymorph: полиморф
 		mental: ментальный
 		incapacitation: дееспособность
+		possession: одержимость
+		prediction: предсказание
+		scrying: видЕние
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 
