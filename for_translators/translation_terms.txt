@@ -391,3 +391,4 @@ weapons:
 	falchion: фальшион
 	greataxe: двуручный топор
 	Main-gauche: мэн-гош (дага)
+	morningstar: моргенштерн
