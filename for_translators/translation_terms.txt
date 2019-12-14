@@ -28,7 +28,7 @@ actions:
 	Mount: Оседлать
 	Sense the Motive: Понять Намерение
 	Identify Magic: Определить Магию
-	Decipher Writing: Расшифровка Писаний
+	Decipher Writing: Расшифровка Писаний :ref:`activity--gen--Decipher-Writing`
 	Earn Income: Заработать деньги
 	Refocus: Сфокусироваться
 	Leap: Прыжок :ref:`action--Leap`
@@ -245,7 +245,7 @@ range: дистанция
 	range increment: шаг дистанции
 reach: досягаемость
 remove disease: вылечить болезнь
-Recall Knowledge: Вспомнить Изученное (TODO перевод)
+Recall Knowledge: Вспомнить Изученное :ref:`skill--Recall-Knowledge`
 rune: руна
 	striking rune: разящая руна
 	potency rune +1/2/3: руна мощи +1/2/3
