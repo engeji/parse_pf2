@@ -305,11 +305,11 @@ Skill: Навык
 		Sneak: Красться
 	Medicine: Медицина
 		Administer First Aid: Первая Помощь
-		Treat Wounds: Лечение Ран
+		Treat Wounds: Лечение Ран :ref:`skill--Medicine--Treat-Wounds`
 		Treat Disease: Лечение Болезни
 		Treat Poison: Лечение от яда
 	Nature: Природа
-		Command an Animal: Приказать Животному
+		Command an Animal: Приказать Животному :ref:`skill--Nature--Command-an-Animal`
 	Survival: Выживание
 		Cover Tracks: Заметать Следы
 		Track: Выслеживать
