@@ -28,7 +28,7 @@ actions:
 	Mount: Оседлать
 	Sense the Motive: Понять Намерение
 	Identify Magic: Определить Магию
-	Decipher Writing: Расшифровка Писаний
+	Decipher Writing: Расшифровка Писаний :ref:`activity--gen--Decipher-Writing`
 	Earn Income: Заработать деньги
 	Refocus: Сфокусироваться
 	Leap: Прыжок :ref:`action--Leap`
@@ -245,7 +245,7 @@ range: дистанция
 	range increment: шаг дистанции
 reach: досягаемость
 remove disease: вылечить болезнь
-Recall Knowledge: Вспомнить Изученное (TODO перевод)
+Recall Knowledge: Вспомнить Изученное :ref:`skill--Recall-Knowledge`
 rune: руна
 	striking rune: разящая руна
 	potency rune +1/2/3: руна мощи +1/2/3
@@ -305,11 +305,11 @@ Skill: Навык
 		Sneak: Красться
 	Medicine: Медицина
 		Administer First Aid: Первая Помощь
-		Treat Wounds: Лечение Ран
+		Treat Wounds: Лечение Ран :ref:`skill--Medicine--Treat-Wounds`
 		Treat Disease: Лечение Болезни
 		Treat Poison: Лечение от яда
 	Nature: Природа
-		Command an Animal: Приказать Животному
+		Command an Animal: Приказать Животному :ref:`skill--Nature--Command-an-Animal`
 	Survival: Выживание
 		Cover Tracks: Заметать Следы
 		Track: Выслеживать
@@ -369,6 +369,9 @@ trait: признак / особенность
 		polymorph: полиморф
 		mental: ментальный
 		incapacitation: дееспособность
+		possession: одержимость
+		prediction: предсказание
+		scrying: видЕние
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 
@@ -388,3 +391,4 @@ weapons:
 	falchion: фальшион
 	greataxe: двуручный топор
 	Main-gauche: мэн-гош (дага)
+	morningstar: моргенштерн
