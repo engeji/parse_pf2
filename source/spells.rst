@@ -148,10 +148,77 @@
 Мистические заклинания 2-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
+Acid Arrow H (evo): Magical arrow deals acid damage persistently.
+
+Blur (ill): Cause a target's form to become blurry and hard to hit.
+
+:ref:`spell--c--Comprehend-Language` :sup:`У` (прориц.): Существо понимает один язык.
+
+:ref:`spell--c--Continual-Flame` :sup:`У` (разр.): Бесконечно горящее магическое пламя.
+
+:ref:`spell--c--Create-Food` :sup:`У` (вопл.): Создайте еду, которая может накормить много существ.
+
+:ref:`spell--d--Darkness` :sup:`У` (разр.): Подавляет весь свет в области.
+
+Darkvision H (div): See in the dark.
+
+Deafness (nec): Make a creature deaf.
+
+Dispel Magic (abj): End a spell or suppress an item's magic.
+
+Endure Elements H (abj): Protect a creature from severe cold or heat.
+
+Enlarge H (tra): A creature grows in size.
+
+False Life H (nec): Gain temporary HP.
+
+Flaming Sphere H (evo): A ball of fire rolls about at your command.
+
+Gentle Repose H (nec): A corpse doesn't decay and can't become undead.
+
 Блестки (Glitterdust) (разр.): Сверкающая пыль прерывает невидимость и мешает зрению.
 
-< TODO >
+Hideous Laughter (enc): Fits of laughter make a creature unable to take all its actions.
 
+Humanoid Form H (tra): Take the shape of a humanoid.
+
+Illusory Creature H (ill): Form a convincing illusion of a creature.
+
+Invisibility H (ill): A creature can't be seen until it attacks.
+
+Knock (tra): Make a door, lock, or container easier to open, and possibly open it immediately.
+
+Magic Mouth (ill): Make an illusory mouth appear to speak a message.
+
+Mirror Image (ill): Illusory duplicates of you cause attacks to miss.
+
+Misdirection (ill): Cause one creature's auras to appear to be another's.
+
+Obscuring Mist (con): Conceal creatures in a cloud of mist.
+
+Phantom Steed H (con): Conjure a magical horse.
+
+Resist Energy H (abj): Protect a creature from one type of energy damage.
+
+See Invisibility H (div): See invisible creatures and objects.
+
+Shrink H (tra): Reduce a willing creature to Tiny size.
+
+Spectral Hand (nec): Semicorporeal hand touches creatures to target them with your spells.
+
+Spider Climb H (tra): Give a creature a climb Speed.
+
+Summon Elemental H (con): Conjure an elemental to fight on your behalf.
+
+Telekinetic Maneuver (evo): Disarm, Shove, or Trip a creature telekinetically.
+
+Touch of Idiocy (enc): Dull a target's mind with a touch.
+
+Water Breathing H (tra): Allow creatures to breathe underwater
+
+Water Walk H (tra): Buoy a creature so it can walk on water.
+
+Web H (con): Form a web that keeps creatures from moving.
 
 
 Мистические заклинания 3-го ур.
@@ -295,17 +362,17 @@
 Сакральные заклинания 2-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Augury (div): Predict whether a course of action brings good fortune.
+:ref:`spell--a--Augury` (прориц.): Предсказание, будет ли то или иное действие успешным.
 
-Calm Emotions (enc): Suppress strong emotions and hostility.
+:ref:`spell--c--Calm-Emotions` (очар.): Подавляет сильные эмоции и враждебность.
 
-Comprehend Language H (div): A creature understands one language.
+:ref:`spell--c--Comprehend-Language` :sup:`У` (прориц.): Существо понимает один язык.
 
-Continual Flame H (evo): A magical flame burns indefinitely.
+:ref:`spell--c--Continual-Flame` :sup:`У` (разр.): Бесконечно горящее магическое пламя.
 
-Create Food H (con): Conjure food that can feed multiple creatures.
+:ref:`spell--c--Create-Food` :sup:`У` (вопл.): Создайте еду, которая может накормить много существ.
 
-Darkness H (evo): Suppress all light in an area.
+:ref:`spell--d--Darkness` :sup:`У` (разр.): Подавляет весь свет в области.
 
 Darkvision H (div): See in the dark.
 
@@ -321,7 +388,7 @@ Enhance Victuals H (tra): Improve food or drink and remove poisons.
 
 Faerie Fire (evo): Colorful light prevents creatures from being concealed or invisible.
 
-Gentle ReposeH (nec): A corpse doesn’t decay and can’t become undead.
+Gentle Repose H (nec): A corpse doesn’t decay and can’t become undead.
 
 Ghoulish Cravings (nec): Infect a creature with ghoul fever.
 
@@ -547,7 +614,83 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 Оккультные заклинания 2-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+:ref:`spell--a--Augury` (прориц.): Предсказание, будет ли то или иное действие успешным.
+
+Blur (ill): Cause a target’s form to become blurry and hard to hit.
+
+:ref:`spell--c--Calm-Emotions` (очар.): Подавляет сильные эфмоции и враждебность.
+
+:ref:`spell--c--Comprehend-Language` :sup:`У` (прориц.): Существо понимает один язык.
+
+:ref:`spell--c--Continual-Flame` :sup:`У` (разр.): Бесконечно горящее магическое пламя.
+
+:ref:`spell--d--Darkness` :sup:`У` (разр.): Подавляет весь свет в области.
+
+Darkvision H (div): See in the dark.
+
+Deafness (nec): Make a creature deaf.
+
+Death Knell (nec): Finish off a creature who’s near death.
+
+Dispel Magic (abj): End a spell or suppress an item’s magic.
+
+Faerie Fire (evo): Colorful light prevents creatures from being concealed or invisible.
+
+False Life H (nec): Gain temporary HP.
+
+Gentle Repose H (nec): A corpse doesn’t decay and can’t become undead.
+
+Ghoulish Cravings (nec): Infect a creature with ghoul fever.
+
+Hideous Laughter (enc): Fits of laughter make a creature unable to take all its actions.
+
+Humanoid Form H (tra): Take the shape of a humanoid.
+
+Illusory Creature H (ill): Form a convincing illusion of a creature.
+
+Invisibility H (ill): A creature can’t be seen until it attacks.
+
+Knock (tra): Make a door, lock, or container easier to open, and possibly open it immediately.
+
+Magic Mouth (ill): Make an illusory mouth appear to speak a message.
+
+Mirror Image (ill): Illusory duplicates of you cause attacks to miss.
+
+Misdirection (ill): Cause one creature’s auras to appear to be another’s.
+
+Paranoia H (ill): Make a creature believe everyone is a threat.
+
+Phantom Steed H (con): Conjure a magical horse.
+
+Remove Fear H (enc): Free a creature from its fright.
+
+Remove Paralysis H (nec): Free a creature from paralysis.
+
+Resist Energy H (abj): Protect a creature from one type of energy damage.
+
+Restoration H (nec): Reduce a condition or lessen a toxin.
+
+Restore SensesH (nec): Remove a blinding or deafening effect.
+
+See Invisibility H (div): See invisible creatures and objects.
+
+ShatterH (evo): Shatter an object with a high-frequency sonic attack.
+
+Silence H (ill): Mute all sound from a creature.
+
+Sound Burst H (evo): Damage and deafen creatures with a powerful din.
+
+Spectral Hand (nec): Create a semicorporeal hand that touches creatures to target them with your spells.
+
+Spiritual Weapon H (evo): Materialize a deific weapon of force that appears and attacks repeatedly.
+
+Status H (div): Keep track of a willing creature’s location and well-being.
+
+Telekinetic Maneuver (evo): Disarm, Shove, or Trip a creature telekinetically.
+
+Touch of Idiocy (enc): Dull a target’s mind with a touch.
+
+Undetectable Alignment U (abj): Make a creature or object appear neutral to alignment detection.
 
 
 Оккультные заклинания 3-го ур.
@@ -713,7 +856,79 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 Природные заклинания 2-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Acid Arrow H (evo): Magical arrow deals acid damage persistently.
+
+Animal Form H (tra): Turn into a dangerous animal.
+
+Animal Messenger (enc): Send a Tiny animal to deliver a message.
+
+Barkskin H (abj): Target’s skin is covered in protective bark.
+
+:ref:`spell--c--Continual-Flame` :sup:`У` (разр.): Бесконечно горящее магическое пламя.
+
+:ref:`spell--c--Create-Food` :sup:`У` (вопл.): Создайте еду, которая может накормить много существ.
+
+:ref:`spell--d--Darkness` :sup:`У` (разр.): Подавляет весь свет в области.
+
+Darkvision H (div): See in the dark.
+
+Deafness (nec): Make a creature deaf.
+
+Dispel Magic (abj): End a spell or suppress an item’s magic.
+
+Endure Elements H (abj): Protect a creature from severe cold or heat.
+
+Enhance Victuals H (tra): Improve food or drink and remove poisons. 
+
+Enlarge H (tra): A creature grows in size.
+
+Entangle (tra): Plants in an area grow to entangle and immobilize.
+
+Faerie Fire (evo): Colorful light prevents creatures from being concealed or invisible.
+
+Flaming Sphere H (evo): A ball of fire rolls about at your command.
+
+Gentle Repose H (nec): A corpse doesn’t decay and can’t become undead.
+
+Glitterdust (evo): Sparkling dust breaks invisibility and impedes vision.
+
+Humanoid Form H (tra): Take the shape of a humanoid.
+
+Obscuring Mist (con): Conceal creatures in a cloud of mist.
+
+Phantom Steed H (con): Conjure a magical horse.
+
+Remove Fear H (enc): Free a creature from its fright.
+
+Remove Paralysis H (nec): Free a creature from paralysis.
+
+Resist Energy H (abj): Protect a creature from one type of energy damage.
+
+Restoration H (nec): Reduce a condition or lessen a toxin.
+
+Restore Senses H (nec): Remove a blinding or deafening effect.
+
+Shape Wood (tra): Reshape unworked wood as you choose.
+
+Shatter H (evo): Shatter an object with a high-frequency sonic attack.
+
+Shrink H (tra): Reduce a willing creature to Tiny size.
+
+Speak with Animals (div): Communicate with animals.
+
+Spider Climb H (tra): Give a creature a climb Speed.
+
+Status H (div): Keep track of a willing creature’s location and well-being.
+
+Summon Elemental H (con): Conjure an elemental to fight on your behalf.
+
+Tree Shape (tra): Turn into a tree.
+
+Water Breathing H (tra): Allow creatures to breathe underwater.
+
+Water Walk H (tra): Buoy a creature so it can walk on water.
+
+Web H (con): Form a web that keeps creatures from moving.
 
 
 Природные заклинания 3-го ур.
