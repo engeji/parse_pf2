@@ -160,13 +160,13 @@ Blur (ill): Cause a target's form to become blurry and hard to hit.
 
 :ref:`spell--d--Darkness` :sup:`У` (разр.): Подавляет весь свет в области.
 
-Darkvision H (div): See in the dark.
+:ref:`spell--d--Darkvision` :sup:`У` (прориц.): Видеть во тьме.
 
-Deafness (nec): Make a creature deaf.
+:ref:`spell--d--Deafness` (некр): Лишите существо слуха.
 
-Dispel Magic (abj): End a spell or suppress an item's magic.
+:ref:`spell--d--Dispel-Magic` (прегр.): Прекратите заклинание или подавите магию предмета.
 
-Endure Elements H (abj): Protect a creature from severe cold or heat.
+:ref:`spell--e--Endure-Elements` :sup:`У` (прегр.): Защищает существо от сильного холода или жары.
 
 Enlarge H (tra): A creature grows in size.
 
@@ -174,7 +174,7 @@ False Life H (nec): Gain temporary HP.
 
 Flaming Sphere H (evo): A ball of fire rolls about at your command.
 
-Gentle Repose H (nec): A corpse doesn't decay and can't become undead.
+:ref:`spell--g--Gentle-Repose` :sup:`У` (некр.): Тело не разлагается и не может стать нежитью.
 
 Блестки (Glitterdust) (разр.): Сверкающая пыль прерывает невидимость и мешает зрению.
 
@@ -198,9 +198,9 @@ Obscuring Mist (con): Conceal creatures in a cloud of mist.
 
 Phantom Steed H (con): Conjure a magical horse.
 
-Resist Energy H (abj): Protect a creature from one type of energy damage.
+:ref:`spell--r--Resist-Energy` :sup:`У` (прегр.): Защищает существо от повреждений одного вида энергии.
 
-See Invisibility H (div): See invisible creatures and objects.
+:ref:`spell--s--See-Invisibility` :sup:`У` (прориц.): Видеть невидимых существ и объекты.
 
 Shrink H (tra): Reduce a willing creature to Tiny size.
 
@@ -214,9 +214,9 @@ Telekinetic Maneuver (evo): Disarm, Shove, or Trip a creature telekinetically.
 
 Touch of Idiocy (enc): Dull a target's mind with a touch.
 
-Water Breathing H (tra): Allow creatures to breathe underwater
+:ref:`spell--w--Water-Breathing` :sup:`У` (превр.): Позволяет существам дышать под водой.
 
-Water Walk H (tra): Buoy a creature so it can walk on water.
+:ref:`spell--w--Water-Walk` :sup:`У` (превр.): Поддерживает существо, так что оно может ходить по воде.
 
 Web H (con): Form a web that keeps creatures from moving.
 
@@ -374,51 +374,51 @@ Web H (con): Form a web that keeps creatures from moving.
 
 :ref:`spell--d--Darkness` :sup:`У` (разр.): Подавляет весь свет в области.
 
-Darkvision H (div): See in the dark.
+:ref:`spell--d--Darkvision` :sup:`У` (прориц.): Видеть во тьме.
 
-Deafness (nec): Make a creature deaf.
+:ref:`spell--d--Deafness` (некр): Лишите существо слуха.
 
-Death Knell (nec): Finish off a creature who’s near death.
+:ref:`spell--d--Death-Knell` (некр.): Прикончить существо на грани смерти.
 
-Dispel Magic (abj): End a spell or suppress an item’s magic.
+:ref:`spell--d--Dispel-Magic` (прегр.): Прекратите заклинание или подавите магию предмета.
 
-Endure Elements H (abj): Protect a creature from severe cold or heat.
+:ref:`spell--e--Endure-Elements` :sup:`У` (прегр.): Защищает существо от сильного холода или жары.
 
-Enhance Victuals H (tra): Improve food or drink and remove poisons.
+:ref:`spell--e--Enhance-Victuals` :sup:`У` (превр.): Улучшает еду и напитки, и убирает яды.
 
-Faerie Fire (evo): Colorful light prevents creatures from being concealed or invisible.
+:ref:`spell--f--Faerie-Fire` (разр.): Цветное свечение мешает существам стать скрытыми или невидимыми.
 
-Gentle Repose H (nec): A corpse doesn’t decay and can’t become undead.
+:ref:`spell--g--Gentle-Repose` :sup:`У` (некр.): Тело не разлагается и не может стать нежитью.
 
-Ghoulish Cravings (nec): Infect a creature with ghoul fever.
+:ref:`spell--g--Ghoulish-Cravings` (некр.): Заразите существо лихорадкой упыря.
 
-Remove Fear H (enc): Free a creature from its fright.
+:ref:`spell--r--Remove-Fear` :sup:`У` (очар.): Избавьте существо от его страхов.
 
-Remove Paralysis H (nec): Free a creature from paralysis.
+:ref:`spell--r--Remove-Paralysis` :sup:`У` (некр.): Избавьте существо от паралича.
 
-Resist Energy H (abj): Protect a creature from one type of energy damage.
+:ref:`spell--r--Resist-Energy` :sup:`У` (прегр.): Защищает существо от повреждений одного вида энергии.
 
-Восстановление (Restoration) :sup:`У` (некр.): Понизьте состояние или ослабьте токсин.
+:ref:`spell--r--Restoration` :sup:`У` (некр.): Понизьте состояние или ослабьте токсин.
 
-Restore Senses H (nec): Remove a blinding or deafening effect.
+:ref:`spell--r--Restore-Senses` :sup:`У` (некр.): Избавляет от эффектов слепоты и глухоты.
 
-See Invisibility H (div): See invisible creatures and objects.
+:ref:`spell--s--See-Invisibility` :sup:`У` (прориц.): Видеть невидимых существ и объекты.
 
-Shield Other (nec): Absorb half the damage an ally would take.
+:ref:`spell--s--Shield-Other` (некр.): Впитывает половину повреждений, которые бы получил союзник.
 
-Silence H (ill): Mute all sound from a creature.
+:ref:`spell--s--Silence` :sup:`У` (иллюз.): Заглушает все звуки от существа.
 
-Sound Burst H (evo): Damage and deafen creatures with a powerful din.
+:ref:`spell--s--Sound-Burst` :sup:`У` (разр.): Повреждает и оглушает существ мощным грохотом.
 
-Spiritual Weapon H (evo): Materialize a deific weapon of force that appears and attacks repeatedly.
+:ref:`spell--s--Spiritual-Weapon` :sup:`У` (разр.): Материализует божественное оружие из силы, которое появляется и неоднократно атакует.
 
-Status H (div): Keep track of a willing creature's location and well-being.
+:ref:`spell--s--Status` :sup:`У` (прориц.): Следит за местоположением готового существа и его благополучием.
 
-Undetectable Alignment U (abj): Make a creature or object appear neutral to alignment detection.
+:ref:`spell--u--Undetectable-Alignment` :sup:`Н` (прегр.): Делает существо или объект выглядящим нейтральным для обнаружения мировоззрения.
 
-Water Breathing H (tra): Allow creatures to breathe underwater.
+:ref:`spell--w--Water-Breathing` :sup:`У` (превр.): Позволяет существам дышать под водой.
 
-Water Walk H (tra): Buoy a creature so it can walk on water.
+:ref:`spell--w--Water-Walk` :sup:`У` (превр.): Поддерживает существо, так что оно может ходить по воде.
 
 
 
@@ -470,6 +470,8 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 
 Сакральные заклинания 6-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+:ref:`spell--r--Raise-Dead`
 
 < TODO >
 
@@ -626,21 +628,21 @@ Blur (ill): Cause a target’s form to become blurry and hard to hit.
 
 :ref:`spell--d--Darkness` :sup:`У` (разр.): Подавляет весь свет в области.
 
-Darkvision H (div): See in the dark.
+:ref:`spell--d--Darkvision` :sup:`У` (прориц.): Видеть во тьме.
 
-Deafness (nec): Make a creature deaf.
+:ref:`spell--d--Deafness` (некр): Лишите существо слуха.
 
-Death Knell (nec): Finish off a creature who’s near death.
+:ref:`spell--d--Death-Knell` (некр.): Прикончить существо на грани смерти.
 
-Dispel Magic (abj): End a spell or suppress an item’s magic.
+:ref:`spell--d--Dispel-Magic` (прегр.): Прекратите заклинание или подавите магию предмета.
 
-Faerie Fire (evo): Colorful light prevents creatures from being concealed or invisible.
+:ref:`spell--f--Faerie-Fire` (разр.): Цветное свечение мешает существам стать скрытыми или невидимыми.
 
 False Life H (nec): Gain temporary HP.
 
-Gentle Repose H (nec): A corpse doesn’t decay and can’t become undead.
+:ref:`spell--g--Gentle-Repose` :sup:`У` (некр.): Тело не разлагается и не может стать нежитью.
 
-Ghoulish Cravings (nec): Infect a creature with ghoul fever.
+:ref:`spell--g--Ghoulish-Cravings` (некр.): Заразите существо лихорадкой упыря
 
 Hideous Laughter (enc): Fits of laughter make a creature unable to take all its actions.
 
@@ -662,29 +664,29 @@ Paranoia H (ill): Make a creature believe everyone is a threat.
 
 Phantom Steed H (con): Conjure a magical horse.
 
-Remove Fear H (enc): Free a creature from its fright.
+:ref:`spell--r--Remove-Fear` :sup:`У` (очар.): Избавьте существо от его страхов.
 
-Remove Paralysis H (nec): Free a creature from paralysis.
+:ref:`spell--r--Remove-Paralysis` :sup:`У` (некр.): Избавьте существо от паралича.
 
-Resist Energy H (abj): Protect a creature from one type of energy damage.
+:ref:`spell--r--Resist-Energy` :sup:`У` (прегр.): Защищает существо от повреждений одного вида энергии.
 
-Restoration H (nec): Reduce a condition or lessen a toxin.
+:ref:`spell--r--Restoration` :sup:`У` (некр.): Понизьте состояние или ослабьте токсин.
 
-Restore SensesH (nec): Remove a blinding or deafening effect.
+:ref:`spell--r--Restore-Senses` :sup:`У` (некр.): Избавляет от эффектов слепоты и глухоты.
 
-See Invisibility H (div): See invisible creatures and objects.
+:ref:`spell--s--See-Invisibility` :sup:`У` (прориц.): Видеть невидимых существ и объекты.
 
-ShatterH (evo): Shatter an object with a high-frequency sonic attack.
+Shatter H (evo): Shatter an object with a high-frequency sonic attack.
 
-Silence H (ill): Mute all sound from a creature.
+:ref:`spell--s--Silence` :sup:`У` (иллюз.): Заглушает все звуки от существа.
 
-Sound Burst H (evo): Damage and deafen creatures with a powerful din.
+:ref:`spell--s--Sound-Burst` :sup:`У` (разр.): Повреждает и оглушает существ мощным грохотом.
 
 Spectral Hand (nec): Create a semicorporeal hand that touches creatures to target them with your spells.
 
-Spiritual Weapon H (evo): Materialize a deific weapon of force that appears and attacks repeatedly.
+:ref:`spell--s--Spiritual-Weapon` :sup:`У` (разр.): Материализует божественное оружие из силы, которое появляется и неоднократно атакует.
 
-Status H (div): Keep track of a willing creature’s location and well-being.
+:ref:`spell--s--Status` :sup:`У` (прориц.): Следит за местоположением готового существа и его благополучием.
 
 Telekinetic Maneuver (evo): Disarm, Shove, or Trip a creature telekinetically.
 
@@ -870,25 +872,25 @@ Barkskin H (abj): Target’s skin is covered in protective bark.
 
 :ref:`spell--d--Darkness` :sup:`У` (разр.): Подавляет весь свет в области.
 
-Darkvision H (div): See in the dark.
+:ref:`spell--d--Darkvision` :sup:`У` (прориц.): Видеть во тьме.
 
-Deafness (nec): Make a creature deaf.
+:ref:`spell--d--Deafness` (некр): Лишите существо слуха.
 
-Dispel Magic (abj): End a spell or suppress an item’s magic.
+:ref:`spell--d--Dispel-Magic` (прегр.): Прекратите заклинание или подавите магию предмета.
 
-Endure Elements H (abj): Protect a creature from severe cold or heat.
+:ref:`spell--e--Endure-Elements` :sup:`У` (прегр.): Защищает существо от сильного холода или жары.
 
-Enhance Victuals H (tra): Improve food or drink and remove poisons. 
+:ref:`spell--e--Enhance-Victuals` :sup:`У` (превр.): Улучшает еду и напитки, и убирает яды.
 
 Enlarge H (tra): A creature grows in size.
 
 Entangle (tra): Plants in an area grow to entangle and immobilize.
 
-Faerie Fire (evo): Colorful light prevents creatures from being concealed or invisible.
+:ref:`spell--f--Faerie-Fire` (разр.): Цветное свечение мешает существам стать скрытыми или невидимыми.
 
 Flaming Sphere H (evo): A ball of fire rolls about at your command.
 
-Gentle Repose H (nec): A corpse doesn’t decay and can’t become undead.
+:ref:`spell--g--Gentle-Repose` :sup:`У` (некр.): Тело не разлагается и не может стать нежитью.
 
 Glitterdust (evo): Sparkling dust breaks invisibility and impedes vision.
 
@@ -898,15 +900,15 @@ Obscuring Mist (con): Conceal creatures in a cloud of mist.
 
 Phantom Steed H (con): Conjure a magical horse.
 
-Remove Fear H (enc): Free a creature from its fright.
+:ref:`spell--r--Remove-Fear` :sup:`У` (очар.): Избавьте существо от его страхов.
 
-Remove Paralysis H (nec): Free a creature from paralysis.
+:ref:`spell--r--Remove-Paralysis` :sup:`У` (некр.): Избавьте существо от паралича.
 
-Resist Energy H (abj): Protect a creature from one type of energy damage.
+:ref:`spell--r--Resist-Energy` :sup:`У` (прегр.): Защищает существо от повреждений одного вида энергии.
 
-Restoration H (nec): Reduce a condition or lessen a toxin.
+:ref:`spell--r--Restoration` :sup:`У` (некр.): Понизьте состояние или ослабьте токсин.
 
-Restore Senses H (nec): Remove a blinding or deafening effect.
+:ref:`spell--r--Restore-Senses` :sup:`У` (некр.): Избавляет от эффектов слепоты и глухоты.
 
 Shape Wood (tra): Reshape unworked wood as you choose.
 
@@ -918,15 +920,15 @@ Speak with Animals (div): Communicate with animals.
 
 Spider Climb H (tra): Give a creature a climb Speed.
 
-Status H (div): Keep track of a willing creature’s location and well-being.
+:ref:`spell--s--Status` :sup:`У` (прориц.): Следит за местоположением готового существа и его благополучием.
 
 Summon Elemental H (con): Conjure an elemental to fight on your behalf.
 
 Tree Shape (tra): Turn into a tree.
 
-Water Breathing H (tra): Allow creatures to breathe underwater.
+:ref:`spell--w--Water-Breathing` :sup:`У` (превр.): Позволяет существам дышать под водой.
 
-Water Walk H (tra): Buoy a creature so it can walk on water.
+:ref:`spell--w--Water-Walk` :sup:`У` (превр.): Поддерживает существо, так что оно может ходить по воде.
 
 Web H (con): Form a web that keeps creatures from moving.
 

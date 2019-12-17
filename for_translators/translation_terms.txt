@@ -136,7 +136,6 @@ Deity: Божество
 	Calistria: Калистрия
 	Torag: Тораг
 	Iomedae: Иомедэй
-detection: обнаружение
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
@@ -356,6 +355,7 @@ trait: признак / особенность
 		two-hand: двуручное
 		sweep: размах
 		parry: парирование
+		versatile: универсальное
 	остальные:
 		visual: визуальный
 		auditory: слуховой
@@ -372,6 +372,9 @@ trait: признак / особенность
 		possession: одержимость
 		prediction: предсказание
 		scrying: видЕние
+		detection: обнаружение
+		revelation: откровение
+		force: сила
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 
