@@ -116,6 +116,7 @@ Creature: существо
 	aberration: аберрация
 	spirit: дух
 	extraplanar: экстрапланарный
+	monitor: наблюдатель
 	
 Currency: Деньги
 	pp: пм / платиновая монета
@@ -136,7 +137,6 @@ Deity: Божество
 	Calistria: Калистрия
 	Torag: Тораг
 	Iomedae: Иомедэй
-detection: обнаружение
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
@@ -356,6 +356,7 @@ trait: признак / особенность
 		two-hand: двуручное
 		sweep: размах
 		parry: парирование
+		versatile: универсальное
 	остальные:
 		visual: визуальный
 		auditory: слуховой
@@ -372,6 +373,10 @@ trait: признак / особенность
 		possession: одержимость
 		prediction: предсказание
 		scrying: видЕние
+		detection: обнаружение
+		revelation: откровение
+		force: сила
+		consecration: освящение
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 
