@@ -121,7 +121,7 @@
 
 :ref:`spell--m--Mending` :sup:`У` (превр.): Почините один немагический предмет.
 
-:ref:`spell--l--Negate-Aroma` :sup:`У` (прегр.): Подавите запах существа.
+:ref:`spell--n--Negate-Aroma` :sup:`У` (прегр.): Подавите запах существа.
 
 :ref:`spell--p--Pest-Form` :sup:`У` (превр.): Превратитесь в неопасное животное.
 
@@ -224,9 +224,57 @@ Web H (con): Form a web that keeps creatures from moving.
 Мистические заклинания 3-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
+:ref:`spell--b--Bind-Undead` (некр.): Берете неразумную нежить под свое управление.
+
+:ref:`spell--b--Blindness` (некр.): Поражает цель слепотой.
+
+Clairaudience (div): Hear through an invisible magical sensor.
+
+:ref:`spell--d--Dream-Message` :sup:`У` (очар.): Посылает сообщение которое приходит во сне.
+
 Земные оковы (Earthbind) (превр.): Опустите летающее существо на землю.
 
-< TODO >
+Enthrall (enc): Your speech makes creatures fascinated with you.
+
+Feet to Fins H (tra): Turn a creature's feet into fins, enabling it swim but slowing it on land.
+
+Fireball H (evo): An explosion of fire in an area burns creatures.
+
+Ghostly Weapon (tra): Make a weapon affect incorporeal creatures.
+
+:ref:`spell--g--Glyph-of-Warding` (прегр.): Сохраняет заклинание в символе, чтобы сделать ловушку.
+
+Haste H (tra): Speed up a creature so it can attack or move more often.
+
+Hypnotic Pattern (ill): Shifting colors dazzle and fascinate creatures.
+
+Invisibility Sphere H (ill): You and creatures near you become invisible as you explore.
+
+Levitate (evo): Float an object or creature a few feet off the ground.
+
+Lightning Bolt H (evo): Lightning strikes all creatures in a line.
+
+:ref:`spell--l--Locate` :sup:`Н, У` (прориц.): Узнайте направление к объекту.
+
+Meld into Stone (tra): Meld into a block of stone.
+
+Mind Reading U (div): Read a creature's surface thoughts.
+
+Nondetection U (abj): Protect a creature or object from detection.
+
+Paralyze H (enc): Freeze a humanoid in place.
+
+Secret Page (ill): Alter the appearance of a page.
+
+Shrink Item (tra): Reduce an object to the size of a coin.
+
+Slow H (tra): Make a creature slower, reducing its actions.
+
+Stinking Cloud (con): Form a cloud that sickens creatures.
+
+:ref:`spell--v--Vampiric-Touch` :sup:`У` (некр.): Наносите негативные повреждения касанием и получаете временные ОЗ.
+
+Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ranged attacks.
 
 
 
@@ -425,37 +473,38 @@ Web H (con): Form a web that keeps creatures from moving.
 Сакральные заклинания 3-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Bind Undead (nec): Take control of a mindless undead.
+:ref:`spell--b--Bind-Undead` (некр.): Берете неразумную нежить под свое управление.
 
-Blindness (nec): Strike a target blind.
+:ref:`spell--b--Blindness` (некр.): Поражает цель слепотой.
 
-Chilling Darkness H (evo): Ray of evil darkness deals cold damage, counteracts light, and harms celestials.
+:ref:`spell--c--Chilling-Darkness` :sup:`У` (разр.): Луч зловещей тьмы наносит повреждения холодом, противодействует свету и наносит раны небожителям.
 
-Circle of Protection U, H (abj): A creature emits an aura that protects those within against an alignment.
+:ref:`spell--c--Circle-of-Protection` :sup:`Н, У` (прегр.): Существо излучает ауру, защищающую находящихся внутри, от мировоззрения.
 
-Crisis of Faith H (enc): Cause mental damage and possibly make a worshipper unable to cast spells.
+:ref:`spell--c--Crisis-of-Faith` :sup:`У` (очар.): Причиняет ментальные повреждения и может лишить верующего способности колдовать.
 
-Dream Message H (enc): Send a message that arrives in a dream.
+:ref:`spell--d--Dream-Message` :sup:`У` (очар.): Посылает сообщение которое приходит во сне.
 
-Glyph of Warding (abj): Store a spell in a symbol to make a trap.
+:ref:`spell--g--Glyph-of-Warding` (прегр.): Сохраняет заклинание в символе, чтобы сделать ловушку.
 
-Heroism H (enc): Stoke a creature's inner heroism to make it more competent.
+:ref:`spell--h--Heroism` :sup:`У` (очар.): Подстегивает внутренний героизм существа, чтобы сделать его более умелым.
 
-Locate U, H (div): Learn the direction to an object.
+:ref:`spell--l--Locate` :sup:`Н, У` (прориц.): Узнайте направление к объекту.
 
-Neutralize Poison (nec): Cure a poison afflicting a creature.
+:ref:`spell--n--Neutralize-Poison` (некр.): Исцеляет яд действующий на существо.
 
-Remove Disease (nec): Cure a disease afflicting a creature.
+:ref:`spell--r--Remove-Disease` (некр.): Исцеляет болезнь действующую на существо.
 
-Sanctified Ground (abj): Create a 24-hour area of protection against aberrations, celestials, dragons, fiends, or undead.
+:ref:`spell--s--Sanctified-Ground` (прегр.): Создает на 24 часа область защиты от аберраций, небожителей, драконов, бесов, или нежити.
 
-Searing Light H (evo): A ray of burning light deals extra damage to undead and counteracts darkness.
+:ref:`spell--s--Searing-Light` :sup:`У` (разр.): Луч жгучего света наносит дополнительные повреждения нежити и бесам, а так же противодействует тьме.
 
-Vampiric Touch H (nec): Deal negative damage and gain temporary HP with a touch.
+:ref:`spell--v--Vampiric-Touch` :sup:`У` (некр.): Наносите негативные повреждения касанием и получаете временные ОЗ.
 
-Wanderer’s Guide (div): Find an ideal route to a location.
+:ref:`spell--w--Wanderers-Guide` (прориц.): Находит идеальный маршрут к месту.
 
-Zone of Truth U (enc): Compel creatures to tell the truth.
+:ref:`spell--z--Zone-of-Truth` :sup:`Н` (очар.): Вынуждает существ говорить правду.
+
 
 
 Сакральные заклинания 4-го ур.
@@ -618,7 +667,7 @@ Zone of Truth U (enc): Compel creatures to tell the truth.
 
 :ref:`spell--a--Augury` (прориц.): Предсказание, будет ли то или иное действие успешным.
 
-Blur (ill): Cause a target’s form to become blurry and hard to hit.
+Blur (ill): Cause a target's form to become blurry and hard to hit.
 
 :ref:`spell--c--Calm-Emotions` (очар.): Подавляет сильные эфмоции и враждебность.
 
@@ -650,7 +699,7 @@ Humanoid Form H (tra): Take the shape of a humanoid.
 
 Illusory Creature H (ill): Form a convincing illusion of a creature.
 
-Invisibility H (ill): A creature can’t be seen until it attacks.
+Invisibility H (ill): A creature can't be seen until it attacks.
 
 Knock (tra): Make a door, lock, or container easier to open, and possibly open it immediately.
 
@@ -658,7 +707,7 @@ Magic Mouth (ill): Make an illusory mouth appear to speak a message.
 
 Mirror Image (ill): Illusory duplicates of you cause attacks to miss.
 
-Misdirection (ill): Cause one creature’s auras to appear to be another’s.
+Misdirection (ill): Cause one creature's auras to appear to be another's.
 
 Paranoia H (ill): Make a creature believe everyone is a threat.
 
@@ -690,7 +739,7 @@ Spectral Hand (nec): Create a semicorporeal hand that touches creatures to targe
 
 Telekinetic Maneuver (evo): Disarm, Shove, or Trip a creature telekinetically.
 
-Touch of Idiocy (enc): Dull a target’s mind with a touch.
+Touch of Idiocy (enc): Dull a target's mind with a touch.
 
 Undetectable Alignment U (abj): Make a creature or object appear neutral to alignment detection.
 
@@ -698,7 +747,52 @@ Undetectable Alignment U (abj): Make a creature or object appear neutral to alig
 Оккультные заклинания 3-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+:ref:`spell--b--Bind-Undead` (некр.): Берете неразумную нежить под свое управление.
+
+:ref:`spell--b--Blindness` (некр.): Поражает цель слепотой.
+
+:ref:`spell--c--Circle-of-Protection` :sup:`Н, У` (прегр.): Существо излучает ауру, защищающую находящихся внутри, от мировоззрения.
+
+Clairaudience (div): Hear through an invisible magical sensor.
+
+:ref:`spell--d--Dream-Message` :sup:`У` (очар.): Посылает сообщение которое приходит во сне.
+
+Enthrall (enc): Your speech makes creatures fascinated with you.
+
+Ghostly Weapon (tra): Make a weapon affect incorporeal creatures.
+
+:ref:`spell--g--Glyph-of-Warding` (прегр.): Сохраняет заклинание в символе, чтобы сделать ловушку.
+
+Haste H (tra): Speed up a creature so it can attack or move more often.
+
+:ref:`spell--h--Heroism` :sup:`У` (очар.): Подстегивает внутренний героизм существа, чтобы сделать его более умелым.
+
+Hypercognition (div): Recall massive amounts of information in an instant.
+
+Hypnotic Pattern (ill): Shifting colors dazzle and fascinate creatures.
+
+Invisibility Sphere H (ill): You and creatures near you become invisible as you explore.
+
+Levitate (evo): Float an object or creature a few feet off the ground.
+
+:ref:`spell--l--Locate` :sup:`Н, У` (прориц.): Узнайте направление к объекту.
+
+Mind Reading U (div): Read a creature's surface thoughts.
+
+Nondetection U (abj): Protect a creature or object from detection.
+
+Paralyze H (enc): Freeze a humanoid in place.
+
+Secret Page (ill): Alter the appearance of a page.
+
+Slow H (tra): Make a creature slower, reducing its actions.
+
+:ref:`spell--v--Vampiric-Touch` :sup:`У` (некр.): Наносите негативные повреждения касанием и получаете временные ОЗ.
+
+:ref:`spell--w--Wanderers-Guide` (прориц.): Находит идеальный маршрут к месту.
+
+:ref:`spell--z--Zone-of-Truth` :sup:`Н` (очар.): Вынуждает существ говорить правду.
+
 
 
 Оккультные заклинания 4-го ур.
@@ -831,7 +925,7 @@ Undetectable Alignment U (abj): Make a creature or object appear neutral to alig
 
 :ref:`spell--m--Mending` :sup:`У` (превр.): Почините один немагический предмет.
 
-:ref:`spell--l--Negate-Aroma` :sup:`У` (прегр.): Подавите запах существа.
+:ref:`spell--n--Negate-Aroma` :sup:`У` (прегр.): Подавите запах существа.
 
 :ref:`spell--p--Pass-without-Trace` :sup:`У` (прегр.): Делает ваши следы трудно обнаруживаемыми.
 
@@ -864,7 +958,7 @@ Animal Form H (tra): Turn into a dangerous animal.
 
 Animal Messenger (enc): Send a Tiny animal to deliver a message.
 
-Barkskin H (abj): Target’s skin is covered in protective bark.
+Barkskin H (abj): Target's skin is covered in protective bark.
 
 :ref:`spell--c--Continual-Flame` :sup:`У` (разр.): Бесконечно горящее магическое пламя.
 
@@ -936,7 +1030,43 @@ Web H (con): Form a web that keeps creatures from moving.
 Природные заклинания 3-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Animal Vision (div): Project your senses through an animal.
+
+:ref:`spell--b--Blindness` (некр.): Поражает цель слепотой.
+
+Earthbind (tra): Bring a flying creature to the ground.
+
+Feet to Fins H (tra): Turn a creature's feet into fins, enabling it swim but slowing it on land.
+
+
+Fireball H (evo): An explosion of fire in an area burns creatures.
+
+:ref:`spell--g--Glyph-of-Warding` (прегр.): Сохраняет заклинание в символе, чтобы сделать ловушку.
+
+Haste H (tra): Speed up a creature so it can attack or move more often.
+
+Insect Form H (tra): Turn into a dangerous giant insect.
+
+Lightning Bolt H (evo): Lightning strikes all creatures in a line.
+
+Meld into Stone (tra): Meld into a block of stone.
+
+:ref:`spell--n--Neutralize-Poison` (некр.): Исцеляет яд действующий на существо.
+
+Nondetection U (abj): Protect a creature or object from detection.
+
+:ref:`spell--r--Remove-Disease` (некр.): Исцеляет болезнь действующую на существо.
+
+:ref:`spell--s--Searing-Light` :sup:`У` (разр.): Луч жгучего света наносит дополнительные повреждения нежити и бесам, а так же противодействует тьме.
+
+Slow H (tra): Make a creature slower, reducing its actions.
+
+Stinking Cloud (con): Form a cloud that sickens creatures.
+
+Wall of Thorns H (con): Grow a wall of brambles.
+
+Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ranged attacks.
+
 
 
 Природные заклинания 4-го ур.

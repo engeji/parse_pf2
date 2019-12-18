@@ -116,6 +116,7 @@ Creature: существо
 	aberration: аберрация
 	spirit: дух
 	extraplanar: экстрапланарный
+	monitor: наблюдатель
 	
 Currency: Деньги
 	pp: пм / платиновая монета
@@ -375,6 +376,7 @@ trait: признак / особенность
 		detection: обнаружение
 		revelation: откровение
 		force: сила
+		consecration: освящение
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 
