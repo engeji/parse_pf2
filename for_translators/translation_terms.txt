@@ -7,12 +7,12 @@ Ability (об основных статах): характеристика
 activity: активность
 actions:
 	Interact: Взаимодействовать
-	Strike: Удар
+	Strike: Удар :ref:`action--Strike`
 	Cast a Spell: Использовать Заклинание
 	Aid: Помощь
 	Delay: Выждать
 	Ready: Приготовиться
-	Seek: Поиск
+	Seek: Поиск :ref:`action--seek`
 	Maneuver in Flight: Маневрирование в полете
 	Arrest a Fall: Остановить Падение
 	Request: Просьба
@@ -50,7 +50,7 @@ bless: благословение
 bloodline: наследие крови / наследие
 bludgeoning: дробящий
 Broken Threshold: Предел Поломки (ПП)
-Bulk (вес): Часть
+Bulk (вес): масса
 
 cantrip: чары
 cap: ограничение
@@ -117,6 +117,7 @@ Creature: существо
 	spirit: дух
 	extraplanar: экстрапланарный
 	monitor: наблюдатель
+	lizardfolk: людоящер
 	
 Currency: Деньги
 	pp: пм / платиновая монета
@@ -284,7 +285,7 @@ Skill: Навык
 		Create a Diversion: Отвлечь Внимание
 		Feint: Ложный Выпад
 		Lie: Солгать
-		Impersonate: Перевоплотиться
+		Impersonate: Перевоплотиться :ref:`skill--Deception--Impersonate`
 	Diplomacy: Дипломатия
 		Gather Information: Собрать информацию
 		Make an Impression: Произвести Впечатление
@@ -301,8 +302,8 @@ Skill: Навык
 	Stealth: скрытность
 		Avoid Notice: Избежать Обнаружения
 		Conceal an Object: Скрыть предмет
-		Hide: Спрятаться
-		Sneak: Красться
+		Hide: Спрятаться :ref:`skill--Stealth--Hide`
+		Sneak: Красться :ref:`skill--Stealth--Sneak`
 	Medicine: Медицина
 		Administer First Aid: Первая Помощь
 		Treat Wounds: Лечение Ран :ref:`skill--Medicine--Treat-Wounds`

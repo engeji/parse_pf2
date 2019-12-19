@@ -150,7 +150,7 @@
 
 Acid Arrow H (evo): Magical arrow deals acid damage persistently.
 
-Blur (ill): Cause a target's form to become blurry and hard to hit.
+:ref:`spell--b--Blur` (иллюз.): Делает форму цели размытой и в нее труднее попасть.
 
 :ref:`spell--c--Comprehend-Language` :sup:`У` (прориц.): Существо понимает один язык.
 
@@ -170,7 +170,7 @@ Blur (ill): Cause a target's form to become blurry and hard to hit.
 
 Enlarge H (tra): A creature grows in size.
 
-False Life H (nec): Gain temporary HP.
+:ref:`spell--f--False-Life` :sup:`У` (некр.): Дает временные ОЗ.
 
 Flaming Sphere H (evo): A ball of fire rolls about at your command.
 
@@ -178,25 +178,25 @@ Flaming Sphere H (evo): A ball of fire rolls about at your command.
 
 Блестки (Glitterdust) (разр.): Сверкающая пыль прерывает невидимость и мешает зрению.
 
-Hideous Laughter (enc): Fits of laughter make a creature unable to take all its actions.
+:ref:`spell--h--Hideous-Laughter` (очар.): Приступы смеха не дают существу совершать все свои действия.
 
-Humanoid Form H (tra): Take the shape of a humanoid.
+:ref:`spell--h--Humanoid-Form` :sup:`У` (превр.): Принимаете форму гуманоида.
 
-Illusory Creature H (ill): Form a convincing illusion of a creature.
+:ref:`spell--i--Illusory-Creature` :sup:`У` (иллюз.): Создает убедительную иллюзию существа.
 
-Invisibility H (ill): A creature can't be seen until it attacks.
+:ref:`spell--i--Invisibility` :sup:`У` (иллюз.): Существо не может быть увидено пока не атакует.
 
-Knock (tra): Make a door, lock, or container easier to open, and possibly open it immediately.
+:ref:`spell--k--Knock` (превр.): Дверь, замок или контейнер становится легче открыть, или даже можно открыть мгновенно.
 
-Magic Mouth (ill): Make an illusory mouth appear to speak a message.
+:ref:`spell--m--Magic-Mouth` (иллюз.): Создает иллюзорный рот, который появляется и произносит сообщение.
 
-Mirror Image (ill): Illusory duplicates of you cause attacks to miss.
+:ref:`spell--m--Mirror-Image` (иллюз.): Ваши иллюзорные двойники заставляют атаки промахиваться.
 
-Misdirection (ill): Cause one creature's auras to appear to be another's.
+:ref:`spell--m--Misdirection` (иллюз.): Заставьте ауры одного существа/объекта казаться аурами другого.
 
 Obscuring Mist (con): Conceal creatures in a cloud of mist.
 
-Phantom Steed H (con): Conjure a magical horse.
+:ref:`spell--p--Phantom-Steed` :sup:`У` (вопл.): Создайте магическую лошадь.
 
 :ref:`spell--r--Resist-Energy` :sup:`У` (прегр.): Защищает существо от повреждений одного вида энергии.
 
@@ -204,15 +204,15 @@ Phantom Steed H (con): Conjure a magical horse.
 
 Shrink H (tra): Reduce a willing creature to Tiny size.
 
-Spectral Hand (nec): Semicorporeal hand touches creatures to target them with your spells.
+:ref:`spell--s--Spectral-Hand` (некр.): Создайте полуматериальную руку которая касается существ чтобы направить на них ваши заклинания.
 
 Spider Climb H (tra): Give a creature a climb Speed.
 
 Summon Elemental H (con): Conjure an elemental to fight on your behalf.
 
-Telekinetic Maneuver (evo): Disarm, Shove, or Trip a creature telekinetically.
+:ref:`spell--t--Telekinetic-Maneuver` (разр.): Телекинетически Разоружает, Толкает или Опрокидывает существо.
 
-Touch of Idiocy (enc): Dull a target's mind with a touch.
+:ref:`spell--t--Touch-of-Idiocy` (очар.): Касанием притупляет сознание цели.
 
 :ref:`spell--w--Water-Breathing` :sup:`У` (превр.): Позволяет существам дышать под водой.
 
@@ -667,7 +667,7 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 :ref:`spell--a--Augury` (прориц.): Предсказание, будет ли то или иное действие успешным.
 
-Blur (ill): Cause a target's form to become blurry and hard to hit.
+:ref:`spell--b--Blur` (иллюз.): Делает форму цели размытой и в нее труднее попасть.
 
 :ref:`spell--c--Calm-Emotions` (очар.): Подавляет сильные эфмоции и враждебность.
 
@@ -687,31 +687,31 @@ Blur (ill): Cause a target's form to become blurry and hard to hit.
 
 :ref:`spell--f--Faerie-Fire` (разр.): Цветное свечение мешает существам стать скрытыми или невидимыми.
 
-False Life H (nec): Gain temporary HP.
+:ref:`spell--f--False-Life` :sup:`У` (некр.): Дает временные ОЗ.
 
 :ref:`spell--g--Gentle-Repose` :sup:`У` (некр.): Тело не разлагается и не может стать нежитью.
 
 :ref:`spell--g--Ghoulish-Cravings` (некр.): Заразите существо лихорадкой упыря
 
-Hideous Laughter (enc): Fits of laughter make a creature unable to take all its actions.
+:ref:`spell--h--Hideous-Laughter` (очар.): Приступы смеха не дают существу совершать все свои действия.
 
-Humanoid Form H (tra): Take the shape of a humanoid.
+:ref:`spell--h--Humanoid-Form` :sup:`У` (превр.): Принимаете форму гуманоида.
 
-Illusory Creature H (ill): Form a convincing illusion of a creature.
+:ref:`spell--i--Illusory-Creature` :sup:`У` (иллюз.): Создает убедительную иллюзию существа.
 
-Invisibility H (ill): A creature can't be seen until it attacks.
+:ref:`spell--i--Invisibility` :sup:`У` (иллюз.): Существо не может быть увидено пока не атакует.
 
-Knock (tra): Make a door, lock, or container easier to open, and possibly open it immediately.
+:ref:`spell--k--Knock` (превр.): Дверь, замок или контейнер становится легче открыть, или даже можно открыть мгновенно.
 
-Magic Mouth (ill): Make an illusory mouth appear to speak a message.
+:ref:`spell--m--Magic-Mouth` (иллюз.): Создает иллюзорный рот, который появляется и произносит сообщение.
 
-Mirror Image (ill): Illusory duplicates of you cause attacks to miss.
+:ref:`spell--m--Mirror-Image` (иллюз.): Ваши иллюзорные двойники заставляют атаки промахиваться.
 
-Misdirection (ill): Cause one creature's auras to appear to be another's.
+:ref:`spell--m--Misdirection` (иллюз.): Заставьте ауры одного существа/объекта казаться аурами другого.
 
-Paranoia H (ill): Make a creature believe everyone is a threat.
+:ref:`spell--p--Paranoia` :sup:`У` (иллюз.): Заставляет существо поверить что все вокруг - угроза.
 
-Phantom Steed H (con): Conjure a magical horse.
+:ref:`spell--p--Phantom-Steed` :sup:`У` (вопл.): Создайте магическую лошадь.
 
 :ref:`spell--r--Remove-Fear` :sup:`У` (очар.): Избавьте существо от его страхов.
 
@@ -725,23 +725,24 @@ Phantom Steed H (con): Conjure a magical horse.
 
 :ref:`spell--s--See-Invisibility` :sup:`У` (прориц.): Видеть невидимых существ и объекты.
 
-Shatter H (evo): Shatter an object with a high-frequency sonic attack.
+:ref:`spell--s--Shatter` :sup:`У` (разр.): Разбивает объект высокочастотной звуковой атакой.
 
 :ref:`spell--s--Silence` :sup:`У` (иллюз.): Заглушает все звуки от существа.
 
 :ref:`spell--s--Sound-Burst` :sup:`У` (разр.): Повреждает и оглушает существ мощным грохотом.
 
-Spectral Hand (nec): Create a semicorporeal hand that touches creatures to target them with your spells.
+:ref:`spell--s--Spectral-Hand` (некр.): Создайте полуматериальную руку которая касается существ чтобы направить на них ваши заклинания.
 
 :ref:`spell--s--Spiritual-Weapon` :sup:`У` (разр.): Материализует божественное оружие из силы, которое появляется и неоднократно атакует.
 
 :ref:`spell--s--Status` :sup:`У` (прориц.): Следит за местоположением готового существа и его благополучием.
 
-Telekinetic Maneuver (evo): Disarm, Shove, or Trip a creature telekinetically.
+:ref:`spell--t--Telekinetic-Maneuver` (разр.): Телекинетически Разоружает, Толкает или Опрокидывает существо.
 
-Touch of Idiocy (enc): Dull a target's mind with a touch.
+:ref:`spell--t--Touch-of-Idiocy` (очар.): Касанием притупляет сознание цели.
 
-Undetectable Alignment U (abj): Make a creature or object appear neutral to alignment detection.
+:ref:`spell--u--Undetectable-Alignment` :sup:`Н` (прегр.): Делает существо или объект выглядящим нейтральным для обнаружения мировоззрения.
+
 
 
 Оккультные заклинания 3-го ур.
@@ -988,11 +989,11 @@ Flaming Sphere H (evo): A ball of fire rolls about at your command.
 
 Glitterdust (evo): Sparkling dust breaks invisibility and impedes vision.
 
-Humanoid Form H (tra): Take the shape of a humanoid.
+:ref:`spell--h--Humanoid-Form` :sup:`У` (превр.): Принимаете форму гуманоида.
 
 Obscuring Mist (con): Conceal creatures in a cloud of mist.
 
-Phantom Steed H (con): Conjure a magical horse.
+:ref:`spell--p--Phantom-Steed` :sup:`У` (вопл.): Создайте магическую лошадь.
 
 :ref:`spell--r--Remove-Fear` :sup:`У` (очар.): Избавьте существо от его страхов.
 
@@ -1006,7 +1007,7 @@ Phantom Steed H (con): Conjure a magical horse.
 
 Shape Wood (tra): Reshape unworked wood as you choose.
 
-Shatter H (evo): Shatter an object with a high-frequency sonic attack.
+:ref:`spell--s--Shatter` :sup:`У` (разр.): Разбивает объект высокочастотной звуковой атакой.
 
 Shrink H (tra): Reduce a willing creature to Tiny size.
 
