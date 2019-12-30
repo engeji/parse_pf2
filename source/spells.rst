@@ -150,7 +150,7 @@
 Мистические заклинания 2-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Acid Arrow H (evo): Magical arrow deals acid damage persistently.
+:ref:`spell--a--Acid-Arrow` :sup:`У` (разр.): Магическая стрела наносящая продолжительные кислотные повреждения.
 
 :ref:`spell--b--Blur` (иллюз.): Делает форму цели размытой и в нее труднее попасть.
 
@@ -170,15 +170,15 @@ Acid Arrow H (evo): Magical arrow deals acid damage persistently.
 
 :ref:`spell--e--Endure-Elements` :sup:`У` (прегр.): Защищает существо от сильного холода или жары.
 
-Enlarge H (tra): A creature grows in size.
+:ref:`spell--e--Enlarge` :sup:`У` (превр.): Существо увеличивается в размере.
 
 :ref:`spell--f--False-Life` :sup:`У` (некр.): Дает временные ОЗ.
 
-Flaming Sphere H (evo): A ball of fire rolls about at your command.
+:ref:`spell--f--Flaming-Sphere` :sup:`У` (разр.): Шар огня катится по вашей команде.
 
 :ref:`spell--g--Gentle-Repose` :sup:`У` (некр.): Тело не разлагается и не может стать нежитью.
 
-Блестки (Glitterdust) (разр.): Сверкающая пыль прерывает невидимость и мешает зрению.
+:ref:`spell--g--Glitterdust` (разр.): Сверкающая пыль прерывает невидимость и мешает зрению.
 
 :ref:`spell--h--Hideous-Laughter` (очар.): Приступы смеха не дают существу совершать все свои действия.
 
@@ -196,7 +196,7 @@ Flaming Sphere H (evo): A ball of fire rolls about at your command.
 
 :ref:`spell--m--Misdirection` (иллюз.): Заставьте ауры одного существа/объекта казаться аурами другого.
 
-Obscuring Mist (con): Conceal creatures in a cloud of mist.
+:ref:`spell--o--Obscuring-Mist` (вопл.): Скрывает существ в облаке тумана.
 
 :ref:`spell--p--Phantom-Steed` :sup:`У` (вопл.): Создайте магическую лошадь.
 
@@ -204,13 +204,13 @@ Obscuring Mist (con): Conceal creatures in a cloud of mist.
 
 :ref:`spell--s--See-Invisibility` :sup:`У` (прориц.): Видеть невидимых существ и объекты.
 
-Shrink H (tra): Reduce a willing creature to Tiny size.
+:ref:`spell--s--Shrink` :sup:`У` (превр.): Уменьшает готовое существо до крошечного размера.
 
 :ref:`spell--s--Spectral-Hand` (некр.): Создайте полуматериальную руку которая касается существ чтобы направить на них ваши заклинания.
 
-Spider Climb H (tra): Give a creature a climb Speed.
+:ref:`spell--s--Spider-Climb` :sup:`У` (превр.): Дает существу скорость карабканья.
 
-Summon Elemental H (con): Conjure an elemental to fight on your behalf.
+:ref:`spell--s--Summon-Elemental` :sup:`У` (вопл.): Призывает элементаля сражаться за вас.
 
 :ref:`spell--t--Telekinetic-Maneuver` (разр.): Телекинетически Разоружает, Толкает или Опрокидывает существо.
 
@@ -220,7 +220,8 @@ Summon Elemental H (con): Conjure an elemental to fight on your behalf.
 
 :ref:`spell--w--Water-Walk` :sup:`У` (превр.): Поддерживает существо, так что оно может ходить по воде.
 
-Web H (con): Form a web that keeps creatures from moving.
+:ref:`spell--w--Web` :sup:`У` (вопл.): Создает паутину, которая мешает существу двигаться.
+
 
 
 Мистические заклинания 3-го ур.
@@ -955,7 +956,7 @@ Slow H (tra): Make a creature slower, reducing its actions.
 Природные заклинания 2-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Acid Arrow H (evo): Magical arrow deals acid damage persistently.
+:ref:`spell--a--Acid-Arrow` :sup:`У` (разр.): Магическая стрела наносящая продолжительные кислотные повреждения.
 
 Animal Form H (tra): Turn into a dangerous animal.
 
@@ -979,21 +980,21 @@ Barkskin H (abj): Target's skin is covered in protective bark.
 
 :ref:`spell--e--Enhance-Victuals` :sup:`У` (превр.): Улучшает еду и напитки, и убирает яды.
 
-Enlarge H (tra): A creature grows in size.
+:ref:`spell--e--Enlarge` :sup:`У` (превр.): Существо увеличивается в размере.
 
 Entangle (tra): Plants in an area grow to entangle and immobilize.
 
 :ref:`spell--f--Faerie-Fire` (разр.): Цветное свечение мешает существам стать скрытыми или невидимыми.
 
-Flaming Sphere H (evo): A ball of fire rolls about at your command.
+:ref:`spell--f--Flaming-Sphere` :sup:`У` (разр.): Шар огня катится по вашей команде.
 
 :ref:`spell--g--Gentle-Repose` :sup:`У` (некр.): Тело не разлагается и не может стать нежитью.
 
-Glitterdust (evo): Sparkling dust breaks invisibility and impedes vision.
+:ref:`spell--g--Glitterdust` (разр.): Сверкающая пыль прерывает невидимость и мешает зрению.
 
 :ref:`spell--h--Humanoid-Form` :sup:`У` (превр.): Принимаете форму гуманоида.
 
-Obscuring Mist (con): Conceal creatures in a cloud of mist.
+:ref:`spell--o--Obscuring-Mist` (вопл.): Скрывает существ в облаке тумана.
 
 :ref:`spell--p--Phantom-Steed` :sup:`У` (вопл.): Создайте магическую лошадь.
 
@@ -1019,7 +1020,7 @@ Spider Climb H (tra): Give a creature a climb Speed.
 
 :ref:`spell--s--Status` :sup:`У` (прориц.): Следит за местоположением готового существа и его благополучием.
 
-Summon Elemental H (con): Conjure an elemental to fight on your behalf.
+:ref:`spell--s--Summon-Elemental` :sup:`У` (вопл.): Призывает элементаля сражаться за вас.
 
 Tree Shape (tra): Turn into a tree.
 
@@ -1027,7 +1028,7 @@ Tree Shape (tra): Turn into a tree.
 
 :ref:`spell--w--Water-Walk` :sup:`У` (превр.): Поддерживает существо, так что оно может ходить по воде.
 
-Web H (con): Form a web that keeps creatures from moving.
+:ref:`spell--w--Web` :sup:`У` (вопл.): Создает паутину, которая мешает существу двигаться.
 
 
 Природные заклинания 3-го ур.
