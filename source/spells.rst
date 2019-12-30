@@ -18,6 +18,8 @@
 Аббревиатуры в скобках обозначают школы магии.
 
 
+.. _spells-list--Arcane:
+
 Мистические заклинания
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -26,7 +28,7 @@
 
 :ref:`spell--a--Acid-Splash` :sup:`У` (разр.): Наносите существам повреждения кислотой.
 
-:ref:`spell--c--chill-touch` :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
+:ref:`spell--c--Chill-Touch` :sup:`У` (некр.): Ваше прикосновение ранит живых или дезориентирует нежить.
 
 :ref:`spell--d--Dancing-Lights` (разр.): Создате четыре парящих огонька, которые вы можете перемещать.
 
@@ -148,7 +150,7 @@
 Мистические заклинания 2-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Acid Arrow H (evo): Magical arrow deals acid damage persistently.
+:ref:`spell--a--Acid-Arrow` :sup:`У` (разр.): Магическая стрела наносящая продолжительные кислотные повреждения.
 
 :ref:`spell--b--Blur` (иллюз.): Делает форму цели размытой и в нее труднее попасть.
 
@@ -168,15 +170,15 @@ Acid Arrow H (evo): Magical arrow deals acid damage persistently.
 
 :ref:`spell--e--Endure-Elements` :sup:`У` (прегр.): Защищает существо от сильного холода или жары.
 
-Enlarge H (tra): A creature grows in size.
+:ref:`spell--e--Enlarge` :sup:`У` (превр.): Существо увеличивается в размере.
 
 :ref:`spell--f--False-Life` :sup:`У` (некр.): Дает временные ОЗ.
 
-Flaming Sphere H (evo): A ball of fire rolls about at your command.
+:ref:`spell--f--Flaming-Sphere` :sup:`У` (разр.): Шар огня катится по вашей команде.
 
 :ref:`spell--g--Gentle-Repose` :sup:`У` (некр.): Тело не разлагается и не может стать нежитью.
 
-Блестки (Glitterdust) (разр.): Сверкающая пыль прерывает невидимость и мешает зрению.
+:ref:`spell--g--Glitterdust` (разр.): Сверкающая пыль прерывает невидимость и мешает зрению.
 
 :ref:`spell--h--Hideous-Laughter` (очар.): Приступы смеха не дают существу совершать все свои действия.
 
@@ -194,7 +196,7 @@ Flaming Sphere H (evo): A ball of fire rolls about at your command.
 
 :ref:`spell--m--Misdirection` (иллюз.): Заставьте ауры одного существа/объекта казаться аурами другого.
 
-Obscuring Mist (con): Conceal creatures in a cloud of mist.
+:ref:`spell--o--Obscuring-Mist` (вопл.): Скрывает существ в облаке тумана.
 
 :ref:`spell--p--Phantom-Steed` :sup:`У` (вопл.): Создайте магическую лошадь.
 
@@ -202,13 +204,13 @@ Obscuring Mist (con): Conceal creatures in a cloud of mist.
 
 :ref:`spell--s--See-Invisibility` :sup:`У` (прориц.): Видеть невидимых существ и объекты.
 
-Shrink H (tra): Reduce a willing creature to Tiny size.
+:ref:`spell--s--Shrink` :sup:`У` (превр.): Уменьшает готовое существо до крошечного размера.
 
 :ref:`spell--s--Spectral-Hand` (некр.): Создайте полуматериальную руку которая касается существ чтобы направить на них ваши заклинания.
 
-Spider Climb H (tra): Give a creature a climb Speed.
+:ref:`spell--s--Spider-Climb` :sup:`У` (превр.): Дает существу скорость карабканья.
 
-Summon Elemental H (con): Conjure an elemental to fight on your behalf.
+:ref:`spell--s--Summon-Elemental` :sup:`У` (вопл.): Призывает элементаля сражаться за вас.
 
 :ref:`spell--t--Telekinetic-Maneuver` (разр.): Телекинетически Разоружает, Толкает или Опрокидывает существо.
 
@@ -218,7 +220,8 @@ Summon Elemental H (con): Conjure an elemental to fight on your behalf.
 
 :ref:`spell--w--Water-Walk` :sup:`У` (превр.): Поддерживает существо, так что оно может ходить по воде.
 
-Web H (con): Form a web that keeps creatures from moving.
+:ref:`spell--w--Web` :sup:`У` (вопл.): Создает паутину, которая мешает существу двигаться.
+
 
 
 Мистические заклинания 3-го ур.
@@ -320,7 +323,7 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-
+.. _spells-list--Divine:
 
 Сакральные заклинания
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -553,7 +556,7 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-
+.. _spells-list--Occult:
 
 Оккультные заклинания
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -845,7 +848,7 @@ Slow H (tra): Make a creature slower, reducing its actions.
 
 
 
-
+.. _spells-list--Primal:
 
 Природные заклинания
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -953,7 +956,7 @@ Slow H (tra): Make a creature slower, reducing its actions.
 Природные заклинания 2-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Acid Arrow H (evo): Magical arrow deals acid damage persistently.
+:ref:`spell--a--Acid-Arrow` :sup:`У` (разр.): Магическая стрела наносящая продолжительные кислотные повреждения.
 
 Animal Form H (tra): Turn into a dangerous animal.
 
@@ -977,21 +980,21 @@ Barkskin H (abj): Target's skin is covered in protective bark.
 
 :ref:`spell--e--Enhance-Victuals` :sup:`У` (превр.): Улучшает еду и напитки, и убирает яды.
 
-Enlarge H (tra): A creature grows in size.
+:ref:`spell--e--Enlarge` :sup:`У` (превр.): Существо увеличивается в размере.
 
 Entangle (tra): Plants in an area grow to entangle and immobilize.
 
 :ref:`spell--f--Faerie-Fire` (разр.): Цветное свечение мешает существам стать скрытыми или невидимыми.
 
-Flaming Sphere H (evo): A ball of fire rolls about at your command.
+:ref:`spell--f--Flaming-Sphere` :sup:`У` (разр.): Шар огня катится по вашей команде.
 
 :ref:`spell--g--Gentle-Repose` :sup:`У` (некр.): Тело не разлагается и не может стать нежитью.
 
-Glitterdust (evo): Sparkling dust breaks invisibility and impedes vision.
+:ref:`spell--g--Glitterdust` (разр.): Сверкающая пыль прерывает невидимость и мешает зрению.
 
 :ref:`spell--h--Humanoid-Form` :sup:`У` (превр.): Принимаете форму гуманоида.
 
-Obscuring Mist (con): Conceal creatures in a cloud of mist.
+:ref:`spell--o--Obscuring-Mist` (вопл.): Скрывает существ в облаке тумана.
 
 :ref:`spell--p--Phantom-Steed` :sup:`У` (вопл.): Создайте магическую лошадь.
 
@@ -1017,7 +1020,7 @@ Spider Climb H (tra): Give a creature a climb Speed.
 
 :ref:`spell--s--Status` :sup:`У` (прориц.): Следит за местоположением готового существа и его благополучием.
 
-Summon Elemental H (con): Conjure an elemental to fight on your behalf.
+:ref:`spell--s--Summon-Elemental` :sup:`У` (вопл.): Призывает элементаля сражаться за вас.
 
 Tree Shape (tra): Turn into a tree.
 
@@ -1025,7 +1028,7 @@ Tree Shape (tra): Turn into a tree.
 
 :ref:`spell--w--Water-Walk` :sup:`У` (превр.): Поддерживает существо, так что оно может ходить по воде.
 
-Web H (con): Form a web that keeps creatures from moving.
+:ref:`spell--w--Web` :sup:`У` (вопл.): Создает паутину, которая мешает существу двигаться.
 
 
 Природные заклинания 3-го ур.
@@ -1190,8 +1193,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 Этот раздел так же содержит композиции чары.
 
 
-Ответное выступление (Counter Performance) / Фокус. 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Ответное выступление (`Counter Performance <http://2e.aonprd.com/Spells.aspx?ID=381>`_) / Фокус. 1 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - удача
@@ -1214,8 +1217,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Вдохновить умения (Inspire Competence) / Чары 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Вдохновить умения (`Inspire Competence <http://2e.aonprd.com/Spells.aspx?ID=385>`_) / Чары 1 ур.
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - чары
@@ -1244,8 +1247,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Вдохновить на смелость (Inspire Courage) / Чары 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Вдохновить на смелость (`Inspire Courage <http://2e.aonprd.com/Spells.aspx?ID=386>`_) / Чары 1 ур.
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - чары
@@ -1268,8 +1271,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Вдохновить на защиту (Inspire Defense) / Чары 2 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Вдохновить на защиту (`Inspire Defense <http://2e.aonprd.com/Spells.aspx?ID=387>`_) / Чары 2 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - чары
@@ -1292,8 +1295,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Затяжная композиция (Lingering Composition) / Фокус. 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Затяжная композиция (`Lingering Composition <http://2e.aonprd.com/Spells.aspx?ID=389>`_) / Фокус. 1 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - очарование
@@ -1314,8 +1317,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Этюд хранителя знаний (Loremaster's Etude) / Фокус. 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Этюд хранителя знаний (`Loremaster's Etude <http://2e.aonprd.com/Spells.aspx?ID=390>`_) / Фокус. 1 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - удача
@@ -1337,8 +1340,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Трехдольный размер (Triple Time) / Чары 2 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Трехдольный размер (`Triple Time <http://2e.aonprd.com/Spells.aspx?ID=392>`_) / Чары 2 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - чары
@@ -1370,8 +1373,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-Наложение рук (Lay On Hands) / Фокус. 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Наложение рук (`Lay On Hands <http://2e.aonprd.com/Spells.aspx?ID=395>`_) / Фокус. 1 ур.
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - исцеление
@@ -1407,8 +1410,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-Благословение целителя (Healer's Blessing) / Фокус. 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Благословение целителя (`Healer's Blessing <http://2e.aonprd.com/Spells.aspx?ID=426>`_) / Фокус. 1 ур.
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - некромантия
@@ -1437,8 +1440,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Упрекнуть смерть (Rebuke Death) / Фокус. 4 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Упрекнуть смерть (`Rebuke Death <http://2e.aonprd.com/Spells.aspx?ID=446>`_) / Фокус. 4 ур.
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - исцеление
@@ -1487,8 +1490,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 Друиды могут получить следующие заклинания орденов.
 
 
-Чудо-ягода (Goodberry) / Фокус. 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Чудо-ягода (`Goodberry <http://2e.aonprd.com/Spells.aspx?ID=473>`_) / Фокус. 1 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - исцеление
@@ -1520,8 +1523,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 	Время использования, длительность, восстанавливаемые ОЗ, усиление.
 
 
-Исцелить животное (Heal Animal) / Фокус. 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Исцелить животное (`Heal Animal <http://2e.aonprd.com/Spells.aspx?ID=474>`_) / Фокус. 1 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - исцеление
@@ -1549,8 +1552,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Внезапная буря (Tempest Surge) / Фокус. 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Внезапная буря (`Tempest Surge <http://2e.aonprd.com/Spells.aspx?ID=479>`_) / Фокус. 1 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - воздух
@@ -1579,8 +1582,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Дикая трансформация (Wild Morph) / Фокус. 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Дикая трансформация (`Wild Morph <http://2e.aonprd.com/Spells.aspx?ID=480>`_) / Фокус. 1 ур.
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - трансформация
@@ -1608,8 +1611,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Дикая форма (Wild Shape) / Фокус. 1 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Дикая форма (`Wild Shape <http://2e.aonprd.com/Spells.aspx?ID=481>`_) / Фокус. 1 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - полиморф
@@ -1645,7 +1648,7 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-Рывок ки (Ki Rush) / Фокус. 1 ур.
+Рывок ки (`Ki Rush <http://2e.aonprd.com/Spells.aspx?ID=485>`_) / Фокус. 1 ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -1662,7 +1665,7 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Удар ки (Ki Strike) / Фокус. 1 ур.
+Удар ки (`Ki Strike <http://2e.aonprd.com/Spells.aspx?ID=486>`_) / Фокус. 1 ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -1684,8 +1687,8 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 
 
 
-Единство тела (Wholeness Of Body) / Фокус. 2 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Единство тела (`Wholeness Of Body <http://2e.aonprd.com/Spells.aspx?ID=488>`_) / Фокус. 2 ур.
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
 - монах
