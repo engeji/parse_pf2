@@ -6,7 +6,7 @@
 ===========
 
 
-<...>
+.. include:: /spells/general_info.rst
 
 
 Списки заклинаний

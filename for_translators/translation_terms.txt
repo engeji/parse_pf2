@@ -8,7 +8,7 @@ activity: активность
 actions:
 	Interact: Взаимодействовать
 	Strike: Удар :ref:`action--Strike`
-	Cast a Spell: Использовать Заклинание
+	Cast a Spell: Использование заклинания :ref:`action--Cast-a-Spell`
 	Aid: Помощь
 	Delay: Выждать
 	Ready: Приготовиться
@@ -378,6 +378,7 @@ trait: признак / особенность
 		revelation: откровение
 		force: сила
 		consecration: освящение
+		Summoned: призванный
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 
