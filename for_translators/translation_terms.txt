@@ -27,11 +27,12 @@ actions:
 	Crawl: Ползти
 	Mount: Оседлать
 	Sense the Motive: Понять Намерение
-	Identify Magic: Определить Магию
+	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
 	Decipher Writing: Расшифровка Писаний :ref:`activity--gen--Decipher-Writing`
 	Earn Income: Заработать деньги
 	Refocus: Сфокусироваться
 	Leap: Прыжок :ref:`action--Leap`
+	Recall Knowledge: Вспомнить Изученное :ref:`skill--Recall-Knowledge`
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
@@ -246,7 +247,6 @@ range: дистанция
 	range increment: шаг дистанции
 reach: досягаемость
 remove disease: вылечить болезнь
-Recall Knowledge: Вспомнить Изученное :ref:`skill--Recall-Knowledge`
 rune: руна
 	striking rune: разящая руна
 	potency rune +1/2/3: руна мощи +1/2/3
