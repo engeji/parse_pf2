@@ -6,7 +6,7 @@ Ability (об основных статах): характеристика
 	ability modifier: модификатор характеристики
 activity: активность
 actions:
-	Interact: Взаимодействовать
+	Interact: Взаимодействовать :ref:`action--Interact`
 	Strike: Удар :ref:`action--Strike`
 	Cast a Spell: Использование заклинания :ref:`action--Cast-a-Spell`
 	Aid: Помощь
@@ -19,7 +19,7 @@ actions:
 	Take Cover: Укрыться
 	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO) :ref:`action--Stride`
 	Step: Шаг (короткий, НЕ провоцирует AoO)
-	Escape: Вырваться
+	Escape: Вырваться :ref:`action--Escape`
 	Dismiss (о заклинании или эффекте): Развеять
 	Sustain a Spell: Поддержать Заклинание
 	Fly: Лететь
@@ -284,7 +284,7 @@ Skill: Навык
 	Deception: Обман
 		Create a Diversion: Отвлечь Внимание
 		Feint: Ложный Выпад
-		Lie: Солгать
+		Lie: Лгать :ref:`skill--Deception--Lie`
 		Impersonate: Перевоплотиться :ref:`skill--Deception--Impersonate`
 	Diplomacy: Дипломатия
 		Gather Information: Собрать информацию
