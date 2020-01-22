@@ -284,7 +284,69 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 Мистические заклинания 4-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Aerial Form (tra) H: Turn into a flying combatant.
+
+Blink (con) H: Flit between the planes, vanishing and reappearing.
+
+Clairvoyance (div): See through an invisible magical sensor.
+
+Confusion (enc) H: Befuddle a creature, making it act randomly.
+
+Creation (con) H: Make a temporary object.
+
+Detect Scrying (div) H U: Find out if scrying effects are in the area.
+
+Dimension Door (con) H: Teleport yourself up to 120 feet.
+
+:ref:`spell--d--Dimensional-Anchor` (прегр.): Удерживает существо от телепортации или перемещения на другие планы.
+
+:ref:`spell--d--Discern-Lies` :sup:`Н` (прориц.): Умело выявляет ложь и обман.
+
+Fire Shield (evo) H: Flames protect you from cold and harm those that touch you.
+
+Fly (tra) H: Cause the target creature to gain a fly Speed.
+
+Forgotten Lines (div)HR: Restore destroyed or censored text.
+
+:ref:`spell--f--Freedom-of-Movement` (прегр.): Существо преодолевает то что препятствует для его движению.
+
+Gaseous Form (tra): Turn a willing creature into a flying cloud.
+
+:ref:`spell--g--Globe-of-Invulnerability` :sup:`Н` (прегр.): Магическая сфера противодействует заклинания которые в нее войдут.
+
+Hallucinatory Terrain (ill) H U: A natural environment appears to be another kind of terrain.
+
+Nightmare (ill): Plague a creature's dreams with disturbing nightmares.
+
+:ref:`spell--o--Outcasts-Curse` (очар.): Проклинает существо на то чтобы быть отталкивающим и раздражающим.
+
+Phantasmal Killer (ill) H: Place a fearsome image in a creature's mind to scare and possibly kill it.
+
+Private Sanctum (abj) U: Black fog prevents sensing, scrying, and mind-reading on anyone within.
+
+Resilient Sphere (abj): Create a sphere of force that blocks anything that would come through.
+
+Rope Trick (con) U: Animate a rope that rises to an extradimensional hiding place.
+
+Shape Stone (tra): Reshape a cube of stone.
+
+Solid Fog (con): Conjure heavy fog that obscures sight and is hard to move through.
+
+:ref:`spell--s--Spell-Immunity` (прегр.): Называете заклинание, чей эффект не действует на цель.
+
+Stoneskin (abj) H: Harden a creature's skin into durable stone.
+
+Suggestion (enc) H: Suggest a course of action a creature must follow.
+
+Telepathy (div) H: Communicate telepathically with any creatures near you.
+
+Veil (ill) H: Disguise many creatures as other creatures.
+
+Wall of Fire (evo) H: Create a blazing wall burns creatures that pass through.
+
+Weapon Storm (evo) H: Multiply a weapon you hold and attack many creatures with it.
+
+
 
 Мистические заклинания 5-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -513,7 +575,35 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 Сакральные заклинания 4-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+:ref:`spell--a--Air-Walk` (превр.): Ходить по воздуху как по твердой земле.
+
+:ref:`spell--a--Anathematic-Reprisal` :sup:`У` (очар.): Причиняет ментальную боль тому, кто совершает акт анафемы вашего божества.
+
+:ref:`spell--d--Dimensional-Anchor` (прегр.): Удерживает существо от телепортации или перемещения на другие планы.
+
+:ref:`spell--d--Discern-Lies` :sup:`Н` (прориц.): Умело выявляет ложь и обман.
+
+:ref:`spell--d--Divine-Wrath` :sup:`У` (разр.): Наносит повреждения и мешает существам, чье мировоззрение противоположно вашему божеству.
+
+:ref:`spell--f--Freedom-of-Movement` (прегр.): Существо преодолевает то что препятствует для его движению.
+
+:ref:`spell--g--Globe-of-Invulnerability` :sup:`Н` (прегр.): Магическая сфера противодействует заклинаниям, которые в нее попадают.
+
+:ref:`spell--h--Holy-Cascade` :sup:`У` (разр.): Превращает пузырек святой воды во взрыв из святой воды.
+
+:ref:`spell--o--Outcasts-Curse` (очар.): Проклинает существо на то чтобы быть отталкивающим и раздражающим.
+
+:ref:`spell--r--Read-Omens` :sup:`Н` (прориц.): Получаете совет о предстоящем событии.
+
+:ref:`spell--r--Remove-Curse` (некр.): Противодействует проклятию, поразившему существо.
+
+:ref:`spell--s--Spell-Immunity` (прегр.): Называете заклинание, чей эффект не действует на цель.
+
+:ref:`spell--t--Talking-Corpse` :sup:`Н` (некр.): Заставляет труп ответить на три вопроса.
+
+:ref:`spell--v--Vital-Beacon` :sup:`У` (некр.): Излучайте жизненную силу, которая исцеляет существ, которые прикасаются к вам.
+
+
 
 Сакральные заклинания 5-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -802,7 +892,60 @@ Slow H (tra): Make a creature slower, reducing its actions.
 Оккультные заклинания 4-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Blink (con) H: Flit between the planes, vanishing and reappearing.
+
+Clairvoyance (div): See through an invisible magical sensor.
+
+Confusion (enc) H: Befuddle a creature, making it act randomly.
+
+Detect Scrying (div) H U: Find out if scrying effects are in the area.
+
+Dimension Door (con) H: Teleport yourself up to 120 feet.
+
+:ref:`spell--d--Dimensional-Anchor` (прегр.): Удерживает существо от телепортации или перемещения на другие планы.
+
+:ref:`spell--d--Discern-Lies` :sup:`Н` (прориц.): Умело выявляет ложь и обман.
+
+Fly (tra) H: Cause the target creature to gain a fly Speed.
+
+Forgotten Lines (div)HR: Restore destroyed or censored text.
+
+Gaseous Form (tra): Turn a willing creature into a flying cloud.
+
+Glibness (enc) U: Lie with impunity.
+
+:ref:`spell--g--Globe-of-Invulnerability` :sup:`Н` (прегр.): Магическая сфера противодействует заклинания которые в нее войдут.
+
+Hallucinatory Terrain (ill) H U: A natural environment appears to be another kind of terrain.
+
+Modify Memory (div) H U: Change or implant memories.
+
+Nightmare (ill): Plague a creature's dreams with disturbing nightmares.
+
+:ref:`spell--o--Outcasts-Curse` (очар.): Проклинает существо на то чтобы быть отталкивающим и раздражающим.
+
+Phantasmal Killer (ill) H: Place a fearsome image in a creature's mind to scare and possibly kill it.
+
+Private Sanctum (abj) U: Black fog prevents sensing, scrying, and mind-reading on anyone within.
+
+:ref:`spell--r--Read-Omens` :sup:`Н` (прориц.): Получаете совет о предстоящем событии.
+
+:ref:`spell--r--Remove-Curse` (некр.): Противодействует проклятию, поразившему существо.
+
+Resilient Sphere (abj): Create a sphere of force that blocks anything that would come through.
+
+Rope Trick (con) U: Animate a rope that rises to an extradimensional hiding place.
+
+:ref:`spell--s--Spell-Immunity` (прегр.): Называете заклинание, чей эффект не действует на цель.
+
+Suggestion (enc) H: Suggest a course of action a creature must follow.
+
+:ref:`spell--t--Talking-Corpse` :sup:`Н` (некр.): Заставляет труп ответить на три вопроса.
+
+Telepathy (div) H: Communicate telepathically with any creatures near you.
+
+Veil (ill) H: Disguise many creatures as other creatures.
+
 
 
 Оккультные заклинания 5-го ур.
@@ -1042,7 +1185,6 @@ Earthbind (tra): Bring a flying creature to the ground.
 
 Feet to Fins H (tra): Turn a creature's feet into fins, enabling it swim but slowing it on land.
 
-
 Fireball H (evo): An explosion of fire in an area burns creatures.
 
 :ref:`spell--g--Glyph-of-Warding` (прегр.): Сохраняет заклинание в символе, чтобы сделать ловушку.
@@ -1076,7 +1218,40 @@ Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ran
 Природные заклинания 4-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Aerial Form (tra) H: Turn into a flying combatant.
+
+:ref:`spell--a--Air-Walk` (превр.): Ходить по воздуху как по твердой земле.
+
+Creation (con) H: Make a temporary object.
+
+Dinosaur Form (tra) H: Turn into a dinosaur.
+
+Fire Shield (evo) H: Flames protect you from cold and harm those that touch you.
+
+Fly (tra) H: Cause the target creature to gain a fly Speed.
+
+:ref:`spell--f--Freedom-of-Movement` (прегр.): Существо преодолевает то что препятствует для его движению.
+
+Gaseous Form (tra): Turn a willing creature into a flying cloud.
+
+Hallucinatory Terrain (ill) H U: A natural environment appears to be another kind of terrain.
+
+Hydraulic Torrent (evo) H: Force creatures back with a damaging line of water.
+
+Shape Stone (tra): Reshape a cube of stone.
+
+Solid Fog (con): Conjure heavy fog that obscures sight and is hard to move through.
+
+Speak with Plants (div): Communicate with plants and plant creatures.
+
+Stoneskin (abj) H: Harden a creature's skin into durable stone.
+
+:ref:`spell--v--Vital-Beacon` :sup:`У` (некр.): Излучайте жизненную силу, которая исцеляет существ, которые прикасаются к вам.
+
+Wall of Fire (evo) H: Create a blazing wall burns creatures that pass through.
+
+Weapon Storm (evo) H: Multiply a weapon you hold and attack many creatures with it.
+
 
 
 Природные заклинания 5-го ур.
