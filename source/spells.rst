@@ -231,53 +231,53 @@
 
 :ref:`spell--b--Blindness` (некр.): Поражает цель слепотой.
 
-Clairaudience (div): Hear through an invisible magical sensor.
+:ref:`spell--c--Clairaudience` (прориц.): Слушать через невидимое магическое ухо.
 
 :ref:`spell--d--Dream-Message` :sup:`У` (очар.): Посылает сообщение которое приходит во сне.
 
-Земные оковы (Earthbind) (превр.): Опустите летающее существо на землю.
+:ref:`spell--e--Earthbind` (превр.): Опускает летающее существо на землю.
 
-Enthrall (enc): Your speech makes creatures fascinated with you.
+:ref:`spell--e--Enthrall` (очар.): Ваша речь завораживает существ.
 
-Feet to Fins H (tra): Turn a creature's feet into fins, enabling it swim but slowing it on land.
+:ref:`spell--f--Feet-to-Fins` :sup:`У` (превр.): Превращает ноги существа в ласты, позволяя ему плавать, но замедляя на суше.
 
-Fireball H (evo): An explosion of fire in an area burns creatures.
+:ref:`spell--f--Fireball` :sup:`У` (разр.): Взрыв огня на площади сжигает существ.
 
-Ghostly Weapon (tra): Make a weapon affect incorporeal creatures.
+:ref:`spell--g--Ghostly-Weapon` (превр.): Заставляет оружие воздействовать на бестелесных существ.
 
 :ref:`spell--g--Glyph-of-Warding` (прегр.): Сохраняет заклинание в символе, чтобы сделать ловушку.
 
-Haste H (tra): Speed up a creature so it can attack or move more often.
+:ref:`spell--h--Haste` :sup:`У` (превр.): Ускоряет существо, так что оно может чаще атаковать или двигаться.
 
-Hypnotic Pattern (ill): Shifting colors dazzle and fascinate creatures.
+:ref:`spell--h--Hypnotic-Pattern` (иллюз.): Меняющиеся цвета ослепляют и завораживают существ.
 
-Invisibility Sphere H (ill): You and creatures near you become invisible as you explore.
+:ref:`spell--i--Invisibility-Sphere` :sup:`У` (иллюз.): Вы и существа рядом с вами становитесь невидимыми во время исследования.
 
-Levitate (evo): Float an object or creature a few feet off the ground.
+:ref:`spell--l--Levitate` (разр.): Подымает предмет или существо на несколько футов над землей.
 
-Lightning Bolt H (evo): Lightning strikes all creatures in a line.
+:ref:`spell--l--Lightning-Bolt` :sup:`У` (разр.): Молния ударяет всех существ в линии.
 
 :ref:`spell--l--Locate` :sup:`Н, У` (прориц.): Узнайте направление к объекту.
 
-Meld into Stone (tra): Meld into a block of stone.
+:ref:`spell--m--Meld-into-Stone` (превр.): Сливаетесь с каменным блоком.
 
-Mind Reading U (div): Read a creature's surface thoughts.
+:ref:`spell--m--Mind-Reading` :sup:`Н` (прориц.): Читаете поверхностные мысли существа.
 
-Nondetection U (abj): Protect a creature or object from detection.
+:ref:`spell--n--Nondetection` :sup:`Н` (прегр.): Защищает существо или объект от магического обнаружения.
 
-Paralyze H (enc): Freeze a humanoid in place.
+:ref:`spell--p--Paralyze` :sup:`У` (очар.): Остановите гуманоида на месте.
 
-Secret Page (ill): Alter the appearance of a page.
+:ref:`spell--s--Secret-Page` (иллюз.): Изменяет внешний вид страницы.
 
-Shrink Item (tra): Reduce an object to the size of a coin.
+:ref:`spell--s--Shrink-Item` (превр.): Уменьшает объект до размера монеты.
 
-Slow H (tra): Make a creature slower, reducing its actions.
+:ref:`spell--s--Slow` :sup:`У` (превр.): Делает существо медленней, уменьшая количество ее действий.
 
-Stinking Cloud (con): Form a cloud that sickens creatures.
+:ref:`spell--s--Stinking-Cloud` (вопл.): Образует облако, которое вызывает заболевание у существ.
 
 :ref:`spell--v--Vampiric-Touch` :sup:`У` (некр.): Наносите негативные повреждения касанием и получаете временные ОЗ.
 
-Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ranged attacks.
+:ref:`spell--w--Wall-of-Wind` (разр.): Создет стену порывистого ветра, которая мешает движению и дистанционным атакам.
 
 
 
@@ -847,39 +847,39 @@ Weapon Storm (evo) H: Multiply a weapon you hold and attack many creatures with 
 
 :ref:`spell--c--Circle-of-Protection` :sup:`Н, У` (прегр.): Существо излучает ауру, защищающую находящихся внутри, от мировоззрения.
 
-Clairaudience (div): Hear through an invisible magical sensor.
+:ref:`spell--c--Clairaudience` (прориц.): Слушать через невидимое магическое ухо.
 
 :ref:`spell--d--Dream-Message` :sup:`У` (очар.): Посылает сообщение которое приходит во сне.
 
-Enthrall (enc): Your speech makes creatures fascinated with you.
+:ref:`spell--e--Enthrall` (очар.): Ваша речь завораживает существ.
 
-Ghostly Weapon (tra): Make a weapon affect incorporeal creatures.
+:ref:`spell--g--Ghostly-Weapon` (превр.): Заставляет оружие воздействовать на бестелесных существ.
 
 :ref:`spell--g--Glyph-of-Warding` (прегр.): Сохраняет заклинание в символе, чтобы сделать ловушку.
 
-Haste H (tra): Speed up a creature so it can attack or move more often.
+:ref:`spell--h--Haste` :sup:`У` (превр.): Ускоряет существо, так что оно может чаще атаковать или двигаться.
 
 :ref:`spell--h--Heroism` :sup:`У` (очар.): Подстегивает внутренний героизм существа, чтобы сделать его более умелым.
 
 Hypercognition (div): Recall massive amounts of information in an instant.
 
-Hypnotic Pattern (ill): Shifting colors dazzle and fascinate creatures.
+:ref:`spell--h--Hypnotic-Pattern` (иллюз.): Меняющиеся цвета ослепляют и завораживают существ.
 
-Invisibility Sphere H (ill): You and creatures near you become invisible as you explore.
+:ref:`spell--i--Invisibility-Sphere` :sup:`У` (иллюз.): Вы и существа рядом с вами становитесь невидимыми во время исследования.
 
-Levitate (evo): Float an object or creature a few feet off the ground.
+:ref:`spell--l--Levitate` (разр.): Подымает предмет или существо на несколько футов над землей.
 
 :ref:`spell--l--Locate` :sup:`Н, У` (прориц.): Узнайте направление к объекту.
 
-Mind Reading U (div): Read a creature's surface thoughts.
+:ref:`spell--m--Mind-Reading` :sup:`Н` (прориц.): Читаете поверхностные мысли существа.
 
-Nondetection U (abj): Protect a creature or object from detection.
+:ref:`spell--n--Nondetection` :sup:`Н` (прегр.): Защищает существо или объект от магического обнаружения.
 
-Paralyze H (enc): Freeze a humanoid in place.
+:ref:`spell--p--Paralyze` :sup:`У` (очар.): Остановите гуманоида на месте.
 
-Secret Page (ill): Alter the appearance of a page.
+:ref:`spell--s--Secret-Page` (иллюз.): Изменяет внешний вид страницы.
 
-Slow H (tra): Make a creature slower, reducing its actions.
+:ref:`spell--s--Slow` :sup:`У` (превр.): Делает существо медленней, уменьшая количество ее действий.
 
 :ref:`spell--v--Vampiric-Touch` :sup:`У` (некр.): Наносите негативные повреждения касанием и получаете временные ОЗ.
 
@@ -1181,37 +1181,37 @@ Animal Vision (div): Project your senses through an animal.
 
 :ref:`spell--b--Blindness` (некр.): Поражает цель слепотой.
 
-Earthbind (tra): Bring a flying creature to the ground.
+:ref:`spell--e--Earthbind` (превр.): Опускает летающее существо на землю.
 
-Feet to Fins H (tra): Turn a creature's feet into fins, enabling it swim but slowing it on land.
+:ref:`spell--f--Feet-to-Fins` :sup:`У` (превр.): Превращает ноги существа в ласты, позволяя ему плавать, но замедляя на суше.
 
-Fireball H (evo): An explosion of fire in an area burns creatures.
+:ref:`spell--f--Fireball` :sup:`У` (разр.): Взрыв огня на площади сжигает существ.
 
 :ref:`spell--g--Glyph-of-Warding` (прегр.): Сохраняет заклинание в символе, чтобы сделать ловушку.
 
-Haste H (tra): Speed up a creature so it can attack or move more often.
+:ref:`spell--h--Haste` :sup:`У` (превр.): Ускоряет существо, так что оно может чаще атаковать или двигаться.
 
 Insect Form H (tra): Turn into a dangerous giant insect.
 
-Lightning Bolt H (evo): Lightning strikes all creatures in a line.
+:ref:`spell--l--Lightning-Bolt` :sup:`У` (разр.): Молния ударяет всех существ в линии.
 
-Meld into Stone (tra): Meld into a block of stone.
+:ref:`spell--m--Meld-into-Stone` (превр.): Сливаетесь с каменным блоком.
 
 :ref:`spell--n--Neutralize-Poison` (некр.): Исцеляет яд действующий на существо.
 
-Nondetection U (abj): Protect a creature or object from detection.
+:ref:`spell--n--Nondetection` :sup:`Н` (прегр.): Защищает существо или объект от магического обнаружения.
 
 :ref:`spell--r--Remove-Disease` (некр.): Исцеляет болезнь действующую на существо.
 
 :ref:`spell--s--Searing-Light` :sup:`У` (разр.): Луч жгучего света наносит дополнительные повреждения нежити и бесам, а так же противодействует тьме.
 
-Slow H (tra): Make a creature slower, reducing its actions.
+:ref:`spell--s--Slow` :sup:`У` (превр.): Делает существо медленней, уменьшая количество ее действий.
 
-Stinking Cloud (con): Form a cloud that sickens creatures.
+:ref:`spell--s--Stinking-Cloud` (вопл.): Образует облако, которое вызывает заболевание у существ.
 
 Wall of Thorns H (con): Grow a wall of brambles.
 
-Wall of Wind (evo): Create a wall of gusting winds that hinders movement and ranged attacks.
+:ref:`spell--w--Wall-of-Wind` (разр.): Создет стену порывистого ветра, которая мешает движению и дистанционным атакам.
 
 
 
