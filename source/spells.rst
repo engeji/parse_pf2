@@ -1102,11 +1102,11 @@ Veil (ill) H: Disguise many creatures as other creatures.
 
 :ref:`spell--a--Acid-Arrow` :sup:`У` (разр.): Магическая стрела наносящая продолжительные кислотные повреждения.
 
-Animal Form H (tra): Turn into a dangerous animal.
+:reF:`spell--a--Animal-Form` :sup:`У` (превр.): Превращает в опасное животное.
 
-Animal Messenger (enc): Send a Tiny animal to deliver a message.
+:ref:`spell--a--Animal-Messenger` (очар.): Посылает крошечное животное чтобы доставить сообщение.
 
-Barkskin H (abj): Target's skin is covered in protective bark.
+:ref:`spell--b--Barkskin` :sup:`У` (прегр.): Кожа цели покрывается защищающей корой.
 
 :ref:`spell--c--Continual-Flame` :sup:`У` (разр.): Бесконечно горящее магическое пламя.
 
@@ -1126,7 +1126,7 @@ Barkskin H (abj): Target's skin is covered in protective bark.
 
 :ref:`spell--e--Enlarge` :sup:`У` (превр.): Существо увеличивается в размере.
 
-Entangle (tra): Plants in an area grow to entangle and immobilize.
+:ref:`spell--e--Entangle` (превр.): Растения в области вырастают, чтобы опутать и обездвижить.
 
 :ref:`spell--f--Faerie-Fire` (разр.): Цветное свечение мешает существам стать скрытыми или невидимыми.
 
@@ -1152,21 +1152,21 @@ Entangle (tra): Plants in an area grow to entangle and immobilize.
 
 :ref:`spell--r--Restore-Senses` :sup:`У` (некр.): Избавляет от эффектов слепоты и глухоты.
 
-Shape Wood (tra): Reshape unworked wood as you choose.
+:ref:`spell--s--Shape-Wood` (превр.): Изменяет форму необработанной древесины по вашему выбору.
 
 :ref:`spell--s--Shatter` :sup:`У` (разр.): Разбивает объект высокочастотной звуковой атакой.
 
-Shrink H (tra): Reduce a willing creature to Tiny size.
+:ref:`spell--s--Shrink` :sup:`У` (превр.): Уменьшает готовое существо до крошечного размера.
 
-Speak with Animals (div): Communicate with animals.
+:ref:`spell--s--Speak-with-Animals` (прориц.): Общаетесь с животными.
 
-Spider Climb H (tra): Give a creature a climb Speed.
+:ref:`spell--s--Spider-Climb` :sup:`У` (превр.): Дает существу скорость карабканья.
 
 :ref:`spell--s--Status` :sup:`У` (прориц.): Следит за местоположением готового существа и его благополучием.
 
 :ref:`spell--s--Summon-Elemental` :sup:`У` (вопл.): Призывает элементаля сражаться за вас.
 
-Tree Shape (tra): Turn into a tree.
+:ref:`spell--t--Tree-Shape` (превр.): Превращаетесь в дерево.
 
 :ref:`spell--w--Water-Breathing` :sup:`У` (превр.): Позволяет существам дышать под водой.
 
