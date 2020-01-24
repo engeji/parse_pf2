@@ -1178,7 +1178,7 @@ Veil (ill) H: Disguise many creatures as other creatures.
 Природные заклинания 3-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Animal Vision (div): Project your senses through an animal.
+:ref:`spell--a--Animal-Vision` (прориц.): Подключаетесь к чувствами животного.
 
 :ref:`spell--b--Blindness` (некр.): Поражает цель слепотой.
 
@@ -1192,7 +1192,7 @@ Animal Vision (div): Project your senses through an animal.
 
 :ref:`spell--h--Haste` :sup:`У` (превр.): Ускоряет существо, так что оно может чаще атаковать или двигаться.
 
-Insect Form H (tra): Turn into a dangerous giant insect.
+:ref:`spell--i--Insect-Form` :sup:`У` (превр.): Превращаетесь в опасное гигантское насекомое.
 
 :ref:`spell--l--Lightning-Bolt` :sup:`У` (разр.): Молния ударяет всех существ в линии.
 
@@ -1210,7 +1210,7 @@ Insect Form H (tra): Turn into a dangerous giant insect.
 
 :ref:`spell--s--Stinking-Cloud` (вопл.): Образует облако, которое вызывает заболевание у существ.
 
-Wall of Thorns H (con): Grow a wall of brambles.
+:ref:`spell--w--Wall-of-Thorns` :sup:`У` (вопл.): Выращивает стену ежевики.
 
 :ref:`spell--w--Wall-of-Wind` (разр.): Создет стену порывистого ветра, которая мешает движению и дистанционным атакам.
 
