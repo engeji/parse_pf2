@@ -380,6 +380,7 @@ trait: признак / особенность
 		force: сила
 		consecration: освящение
 		Summoned: призванный
+		Teleportation: телепортация
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 

@@ -284,19 +284,19 @@
 Мистические заклинания 4-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Aerial Form (tra) H: Turn into a flying combatant.
+:ref:`spell--a--Aerial-Form` :sup:`У` (превр.): Превращаетесь в летающее существо.
 
-Blink (con) H: Flit between the planes, vanishing and reappearing.
+:ref:`spell--b--Blink` :sup:`У` (вопл.): Перемещаетесь между планами, исчезая и вновь появляясь.
 
-Clairvoyance (div): See through an invisible magical sensor.
+:ref:`spell--c--Clairvoyance` (прориц.): Видите через невидимый магический глаз.
 
-Confusion (enc) H: Befuddle a creature, making it act randomly.
+:ref:`spell--c--Confusion` :sup:`У` (очар.): Дурманите существо, заставляя его действовать случайным образом.
 
-Creation (con) H: Make a temporary object.
+:ref:`spell--c--Creation` :sup:`У` (вопл.): Создаете временный объект.
 
-Detect Scrying (div) H U: Find out if scrying effects are in the area.
+:ref:`spell--d--Detect-Scrying` :sup:`Н У` (прориц.): Узнаете действуют ли эффекты видения в области.
 
-Dimension Door (con) H: Teleport yourself up to 120 feet.
+:ref:`spell--d--Dimension-Door` :sup:`У` (вопл.): Телепортируете себя в расстояние вплоть до 120 футов.
 
 :ref:`spell--d--Dimensional-Anchor` (прегр.): Удерживает существо от телепортации или перемещения на другие планы.
 
@@ -893,15 +893,15 @@ Recall massive amounts of information in an instant.
 Оккультные заклинания 4-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Blink (con) H: Flit between the planes, vanishing and reappearing.
+:ref:`spell--b--Blink` :sup:`У` (вопл.): Перемещаетесь между планами, исчезая и вновь появляясь.
 
-Clairvoyance (div): See through an invisible magical sensor.
+:ref:`spell--c--Clairvoyance` (прориц.): Видите через невидимый магический глаз.
 
-Confusion (enc) H: Befuddle a creature, making it act randomly.
+:ref:`spell--c--Confusion` :sup:`У` (очар.): Дурманите существо, заставляя его действовать случайным образом.
 
-Detect Scrying (div) H U: Find out if scrying effects are in the area.
+:ref:`spell--d--Detect-Scrying` :sup:`Н У` (прориц.): Узнаете действуют ли эффекты видения в области.
 
-Dimension Door (con) H: Teleport yourself up to 120 feet.
+:ref:`spell--d--Dimension-Door` :sup:`У` (вопл.): Телепортируете себя в расстояние вплоть до 120 футов.
 
 :ref:`spell--d--Dimensional-Anchor` (прегр.): Удерживает существо от телепортации или перемещения на другие планы.
 
@@ -1219,11 +1219,11 @@ Veil (ill) H: Disguise many creatures as other creatures.
 Природные заклинания 4-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Aerial Form (tra) H: Turn into a flying combatant.
+:ref:`spell--a--Aerial-Form` :sup:`У` (превр.): Превращаетесь в летающее существо.
 
 :ref:`spell--a--Air-Walk` (превр.): Ходить по воздуху как по твердой земле.
 
-Creation (con) H: Make a temporary object.
+:ref:`spell--c--Creation` :sup:`У` (вопл.): Создаете временный объект.
 
 Dinosaur Form (tra) H: Turn into a dinosaur.
 
