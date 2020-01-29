@@ -909,13 +909,13 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--g--Gaseous-Form` (превр.): Превращает готовое существо в летающее облако.
 
-Glibness (enc) U: Lie with impunity.
+:ref:`spell--g--Glibness` :sup:`Н` (очар.): Безнаказанно лжете.
 
 :ref:`spell--g--Globe-of-Invulnerability` :sup:`Н` (прегр.): Магическая сфера противодействует заклинания которые в нее войдут.
 
 :ref:`spell--h--Hallucinatory-Terrain` :sup:`Н У` (иллюз.): Естественное окружение кажется другим видом местности.
 
-Modify Memory (div) H U: Change or implant memories.
+:ref:`spell--m--Modify-Memory` :sup:`Н У` (прориц.): Измените или внедрите воспоминания.
 
 :ref:`spell--n--Nightmare` (иллюз.): Нашлите на сны существа тревожные кошмары.
 
