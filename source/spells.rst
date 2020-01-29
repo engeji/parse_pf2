@@ -284,67 +284,65 @@
 Мистические заклинания 4-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Aerial Form (tra) H: Turn into a flying combatant.
+:ref:`spell--a--Aerial-Form` :sup:`У` (превр.): Превращаетесь в летающее существо.
 
-Blink (con) H: Flit between the planes, vanishing and reappearing.
+:ref:`spell--b--Blink` :sup:`У` (вопл.): Перемещаетесь между планами, исчезая и вновь появляясь.
 
-Clairvoyance (div): See through an invisible magical sensor.
+:ref:`spell--c--Clairvoyance` (прориц.): Видите через невидимый магический глаз.
 
-Confusion (enc) H: Befuddle a creature, making it act randomly.
+:ref:`spell--c--Confusion` :sup:`У` (очар.): Дурманите существо, заставляя его действовать случайным образом.
 
-Creation (con) H: Make a temporary object.
+:ref:`spell--c--Creation` :sup:`У` (вопл.): Создаете временный объект.
 
-Detect Scrying (div) H U: Find out if scrying effects are in the area.
+:ref:`spell--d--Detect-Scrying` :sup:`Н У` (прориц.): Узнаете действуют ли эффекты видения в области.
 
-Dimension Door (con) H: Teleport yourself up to 120 feet.
+:ref:`spell--d--Dimension-Door` :sup:`У` (вопл.): Телепортируете себя в расстояние вплоть до 120 футов.
 
 :ref:`spell--d--Dimensional-Anchor` (прегр.): Удерживает существо от телепортации или перемещения на другие планы.
 
 :ref:`spell--d--Discern-Lies` :sup:`Н` (прориц.): Умело выявляет ложь и обман.
 
-Fire Shield (evo) H: Flames protect you from cold and harm those that touch you.
+:ref:`spell--f--Fire-Shield` :sup:`У` (разр.): Огни защищают вас от холода и ранят тех кто касается вас.
 
-Fly (tra) H: Cause the target creature to gain a fly Speed.
-
-Forgotten Lines (div)HR: Restore destroyed or censored text.
+:ref:`spell--f--Fly` :sup:`У` (превр.): Дает существу Скорость полета.
 
 :ref:`spell--f--Freedom-of-Movement` (прегр.): Существо преодолевает то что препятствует для его движению.
 
-Gaseous Form (tra): Turn a willing creature into a flying cloud.
+:ref:`spell--g--Gaseous-Form` (превр.): Превращает готовое существо в летающее облако.
 
 :ref:`spell--g--Globe-of-Invulnerability` :sup:`Н` (прегр.): Магическая сфера противодействует заклинания которые в нее войдут.
 
-Hallucinatory Terrain (ill) H U: A natural environment appears to be another kind of terrain.
+:ref:`spell--h--Hallucinatory-Terrain` :sup:`Н У` (иллюз.): Естественное окружение кажется другим видом местности.
 
-Nightmare (ill): Plague a creature's dreams with disturbing nightmares.
+:ref:`spell--n--Nightmare` (иллюз.): Нашлите на сны существа тревожные кошмары.
 
 :ref:`spell--o--Outcasts-Curse` (очар.): Проклинает существо на то чтобы быть отталкивающим и раздражающим.
 
-Phantasmal Killer (ill) H: Place a fearsome image in a creature's mind to scare and possibly kill it.
+:ref:`spell--p--Phantasmal-Killer` :sup:`У` (иллюз.): Помещает зловещий образ в разум существа, чтобы напугать и, возможно, убить его.
 
-Private Sanctum (abj) U: Black fog prevents sensing, scrying, and mind-reading on anyone within.
+:ref:`spell--p--Private-Sanctum` :sup:`Н` (прегр.): Черный туман препятствует чувствам, видениям и чтению мыслей тех кто внутри.
 
-Resilient Sphere (abj): Create a sphere of force that blocks anything that would come through.
+:ref:`spell--r--Resilient-Sphere` (прегр.): Создает сферу из силы, которая блокирует все, что проходит
 
-Rope Trick (con) U: Animate a rope that rises to an extradimensional hiding place.
+:ref:`spell--r--Rope-Trick` :sup:`Н` (вопл.): Оживляет веревку, которая поднимается к внепространственному укрытию.
 
-Shape Stone (tra): Reshape a cube of stone.
+:ref:`spell--s--Shape-Stone` (tra): Придайте форму каменному кубу.
 
-Solid Fog (con): Conjure heavy fog that obscures sight and is hard to move through.
+:ref:`spell--s--Solid-Fog` (вопл.): Создает тяжелый туман, который мешает видимости и через который тяжело двигаться.
 
 :ref:`spell--s--Spell-Immunity` (прегр.): Называете заклинание, чей эффект не действует на цель.
 
-Stoneskin (abj) H: Harden a creature's skin into durable stone.
+:ref:`spell--s--Stoneskin` :sup:`У` (прегр.): Укрепляет кожу цели до состояния прочного камня.
 
-Suggestion (enc) H: Suggest a course of action a creature must follow.
+:ref:`spell--s--Suggestion` :sup:`У` (очар.): Предлагаете порядок действий, которому должно следовать существо.
 
-Telepathy (div) H: Communicate telepathically with any creatures near you.
+:ref:`spell--t--Telepathy` :sup:`У` (прориц.): Communicate telepathically with any creatures near you.
 
-Veil (ill) H: Disguise many creatures as other creatures.
+:ref:`spell--v--Veil` :sup:`У` (иллюз.): Маскирует много существ под других существ.
 
-Wall of Fire (evo) H: Create a blazing wall burns creatures that pass through.
+:ref:`spell--w--Wall-of-Fire` :sup:`У` (разр.): Создает пылающую стену обжигающую существ, которые проходят через нее.
 
-Weapon Storm (evo) H: Multiply a weapon you hold and attack many creatures with it.
+:ref:`spell--w--Weapon-Storm` :sup:`У` (разр.): Копирует оружие которые вы держите и атакует им многих существ.
 
 
 
@@ -893,59 +891,57 @@ Recall massive amounts of information in an instant.
 Оккультные заклинания 4-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Blink (con) H: Flit between the planes, vanishing and reappearing.
+:ref:`spell--b--Blink` :sup:`У` (вопл.): Перемещаетесь между планами, исчезая и вновь появляясь.
 
-Clairvoyance (div): See through an invisible magical sensor.
+:ref:`spell--c--Clairvoyance` (прориц.): Видите через невидимый магический глаз.
 
-Confusion (enc) H: Befuddle a creature, making it act randomly.
+:ref:`spell--c--Confusion` :sup:`У` (очар.): Дурманите существо, заставляя его действовать случайным образом.
 
-Detect Scrying (div) H U: Find out if scrying effects are in the area.
+:ref:`spell--d--Detect-Scrying` :sup:`Н У` (прориц.): Узнаете действуют ли эффекты видения в области.
 
-Dimension Door (con) H: Teleport yourself up to 120 feet.
+:ref:`spell--d--Dimension-Door` :sup:`У` (вопл.): Телепортируете себя в расстояние вплоть до 120 футов.
 
 :ref:`spell--d--Dimensional-Anchor` (прегр.): Удерживает существо от телепортации или перемещения на другие планы.
 
 :ref:`spell--d--Discern-Lies` :sup:`Н` (прориц.): Умело выявляет ложь и обман.
 
-Fly (tra) H: Cause the target creature to gain a fly Speed.
+:ref:`spell--f--Fly` :sup:`У` (превр.): Дает существу Скорость полета.
 
-Forgotten Lines (div)HR: Restore destroyed or censored text.
-
-Gaseous Form (tra): Turn a willing creature into a flying cloud.
+:ref:`spell--g--Gaseous-Form` (превр.): Превращает готовое существо в летающее облако.
 
 Glibness (enc) U: Lie with impunity.
 
 :ref:`spell--g--Globe-of-Invulnerability` :sup:`Н` (прегр.): Магическая сфера противодействует заклинания которые в нее войдут.
 
-Hallucinatory Terrain (ill) H U: A natural environment appears to be another kind of terrain.
+:ref:`spell--h--Hallucinatory-Terrain` :sup:`Н У` (иллюз.): Естественное окружение кажется другим видом местности.
 
 Modify Memory (div) H U: Change or implant memories.
 
-Nightmare (ill): Plague a creature's dreams with disturbing nightmares.
+:ref:`spell--n--Nightmare` (иллюз.): Нашлите на сны существа тревожные кошмары.
 
 :ref:`spell--o--Outcasts-Curse` (очар.): Проклинает существо на то чтобы быть отталкивающим и раздражающим.
 
-Phantasmal Killer (ill) H: Place a fearsome image in a creature's mind to scare and possibly kill it.
+:ref:`spell--p--Phantasmal-Killer` :sup:`У` (иллюз.): Помещает зловещий образ в разум существа, чтобы напугать и, возможно, убить его.
 
-Private Sanctum (abj) U: Black fog prevents sensing, scrying, and mind-reading on anyone within.
+:ref:`spell--p--Private-Sanctum` :sup:`Н` (прегр.): Черный туман препятствует чувствам, видениям и чтению мыслей тех кто внутри.
 
 :ref:`spell--r--Read-Omens` :sup:`Н` (прориц.): Получаете совет о предстоящем событии.
 
 :ref:`spell--r--Remove-Curse` (некр.): Противодействует проклятию, поразившему существо.
 
-Resilient Sphere (abj): Create a sphere of force that blocks anything that would come through.
+:ref:`spell--r--Resilient-Sphere` (прегр.): Создает сферу из силы, которая блокирует все, что проходит
 
-Rope Trick (con) U: Animate a rope that rises to an extradimensional hiding place.
+:ref:`spell--r--Rope-Trick` :sup:`Н` (вопл.): Оживляет веревку, которая поднимается к внепространственному укрытию.
 
 :ref:`spell--s--Spell-Immunity` (прегр.): Называете заклинание, чей эффект не действует на цель.
 
-Suggestion (enc) H: Suggest a course of action a creature must follow.
+:ref:`spell--s--Suggestion` :sup:`Н` (очар.): Предлагаете порядок действий, которому должно следовать существо.
 
 :ref:`spell--t--Talking-Corpse` :sup:`Н` (некр.): Заставляет труп ответить на три вопроса.
 
-Telepathy (div) H: Communicate telepathically with any creatures near you.
+:ref:`spell--t--Telepathy` :sup:`У` (прориц.): Communicate telepathically with any creatures near you.
 
-Veil (ill) H: Disguise many creatures as other creatures.
+:ref:`spell--v--Veil` :sup:`У` (иллюз.): Маскирует много существ под других существ.
 
 
 
@@ -1219,39 +1215,39 @@ Veil (ill) H: Disguise many creatures as other creatures.
 Природные заклинания 4-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Aerial Form (tra) H: Turn into a flying combatant.
+:ref:`spell--a--Aerial-Form` :sup:`У` (превр.): Превращаетесь в летающее существо.
 
 :ref:`spell--a--Air-Walk` (превр.): Ходить по воздуху как по твердой земле.
 
-Creation (con) H: Make a temporary object.
+:ref:`spell--c--Creation` :sup:`У` (вопл.): Создаете временный объект.
 
 Dinosaur Form (tra) H: Turn into a dinosaur.
 
-Fire Shield (evo) H: Flames protect you from cold and harm those that touch you.
+:ref:`spell--f--Fire-Shield` :sup:`У` (разр.): Огни защищают вас от холода и ранят тех кто касается вас.
 
-Fly (tra) H: Cause the target creature to gain a fly Speed.
+:ref:`spell--f--Fly` :sup:`У` (превр.): Дает существу Скорость полета.
 
 :ref:`spell--f--Freedom-of-Movement` (прегр.): Существо преодолевает то что препятствует для его движению.
 
-Gaseous Form (tra): Turn a willing creature into a flying cloud.
+:ref:`spell--g--Gaseous-Form` (превр.): Превращает готовое существо в летающее облако.
 
-Hallucinatory Terrain (ill) H U: A natural environment appears to be another kind of terrain.
+:ref:`spell--h--Hallucinatory-Terrain` :sup:`Н У` (иллюз.): Естественное окружение кажется другим видом местности.
 
 Hydraulic Torrent (evo) H: Force creatures back with a damaging line of water.
 
 Shape Stone (tra): Reshape a cube of stone.
 
-Solid Fog (con): Conjure heavy fog that obscures sight and is hard to move through.
+:ref:`spell--s--Solid-Fog` (вопл.): Создает тяжелый туман, который мешает видимости и через который тяжело двигаться.
 
 Speak with Plants (div): Communicate with plants and plant creatures.
 
-Stoneskin (abj) H: Harden a creature's skin into durable stone.
+:ref:`spell--s--Stoneskin` :sup:`У` (прегр.): Укрепляет кожу цели до состояния прочного камня.
 
 :ref:`spell--v--Vital-Beacon` :sup:`У` (некр.): Излучайте жизненную силу, которая исцеляет существ, которые прикасаются к вам.
 
-Wall of Fire (evo) H: Create a blazing wall burns creatures that pass through.
+:ref:`spell--w--Wall-of-Fire` :sup:`У` (разр.): Создает пылающую стену обжигающую существ, которые проходят через нее.
 
-Weapon Storm (evo) H: Multiply a weapon you hold and attack many creatures with it.
+:ref:`spell--w--Weapon-Storm` :sup:`У` (разр.): Копирует оружие которые вы держите и атакует им многих существ.
 
 
 
