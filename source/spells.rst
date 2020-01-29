@@ -302,15 +302,13 @@
 
 :ref:`spell--d--Discern-Lies` :sup:`Н` (прориц.): Умело выявляет ложь и обман.
 
-Fire Shield (evo) H: Flames protect you from cold and harm those that touch you.
+:ref:`spell--f--Fire-Shield` :sup:`У` (разр.): Огни защищают вас от холода и ранят тех кто касается вас.
 
-Fly (tra) H: Cause the target creature to gain a fly Speed.
-
-Forgotten Lines (div)HR: Restore destroyed or censored text.
+:ref:`spell--f--Fly` :sup:`У` (превр.): Дает существу Скорость полета.
 
 :ref:`spell--f--Freedom-of-Movement` (прегр.): Существо преодолевает то что препятствует для его движению.
 
-Gaseous Form (tra): Turn a willing creature into a flying cloud.
+:ref:`spell--g--Gaseous-Form` (превр.): Превращает готовое существо в летающее облако.
 
 :ref:`spell--g--Globe-of-Invulnerability` :sup:`Н` (прегр.): Магическая сфера противодействует заклинания которые в нее войдут.
 
@@ -907,11 +905,9 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--d--Discern-Lies` :sup:`Н` (прориц.): Умело выявляет ложь и обман.
 
-Fly (tra) H: Cause the target creature to gain a fly Speed.
+:ref:`spell--f--Fly` :sup:`У` (превр.): Дает существу Скорость полета.
 
-Forgotten Lines (div)HR: Restore destroyed or censored text.
-
-Gaseous Form (tra): Turn a willing creature into a flying cloud.
+:ref:`spell--g--Gaseous-Form` (превр.): Превращает готовое существо в летающее облако.
 
 Glibness (enc) U: Lie with impunity.
 
@@ -1227,13 +1223,13 @@ Veil (ill) H: Disguise many creatures as other creatures.
 
 Dinosaur Form (tra) H: Turn into a dinosaur.
 
-Fire Shield (evo) H: Flames protect you from cold and harm those that touch you.
+:ref:`spell--f--Fire-Shield` :sup:`У` (разр.): Огни защищают вас от холода и ранят тех кто касается вас.
 
-Fly (tra) H: Cause the target creature to gain a fly Speed.
+:ref:`spell--f--Fly` :sup:`У` (превр.): Дает существу Скорость полета.
 
 :ref:`spell--f--Freedom-of-Movement` (прегр.): Существо преодолевает то что препятствует для его движению.
 
-Gaseous Form (tra): Turn a willing creature into a flying cloud.
+:ref:`spell--g--Gaseous-Form` (превр.): Превращает готовое существо в летающее облако.
 
 Hallucinatory Terrain (ill) H U: A natural environment appears to be another kind of terrain.
 
