@@ -909,13 +909,13 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--g--Gaseous-Form` (превр.): Превращает готовое существо в летающее облако.
 
-Glibness (enc) U: Lie with impunity.
+:ref:`spell--g--Glibness` :sup:`Н` (очар.): Безнаказанно лжете.
 
 :ref:`spell--g--Globe-of-Invulnerability` :sup:`Н` (прегр.): Магическая сфера противодействует заклинания которые в нее войдут.
 
 :ref:`spell--h--Hallucinatory-Terrain` :sup:`Н У` (иллюз.): Естественное окружение кажется другим видом местности.
 
-Modify Memory (div) H U: Change or implant memories.
+:ref:`spell--m--Modify-Memory` :sup:`Н У` (прориц.): Измените или внедрите воспоминания.
 
 :ref:`spell--n--Nightmare` (иллюз.): Нашлите на сны существа тревожные кошмары.
 
@@ -1221,7 +1221,7 @@ Modify Memory (div) H U: Change or implant memories.
 
 :ref:`spell--c--Creation` :sup:`У` (вопл.): Создаете временный объект.
 
-Dinosaur Form (tra) H: Turn into a dinosaur.
+:ref:`spell--d--Dinosaur-Form` :sup:`У` (превр.): Превращаетесь в динозавра.
 
 :ref:`spell--f--Fire-Shield` :sup:`У` (разр.): Огни защищают вас от холода и ранят тех кто касается вас.
 
@@ -1233,13 +1233,13 @@ Dinosaur Form (tra) H: Turn into a dinosaur.
 
 :ref:`spell--h--Hallucinatory-Terrain` :sup:`Н У` (иллюз.): Естественное окружение кажется другим видом местности.
 
-Hydraulic Torrent (evo) H: Force creatures back with a damaging line of water.
+:ref:`spell--h--Hydraulic-Torrent` :sup:`У` (разр.): Повреждает существ в линии и отбрасывает их назад.
 
-Shape Stone (tra): Reshape a cube of stone.
+:ref:`spell--s--Shape-Stone` (tra): Придайте форму каменному кубу.
 
 :ref:`spell--s--Solid-Fog` (вопл.): Создает тяжелый туман, который мешает видимости и через который тяжело двигаться.
 
-Speak with Plants (div): Communicate with plants and plant creatures.
+:ref:`spell--s--Speak-with-Plants` (прориц.): Общаетесь с растениями и растительными существами.
 
 :ref:`spell--s--Stoneskin` :sup:`У` (прегр.): Укрепляет кожу цели до состояния прочного камня.
 
