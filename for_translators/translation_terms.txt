@@ -33,6 +33,7 @@ actions:
 	Refocus: Сфокусироваться
 	Leap: Прыжок :ref:`action--Leap`
 	Recall Knowledge: Вспомнить Изученное :ref:`skill--Recall-Knowledge`
+	Learn A Spell: Выучить заклинание :ref:`expl-activity--Learn-a-Spell`
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
@@ -289,7 +290,7 @@ Skill: Навык
 		Impersonate: Перевоплотиться :ref:`skill--Deception--Impersonate`
 	Diplomacy: Дипломатия
 		Gather Information: Собрать информацию
-		Make an Impression: Произвести Впечатление
+		Make an Impression: Произвести Впечатление :ref:`skill--Diplomacy--Make-an-Impression`
 		Request: Просьба
 	Intimidation: Запугивание
 		Coerce: Принуждение :ref:`skill--Intimidation--Coerce`
