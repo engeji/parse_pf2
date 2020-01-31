@@ -18,7 +18,7 @@ actions:
 	Request: Просьба
 	Take Cover: Укрыться
 	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO) :ref:`action--Stride`
-	Step: Шаг (короткий, НЕ провоцирует AoO)
+	Step: Шаг (короткий, НЕ провоцирует AoO) :ref:`action--Step`
 	Escape: Вырваться :ref:`action--Escape`
 	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
 	Sustain a Spell: Поддержать Заклинание :ref:`action--Sustain-a-Spell`
@@ -232,7 +232,6 @@ negligible: незначительный
 persistent damage: продолжительный урон
 prerequisites: предварительные условия
 proficiency bonus: бонус мастерства
-propulsive: тяговое
 plane: план
 	Outer Sphere: Внешняя Сфера
 	Abyss: Бездна
@@ -361,6 +360,7 @@ trait: признак / особенность
 		parry: парирование
 		versatile: универсальное
 		deadly: смертельное
+		propulsive: тяговое
 	остальные:
 		visual: визуальный
 		auditory: слуховой
