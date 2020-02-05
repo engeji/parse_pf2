@@ -263,7 +263,7 @@ Skill: Навык
 	Arcana: Мистика
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
 	Acrobatics: Акробатика
-		Balance: Балансировать
+		Balance: Балансировать :ref:`skill--Acrobatics--Balance`
 		Tumble Through: Проскочить
 		Maneuver in Flight: Маневрировать в полете
 		Squeeze: Протиснуться
@@ -278,8 +278,8 @@ Skill: Навык
 		Trip: Опрокидывание :ref:`skill--Athletics--Trip`
 		Disarm: Разоружить :ref:`skill--Athletics--Disarm`
 	Crafting: Ремесло
-		Craft: Создать
-		Repair: Ремонт
+		Craft: Создать :ref:`skill--Crafting--Craft`
+		Repair: Ремонт :ref:`skill--Crafting--Repair`
 		formula: рецепт
 			common: обычный
 	Deception: Обман
@@ -290,7 +290,7 @@ Skill: Навык
 	Diplomacy: Дипломатия
 		Gather Information: Собрать информацию
 		Make an Impression: Произвести Впечатление :ref:`skill--Diplomacy--Make-an-Impression`
-		Request: Просьба
+		Request: Просьба :ref:`skill--Diplomacy--Request`
 	Intimidation: Запугивание
 		Coerce: Принуждение :ref:`skill--Intimidation--Coerce`
 		Demoralize: Деморализовать :ref:`skill--Intimidation--Demoralize`
@@ -314,7 +314,7 @@ Skill: Навык
 		Command an Animal: Приказать Животному :ref:`skill--Nature--Command-an-Animal`
 	Survival: Выживание
 		Cover Tracks: Заметать Следы
-		Track: Выслеживать
+		Track: Выслеживание :ref:`skill--Survival--Track`
 		Sense Direction: Понять Направление
 	Thievery: Воровство
 		Palm an Object: Ловкость рук

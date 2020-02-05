@@ -1,6 +1,6 @@
 .. include:: /helpers/roles.rst
 
-.. _rst--ch3--classes:
+.. _ch3--classes:
 
 ******************************
 Классы
@@ -11,7 +11,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--alchemist:
+.. _ch3--classes--alchemist:
 
 Алхимик
 ==========================
@@ -21,7 +21,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--bard:
+.. _ch3--classes--bard:
 
 Бард
 ==========================
@@ -31,7 +31,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--barbarian:
+.. _ch3--classes--barbarian:
 
 Варвар
 ==========================
@@ -41,7 +41,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--fighter:
+.. _ch3--classes--fighter:
 
 Воин
 ==========================
@@ -51,7 +51,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--wizard:
+.. _ch3--classes--wizard:
 
 Волшебник
 ==========================
@@ -61,7 +61,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--druid:
+.. _ch3--classes--druid:
 
 Друид
 ==========================
@@ -71,7 +71,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--cleric:
+.. _ch3--classes--cleric:
 
 Жрец
 ==========================
@@ -81,7 +81,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--monk:
+.. _ch3--classes--monk:
 
 Монах
 ==========================
@@ -91,7 +91,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--rogue:
+.. _ch3--classes--rogue:
 
 Плут
 ==========================
@@ -101,7 +101,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--ranger:
+.. _ch3--classes--ranger:
 
 Следопыт
 ==========================
@@ -111,7 +111,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--sorcerer:
+.. _ch3--classes--sorcerer:
 
 Чародей
 ==========================
@@ -121,7 +121,7 @@
 
 
 .. rst-class:: char-class
-.. _rst--ch3--classes--champion:
+.. _ch3--classes--champion:
 
 Чемпион
 ==========================
@@ -134,7 +134,7 @@
 
 
 .. rst-class:: animal-companions
-.. _rst--ch3--classes--animal-companions:
+.. _ch3--classes--animal-companions:
 
 Animal Companions and Familiars
 =========================================
@@ -201,6 +201,8 @@ Your animal companion has ancestry Hit Points from
 its type, plus a number of Hit Points equal to 6 plus its
 Constitution modifier for each level you have.
 
+
+.. _ch3--classes--animal-companions--mature:
 
 Mature Animal Companions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -341,7 +343,7 @@ for 1 minute.
 
 
 .. rst-class:: class-archetypes
-.. _rst--ch3--classes--archetypes:
+.. _ch3--classes--archetypes:
 
 Archetypes
 =========================================
