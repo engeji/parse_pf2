@@ -314,7 +314,7 @@ Skill: Навык
 		Command an Animal: Приказать Животному :ref:`skill--Nature--Command-an-Animal`
 	Survival: Выживание
 		Cover Tracks: Заметать Следы
-		Track: Выслеживать
+		Track: Выслеживание :ref:`skill--Survival--Track`
 		Sense Direction: Понять Направление
 	Thievery: Воровство
 		Palm an Object: Ловкость рук

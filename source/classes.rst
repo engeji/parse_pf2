@@ -202,6 +202,8 @@ its type, plus a number of Hit Points equal to 6 plus its
 Constitution modifier for each level you have.
 
 
+.. _ch3--classes--animal-companions--mature:
+
 Mature Animal Companions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 To advance a young animal companion to a mature animal
