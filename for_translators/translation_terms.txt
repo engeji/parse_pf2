@@ -19,6 +19,7 @@ actions:
 	Take Cover: Укрыться
 	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO) :ref:`action--Stride`
 	Step: Шаг (короткий, НЕ провоцирует AoO) :ref:`action--Step`
+	Stand: Встать :ref:`action--Stand`
 	Escape: Вырваться :ref:`action--Escape`
 	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
 	Sustain a Spell: Поддержать Заклинание :ref:`action--Sustain-a-Spell`
