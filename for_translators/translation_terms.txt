@@ -9,7 +9,7 @@ actions:
 	Interact: Взаимодействовать :ref:`action--Interact`
 	Strike: Удар :ref:`action--Strike`
 	Cast a Spell: Использование заклинания :ref:`action--Cast-a-Spell`
-	Aid: Помощь
+	Aid: Помощь :ref:`action--Aid`
 	Delay: Выждать
 	Ready: Приготовиться
 	Seek: Поиск :ref:`action--seek`
@@ -23,7 +23,7 @@ actions:
 	Escape: Вырваться :ref:`action--Escape`
 	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
 	Sustain a Spell: Поддержать Заклинание :ref:`action--Sustain-a-Spell`
-	Fly: Лететь
+	Fly: Лететь :ref:`action--Fly`
 	Grab an Edge: Схватиться за Уступ :ref:`action--Grab-an-Edge`
 	Crawl: Ползти
 	Mount: Оседлать
@@ -35,6 +35,8 @@ actions:
 	Leap: Прыжок :ref:`action--Leap`
 	Recall Knowledge: Вспомнить Изученное :ref:`skill--Recall-Knowledge`
 	Learn A Spell: Выучить заклинание :ref:`expl-activity--Learn-a-Spell`
+	Raise a Shield: Поднять щит :ref:`action--Raise-a-Shield`
+	Release: Отпустить :ref:`action--Release`
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
@@ -42,7 +44,7 @@ ancestry: родословная
 animal companion: животное компаньон
 atone ritual: ритуал искупления
 attack roll: атака
-Attack of Opportunity: Возможность для Атаки
+Attack of Opportunity: Возможность для Атаки :ref:`class-feature--fighter--Attack-Of-Opportunity`
 area: область
 	area of effect: область действия (эффекта)
 
@@ -224,7 +226,6 @@ martial: воинский
 meld into stone: слияние с камнем
 mindless: неразумный
 minion: миньон
-move action: перемещение
 multiple attack penalty: штраф множественных атак / штраф за множественные атаки
 
 negative: негативное
@@ -368,6 +369,7 @@ trait: признак / особенность
 		auditory: слуховой
 		linguistic: языковой
 		move: движение
+			move action: перемещение/движение
 		manipulate: воздействие
 		secret: тайна
 		emotion: эмоция
@@ -400,6 +402,7 @@ weather:
 	heat: жара
 weapon's critical specialization effect: критический эффект специализации оружия
 weapons:
+	advanced: улучшенное
 	club: дубинка
 	sap: мягкая дубинка (как полицейская)
 	falchion: фальшион
