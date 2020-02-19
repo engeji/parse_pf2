@@ -226,7 +226,6 @@ martial: воинский
 meld into stone: слияние с камнем
 mindless: неразумный
 minion: миньон
-move action: перемещение
 multiple attack penalty: штраф множественных атак / штраф за множественные атаки
 
 negative: негативное
@@ -370,6 +369,7 @@ trait: признак / особенность
 		auditory: слуховой
 		linguistic: языковой
 		move: движение
+			move action: перемещение/движение
 		manipulate: воздействие
 		secret: тайна
 		emotion: эмоция
