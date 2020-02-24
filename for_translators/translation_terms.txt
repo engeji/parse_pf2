@@ -123,6 +123,9 @@ Creature: существо
 	extraplanar: экстрапланарный
 	monitor: наблюдатель
 	lizardfolk: людоящер
+	dragon
+		brass: латунный
+		copper: медный
 	
 Currency: Деньги
 	pp: пм / платиновая монета
@@ -196,6 +199,7 @@ items: предметы
 		Infiltrator picks: отмычки взломщика
 
 Languages: языки
+	Taldane: Талдэйн (всеобщий язык)
 	Elven: Эльфийский
 	Celestial: Небесный (небожитель)
 	Draconic: Драконий
@@ -346,7 +350,6 @@ spellcasting: колдовство / произнесение заклинани
 		primal: природный
 Subordinate Actions: Вспомогательные Действия
 
-Taldane: Талдэйн (всеобщий язык)
 trait: признак / особенность
 	оружие:
 		agile: быстрое
@@ -390,6 +393,7 @@ trait: признак / особенность
 		Flourish: размах
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
+the Pit: Преисподняя
 
 unarmored: без брони
 
