@@ -31,7 +31,7 @@ actions:
 	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
 	Decipher Writing: Расшифровка Писаний :ref:`activity--gen--Decipher-Writing`
 	Earn Income: Заработать деньги
-	Refocus: Сфокусироваться
+	Refocus: Сфокусироваться :ref:`action--Refocus`
 	Leap: Прыжок :ref:`action--Leap`
 	Recall Knowledge: Вспомнить Изученное :ref:`skill--Recall-Knowledge`
 	Learn A Spell: Выучить заклинание :ref:`expl-activity--Learn-a-Spell`
