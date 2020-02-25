@@ -12,7 +12,7 @@ actions:
 	Aid: Помощь :ref:`action--Aid`
 	Delay: Выждать
 	Ready: Приготовиться
-	Seek: Поиск :ref:`action--seek`
+	Seek: Поиск :ref:`action--Seek`
 	Maneuver in Flight: Маневрирование в полете
 	Arrest a Fall: Остановить Падение
 	Request: Просьба
