@@ -337,8 +337,12 @@ for 1 minute.
 < ... >
 
 
+.. _ch3--classes--Animal-Companions--Familiars:
 
+Familiars
+----------------------------------------------------------------
 
+< ... >
 
 
 

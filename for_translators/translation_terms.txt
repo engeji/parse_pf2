@@ -367,6 +367,10 @@ trait: признак / особенность
 		deadly: смертельное
 		fatal: фатальное
 		propulsive: тяговое
+		disarm: разоружение
+		nonlethal: несмертельное
+		shove: толчок
+		trip: опрокидывание
 	остальные:
 		visual: визуальный
 		auditory: слуховой
@@ -414,3 +418,4 @@ weapons:
 	Main-gauche: мэн-гош (дага)
 	morningstar: моргенштерн
 	javelin: метательное копье
+	glaive: глефа
