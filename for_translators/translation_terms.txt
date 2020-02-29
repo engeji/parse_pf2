@@ -321,7 +321,7 @@ Skill: Навык
 	Nature: Природа
 		Command an Animal: Приказать Животному :ref:`skill--Nature--Command-an-Animal`
 	Survival: Выживание
-		Cover Tracks: Заметать Следы
+		Cover Tracks: Заметать Следы :ref:`skill--Survival--Cover-Tracks`
 		Track: Выслеживание :ref:`skill--Survival--Track`
 		Sense Direction: Понять Направление
 	Thievery: Воровство
@@ -409,6 +409,7 @@ weather:
 	cold: холод
 		severe: сильный
 		extreme: экстремальный
+		incredible: невероятный
 	heat: жара
 weapon's critical specialization effect: критический эффект специализации оружия
 weapons:
