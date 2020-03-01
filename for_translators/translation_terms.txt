@@ -30,7 +30,7 @@ actions:
 	Sense the Motive: Понять Намерение
 	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
 	Decipher Writing: Расшифровка Писаний :ref:`activity--gen--Decipher-Writing`
-	Earn Income: Заработать деньги
+	Earn Income: Заработать деньги :ref:`expl-activity--Earn-Income`
 	Refocus: Сфокусироваться :ref:`action--Refocus`
 	Leap: Прыжок :ref:`action--Leap`
 	Recall Knowledge: Вспомнить Изученное :ref:`skill--Recall-Knowledge`
@@ -272,7 +272,7 @@ Skill: Навык
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
 	Acrobatics: Акробатика
 		Balance: Балансировать :ref:`skill--Acrobatics--Balance`
-		Tumble Through: Проскочить
+		Tumble Through: Проскочить :ref:`skill--Acrobatics--Tumble-Through`
 		Maneuver in Flight: Маневрировать в полете
 		Squeeze: Протиснуться
 	Athletics: Атлетика
@@ -321,7 +321,7 @@ Skill: Навык
 	Nature: Природа
 		Command an Animal: Приказать Животному :ref:`skill--Nature--Command-an-Animal`
 	Survival: Выживание
-		Cover Tracks: Заметать Следы
+		Cover Tracks: Заметать Следы :ref:`skill--Survival--Cover-Tracks`
 		Track: Выслеживание :ref:`skill--Survival--Track`
 		Sense Direction: Понять Направление
 	Thievery: Воровство
@@ -409,6 +409,7 @@ weather:
 	cold: холод
 		severe: сильный
 		extreme: экстремальный
+		incredible: невероятный
 	heat: жара
 weapon's critical specialization effect: критический эффект специализации оружия
 weapons:
@@ -421,3 +422,5 @@ weapons:
 	morningstar: моргенштерн
 	javelin: метательное копье
 	glaive: глефа
+	dogslicer: собачий тесак
+	horsechopper: лошадиный тесак
