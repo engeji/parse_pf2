@@ -30,7 +30,7 @@ actions:
 	Sense the Motive: Понять Намерение
 	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
 	Decipher Writing: Расшифровка Писаний :ref:`activity--gen--Decipher-Writing`
-	Earn Income: Заработать деньги
+	Earn Income: Заработать деньги :ref:`expl-activity--Earn-Income`
 	Refocus: Сфокусироваться :ref:`action--Refocus`
 	Leap: Прыжок :ref:`action--Leap`
 	Recall Knowledge: Вспомнить Изученное :ref:`skill--Recall-Knowledge`
@@ -272,7 +272,7 @@ Skill: Навык
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
 	Acrobatics: Акробатика
 		Balance: Балансировать :ref:`skill--Acrobatics--Balance`
-		Tumble Through: Проскочить
+		Tumble Through: Проскочить :ref:`skill--Acrobatics--Tumble-Through`
 		Maneuver in Flight: Маневрировать в полете
 		Squeeze: Протиснуться
 	Athletics: Атлетика
@@ -422,3 +422,5 @@ weapons:
 	morningstar: моргенштерн
 	javelin: метательное копье
 	glaive: глефа
+	dogslicer: собачий тесак
+	horsechopper: лошадиный тесак
