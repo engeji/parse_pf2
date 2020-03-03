@@ -222,3 +222,11 @@
 
 - :uncommon:`необычный`
 - :rare:`редкий`
+
+
+
+.. versionadded:: /errata-r1
+	добавленно
+
+.. versionchanged:: /errata-r1
+	изменено

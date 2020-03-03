@@ -351,7 +351,61 @@
 Мистические заклинания 5-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+:ref:`spell--b--Banishment` (прегр.) :sup:`У`: Отправляете существо обратно на его родной план.
+
+Black Tentacles (con): Tentacles in an area grab creatures.
+
+Chromatic Wall (abj) H: A wall of light offers a unique protection based on its color.
+
+Cloak of Colors (ill): Bright colors dazzle creatures near the target, and attacks cause blinding flashes of light.
+
+Cloudkill (nec) H: Poison creatures in a cloud that moves away from you.
+
+Cone of Cold (evo) H: Bitter cold damages creatures in a cone.
+
+Control Water (evo): Raise or lower water in a large area.
+
+Crushing Despair (enc) H: Make a creature sob uncontrollably.
+
+:ref:`spell--d--Drop-Dead` (иллюз.) :sup:`Н У`: Кажется что цель умерла, но на самом деле становится невидимой.
+
+Elemental Form (tra) H: Turn into an elemental.
+
+False Vision (ill) U: Trick a scrying spell.
+
+Hallucination (ill) H: A creature believes one thing is another, can’t detect something, or sees something that’s not really there.
+
+Illusory Scene (ill) H: Create an imaginary scene containing multiple creatures and objects.
+
+Mariner's Curse (nec): Infect a creature with the curse of the rolling sea.
+
+Mind Probe (div) U: Uncover knowledge and memories in a creature's mind.
+
+Passwall (con) HU: Form an earthen tunnel through a wall.
+
+Prying Eye (div): An invisible eye transmits what it sees to you.
+
+Sending (div): Send a mental message to a creature anywhere on the planet and get a reply.
+
+Shadow Siphon (ill): React to lessen the damage from an enemy's spell by making it partially illusion.
+
+Shadow Walk (con) U: Travel rapidly via the Shadow Plane.
+
+Subconscious Suggestion (enc) H: Plant a mental suggestion that must be followed when a trigger occurs.
+
+Summon Dragon (con) H: Conjure a dragon to fight on your behalf.
+
+Telekinetic Haul (evo): Move a large object.
+
+Telepathic Bond (div) U: Link minds with willing creatures to communicate telepathically at great distances.
+
+Tongues (div) HU: Let a creature understand and speak all languages.
+
+Wall of Ice (evo) H: Sculpt a foot-thick wall of ice that blocks sight and can chill creatures.
+
+Wall of Stone (con) H: Shape a wall of stone.
+
+
 
 Мистические заклинания 5-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -608,7 +662,33 @@
 Сакральные заклинания 5-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+:ref:`spell--a--Abyssal-Plague` (некр.): Накладывает истощающее проклятие.
+
+:ref:`spell--b--Banishment` (прегр.) :sup:`У`: Отправляете существо обратно на его родной план.
+
+:ref:`spell--b--Breath-of-Life` (некр.): Среагируйте чтобы оживить существо в момент его смерти.
+
+:ref:`spell--d--Death-Ward` (прегр.): Защищает существо от негативных эффектов.
+
+:ref:`spell--d--Drop-Dead` (иллюз.) :sup:`Н У`: Кажется что цель умерла, но на самом деле становится невидимой.
+
+:ref:`spell--f--Flame-Strike` (разр.) :sup:`У`: Призывает с неба божественный огонь.
+
+Prying Eye (div): An invisible eye transmits what it sees to you.
+
+Sending (div): Send a mental message to a creature anywhere on the planet and get a reply.
+
+Shadow Blast (evo) H: Shape a cone of shadow to deal damage of a type you choose.
+
+Spiritual Guardian (abj) H: Create a magical guardian to attack at your command and take damage for your allies.
+
+Summon Celestial (con) H: Conjure a celestial to fight on your behalf.
+
+Summon Fiend (con) H: Conjure a fiend to fight on your behalf.
+
+Tongues (div) HU: Let a creature understand and speak all languages.
+
+
 
 Сакральные заклинания 6-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -950,7 +1030,55 @@ Recall massive amounts of information in an instant.
 Оккультные заклинания 5-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+:ref:`spell--a--Abyssal-Plague` (некр.): Накладывает истощающее проклятие.
+
+:ref:`spell--b--Banishment` (прегр.) :sup:`У`: Отправляете существо обратно на его родной план.
+
+Black Tentacles (con): Tentacles in an area grab creatures.
+
+Chromatic Wall (abj) H: A wall of light offers a unique protection based on its color.
+
+Cloak of Colors (ill): Bright colors dazzle creatures near the target, and attacks cause blinding flashes of light.
+
+Crushing Despair (enc) H: Make a creature sob uncontrollably.
+
+:ref:`spell--d--Death-Ward` (прегр.): Защищает существо от негативных эффектов.
+
+Dreaming Potential (enc): The target retrains in its dreams.
+
+False Vision (ill) 	U: Trick a scrying spell.
+
+Hallucination (ill) H: A creature believes one thing is another, can’t detect something, or sees something that’s not really there.
+
+Illusory Scene (ill) H: Create an imaginary scene containing multiple creatures and objects.
+
+Mariner's Curse (nec): Infect a creature with the curse of the rolling sea.
+
+Mind Probe (div) U: Uncover knowledge and memories in a creature's mind.
+
+Prying Eye (div): An invisible eye transmits what it sees to you.
+
+Sending (div): Send a mental message to a creature anywhere on the planet and get a reply.
+
+Shadow Blast (evo) H: Shape a cone of shadow to deal damage of a type you choose.
+
+Shadow Siphon (ill): React to lessen the damage from an enemy's spell by making it partially illusion.
+
+Shadow Walk (con) U: Travel rapidly via the Shadow Plane.
+
+Subconscious Suggestion (enc) H: Plant a mental suggestion that must be followed when a trigger occurs.
+
+Summon Entity (con) H: Conjure an aberration to fight on your behalf.
+
+Synaptic Pulse (enc): Slow creatures with a mental blast.
+
+Synesthesia (div) H: Rewire a creature's senses.
+
+Telekinetic Haul (evo): Move a large object.
+
+Telepathic Bond (div) U: Link minds with willing creatures to communicate telepathically at great distances.
+
+Tongues (div) HU: Let a creature understand and speak all languages.
 
 
 Оккультные заклинания 6-го ур.
@@ -1258,7 +1386,34 @@ Recall massive amounts of information in an instant.
 Природные заклинания 5-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+:ref:`spell--b--Banishment` (прегр.) :sup:`У`: Отправляете существо обратно на его родной план.
+
+Cloudkill (nec) H: Poison creatures in a cloud that moves away from you.
+
+Cone of Cold (evo) H: Bitter cold damages creatures in a cone.
+
+Control Water (evo): Raise or lower water in a large area.
+
+:ref:`spell--d--Death-Ward` (прегр.): Защищает существо от негативных эффектов.
+
+Elemental Form (tra) H: Turn into an elemental.
+
+Mariner's Curse (nec): Infect a creature with the curse of the rolling sea.
+
+Moon Frenzy (tra) H: Give willing creatures fangs and claws, and send them into a frenzy.
+
+Passwall (con) HU: Form an earthen tunnel through a wall.
+
+Plant Form (tra) H: Turn into a dangerous plant creature.
+
+Summon Giant (con) H: Conjure a giant to fight on your behalf.
+
+Tree Stride (con) HU: Teleport from tree to tree.
+
+Wall of Ice (evo) H: Sculpt a foot-thick wall of ice that blocks sight and can chill creatures.
+
+Wall of Stone (con) H: Shape a wall of stone.
+
 
 
 Природные заклинания 6-го ур.
