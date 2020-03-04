@@ -383,9 +383,9 @@ Mind Probe (div) U: Uncover knowledge and memories in a creature's mind.
 
 Passwall (con) HU: Form an earthen tunnel through a wall.
 
-Prying Eye (div): An invisible eye transmits what it sees to you.
+:ref:`spell--p--Prying-Eye` (прориц.): Невидимый глаз передает вам то, что видит сам.
 
-Sending (div): Send a mental message to a creature anywhere on the planet and get a reply.
+:ref:`spell--s--Sending` (прориц.): Отправляете ментальное сообщение существу, куда угодно на планете, и получаете ответ.
 
 Shadow Siphon (ill): React to lessen the damage from an enemy's spell by making it partially illusion.
 
@@ -399,7 +399,7 @@ Telekinetic Haul (evo): Move a large object.
 
 Telepathic Bond (div) U: Link minds with willing creatures to communicate telepathically at great distances.
 
-Tongues (div) HU: Let a creature understand and speak all languages.
+:ref:`spell--t--Tongues` :sup:`Н У` (прориц.): Позволяет существу понимать все языки и говорить на них.
 
 Wall of Ice (evo) H: Sculpt a foot-thick wall of ice that blocks sight and can chill creatures.
 
@@ -664,29 +664,29 @@ Wall of Stone (con) H: Shape a wall of stone.
 
 :ref:`spell--a--Abyssal-Plague` (некр.): Накладывает истощающее проклятие.
 
-:ref:`spell--b--Banishment` (прегр.) :sup:`У`: Отправляете существо обратно на его родной план.
+:ref:`spell--b--Banishment` :sup:`У` (прегр.): Отправляете существо обратно на его родной план.
 
 :ref:`spell--b--Breath-of-Life` (некр.): Среагируйте чтобы оживить существо в момент его смерти.
 
 :ref:`spell--d--Death-Ward` (прегр.): Защищает существо от негативных эффектов.
 
-:ref:`spell--d--Drop-Dead` (иллюз.) :sup:`Н У`: Кажется что цель умерла, но на самом деле становится невидимой.
+:ref:`spell--d--Drop-Dead` :sup:`Н У` (иллюз.): Кажется что цель умерла, но на самом деле становится невидимой.
 
-:ref:`spell--f--Flame-Strike` (разр.) :sup:`У`: Призывает с неба божественный огонь.
+:ref:`spell--f--Flame-Strike` :sup:`У` (разр.): Призывает с неба божественный огонь.
 
-Prying Eye (div): An invisible eye transmits what it sees to you.
+:ref:`spell--p--Prying-Eye` (прориц.): Невидимый глаз передает вам то, что видит сам.
 
-Sending (div): Send a mental message to a creature anywhere on the planet and get a reply.
+:ref:`spell--s--Sending` (прориц.): Отправляете ментальное сообщение существу, куда угодно на планете, и получаете ответ.
 
-Shadow Blast (evo) H: Shape a cone of shadow to deal damage of a type you choose.
+:ref:`spell--s--Shadow-Blast` :sup:`У` (разр.): Сформируйте конус/взрыв/линию теневой энергии, чтобы причинить повреждения выбранного типа.
 
-Spiritual Guardian (abj) H: Create a magical guardian to attack at your command and take damage for your allies.
+:ref:`spell--s--Spiritual-Guardian` :sup:`У` (прегр): Создаете магического стража чтобы атаковать по вашей команде и получать часть повреждений вместо ваших союзников.
 
-Summon Celestial (con) H: Conjure a celestial to fight on your behalf.
+:ref:`spell--s--Summon-Celestial` :sup:`У` (вопл.): Призываете небожителя чтобы он сражался за вас.
 
-Summon Fiend (con) H: Conjure a fiend to fight on your behalf.
+:ref:`spell--s--Summon-Fiend` :sup:`У` (вопл.): Призываете беса чтобы он сражался за вас.
 
-Tongues (div) HU: Let a creature understand and speak all languages.
+:ref:`spell--t--Tongues` :sup:`Н У` (прориц.): Позволяет существу понимать все языки и говорить на них.
 
 
 
@@ -1056,11 +1056,11 @@ Mariner's Curse (nec): Infect a creature with the curse of the rolling sea.
 
 Mind Probe (div) U: Uncover knowledge and memories in a creature's mind.
 
-Prying Eye (div): An invisible eye transmits what it sees to you.
+:ref:`spell--p--Prying-Eye` (прориц.): Невидимый глаз передает вам то, что видит сам.
 
-Sending (div): Send a mental message to a creature anywhere on the planet and get a reply.
+:ref:`spell--s--Sending` (прориц.): Отправляете ментальное сообщение существу, куда угодно на планете, и получаете ответ.
 
-Shadow Blast (evo) H: Shape a cone of shadow to deal damage of a type you choose.
+:ref:`spell--s--Shadow-Blast` :sup:`У` (разр.): Сформируйте конус/взрыв/линию теневой энергии, чтобы причинить повреждения выбранного типа.
 
 Shadow Siphon (ill): React to lessen the damage from an enemy's spell by making it partially illusion.
 
@@ -1078,7 +1078,7 @@ Telekinetic Haul (evo): Move a large object.
 
 Telepathic Bond (div) U: Link minds with willing creatures to communicate telepathically at great distances.
 
-Tongues (div) HU: Let a creature understand and speak all languages.
+:ref:`spell--t--Tongues` :sup:`Н У` (прориц.): Позволяет существу понимать все языки и говорить на них.
 
 
 Оккультные заклинания 6-го ур.
