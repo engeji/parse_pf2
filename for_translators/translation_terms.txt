@@ -126,7 +126,8 @@ Creature: существо
 	dragon
 		brass: латунный
 		copper: медный
-	
+
+counteract: Противодействие :ref:`ch9--Counteracting`
 Currency: Деньги
 	pp: пм / платиновая монета
 	gp: зм / золотая монета
@@ -251,6 +252,7 @@ plane: план
 	Astral: Астральный
 	Ethereal: Эфемерный
 
+rage: ярость
 range: дистанция
 	range increment: шаг дистанции
 reach: досягаемость
