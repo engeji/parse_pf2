@@ -1044,7 +1044,7 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--d--Death-Ward` (прегр.): Защищает существо от негативных эффектов.
 
-Dreaming Potential (enc): The target retrains in its dreams.
+:ref:`spell--d--Dreaming-Potential` (очар.): Цель может переобучаться во время сна.
 
 :ref:`spell--f--False-Vision` :sup:`Н` (иллюз.): Обманывает заклинания вИдения.
 
@@ -1068,17 +1068,18 @@ Dreaming Potential (enc): The target retrains in its dreams.
 
 :ref:`spell--s--Subconscious-Suggestion` :sup:`У` (очар): Внедряете ментальное внушение, которое должно быть выполнено при срабатывании триггера.
 
-Summon Entity (con) H: Conjure an aberration to fight on your behalf.
+:ref:`spell--s--Summon-Entity` :sup:`У` (вопл.): Призываете аберрацию которая сражается за вас.
 
-Synaptic Pulse (enc): Slow creatures with a mental blast.
+:ref:`spell--s--Synaptic-Pulse` (очар.): Замедляете существ ментальным взрывом.
 
-Synesthesia (div) H: Rewire a creature's senses.
+:ref:`spell--s--Synesthesia` :sup:`У` (прориц.): Изменяете понимание чувств цели.
 
 :ref:`spell--t--Telekinetic-Haul` (разр.): Передвигаете большой объект.
 
 :ref:`spell--t--Telepathic-Bond` :sup:`Н` (прориц.): Соединяется разумы готовых существ, чтобы телепатически общаться на огромноых расстояниях.
 
 :ref:`spell--t--Tongues` :sup:`Н У` (прориц.): Позволяет существу понимать все языки и говорить на них.
+
 
 
 Оккультные заклинания 6-го ур.
