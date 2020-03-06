@@ -351,63 +351,63 @@
 Мистические заклинания 5-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-:ref:`spell--b--Banishment` (прегр.) :sup:`У`: Отправляете существо обратно на его родной план.
+:ref:`spell--b--Banishment` :sup:`У` (прегр.): Отправляете существо обратно на его родной план.
 
-Black Tentacles (con): Tentacles in an area grab creatures.
+:ref:`spell--b--Black-Tentacles` (вопл.): Щупальцы хватают существ в области и наносят им повреждения.
 
-Chromatic Wall (abj) H: A wall of light offers a unique protection based on its color.
+:ref:`spell--c--Chromatic-Wall` :sup:`У` (прегр.): Стена света дает уникальную защиту в зависимости от ее цвета.
 
-Cloak of Colors (ill): Bright colors dazzle creatures near the target, and attacks cause blinding flashes of light.
+:ref:`spell--c--Cloak-of-Colors` (иллюз.): Яркие цвета ослепляют существ поблизости, и атаки вызывают слепящие вспышки света.
 
-Cloudkill (nec) H: Poison creatures in a cloud that moves away from you.
+:ref:`spell--c--Cloudkill` :sup:`У` (некр.): Причиняет повреждения ядом существам в облаке, которое перемещается в сторону от вас.
 
-Cone of Cold (evo) H: Bitter cold damages creatures in a cone.
+:ref:`spell--c--Cone-of-Cold` :sup:`У` (разр.): Лютый холод причиняет повреждения существам в конусе.
 
-Control Water (evo): Raise or lower water in a large area.
+:ref:`spell--c--Control-Water` (разр.): Поднимаете или опускаете уровень воды в большой области.
 
-Crushing Despair (enc) H: Make a creature sob uncontrollably.
+:ref:`spell--c--Crushing-Despair` :sup:`У` (очар.): Заставьте существо неудержимо рыдать.
 
-:ref:`spell--d--Drop-Dead` (иллюз.) :sup:`Н У`: Кажется что цель умерла, но на самом деле становится невидимой.
+:ref:`spell--d--Drop-Dead` :sup:`Н У` (иллюз.): Кажется что цель умерла, но на самом деле становится невидимой.
 
-Elemental Form (tra) H: Turn into an elemental.
+:ref:`spell--e--Elemental-Form` :sup:`У` (превр.): Превращаетесь в элементаля.
 
-False Vision (ill) U: Trick a scrying spell.
+:ref:`spell--f--False-Vision` :sup:`Н` (иллюз.): Обманывает заклинания вИдения.
 
-Hallucination (ill) H: A creature believes one thing is another, can’t detect something, or sees something that’s not really there.
+:ref:`spell--h--Hallucination` :sup:`У` (иллюз.): Существо верит что вещь является другой, не может обнаружить/найти что-то или видит что-то, чего нет.
 
-Illusory Scene (ill) H: Create an imaginary scene containing multiple creatures and objects.
+:ref:`spell--i--Illusory-Scene` :sup:`У` (иллюз.): Создаете воображаемую сцену состоящую из нескольких существ и объектов.
 
-Mariner's Curse (nec): Infect a creature with the curse of the rolling sea.
+:ref:`spell--m--Mariners-Curse` (некр.): Заражаете существо проклятием бурлящего моря.
 
-Mind Probe (div) U: Uncover knowledge and memories in a creature's mind.
+:ref:`spell--m--Mind-Probe` :sup:`Н` (прориц.): Раскрываете знания и воспоминания в разуме существа.
 
-Passwall (con) HU: Form an earthen tunnel through a wall.
+:ref:`spell--p--Passwall` :sup:`Н У` (вопл.): Формируйте туннель через стену.
 
 :ref:`spell--p--Prying-Eye` (прориц.): Невидимый глаз передает вам то, что видит сам.
 
 :ref:`spell--s--Sending` (прориц.): Отправляете ментальное сообщение существу, куда угодно на планете, и получаете ответ.
 
-Shadow Siphon (ill): React to lessen the damage from an enemy's spell by making it partially illusion.
+:ref:`spell--s--Shadow-Siphon` (иллюз.): Реагируете чтобы снизить повреждения от заклинания врага, сделав его частично иллюзорным.
 
-Shadow Walk (con) U: Travel rapidly via the Shadow Plane.
+:ref:`spell--s--Shadow-Walk` :sup:`Н` (вопл.): Быстро путешествуете через "Теневой План".
 
-Subconscious Suggestion (enc) H: Plant a mental suggestion that must be followed when a trigger occurs.
+:ref:`spell--s--Subconscious-Suggestion` :sup:`У` (очар): Внедряете ментальное внушение, которое должно быть выполнено при срабатывании триггера.
 
-Summon Dragon (con) H: Conjure a dragon to fight on your behalf.
+:ref:`spell--s--Summon-Dragon` :sup:`У` (вопл.): Призываете дракона чтобы он сражался за вас.
 
-Telekinetic Haul (evo): Move a large object.
+:ref:`spell--t--Telekinetic-Haul` (разр.): Передвигаете большой объект.
 
-Telepathic Bond (div) U: Link minds with willing creatures to communicate telepathically at great distances.
+:ref:`spell--t--Telepathic-Bond` :sup:`Н` (прориц.): Соединяется разумы готовых существ, чтобы телепатически общаться на огромноых расстояниях.
 
 :ref:`spell--t--Tongues` :sup:`Н У` (прориц.): Позволяет существу понимать все языки и говорить на них.
 
-Wall of Ice (evo) H: Sculpt a foot-thick wall of ice that blocks sight and can chill creatures.
+:ref:`spell--w--Wall-of-Ice` :sup:`У` (разр.): Формируете ледяную стену, толщиной в 1 фут, которая блокирует обзор и может нанести повреждения холодом.
 
-Wall of Stone (con) H: Shape a wall of stone.
+:ref:`spell--w--Wall-of-Stone` :sup:`У` (вопл.): Создаете стену из камня.
 
 
 
-Мистические заклинания 5-го ур.
+Мистические заклинания 6-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 < TODO >
@@ -1034,27 +1034,27 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--b--Banishment` (прегр.) :sup:`У`: Отправляете существо обратно на его родной план.
 
-Black Tentacles (con): Tentacles in an area grab creatures.
+:ref:`spell--b--Black-Tentacles` (вопл.): Щупальцы хватают существ в области и наносят им повреждения.
 
-Chromatic Wall (abj) H: A wall of light offers a unique protection based on its color.
+:ref:`spell--c--Chromatic-Wall` :sup:`У` (прегр.): Стена света дает уникальную защиту в зависимости от ее цвета.
 
-Cloak of Colors (ill): Bright colors dazzle creatures near the target, and attacks cause blinding flashes of light.
+:ref:`spell--c--Cloak-of-Colors` (иллюз.): Яркие цвета ослепляют существ поблизости, и атаки вызывают слепящие вспышки света.
 
-Crushing Despair (enc) H: Make a creature sob uncontrollably.
+:ref:`spell--c--Crushing-Despair` :sup:`У` (очар.): Заставьте существо неудержимо рыдать.
 
 :ref:`spell--d--Death-Ward` (прегр.): Защищает существо от негативных эффектов.
 
 Dreaming Potential (enc): The target retrains in its dreams.
 
-False Vision (ill) 	U: Trick a scrying spell.
+:ref:`spell--f--False-Vision` :sup:`Н` (иллюз.): Обманывает заклинания вИдения.
 
-Hallucination (ill) H: A creature believes one thing is another, can’t detect something, or sees something that’s not really there.
+:ref:`spell--h--Hallucination` :sup:`У` (иллюз.): Существо верит что вещь является другой, не может обнаружить/найти что-то или видит что-то, чего нет.
 
-Illusory Scene (ill) H: Create an imaginary scene containing multiple creatures and objects.
+:ref:`spell--i--Illusory-Scene` :sup:`У` (иллюз.): Создаете воображаемую сцену состоящую из нескольких существ и объектов.
 
-Mariner's Curse (nec): Infect a creature with the curse of the rolling sea.
+:ref:`spell--m--Mariners-Curse` (некр.): Заражаете существо проклятием бурлящего моря.
 
-Mind Probe (div) U: Uncover knowledge and memories in a creature's mind.
+:ref:`spell--m--Mind-Probe` :sup:`Н` (прориц.): Раскрываете знания и воспоминания в разуме существа.
 
 :ref:`spell--p--Prying-Eye` (прориц.): Невидимый глаз передает вам то, что видит сам.
 
@@ -1062,11 +1062,11 @@ Mind Probe (div) U: Uncover knowledge and memories in a creature's mind.
 
 :ref:`spell--s--Shadow-Blast` :sup:`У` (разр.): Сформируйте конус/взрыв/линию теневой энергии, чтобы причинить повреждения выбранного типа.
 
-Shadow Siphon (ill): React to lessen the damage from an enemy's spell by making it partially illusion.
+:ref:`spell--s--Shadow-Siphon` (иллюз.): Реагируете чтобы снизить повреждения от заклинания врага, сделав его частично иллюзорным.
 
-Shadow Walk (con) U: Travel rapidly via the Shadow Plane.
+:ref:`spell--s--Shadow-Walk` :sup:`Н` (вопл.): Быстро путешествуете через "Теневой План".
 
-Subconscious Suggestion (enc) H: Plant a mental suggestion that must be followed when a trigger occurs.
+:ref:`spell--s--Subconscious-Suggestion` :sup:`У` (очар): Внедряете ментальное внушение, которое должно быть выполнено при срабатывании триггера.
 
 Summon Entity (con) H: Conjure an aberration to fight on your behalf.
 
@@ -1074,9 +1074,9 @@ Synaptic Pulse (enc): Slow creatures with a mental blast.
 
 Synesthesia (div) H: Rewire a creature's senses.
 
-Telekinetic Haul (evo): Move a large object.
+:ref:`spell--t--Telekinetic-Haul` (разр.): Передвигаете большой объект.
 
-Telepathic Bond (div) U: Link minds with willing creatures to communicate telepathically at great distances.
+:ref:`spell--t--Telepathic-Bond` :sup:`Н` (прориц.): Соединяется разумы готовых существ, чтобы телепатически общаться на огромноых расстояниях.
 
 :ref:`spell--t--Tongues` :sup:`Н У` (прориц.): Позволяет существу понимать все языки и говорить на них.
 
@@ -1388,21 +1388,21 @@ Telepathic Bond (div) U: Link minds with willing creatures to communicate telepa
 
 :ref:`spell--b--Banishment` (прегр.) :sup:`У`: Отправляете существо обратно на его родной план.
 
-Cloudkill (nec) H: Poison creatures in a cloud that moves away from you.
+:ref:`spell--c--Cloudkill` :sup:`У` (некр.): Причиняет повреждения ядом существам в облаке, которое перемещается в сторону от вас.
 
-Cone of Cold (evo) H: Bitter cold damages creatures in a cone.
+:ref:`spell--c--Cone-of-Cold` :sup:`У` (разр.): Лютый холод причиняет повреждения существам в конусе.
 
-Control Water (evo): Raise or lower water in a large area.
+:ref:`spell--c--Control-Water` (разр.): Поднимаете или опускаете уровень воды в большой области.
 
 :ref:`spell--d--Death-Ward` (прегр.): Защищает существо от негативных эффектов.
 
-Elemental Form (tra) H: Turn into an elemental.
+:ref:`spell--e--Elemental-Form` :sup:`У` (превр.): Превращаетесь в элементаля.
 
-Mariner's Curse (nec): Infect a creature with the curse of the rolling sea.
+:ref:`spell--m--Mariners-Curse` (некр.): Заражаете существо проклятием бурлящего моря.
 
 Moon Frenzy (tra) H: Give willing creatures fangs and claws, and send them into a frenzy.
 
-Passwall (con) HU: Form an earthen tunnel through a wall.
+:ref:`spell--p--Passwall` :sup:`Н У` (вопл.): Формируйте туннель через стену.
 
 Plant Form (tra) H: Turn into a dangerous plant creature.
 
@@ -1410,9 +1410,9 @@ Summon Giant (con) H: Conjure a giant to fight on your behalf.
 
 Tree Stride (con) HU: Teleport from tree to tree.
 
-Wall of Ice (evo) H: Sculpt a foot-thick wall of ice that blocks sight and can chill creatures.
+:ref:`spell--w--Wall-of-Ice` :sup:`У` (разр.): Формируете ледяную стену, толщиной в 1 фут, которая блокирует обзор и может нанести повреждения холодом.
 
-Wall of Stone (con) H: Shape a wall of stone.
+:ref:`spell--w--Wall-of-Stone` :sup:`У` (вопл.): Создаете стену из камня.
 
 
 
