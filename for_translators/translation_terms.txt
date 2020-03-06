@@ -252,6 +252,7 @@ plane: план
 	Astral: Астральный
 	Ethereal: Эфемерный
 
+rage: ярость
 range: дистанция
 	range increment: шаг дистанции
 reach: досягаемость

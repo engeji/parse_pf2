@@ -1401,15 +1401,15 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--m--Mariners-Curse` (некр.): Заражаете существо проклятием бурлящего моря.
 
-Moon Frenzy (tra) H: Give willing creatures fangs and claws, and send them into a frenzy.
+:ref:`spell--m--Moon-Frenzy` :sup:`У` (превр.): Даете готовым существам клыки и когти, и приводите их в исступление.
 
 :ref:`spell--p--Passwall` :sup:`Н У` (вопл.): Формируйте туннель через стену.
 
-Plant Form (tra) H: Turn into a dangerous plant creature.
+:ref:`spell--p--Plant-Form` :sup:`У` (превр.): Превращаетесь в опасное растительное существо.
 
-Summon Giant (con) H: Conjure a giant to fight on your behalf.
+:ref:`spell--s--Summon-Giant` :sup:`У` (вопл): Призываете гиганта сражаться за вас.
 
-Tree Stride (con) HU: Teleport from tree to tree.
+:ref:`spell--t--Tree-Stride` :sup:`Н У` (вопл.): Телепортируетесь от дерева к дереву.
 
 :ref:`spell--w--Wall-of-Ice` :sup:`У` (разр.): Формируете ледяную стену, толщиной в 1 фут, которая блокирует обзор и может нанести повреждения холодом.
 
