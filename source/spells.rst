@@ -410,7 +410,47 @@
 Мистические заклинания 6-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Baleful Polymorph (tra): Transform a creature into a harmless animal.
+
+Chain Lightning H (evo): Lightning jumps from creature to creature.
+
+Collective Transposition H (con): Teleport up to two creatures to new positions near you.
+
+Disintegrate H (evo): Reduce a creature or object to dust.
+
+Dominate HU (enc): A humanoid must obey your orders.
+
+Dragon Form H (tra): Turn into a dragon.
+
+Feeblemind (enc): Stupefy a creature permanently.
+
+Flesh to Stone (tra): Turn a living creature into a stone statue.
+
+Mislead (ill): Turn invisible and create a duplicate of yourself who acts like you.
+
+Phantasmal Calamity H (ill): Damage a creature mentally with visions of an apocalypse.
+
+Purple Worm Sting (nec): Damage a creature and infect it with purple worm venom.
+
+:ref:`spell--r--Repulsion` (прегр.): Не позволяете существам приближаться к вам.
+
+Righteous Might H (tra): Turn into a battle form with divine armaments.
+
+Scrying U (div): Spy on a creature.
+
+:ref:`spell--s--Spellwrack` (прегр.): Проклинаете существо на получение повреждений, когда на него колдуется заклинание и снижает продолжительность его заклинаний.
+
+Teleport HU (con): Transport you and willing creatures a great distance.
+
+:ref:`spell--t--True-Seeing` (прориц.): Позволяет видеть через иллюзии и превращения.
+
+:ref:`spell--v--Vampiric-Exsanguination` :sup:`У` (некр.): Черпаете кровь и жизненную силу у существ в конусе.
+
+Vibrant Pattern (ill): Make a pattern of lights that dazzles and blinds.
+
+Wall of Force H (evo): Create an invisible and durable wall of magical force.
+
+
 
 Мистические заклинания 7-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -693,14 +733,38 @@
 Сакральные заклинания 6-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-:ref:`spell--r--Raise-Dead`
+:ref:`spell--b--Blade-Barrier` :sup:`У` (разр.): Формируете стену клинков, сделанных из силы.
 
-< TODO >
+:ref:`spell--f--Field-of-Life` :sup:`У` (некр.): Создаете поле позитивной энергии, которое исцеляет живых и повреждает нежить внутри.
+
+:ref:`spell--r--Raise-Dead` :sup:`Н У` (некр.): Возвращаете мертвое существо к жизни.
+
+:ref:`spell--r--Repulsion` (прегр.): Не позволяете существам приближаться к вам.
+
+:ref:`spell--r--Righteous-Might` :sup:`У` (превр.): Превращаетесь в боевую форму с божественным оружием.
+
+:ref:`spell--s--Spellwrack` (прегр.): Проклинаете существо на получение повреждений, когда на него колдуется заклинание и снижает продолжительность его заклинаний.
+
+:ref:`spell--s--Spirit-Blast` :sup:`У` (некр.): Повреждаете духовную сущность существа.
+
+:ref:`spell--s--Stone-Tell` :sup:`Н` (разр.): Разговариваете с духами внутри естественного камня.
+
+:ref:`spell--s--Stone-to-Flesh` (превр.): Превращаете существо, обращенное в камень, обратно в плоть.
+
+:ref:`spell--t--True-Seeing` (прориц.): Позволяет видеть через иллюзии и превращения.
+
+:ref:`spell--v--Vampiric-Exsanguination` :sup:`У` (некр.): Черпаете кровь и жизненную силу у существ в конусе.
+
+:ref:`spell--z--Zealous-Conviction` :sup:`У` (очар.): Придаете готовы существам непоколебимую убежденность и рвение.
+
+
 
 Сакральные заклинания 7-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+:ref:`spell--p--Project-Image`
+
+
 
 Сакральные заклинания 8-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -1085,13 +1149,42 @@ Recall massive amounts of information in an instant.
 Оккультные заклинания 6-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Collective Transposition H (con): Teleport up to two creatures to new positions near you.
+
+Dominate HU (enc): A humanoid must obey your orders.
+
+Feeblemind (enc): Stupefy a creature permanently.
+
+Mislead (ill): Turn invisible and create a duplicate of yourself who acts like you.
+
+Phantasmal Calamity H (ill): Damage a creature mentally with visions of an apocalypse.
+
+:ref:`spell--r--Repulsion` (прегр.): Не позволяете существам приближаться к вам.
+
+Scrying U (div): Spy on a creature.
+
+:ref:`spell--s--Spellwrack` (прегр.): Проклинаете существо на получение повреждений, когда на него колдуется заклинание и снижает продолжительность его заклинаний.
+
+:ref:`spell--s--Spirit-Blast` :sup:`У` (некр.): Повреждаете духовную сущность существа.
+
+Teleport HU (con): Transport you and willing creatures a great distance.
+
+:ref:`spell--t--True-Seeing` (прориц.): Позволяет видеть через иллюзии и превращения.
+
+:ref:`spell--v--Vampiric-Exsanguination` :sup:`У` (некр.): Черпаете кровь и жизненную силу у существ в конусе.
+
+Vibrant Pattern (ill): Make a pattern of lights that dazzles and blinds.
+
+Wall of Force H (evo): Create an invisible and durable wall of magical force.
+
+:ref:`spell--z--Zealous-Conviction` :sup:`У` (очар.): Придаете готовы существам непоколебимую убежденность и рвение.
+
 
 
 Оккультные заклинания 7-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+:ref:`spell--p--Project-Image`
 
 
 Оккультные заклинания 8-го ур.
@@ -1420,7 +1513,28 @@ Recall massive amounts of information in an instant.
 Природные заклинания 6-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Baleful Polymorph (tra): Transform a creature into a harmless animal.
+
+Chain Lightning H (evo): Lightning jumps from creature to creature.
+
+Dragon Form H (tra): Turn into a dragon.
+
+:ref:`spell--f--Field-of-Life` :sup:`У` (некр.): Создаете поле позитивной энергии, которое исцеляет живых и повреждает нежить внутри.
+
+Fire Seeds H (evo): Make four explosive acorns.
+
+Flesh to Stone (tra): Turn a living creature into a stone statue.
+
+Purple Worm Sting (nec): Damage a creature and infect it with purple worm venom.
+
+:ref:`spell--s--Stone-Tell` :sup:`Н` (разр.): Разговариваете с духами внутри естественного камня.
+
+:ref:`spell--s--Stone-to-Flesh` (превр.): Превращаете существо, обращенное в камень, обратно в плоть.
+
+Tangling Creepers (con): Entangle creatures in a burst and concentrate to lash out with immobilizing vines.
+
+:ref:`spell--t--True-Seeing` (прориц.): Позволяет видеть через иллюзии и превращения.
+
 
 
 Природные заклинания 7-го ур.

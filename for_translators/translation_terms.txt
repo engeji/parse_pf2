@@ -251,6 +251,7 @@ plane: план
 	Shadow: Теневой
 	Astral: Астральный
 	Ethereal: Эфемерный
+	Boneyard: Могильник
 
 rage: ярость
 range: дистанция
@@ -266,6 +267,10 @@ rune: руна
 		returning: возвращающаяся
 		shifting: изменяющая
 		ghost touch: призрачное касание
+		anarchic: анархическая
+		axiomatic: аксиоматическая
+		holy: святая
+		unholy: нечестивая
 
 saving throw: испытание
 shoddy: низкокачественный
