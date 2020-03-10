@@ -1519,7 +1519,7 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--f--Field-of-Life` :sup:`У` (некр.): Создаете поле позитивной энергии, которое исцеляет живых и повреждает нежить внутри.
 
-Fire Seeds H (evo): Make four explosive acorns.
+:ref:`spell--f--Fire-Seeds` :sup:`У` (разр.): Создаете четыре взрывающихся желудя.
 
 :ref:`spell--f--Flesh-to-Stone` (превр.): Превращает живое существо в каменную статую.
 
@@ -1529,7 +1529,7 @@ Fire Seeds H (evo): Make four explosive acorns.
 
 :ref:`spell--s--Stone-to-Flesh` (превр.): Превращаете существо, обращенное в камень, обратно в плоть.
 
-Tangling Creepers (con): Entangle creatures in a burst and concentrate to lash out with immobilizing vines.
+:ref:`spell--t--Tangling-Creepers` (вопл.): Опутываете существ в области взрыва, и сосредотачиваетесь лианах обездвиживающих существ.
 
 :ref:`spell--t--True-Seeing` (прориц.): Позволяет видеть через иллюзии и превращения.
 
