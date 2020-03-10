@@ -47,6 +47,9 @@ attack roll: атака
 Attack of Opportunity: Возможность для Атаки :ref:`class-feature--fighter--Attack-Of-Opportunity`
 area: область
 	area of effect: область действия (эффекта)
+artifacts?
+	rod of cancellation: жезл отмены
+	sphere of annihilation: сфера аннигиляции
 
 Background: Предыстория
 Basic Action: основное действие
@@ -431,3 +434,4 @@ weapons:
 	glaive: глефа
 	dogslicer: собачий тесак
 	horsechopper: лошадиный тесак
+	breath weapon: атака дыханием / дыхание

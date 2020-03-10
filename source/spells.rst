@@ -410,45 +410,43 @@
 Мистические заклинания 6-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Baleful Polymorph (tra): Transform a creature into a harmless animal.
+:ref:`spell--b--Baleful-Polymorph` (превр.): Превращает существо в безвредное животное.
 
-Chain Lightning H (evo): Lightning jumps from creature to creature.
+:ref:`spell--c--Chain-Lightning` :sup:`У` (разр.): Молния перепрыгивает от существа к существу.
 
-Collective Transposition H (con): Teleport up to two creatures to new positions near you.
+:ref:`spell--c--Collective-Transposition` :sup:`У` (вопл.): Телепортируете вплоть до двух существ в новое место недалеко от вас.
 
-Disintegrate H (evo): Reduce a creature or object to dust.
+:ref:`spell--d--Disintegrate` :sup:`У` (разр): Разрушаете существо или предмет в пыль.
 
-Dominate HU (enc): A humanoid must obey your orders.
+:ref:`spell--d--Dominate` :sup:`Н У` (очар.): Гуманоид должен подчиняться вашим приказам.
 
-Dragon Form H (tra): Turn into a dragon.
+:ref:`spell--d--Dragon-Form` :sup:`У` (превр.): Становитесь драконом.
 
-Feeblemind (enc): Stupefy a creature permanently.
+:ref:`spell--f--Feeblemind` (очар.): Навсегда одурманиваете существо.
 
-Flesh to Stone (tra): Turn a living creature into a stone statue.
+:ref:`spell--f--Flesh-to-Stone` (превр.): Превращает живое существо в каменную статую.
 
-Mislead (ill): Turn invisible and create a duplicate of yourself who acts like you.
+:ref:`spell--m--Mislead` (иллюз.): Становитесь невидимым и создаете своего двойника, который действует как вы.
 
-Phantasmal Calamity H (ill): Damage a creature mentally with visions of an apocalypse.
+:ref:`spell--p--Phantasmal-Calamity` :sup:`У` (иллюз.): Ментально повреждает существ с помощью видения апокалипсиса.
 
-Purple Worm Sting (nec): Damage a creature and infect it with purple worm venom.
+:ref:`spell--p--Purple-Worm-Sting` (некр.): Наносите цели урон и заражаете ее ядом фиолетового червя.
 
 :ref:`spell--r--Repulsion` (прегр.): Не позволяете существам приближаться к вам.
 
-Righteous Might H (tra): Turn into a battle form with divine armaments.
-
-Scrying U (div): Spy on a creature.
+:ref:`spell--s--Scrying` :sup:`Н` (прориц.): Шпионите за существом.
 
 :ref:`spell--s--Spellwrack` (прегр.): Проклинаете существо на получение повреждений, когда на него колдуется заклинание и снижает продолжительность его заклинаний.
 
-Teleport HU (con): Transport you and willing creatures a great distance.
+:ref:`spell--t--Teleport` :sup:`Н У` (вопл.): Перемещает вас и готовых существ на огромные расстояния.
 
 :ref:`spell--t--True-Seeing` (прориц.): Позволяет видеть через иллюзии и превращения.
 
 :ref:`spell--v--Vampiric-Exsanguination` :sup:`У` (некр.): Черпаете кровь и жизненную силу у существ в конусе.
 
-Vibrant Pattern (ill): Make a pattern of lights that dazzles and blinds.
+:ref:`spell--v--Vibrant-Pattern` (иллюз.): Создаете узор из света который ослепляет или делает слепыми.
 
-Wall of Force H (evo): Create an invisible and durable wall of magical force.
+:ref:`spell--w--Wall-of-Force` :sup:`У` (разр.): Создаете невидимую и крепкую стену из магической силы.
 
 
 
@@ -1149,33 +1147,33 @@ Recall massive amounts of information in an instant.
 Оккультные заклинания 6-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Collective Transposition H (con): Teleport up to two creatures to new positions near you.
+:ref:`spell--c--Collective-Transposition` :sup:`У` (вопл.): Телепортируете вплоть до двух существ в новое место недалеко от вас.
 
-Dominate HU (enc): A humanoid must obey your orders.
+:ref:`spell--d--Dominate` :sup:`Н У` (очар.): Гуманоид должен подчиняться вашим приказам.
 
-Feeblemind (enc): Stupefy a creature permanently.
+:ref:`spell--f--Feeblemind` (очар.): Навсегда одурманиваете существо.
 
-Mislead (ill): Turn invisible and create a duplicate of yourself who acts like you.
+:ref:`spell--m--Mislead` (иллюз.): Становитесь невидимым и создаете своего двойника, который действует как вы.
 
-Phantasmal Calamity H (ill): Damage a creature mentally with visions of an apocalypse.
+:ref:`spell--p--Phantasmal-Calamity` :sup:`У` (иллюз.): Ментально повреждает существ с помощью видения апокалипсиса.
 
 :ref:`spell--r--Repulsion` (прегр.): Не позволяете существам приближаться к вам.
 
-Scrying U (div): Spy on a creature.
+:ref:`spell--s--Scrying` :sup:`Н` (прориц.): Шпионите за существом.
 
 :ref:`spell--s--Spellwrack` (прегр.): Проклинаете существо на получение повреждений, когда на него колдуется заклинание и снижает продолжительность его заклинаний.
 
 :ref:`spell--s--Spirit-Blast` :sup:`У` (некр.): Повреждаете духовную сущность существа.
 
-Teleport HU (con): Transport you and willing creatures a great distance.
+:ref:`spell--t--Teleport` :sup:`Н У` (вопл.): Перемещает вас и готовых существ на огромные расстояния.
 
 :ref:`spell--t--True-Seeing` (прориц.): Позволяет видеть через иллюзии и превращения.
 
 :ref:`spell--v--Vampiric-Exsanguination` :sup:`У` (некр.): Черпаете кровь и жизненную силу у существ в конусе.
 
-Vibrant Pattern (ill): Make a pattern of lights that dazzles and blinds.
+:ref:`spell--v--Vibrant-Pattern` (иллюз.): Создаете узор из света который ослепляет или делает слепыми.
 
-Wall of Force H (evo): Create an invisible and durable wall of magical force.
+:ref:`spell--w--Wall-of-Force` :sup:`У` (разр.): Создаете невидимую и крепкую стену из магической силы.
 
 :ref:`spell--z--Zealous-Conviction` :sup:`У` (очар.): Придаете готовы существам непоколебимую убежденность и рвение.
 
@@ -1513,19 +1511,19 @@ Wall of Force H (evo): Create an invisible and durable wall of magical force.
 Природные заклинания 6-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Baleful Polymorph (tra): Transform a creature into a harmless animal.
+:ref:`spell--b--Baleful-Polymorph` (превр.): Превращает существо в безвредное животное.
 
-Chain Lightning H (evo): Lightning jumps from creature to creature.
+:ref:`spell--c--Chain-Lightning` :sup:`У` (разр.): Молния перепрыгивает от существа к существу.
 
-Dragon Form H (tra): Turn into a dragon.
+:ref:`spell--d--Dragon-Form` :sup:`У` (превр.): Становитесь драконом.
 
 :ref:`spell--f--Field-of-Life` :sup:`У` (некр.): Создаете поле позитивной энергии, которое исцеляет живых и повреждает нежить внутри.
 
 Fire Seeds H (evo): Make four explosive acorns.
 
-Flesh to Stone (tra): Turn a living creature into a stone statue.
+:ref:`spell--f--Flesh-to-Stone` (превр.): Превращает живое существо в каменную статую.
 
-Purple Worm Sting (nec): Damage a creature and infect it with purple worm venom.
+:ref:`spell--p--Purple-Worm-Sting` (некр.): Наносите цели урон и заражаете ее ядом фиолетового червя.
 
 :ref:`spell--s--Stone-Tell` :sup:`Н` (разр.): Разговариваете с духами внутри естественного камня.
 
