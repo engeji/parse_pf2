@@ -47,6 +47,9 @@ attack roll: атака
 Attack of Opportunity: Возможность для Атаки :ref:`class-feature--fighter--Attack-Of-Opportunity`
 area: область
 	area of effect: область действия (эффекта)
+artifacts?
+	rod of cancellation: жезл отмены
+	sphere of annihilation: сфера аннигиляции
 
 Background: Предыстория
 Basic Action: основное действие
@@ -251,6 +254,7 @@ plane: план
 	Shadow: Теневой
 	Astral: Астральный
 	Ethereal: Эфемерный
+	Boneyard: Могильник
 
 rage: ярость
 range: дистанция
@@ -266,6 +270,10 @@ rune: руна
 		returning: возвращающаяся
 		shifting: изменяющая
 		ghost touch: призрачное касание
+		anarchic: анархическая
+		axiomatic: аксиоматическая
+		holy: святая
+		unholy: нечестивая
 
 saving throw: испытание
 shoddy: низкокачественный
@@ -426,3 +434,4 @@ weapons:
 	glaive: глефа
 	dogslicer: собачий тесак
 	horsechopper: лошадиный тесак
+	breath weapon: атака дыханием / дыхание
