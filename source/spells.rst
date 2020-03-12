@@ -1246,19 +1246,19 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--p--Plane-Shift` :sup:`Н` (вопл.): Перемещаете существ на другой план существования.
 
-Possession HU (nec): Send your mind and soul into another creature’s body.
+:ref:`spell--p--Possession` :sup:`Н У` (некр.): Отправляете ваш разум и душу в тело другого существа.
 
 :ref:`spell--p--Prismatic-Spray` (разр.): Стреляйте радужными лучами, которые имеют различные эффекты на существ в конусе.
 
 :ref:`spell--p--Project-Image` :sup:`У` (иллюз.): Создаете иллюзию себя самого, через которую можете колдовать заклинания.
 
-Retrocognition H (div): Sense impressions of past events at your location.
+:ref:`spell--r--Retrocognition` :sup:`У` (прориц.): Чувствуете впечатления от прошедших событий в вашем местоположении.
 
 :ref:`spell--r--Reverse-Gravity` :sup:`Н` (разр.): Переворачиваете гравитационное притяжение в области.
 
 :ref:`spell--t--True-Target` (прориц.): Делаете несколько особенно точных атак по существу.
 
-Visions of Danger H (ill): Create a vision of horrid, swarming creatures that causes mental damage.
+:ref:`spell--v--Visions-of-Danger` :sup:`У` (иллюз.): Создаете видение ужасных, роящихся существ, которые причиняют ментальный урон.
 
 :ref:`spell--w--Warp-Mind` (очар.): Приведите существо в замешательство, возможно даже навсегда.
 
