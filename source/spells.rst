@@ -794,24 +794,23 @@
 
 :ref:`spell--d--Dimensional-Lock` :sup:`Н` (прегр.): Предотвращает телепортацию и планарное перемещение.
 
-Divine Decree H (evo): Creatures of alignments opposed by your deity are damaged, 
-enfeebled, paralyzed, or banished.
+:ref:`spell--d--Divine-Decree` :sup:`У` (разр.): Существа, мировоззрения, отличного от вашего божества, получают урон, ослаблены, парализованы или изгоняются с плана.
 
-Divine Vessel H (nec): Take on aspects of a servitor of your deity.
+:ref:`spell--d--Divine-Vessel` :sup:`У` (превр.): Получаете аспекты слуги вашего божества.
 
 :ref:`spell--e--Eclipse-Burst` :sup:`У` (некр.): Сфера тьмы причиняет урон холодом, вредя живым и противодействует свету.
 
 :ref:`spell--e--Energy-Aegis` :sup:`У` (прегр.): Существо получает сопротивление кислоте, холоду, электричеству, огню, силе, звуковому, негативному и позитивному урону.
 
-Ethereal Jaunt HU (con): Use the Ethereal Plane to move through objects and into the air.
+:ref:`spell--e--Ethereal-Jaunt` :sup:`Н У` (вопл.): Используете "Эфемерный план" чтобы двигаться сквозь объекты и по воздуху.
 
-Finger of Death H (nec): Point at a creature to deal negative damage and possibly kill it instantly.
+:ref:`spell--f--Finger-of-Death` :sup:`У` (некр.): Указываете на существо, чтобы нанести ему негативной урон и возможно мгновенно убить.
 
 :ref:`spell--p--Plane-Shift` :sup:`Н` (вопл.): Перемещаете существ на другой план существования.
 
-Regenerate H (nec): Cause a creature to heal over time, regrow organs, and reattach body parts.
+:ref:`spell--r--Regenerate` :sup:`У` (некр.): Заставляете существо исцеляться с течением времени, восстанавливать органы и присоединять отсеченные части тела.
 
-Sunburst H (evo): A globe of sunlight deals fire damage, hurts undead, and overcomes darkness.
+:ref:`spell--s--Sunburst` :sup:`У` (разр.): Сфера солнечного света наносит урон огнем, вредит нежити и преодолевает тьму.
 
 
 
@@ -1239,7 +1238,7 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--e--Energy-Aegis` :sup:`У` (прегр.): Существо получает сопротивление кислоте, холоду, электричеству, огню, силе, звуковому, негативному и позитивному урону.
 
-Ethereal Jaunt HU (con): Use the Ethereal Plane to move through objects and into the air.
+:ref:`spell--e--Ethereal-Jaunt` :sup:`Н У` (вопл.): Используете "Эфемерный план" чтобы двигаться сквозь объекты и по воздуху.
 
 :ref:`spell--m--Magnificent-Mansion` :sup:`Н` (вопл.): Призываете безопасное жилище в полуплане.
 
@@ -1624,15 +1623,15 @@ Visions of Danger H (ill): Create a vision of horrid, swarming creatures that ca
 
 :ref:`spell--f--Fiery-Body` :sup:`У` (превр.): Превращаете свое тело в живое пламя.
 
-Finger of Death H (nec): Point at a creature to deal negative damage and possibly kill it instantly.
+:ref:`spell--f--Finger-of-Death` :sup:`У` (некр.): Указываете на существо, чтобы нанести ему негативной урон и возможно мгновенно убить.
 
 :ref:`spell--m--Mask-of-Terror` :sup:`У` (иллюз.): Пугающая иллюзорная внешность существа пугает наблюдателей.
 
 :ref:`spell--p--Plane-Shift` :sup:`Н` (вопл.): Перемещаете существ на другой план существования.
 
-Regenerate H (nec): Cause a creature to heal over time, regrow organs, and reattach body parts.
+:ref:`spell--r--Regenerate` :sup:`У` (некр.): Заставляете существо исцеляться с течением времени, восстанавливать органы и присоединять отсеченные части тела.
 
-Sunburst H (evo): A globe of sunlight deals fire damage, hurts undead, and overcomes darkness.
+:ref:`spell--s--Sunburst` :sup:`У` (разр.): Сфера солнечного света наносит урон огнем, вредит нежити и преодолевает тьму.
 
 Unfettered Pack H (abj): Let creatures avoid environmental hindrances.
 
