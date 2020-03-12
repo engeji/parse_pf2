@@ -1633,9 +1633,9 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--s--Sunburst` :sup:`У` (разр.): Сфера солнечного света наносит урон огнем, вредит нежити и преодолевает тьму.
 
-Unfettered Pack H (abj): Let creatures avoid environmental hindrances.
+:ref:`spell--u--Unfettered-Pack` :sup:`У` (прегр.): Позволяете существам избегать помех от окружающей среды.
 
-Volcanic Eruption H (evo): Cause massive lava sprays that burn creatures and encase them in rock.
+:ref:`spell--v--Volcanic-Eruption` :sup:`У` (разр.): Вызываете массивные брызги лавы, которые жгут существ и захватывают их в камень.
 
 
 
