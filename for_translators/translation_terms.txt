@@ -11,7 +11,7 @@ actions:
 	Cast a Spell: Использование заклинания :ref:`action--Cast-a-Spell`
 	Aid: Помощь :ref:`action--Aid`
 	Delay: Выждать
-	Ready: Приготовиться
+	Ready: Приготовиться :ref:`action--Ready`
 	Seek: Поиск :ref:`action--Seek`
 	Maneuver in Flight: Маневрирование в полете
 	Arrest a Fall: Остановить Падение
@@ -163,6 +163,7 @@ duration: продолжительность
 Emblazon Armament: Освящение Оружия (TODO перевод)
 encounter: столкновение
 Experience Points: Очки Опыта
+extradimensional space: внепространственное пространство (facepalm)
 
 feat: способность
 	general feat: общая способность
@@ -415,6 +416,7 @@ unarmored: без брони
 
 wield (что-либо): экипировать; использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
 willing: готовый / готовность
+weakness: слабость
 weather:
 	cold: холод
 		severe: сильный
