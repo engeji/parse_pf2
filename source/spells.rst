@@ -453,7 +453,39 @@
 Мистические заклинания 7-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+:ref:`spell--c--Contingency` :sup:`У` (прегр.): Устанавливаете заклинание, чтобы оно сработало позже, по выбранным ваши условиям.
+
+:ref:`spell--d--Dimensional-Lock` :sup:`Н` (прегр.): Предотвращает телепортацию и планарное перемещение.
+
+:ref:`spell--d--Duplicate-Foe` :sup:`У` (вопл.): Создаете временную копию врага, которая сражается за вас.
+
+:ref:`spell--e--Eclipse-Burst` :sup:`У` (некр.): Сфера тьмы причиняет урон холодом, вредя живым и противодействует свету.
+
+:ref:`spell--e--Energy-Aegis` :sup:`У` (прегр.): Существо получает сопротивление кислоте, холоду, электричеству, огню, силе, звуковому, негативному и позитивному урону.
+
+:ref:`spell--f--Fiery-Body` :sup:`У` (превр.): Превращаете свое тело в живое пламя.
+
+:ref:`spell--m--Magnificent-Mansion` :sup:`Н` (вопл.): Призываете безопасное жилище в полуплане.
+
+:ref:`spell--m--Mask-of-Terror` :sup:`У` (иллюз.): Пугающая иллюзорная внешность существа пугает наблюдателей.
+
+:ref:`spell--p--Plane-Shift` :sup:`Н` (вопл.): Перемещаете существ на другой план существования.
+
+:ref:`spell--p--Power-Word-Blind` :sup:`Н У` (очар.): Произнесите слово, которое ослепляет существо.
+
+:ref:`spell--p--Prismatic-Spray` (разр.): Стреляйте радужными лучами, которые имеют различные эффекты на существ в конусе.
+
+:ref:`spell--p--Project-Image` :sup:`У` (иллюз.): Создаете иллюзию себя самого, через которую можете колдовать заклинания.
+
+:ref:`spell--r--Reverse-Gravity` :sup:`Н` (разр.): Переворачиваете гравитационное притяжение в области.
+
+:ref:`spell--s--Spell-Turning` :sup:`Н` (прегр.): Отражаете заклинание обратно в колдуна.
+
+:ref:`spell--t--True-Target` (прориц.): Делаете несколько особенно точных атак по существу.
+
+:ref:`spell--w--Warp-Mind` (очар.): Приведите существо в замешательство, возможно даже навсегда.
+
+
 
 Мистические заклинания 8-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -760,7 +792,26 @@
 Сакральные заклинания 7-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-:ref:`spell--p--Project-Image`
+:ref:`spell--d--Dimensional-Lock` :sup:`Н` (прегр.): Предотвращает телепортацию и планарное перемещение.
+
+Divine Decree H (evo): Creatures of alignments opposed by your deity are damaged, 
+enfeebled, paralyzed, or banished.
+
+Divine Vessel H (nec): Take on aspects of a servitor of your deity.
+
+:ref:`spell--e--Eclipse-Burst` :sup:`У` (некр.): Сфера тьмы причиняет урон холодом, вредя живым и противодействует свету.
+
+:ref:`spell--e--Energy-Aegis` :sup:`У` (прегр.): Существо получает сопротивление кислоте, холоду, электричеству, огню, силе, звуковому, негативному и позитивному урону.
+
+Ethereal Jaunt HU (con): Use the Ethereal Plane to move through objects and into the air.
+
+Finger of Death H (nec): Point at a creature to deal negative damage and possibly kill it instantly.
+
+:ref:`spell--p--Plane-Shift` :sup:`Н` (вопл.): Перемещаете существ на другой план существования.
+
+Regenerate H (nec): Cause a creature to heal over time, regrow organs, and reattach body parts.
+
+Sunburst H (evo): A globe of sunlight deals fire damage, hurts undead, and overcomes darkness.
 
 
 
@@ -1182,7 +1233,36 @@ Recall massive amounts of information in an instant.
 Оккультные заклинания 7-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-:ref:`spell--p--Project-Image`
+:ref:`spell--d--Dimensional-Lock` :sup:`Н` (прегр.): Предотвращает телепортацию и планарное перемещение.
+
+:ref:`spell--d--Duplicate-Foe` :sup:`У` (вопл.): Создаете временную копию врага, которая сражается за вас.
+
+:ref:`spell--e--Energy-Aegis` :sup:`У` (прегр.): Существо получает сопротивление кислоте, холоду, электричеству, огню, силе, звуковому, негативному и позитивному урону.
+
+Ethereal Jaunt HU (con): Use the Ethereal Plane to move through objects and into the air.
+
+:ref:`spell--m--Magnificent-Mansion` :sup:`Н` (вопл.): Призываете безопасное жилище в полуплане.
+
+:ref:`spell--m--Mask-of-Terror` :sup:`У` (иллюз.): Пугающая иллюзорная внешность существа пугает наблюдателей.
+
+:ref:`spell--p--Plane-Shift` :sup:`Н` (вопл.): Перемещаете существ на другой план существования.
+
+Possession HU (nec): Send your mind and soul into another creature’s body.
+
+:ref:`spell--p--Prismatic-Spray` (разр.): Стреляйте радужными лучами, которые имеют различные эффекты на существ в конусе.
+
+:ref:`spell--p--Project-Image` :sup:`У` (иллюз.): Создаете иллюзию себя самого, через которую можете колдовать заклинания.
+
+Retrocognition H (div): Sense impressions of past events at your location.
+
+:ref:`spell--r--Reverse-Gravity` :sup:`Н` (разр.): Переворачиваете гравитационное притяжение в области.
+
+:ref:`spell--t--True-Target` (прориц.): Делаете несколько особенно точных атак по существу.
+
+Visions of Danger H (ill): Create a vision of horrid, swarming creatures that causes mental damage.
+
+:ref:`spell--w--Warp-Mind` (очар.): Приведите существо в замешательство, возможно даже навсегда.
+
 
 
 Оккультные заклинания 8-го ур.
@@ -1538,7 +1618,26 @@ Recall massive amounts of information in an instant.
 Природные заклинания 7-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+:ref:`spell--e--Eclipse-Burst` :sup:`У` (некр.): Сфера тьмы причиняет урон холодом, вредя живым и противодействует свету.
+
+:ref:`spell--e--Energy-Aegis` :sup:`У` (прегр.): Существо получает сопротивление кислоте, холоду, электричеству, огню, силе, звуковому, негативному и позитивному урону.
+
+:ref:`spell--f--Fiery-Body` :sup:`У` (превр.): Превращаете свое тело в живое пламя.
+
+Finger of Death H (nec): Point at a creature to deal negative damage and possibly kill it instantly.
+
+:ref:`spell--m--Mask-of-Terror` :sup:`У` (иллюз.): Пугающая иллюзорная внешность существа пугает наблюдателей.
+
+:ref:`spell--p--Plane-Shift` :sup:`Н` (вопл.): Перемещаете существ на другой план существования.
+
+Regenerate H (nec): Cause a creature to heal over time, regrow organs, and reattach body parts.
+
+Sunburst H (evo): A globe of sunlight deals fire damage, hurts undead, and overcomes darkness.
+
+Unfettered Pack H (abj): Let creatures avoid environmental hindrances.
+
+Volcanic Eruption H (evo): Cause massive lava sprays that burn creatures and encase them in rock.
+
 
 
 Природные заклинания 8-го ур.
