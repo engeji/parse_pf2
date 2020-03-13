@@ -490,35 +490,35 @@
 Мистические заклинания 8-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Antimagic Field R (abj): Magic doesn't function in an area around you.
+:ref:`spell--a--Antimagic-Field` :sup:`Р` (прегр.): Магия не действует в области вокруг вас.
 
-Disappearance (ill): Make a creature invisible, silent, and undetectable by any and all senses.
+:ref:`spell--d--Disappearance` (иллюз.): Делаете существо невидимым, тихим и необнаружимым любыми другими чувствами.
 
-Discern Location U (div): Discover a target's exact location within unlimited range.
+:ref:`spell--d--Discern-Location` :sup:`Н` (прориц.): Узнаете точное местоположение цели в неограниченном диапазоне.
 
-Dream Council (ill): Communicate through a shared dream.
+:ref:`spell--d--Dream-Council` (иллюз.): Общаетесь через обще сновидение.
 
-Earthquake H (evo): Shake the ground with a devastating earthquake.
+:ref:`spell--e--Earthquake` :sup:`У` (разр.): Сотрясаете землю разрушительным землетрясением.
 
-Horrid Wilting H (nec): Pull moisture from creatures, damaging them.
+:ref:`spell--h--Horrid-Wilting` :sup:`У` (некр.): Вытягивает влагу из существ, нанося им урон.
 
-Maze (con): Trap a creature in an extradimensional maze.
+:ref:`spell--m--Maze` (вопл.): Ловите существо во внепространственный лабиринт.
 
-Mind Blank U (abj): Protect a creature from mental magic and some divinations.
+:ref:`spell--m--Mind-Blank` :sup:`Н` (прегр.): Защищаете существо от ментальной магии и некоторых прорицаний.
 
-Monstrosity Form H (tra): Turn into a powerful monster.
+:ref:`spell--m--Monstrosity-Form` :sup:`У` (превр.): Вы превращаетесь в мощного монстра.
 
-Polar Ray H (evo): Bitter cold damages and drains a creature.
+:ref:`spell--p--Polar-Ray` :sup:`У` (разр.): Сильный холод наносит урон и истощает существо.
 
-Power Word Stun HU (enc): Utter a word that stuns a creature.
+:ref:`spell--p--Power-Word-Stun` :sup:`Н У` (очар.): Произнесите слово, которое ошеломляет существо.
 
-Prismatic Wall (abj): Form a protective wall with seven chromatic layers.
+:ref:`spell--p--Prismatic-Wall` (прегр.): Создаете защитную стену с семью цветными уровнями.
 
-Scintillating Pattern (ill): Cause an array of color that dazzles, confuses, and stuns.
+:ref:`spell--s--Scintillating-Pattern` (иллюз.): Множества цветов ослепляют, приводят в замешательство и ошеломляют.
 
-Uncontrollable Dance (enc): Overcome a target with an all-consuming urge to dance.
+:ref:`spell--u--Uncontrollable-Dance` (очар.): Переполните цель всепоглощающим желанием танцевать.
 
-Unrelenting Observation (div): You and other creatures use scrying to track a subject exactly.
+:ref:`spell--u--Unrelenting-Observation` (прориц.): Вы и другие существа используете вИдение чтобы точно следить за субъектом.
 
 
 
@@ -847,10 +847,9 @@ Unrelenting Observation (div): You and other creatures use scrying to track a su
 Сакральные заклинания 8-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
+:ref:`spell--a--Antimagic-Field` :sup:`Р` (прегр.): Магия не действует в области вокруг вас.
 
-Antimagic Field R (abj): Magic doesn't function in an area around you.
-
-Discern Location U (div): Discover a target's exact location within unlimited range.
+:ref:`spell--d--Discern-Location` :sup:`Н` (прориц.): Узнаете точное местоположение цели в неограниченном диапазоне.
 
 Divine Aura (abj): Allies in an aura have better defenses and are protected against one alignment.
 
@@ -1311,29 +1310,29 @@ Recall massive amounts of information in an instant.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 
-Antimagic Field R (abj): Magic doesn't function in an area around you.
+:ref:`spell--a--Antimagic-Field` :sup:`Р` (прегр.): Магия не действует в области вокруг вас.
 
-Disappearance (ill): Make a creature invisible, silent, and undetectable by any and all senses.
+:ref:`spell--d--Disappearance` (иллюз.): Делаете существо невидимым, тихим и необнаружимым любыми другими чувствами.
 
-Discern Location U (div): Discover a target's exact location within unlimited range.
+:ref:`spell--d--Discern-Location` :sup:`Н` (прориц.): Узнаете точное местоположение цели в неограниченном диапазоне.
 
-Dream Council (ill): Communicate through a shared dream.
+:ref:`spell--d--Dream-Council` (иллюз.): Общаетесь через обще сновидение.
 
-Maze (con): Trap a creature in an extradimensional maze.
+:ref:`spell--m--Maze` (вопл.): Ловите существо во внепространственный лабиринт.
 
-Mind Blank U (abj): Protect a creature from mental magic and some divinations.
+:ref:`spell--m--Mind-Blank` :sup:`Н` (прегр.): Защищаете существо от ментальной магии и некоторых прорицаний.
 
-Prismatic Wall (abj): Form a protective wall with seven chromatic layers.
+:ref:`spell--p--Prismatic-Wall` (прегр.): Создаете защитную стену с семью цветными уровнями.
 
-Scintillating Pattern (ill): Cause an array of color that dazzles, confuses, and stuns.
+:ref:`spell--s--Scintillating-Pattern` (иллюз.): Множества цветов ослепляют, приводят в замешательство и ошеломляют.
 
 Spirit Song H (nec): Sing an eldritch song that damages any creature that has a spirit.
 
 Spiritual Epidemic (nec): Weaken a target with a communicable curse.
 
-Uncontrollable Dance (enc): Overcome a target with an all-consuming urge to dance.
+:ref:`spell--u--Uncontrollable-Dance` (очар.): Переполните цель всепоглощающим желанием танцевать.
 
-Unrelenting Observation (div): You and other creatures use scrying to track a subject exactly.
+:ref:`spell--u--Unrelenting-Observation` (прориц.): Вы и другие существа используете вИдение чтобы точно следить за субъектом.
 
 
 
@@ -1709,15 +1708,15 @@ Unrelenting Observation (div): You and other creatures use scrying to track a su
 Природные заклинания 8-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Earthquake H (evo): Shake the ground with a devastating earthquake.
+:ref:`spell--e--Earthquake` :sup:`У` (разр.): Сотрясаете землю разрушительным землетрясением.
 
-Horrid Wilting H (nec): Pull moisture from creatures, damaging them.
+:ref:`spell--h--Horrid-Wilting` :sup:`У` (некр.): Вытягивает влагу из существ, нанося им урон.
 
 Moment of Renewal (nec): Give a day's recovery in an instant.
 
-Monstrosity Form H (tra): Turn into a powerful monster.
+:ref:`spell--m--Monstrosity-Form` :sup:`У` (превр.): Вы превращаетесь в мощного монстра.
 
-Polar Ray H (evo): Bitter cold damages and drains a creature.
+:ref:`spell--p--Polar-Ray` :sup:`У` (разр.): Сильный холод наносит урон и истощает существо.
 
 Punishing Winds (evo): A cyclone inhibits fight and traps creatures.
 
