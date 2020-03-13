@@ -490,7 +490,37 @@
 Мистические заклинания 8-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Antimagic Field R (abj): Magic doesn't function in an area around you.
+
+Disappearance (ill): Make a creature invisible, silent, and undetectable by any and all senses.
+
+Discern Location U (div): Discover a target's exact location within unlimited range.
+
+Dream Council (ill): Communicate through a shared dream.
+
+Earthquake H (evo): Shake the ground with a devastating earthquake.
+
+Horrid Wilting H (nec): Pull moisture from creatures, damaging them.
+
+Maze (con): Trap a creature in an extradimensional maze.
+
+Mind Blank U (abj): Protect a creature from mental magic and some divinations.
+
+Monstrosity Form H (tra): Turn into a powerful monster.
+
+Polar Ray H (evo): Bitter cold damages and drains a creature.
+
+Power Word Stun HU (enc): Utter a word that stuns a creature.
+
+Prismatic Wall (abj): Form a protective wall with seven chromatic layers.
+
+Scintillating Pattern (ill): Cause an array of color that dazzles, confuses, and stuns.
+
+Uncontrollable Dance (enc): Overcome a target with an all-consuming urge to dance.
+
+Unrelenting Observation (div): You and other creatures use scrying to track a subject exactly.
+
+
 
 Мистические заклинания 9-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -817,7 +847,20 @@
 Сакральные заклинания 8-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+
+Antimagic Field R (abj): Magic doesn't function in an area around you.
+
+Discern Location U (div): Discover a target's exact location within unlimited range.
+
+Divine Aura (abj): Allies in an aura have better defenses and are protected against one alignment.
+
+Divine Inspiration (enc): Spiritual energy recovers a creature's expended spell.
+
+Moment of Renewal (nec): Give a day's recovery in an instant.
+
+Spiritual Epidemic (nec): Weaken a target with a communicable curse.
+
+
 
 Сакральные заклинания 9-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -1267,7 +1310,31 @@ Recall massive amounts of information in an instant.
 Оккультные заклинания 8-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+
+Antimagic Field R (abj): Magic doesn't function in an area around you.
+
+Disappearance (ill): Make a creature invisible, silent, and undetectable by any and all senses.
+
+Discern Location U (div): Discover a target's exact location within unlimited range.
+
+Dream Council (ill): Communicate through a shared dream.
+
+Maze (con): Trap a creature in an extradimensional maze.
+
+Mind Blank U (abj): Protect a creature from mental magic and some divinations.
+
+Prismatic Wall (abj): Form a protective wall with seven chromatic layers.
+
+Scintillating Pattern (ill): Cause an array of color that dazzles, confuses, and stuns.
+
+Spirit Song H (nec): Sing an eldritch song that damages any creature that has a spirit.
+
+Spiritual Epidemic (nec): Weaken a target with a communicable curse.
+
+Uncontrollable Dance (enc): Overcome a target with an all-consuming urge to dance.
+
+Unrelenting Observation (div): You and other creatures use scrying to track a subject exactly.
+
 
 
 Оккультные заклинания 9-го ур.
@@ -1642,7 +1709,20 @@ Recall massive amounts of information in an instant.
 Природные заклинания 8-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Earthquake H (evo): Shake the ground with a devastating earthquake.
+
+Horrid Wilting H (nec): Pull moisture from creatures, damaging them.
+
+Moment of Renewal (nec): Give a day's recovery in an instant.
+
+Monstrosity Form H (tra): Turn into a powerful monster.
+
+Polar Ray H (evo): Bitter cold damages and drains a creature.
+
+Punishing Winds (evo): A cyclone inhibits fight and traps creatures.
+
+Wind Walk (tra): Turn creatures into swift-moving clouds.
+
 
 
 Природные заклинания 9-го ур.
