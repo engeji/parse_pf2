@@ -1309,7 +1309,6 @@ Recall massive amounts of information in an instant.
 Оккультные заклинания 8-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-
 :ref:`spell--a--Antimagic-Field` :sup:`Р` (прегр.): Магия не действует в области вокруг вас.
 
 :ref:`spell--d--Disappearance` (иллюз.): Делаете существо невидимым, тихим и необнаружимым любыми другими чувствами.
@@ -1718,9 +1717,9 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--p--Polar-Ray` :sup:`У` (разр.): Сильный холод наносит урон и истощает существо.
 
-Punishing Winds (evo): A cyclone inhibits fight and traps creatures.
+:ref:`spell--p--Punishing-Winds` (разр.): Циклон подавляет летающих существ и создает ловушку.
 
-Wind Walk (tra): Turn creatures into swift-moving clouds.
+:ref:`spell--w--Wind-Walk` (превр.): Превращаете существ в быстро двигающиеся облака.
 
 
 
