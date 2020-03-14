@@ -1326,7 +1326,7 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--s--Scintillating-Pattern` (иллюз.): Множества цветов ослепляют, приводят в замешательство и ошеломляют.
 
-Spirit Song H (nec): Sing an eldritch song that damages any creature that has a spirit.
+:ref:`spell--s--Spirit-Song` :sup:`У` (некр.): Поете сверхъестественную песню, которая наносит урон существам, имеющим дух.
 
 :ref:`spell--s--Spiritual-Epidemic` (очар.): Ослабляете цель с помощью заразного проклятия.
 
