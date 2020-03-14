@@ -851,13 +851,13 @@
 
 :ref:`spell--d--Discern-Location` :sup:`Н` (прориц.): Узнаете точное местоположение цели в неограниченном диапазоне.
 
-Divine Aura (abj): Allies in an aura have better defenses and are protected against one alignment.
+:ref:`spell--d--Divine-Aura` (прегр.): Союзники в ауре имеют лучшую защиту и защищены от одного мировоззрения.
 
-Divine Inspiration (enc): Spiritual energy recovers a creature's expended spell.
+:ref:`spell--d--Divine-Inspiration` (очар.): Духовная энергия восстанавливает израсходованное заклинание существа.
 
-Moment of Renewal (nec): Give a day's recovery in an instant.
+:ref:`spell--m--Moment-of-Renewal` (некр.): Мгновенно даете дневной отдых.
 
-Spiritual Epidemic (nec): Weaken a target with a communicable curse.
+:ref:`spell--s--Spiritual-Epidemic` (очар.): Ослабляете цель с помощью заразного проклятия.
 
 
 
@@ -1328,7 +1328,7 @@ Recall massive amounts of information in an instant.
 
 Spirit Song H (nec): Sing an eldritch song that damages any creature that has a spirit.
 
-Spiritual Epidemic (nec): Weaken a target with a communicable curse.
+:ref:`spell--s--Spiritual-Epidemic` (очар.): Ослабляете цель с помощью заразного проклятия.
 
 :ref:`spell--u--Uncontrollable-Dance` (очар.): Переполните цель всепоглощающим желанием танцевать.
 
@@ -1712,7 +1712,7 @@ Spiritual Epidemic (nec): Weaken a target with a communicable curse.
 
 :ref:`spell--h--Horrid-Wilting` :sup:`У` (некр.): Вытягивает влагу из существ, нанося им урон.
 
-Moment of Renewal (nec): Give a day's recovery in an instant.
+:ref:`spell--m--Moment-of-Renewal` (некр.): Мгновенно даете дневной отдых.
 
 :ref:`spell--m--Monstrosity-Form` :sup:`У` (превр.): Вы превращаетесь в мощного монстра.
 
