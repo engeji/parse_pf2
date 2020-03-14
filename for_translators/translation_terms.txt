@@ -45,6 +45,7 @@ animal companion: животное компаньон
 atone ritual: ритуал искупления
 attack roll: атака
 Attack of Opportunity: Возможность для Атаки :ref:`class-feature--fighter--Attack-Of-Opportunity`
+apex item: наивысший предмет
 area: область
 	area of effect: область действия (эффекта)
 artifacts?
