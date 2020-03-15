@@ -525,27 +525,27 @@
 Мистические заклинания 9-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Disjunction U (abj): Deactivate or destroy a magic item.
+:ref:`spell--d--Disjunction` :sup:`Н` (прегр.): Деактивируете или уничтожаете магический предмет.
 
-Foresight (div): Sense when a creature is in danger and React to protect it with good fortune.
+:ref:`spell--f--Foresight` (прориц.): Ощущаете когда существо в опасности и реагируете чтобы защитить его с помощью удачи.
 
-Implosion H (evo): Make a creature collapse in on itself.
+:ref:`spell--i--Implosion` :sup:`У` (разр.): Вдавливаете существо само в себя.
 
-Massacre H (nec): Instantly kill multiple creatures.
+:ref:`spell--m--Massacre` :sup:`У` (некр.): Мгновенно убивает нескольких существ.
 
-Meteor Swarm H (evo): Call down four blazing meteors that explode.
+:ref:`spell--m--Meteor-Swarm` :sup:`У` (разр.): Вызываете четыре взрывающихся метеоров.
 
-Power Word Kill HU (enc): Utter a word that slays a creature.
+:ref:`spell--p--Power-Word-Kill` :sup:`Н У` (очар.): Произносите слово которое убивает существо.
 
-Prismatic Sphere (abj): Form a protective sphere composed of seven chromatic layers.
+:ref:`spell--p--Prismatic-Sphere` (прегр.): Создаете защитную сферу состоящую из 7 цветных слоев.
 
-Resplendent Mansion (con): Conjure a mansion that lasts for a day.
+:ref:`spell--r--Resplendent-Mansion` (вопл.): Создаете особняк, который существует один день.
 
-Shapechange (tra): Transform into a form of your choice repeatedly.
+:ref:`spell--s--Shapechange` (превр.): Периодически превращаетесь в формы по вашему выбору.
 
-Telepathic Demand (enc): Send a mental message that impels a creature toward a course of action.
+:ref:`spell--t--Telepathic-Demand` (очар.): Посылаете мысленное сообщение, которое побуждает существо к определенным действиям.
 
-Weird (ill): Frighten, deal mental damage, and possibly kill large numbers of creatures.
+:ref:`spell--w--Weird` (иллюз.): Пугаете, наносите ментальные повреждения и возможно убиваете большое количество существ.
 
 
 
@@ -898,13 +898,13 @@ Bind Soul U (nec): Imprison a dead creature's soul.
 
 Crusade HU (enc): Creatures become dedicated to a cause of your choice.
 
-Foresight (div): Sense when a creature is in danger and React to protect it with good fortune.
+:ref:`spell--f--Foresight` (прориц.): Ощущаете когда существо в опасности и реагируете чтобы защитить его с помощью удачи.
 
-Massacre H (nec): Instantly kill multiple creatures.
+:ref:`spell--m--Massacre` :sup:`У` (некр.): Мгновенно убивает нескольких существ.
 
 Overwhelming Presence (enc): Take on the majesty of a god.
 
-Telepathic Demand (enc): Send a mental message that impels a creature toward a course of action.
+:ref:`spell--t--Telepathic-Demand` (очар.): Посылаете мысленное сообщение, которое побуждает существо к определенным действиям.
 
 Wail of the Banshee (nec): Scream, dealing damage and draining creatures.
 
@@ -1392,21 +1392,21 @@ Recall massive amounts of information in an instant.
 
 Bind Soul U (nec): Imprison a dead creature's soul.
 
-Foresight (div): Sense when a creature is in danger and React to protect it with good fortune.
+:ref:`spell--f--Foresight` (прориц.): Ощущаете когда существо в опасности и реагируете чтобы защитить его с помощью удачи.
 
 Overwhelming Presence (enc): Take on the majesty of a god.
 
-Prismatic Sphere (abj): Form a protective sphere composed of seven chromatic layers.
+:ref:`spell--p--Prismatic-Sphere` (прегр.): Создаете защитную сферу состоящую из 7 цветных слоев.
 
-Resplendent Mansion (con): Conjure a mansion that lasts for a day.
+:ref:`spell--r--Resplendent-Mansion` (вопл.): Создаете особняк, который существует один день.
 
-Telepathic Demand (enc): Send a mental message that impels a creature toward a course of action.
+:ref:`spell--t--Telepathic-Demand` (очар.): Посылаете мысленное сообщение, которое побуждает существо к определенным действиям.
 
 Unfathomable Song (enc): Song debilitates creatures in weird ways.
 
 Wail of the Banshee (nec): Scream, dealing damage and draining creatures.
 
-Weird (ill): Frighten, deal mental damage, and possibly kill large numbers of creatures.
+:ref:`spell--w--Weird` (иллюз.): Пугаете, наносите ментальные повреждения и возможно убиваете большое количество существ.
 
 
 
@@ -1800,17 +1800,17 @@ Time Stop (tra): Briefly stop time for everything but you.
 Природные заклинания 9-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Disjunction U (abj): Deactivate or destroy a magic item.
+:ref:`spell--d--Disjunction` :sup:`Н` (прегр.): Деактивируете или уничтожаете магический предмет.
 
-Implosion H (evo): Make a creature collapse in on itself.
+:ref:`spell--i--Implosion` :sup:`У` (разр.): Вдавливаете существо само в себя.
 
-Massacre H (nec): Instantly kill multiple creatures.
+:ref:`spell--m--Massacre` :sup:`У` (некр.): Мгновенно убивает нескольких существ.
 
-Meteor Swarm H (evo): Call down four blazing meteors that explode.
+:ref:`spell--m--Meteor-Swarm` :sup:`У` (разр.): Вызываете четыре взрывающихся метеоров.
 
 Nature's Enmity (enc): Turn animals, plants, and weather against creatures of your choice.
 
-Shapechange (tra): Transform into a form of your choice repeatedly.
+:ref:`spell--s--Shapechange` (превр.): Периодически превращаетесь в формы по вашему выбору.
 
 Storm of Vengeance H (evo): Create a massive, dangerous storm.
 
