@@ -525,12 +525,42 @@
 Мистические заклинания 9-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Disjunction U (abj): Deactivate or destroy a magic item.
+
+Foresight (div): Sense when a creature is in danger and React to protect it with good fortune.
+
+Implosion H (evo): Make a creature collapse in on itself.
+
+Massacre H (nec): Instantly kill multiple creatures.
+
+Meteor Swarm H (evo): Call down four blazing meteors that explode.
+
+Power Word Kill HU (enc): Utter a word that slays a creature.
+
+Prismatic Sphere (abj): Form a protective sphere composed of seven chromatic layers.
+
+Resplendent Mansion (con): Conjure a mansion that lasts for a day.
+
+Shapechange (tra): Transform into a form of your choice repeatedly.
+
+Telepathic Demand (enc): Send a mental message that impels a creature toward a course of action.
+
+Weird (ill): Frighten, deal mental damage, and possibly kill large numbers of creatures.
+
+
 
 Мистические заклинания 10-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Cataclysm (evo): Call an instant, damaging cataclysm.
+
+Gate U (con): Tear open a portal to another plane.
+
+Remake U (con): Recreate a destroyed object.
+
+Time Stop (tra): Briefly stop time for everything but you.
+
+Wish (div): Make a wish to duplicate arcane spells.
 
 
 
@@ -864,14 +894,36 @@
 Сакральные заклинания 9-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Bind Soul U (nec): Imprison a dead creature's soul.
+
+Crusade HU (enc): Creatures become dedicated to a cause of your choice.
+
+Foresight (div): Sense when a creature is in danger and React to protect it with good fortune.
+
+Massacre H (nec): Instantly kill multiple creatures.
+
+Overwhelming Presence (enc): Take on the majesty of a god.
+
+Telepathic Demand (enc): Send a mental message that impels a creature toward a course of action.
+
+Wail of the Banshee (nec): Scream, dealing damage and draining creatures.
+
+Weapon of Judgement H (evo): Form a weapon to enforce war or peace.
+
+
 
 Сакральные заклинания 10-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Avatar (tra): Transform into a battle form determined by your deity.
 
+Gate U (con): Tear open a portal to another plane.
 
+Miracle (div): Ask for a blessing to duplicate divine spells.
+
+Remake U (con): Recreate a destroyed object.
+
+Revival (nec): Heal creatures in an area and return the dead to life temporarily.
 
 
 
@@ -1338,16 +1390,38 @@ Recall massive amounts of information in an instant.
 Оккультные заклинания 9-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Bind Soul U (nec): Imprison a dead creature's soul.
+
+Foresight (div): Sense when a creature is in danger and React to protect it with good fortune.
+
+Overwhelming Presence (enc): Take on the majesty of a god.
+
+Prismatic Sphere (abj): Form a protective sphere composed of seven chromatic layers.
+
+Resplendent Mansion (con): Conjure a mansion that lasts for a day.
+
+Telepathic Demand (enc): Send a mental message that impels a creature toward a course of action.
+
+Unfathomable Song (enc): Song debilitates creatures in weird ways.
+
+Wail of the Banshee (nec): Scream, dealing damage and draining creatures.
+
+Weird (ill): Frighten, deal mental damage, and possibly kill large numbers of creatures.
+
 
 
 Оккультные заклинания 10-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Alter Reality (div): Warp reality to duplicate occult spells.
 
+Fabricated Truth (enc): Make creatures believe something is fact.
 
+Gate U (con): Tear open a portal to another plane.
 
+Remake U (con): Recreate a destroyed object.
+
+Time Stop (tra): Briefly stop time for everything but you.
 
 
 
@@ -1726,13 +1800,36 @@ Recall massive amounts of information in an instant.
 Природные заклинания 9-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Disjunction U (abj): Deactivate or destroy a magic item.
+
+Implosion H (evo): Make a creature collapse in on itself.
+
+Massacre H (nec): Instantly kill multiple creatures.
+
+Meteor Swarm H (evo): Call down four blazing meteors that explode.
+
+Nature's Enmity (enc): Turn animals, plants, and weather against creatures of your choice.
+
+Shapechange (tra): Transform into a form of your choice repeatedly.
+
+Storm of Vengeance H (evo): Create a massive, dangerous storm.
+
 
 
 Природные заклинания 10-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-< TODO >
+Cataclysm (evo): Call an instant, damaging cataclysm.
+
+Nature Incarnate (tra): Turn into a massive avatar of nature.
+
+Primal Herd (tra): Transform willing creatures into mammoths.
+
+Primal Phenomenon (div): Request for nature to duplicate primal spells.
+
+Remake U (con): Recreate a destroyed object.
+
+Revival (nec): Heal creatures in an area and return the dead to life temporarily.
 
 
 
