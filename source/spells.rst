@@ -1808,11 +1808,11 @@ Time Stop (tra): Briefly stop time for everything but you.
 
 :ref:`spell--m--Meteor-Swarm` :sup:`У` (разр.): Вызываете четыре взрывающихся метеоров.
 
-Nature's Enmity (enc): Turn animals, plants, and weather against creatures of your choice.
+:ref:`spell--n--Natures-Enmity` (очар.): Обращает животных, растения и погоду против выбранных вами существ.
 
 :ref:`spell--s--Shapechange` (превр.): Периодически превращаетесь в формы по вашему выбору.
 
-Storm of Vengeance H (evo): Create a massive, dangerous storm.
+:ref:`spell--s--Storm-of-Vengeance` :sup:`У` (разр.): Создаете массивный, опасный шторм.
 
 
 
