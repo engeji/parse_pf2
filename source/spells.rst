@@ -1402,7 +1402,7 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--t--Telepathic-Demand` (очар.): Посылаете мысленное сообщение, которое побуждает существо к определенным действиям.
 
-Unfathomable Song (enc): Song debilitates creatures in weird ways.
+:ref:`spell--u--Unfathomable-Song` (очар.): Песня странным образом ослабляет существ.
 
 :ref:`spell--w--Wail-of-the-Banshee` (некр.): Кричите, нанося существам урон и истощая их.
 
