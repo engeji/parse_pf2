@@ -894,19 +894,19 @@ Wish (div): Make a wish to duplicate arcane spells.
 Сакральные заклинания 9-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Bind Soul U (nec): Imprison a dead creature's soul.
+:ref:`spell--b--Bind-Soul` :sup:`Н` (некр.): Заточаете душу умершего существа в драгоценный камень.
 
-Crusade HU (enc): Creatures become dedicated to a cause of your choice.
+:ref:`spell--c--Crusade` :sup:`Н У` (очар.): Существа становятся посвященными делу по вашему выбору.
 
 :ref:`spell--f--Foresight` (прориц.): Ощущаете когда существо в опасности и реагируете чтобы защитить его с помощью удачи.
 
 :ref:`spell--m--Massacre` :sup:`У` (некр.): Мгновенно убивает нескольких существ.
 
-Overwhelming Presence (enc): Take on the majesty of a god.
+:ref:`spell--o--Overwhelming-Presence` (очар.): Приобретаете божественное величие.
 
 :ref:`spell--t--Telepathic-Demand` (очар.): Посылаете мысленное сообщение, которое побуждает существо к определенным действиям.
 
-Wail of the Banshee (nec): Scream, dealing damage and draining creatures.
+:ref:`spell--w--Wail-of-the-Banshee` (некр.): Кричите, нанося существам урон и истощая их.
 
 Weapon of Judgement H (evo): Form a weapon to enforce war or peace.
 
@@ -1390,11 +1390,11 @@ Recall massive amounts of information in an instant.
 Оккультные заклинания 9-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Bind Soul U (nec): Imprison a dead creature's soul.
+:ref:`spell--b--Bind-Soul` :sup:`Н` (некр.): Заточаете душу умершего существа в драгоценный камень.
 
 :ref:`spell--f--Foresight` (прориц.): Ощущаете когда существо в опасности и реагируете чтобы защитить его с помощью удачи.
 
-Overwhelming Presence (enc): Take on the majesty of a god.
+:ref:`spell--o--Overwhelming-Presence` (очар.): Приобретаете божественное величие.
 
 :ref:`spell--p--Prismatic-Sphere` (прегр.): Создаете защитную сферу состоящую из 7 цветных слоев.
 
@@ -1404,7 +1404,7 @@ Overwhelming Presence (enc): Take on the majesty of a god.
 
 Unfathomable Song (enc): Song debilitates creatures in weird ways.
 
-Wail of the Banshee (nec): Scream, dealing damage and draining creatures.
+:ref:`spell--w--Wail-of-the-Banshee` (некр.): Кричите, нанося существам урон и истощая их.
 
 :ref:`spell--w--Weird` (иллюз.): Пугаете, наносите ментальные повреждения и возможно убиваете большое количество существ.
 
