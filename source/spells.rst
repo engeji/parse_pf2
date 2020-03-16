@@ -908,7 +908,7 @@ Wish (div): Make a wish to duplicate arcane spells.
 
 :ref:`spell--w--Wail-of-the-Banshee` (некр.): Кричите, нанося существам урон и истощая их.
 
-Weapon of Judgement H (evo): Form a weapon to enforce war or peace.
+:ref:`spell--w--Weapon-of-Judgement` :sup:`У` (разр.): Создаете оружие чтобы вынудить к атаке или миру.
 
 
 
