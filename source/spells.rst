@@ -1413,9 +1413,9 @@ Recall massive amounts of information in an instant.
 Оккультные заклинания 10-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Alter Reality (div): Warp reality to duplicate occult spells.
+:ref:`spell--a--Alter-Reality` (прориц.): Деформируете реальность, чтобы дублировать оккультные заклинания.
 
-Fabricated Truth (enc): Make creatures believe something is fact.
+:ref:`spell--f--Fabricated-Truth` (очар.): Заставляете существ поверить что что-то является правдой.
 
 :ref:`spell--g--Gate` :sup:`Н` (вопл.): Раскрываете портал на другой план.
 
