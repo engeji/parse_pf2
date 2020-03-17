@@ -915,15 +915,15 @@
 Сакральные заклинания 10-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Avatar (tra): Transform into a battle form determined by your deity.
+:ref:`spell--a--Avatar` (превр.): Превращаетесь в боевую форму вашего божества.
 
 :ref:`spell--g--Gate` :sup:`Н` (вопл.): Раскрываете портал на другой план.
 
-Miracle (div): Ask for a blessing to duplicate divine spells.
+:ref:`spell--m--Miracle` (прориц.): Просите благословения для повторения сакральных заклинаний.
 
 :ref:`spell--r--Remake` :sup:`Н` (вопл.): Воссоздаете уничтоженный объект.
 
-Revival (nec): Heal creatures in an area and return the dead to life temporarily.
+:ref:`spell--r--Revival` (некр.): Исцеляете существ в области и временно возвращаете мертвых к жизни.
 
 
 
@@ -1829,7 +1829,7 @@ Primal Phenomenon (div): Request for nature to duplicate primal spells.
 
 :ref:`spell--r--Remake` :sup:`Н` (вопл.): Воссоздаете уничтоженный объект.
 
-Revival (nec): Heal creatures in an area and return the dead to life temporarily.
+:ref:`spell--r--Revival` (некр.): Исцеляете существ в области и временно возвращаете мертвых к жизни.
 
 
 

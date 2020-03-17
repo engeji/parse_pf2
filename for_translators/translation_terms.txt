@@ -142,7 +142,6 @@ damage: повреждение(я)
 darkvision: ночное зрение
 	Greater Darkvision: Сильное ночное зрение
 DC / difficulty class: класс сложности
-Deadly Simplicity: Убийственная Простота
 Deity: Божество
 	Irori: Ирори
 	Nethys: Нефис
@@ -153,6 +152,9 @@ Deity: Божество
 	Iomedae: Айомедэй
 	Cayden Cailean: Кайдэн Кайлин
 	Gozreh: Гозрей
+	Norgorber: Норгорбер
+	Urgathoa: Ургатоа
+	Zon-Kuthon: Зон-Кутон
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
@@ -384,7 +386,7 @@ trait: признак / особенность
 		disarm: разоружение
 		nonlethal: несмертельное
 		shove: толчок
-		trip: опрокидывание
+		bull rush: 
 	остальные:
 		visual: визуальный
 		auditory: слуховой
@@ -394,7 +396,6 @@ trait: признак / особенность
 		manipulate: воздействие
 		secret: тайна
 		emotion: эмоция
-		trip: опрокидывание
 		morph: трансформация
 		polymorph: полиморф
 		mental: ментальный
@@ -438,3 +439,6 @@ weapons:
 	dogslicer: собачий тесак
 	horsechopper: лошадиный тесак
 	breath weapon: атака дыханием / дыхание
+	greatsword: двуручный меч
+	starknife: нож-звезда
+	warhammer: боевой молот
