@@ -1821,11 +1821,11 @@ Recall massive amounts of information in an instant.
 
 :ref:`spell--c--Cataclysm` (разр.): Вызываете мгновенный катаклизм.
 
-Nature Incarnate (tra): Turn into a massive avatar of nature.
+:ref:`spell--n--Nature-Incarnate` (превр.): Превращаетесь в аватара природы.
 
-Primal Herd (tra): Transform willing creatures into mammoths.
+:ref:`spell--p--Primal-Herd` (превр.): Превращаете готовых существ в мамонтов.
 
-Primal Phenomenon (div): Request for nature to duplicate primal spells.
+:ref:`spell--p--Primal-Phenomenon` (прориц.): Просите природу дублировать природные заклинания.
 
 :ref:`spell--r--Remake` :sup:`Н` (вопл.): Воссоздаете уничтоженный объект.
 
