@@ -552,15 +552,15 @@
 Мистические заклинания 10-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Cataclysm (evo): Call an instant, damaging cataclysm.
+:ref:`spell--c--Cataclysm` (разр.): Вызываете мгновенный катаклизм.
 
-Gate U (con): Tear open a portal to another plane.
+:ref:`spell--g--Gate` :sup:`Н` (вопл.): Раскрываете портал на другой план.
 
-Remake U (con): Recreate a destroyed object.
+:ref:`spell--r--Remake` :sup:`Н` (вопл.): Воссоздаете уничтоженный объект.
 
-Time Stop (tra): Briefly stop time for everything but you.
+:ref:`spell--t--Time-Stop` (превр.): Ненадолго останавливаете время для всех, кроме вас.
 
-Wish (div): Make a wish to duplicate arcane spells.
+:ref:`spell--w--Wish` (прориц.): Загадайте желание чтобы повторить заклинания и производить другие эффекты.
 
 
 
@@ -917,11 +917,11 @@ Wish (div): Make a wish to duplicate arcane spells.
 
 Avatar (tra): Transform into a battle form determined by your deity.
 
-Gate U (con): Tear open a portal to another plane.
+:ref:`spell--g--Gate` :sup:`Н` (вопл.): Раскрываете портал на другой план.
 
 Miracle (div): Ask for a blessing to duplicate divine spells.
 
-Remake U (con): Recreate a destroyed object.
+:ref:`spell--r--Remake` :sup:`Н` (вопл.): Воссоздаете уничтоженный объект.
 
 Revival (nec): Heal creatures in an area and return the dead to life temporarily.
 
@@ -1417,11 +1417,11 @@ Alter Reality (div): Warp reality to duplicate occult spells.
 
 Fabricated Truth (enc): Make creatures believe something is fact.
 
-Gate U (con): Tear open a portal to another plane.
+:ref:`spell--g--Gate` :sup:`Н` (вопл.): Раскрываете портал на другой план.
 
-Remake U (con): Recreate a destroyed object.
+:ref:`spell--r--Remake` :sup:`Н` (вопл.): Воссоздаете уничтоженный объект.
 
-Time Stop (tra): Briefly stop time for everything but you.
+:ref:`spell--t--Time-Stop` (превр.): Ненадолго останавливаете время для всех, кроме вас.
 
 
 
@@ -1819,7 +1819,7 @@ Time Stop (tra): Briefly stop time for everything but you.
 Природные заклинания 10-го ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Cataclysm (evo): Call an instant, damaging cataclysm.
+:ref:`spell--c--Cataclysm` (разр.): Вызываете мгновенный катаклизм.
 
 Nature Incarnate (tra): Turn into a massive avatar of nature.
 
@@ -1827,7 +1827,7 @@ Primal Herd (tra): Transform willing creatures into mammoths.
 
 Primal Phenomenon (div): Request for nature to duplicate primal spells.
 
-Remake U (con): Recreate a destroyed object.
+:ref:`spell--r--Remake` :sup:`Н` (вопл.): Воссоздаете уничтоженный объект.
 
 Revival (nec): Heal creatures in an area and return the dead to life temporarily.
 
