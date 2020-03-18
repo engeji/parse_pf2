@@ -25,7 +25,7 @@ actions:
 	Sustain a Spell: Поддержать Заклинание :ref:`action--Sustain-a-Spell`
 	Fly: Лететь :ref:`action--Fly`
 	Grab an Edge: Схватиться за Уступ :ref:`action--Grab-an-Edge`
-	Crawl: Ползти
+	Crawl: Ползти :ref:`action--Crawl`
 	Mount: Оседлать
 	Sense the Motive: Понять Намерение
 	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
