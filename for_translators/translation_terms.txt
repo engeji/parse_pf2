@@ -15,7 +15,6 @@ actions:
 	Seek: Поиск :ref:`action--Seek`
 	Maneuver in Flight: Маневрирование в полете
 	Arrest a Fall: Остановить Падение
-	Request: Просьба
 	Take Cover: Укрыться
 	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO) :ref:`action--Stride`
 	Step: Шаг (короткий, НЕ провоцирует AoO) :ref:`action--Step`
