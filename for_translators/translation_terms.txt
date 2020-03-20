@@ -9,6 +9,8 @@ actions:
 	Interact: Взаимодействовать :ref:`action--Interact`
 	Strike: Удар :ref:`action--Strike`
 	Cast a Spell: Использование заклинания :ref:`action--Cast-a-Spell`
+	Sustain a Spell: Поддержать Заклинание :ref:`action--Sustain-a-Spell`
+	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
 	Aid: Помощь :ref:`action--Aid`
 	Delay: Выждать
 	Ready: Приготовиться :ref:`action--Ready`
@@ -20,8 +22,6 @@ actions:
 	Step: Шаг (короткий, НЕ провоцирует AoO) :ref:`action--Step`
 	Stand: Встать :ref:`action--Stand`
 	Escape: Вырваться :ref:`action--Escape`
-	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
-	Sustain a Spell: Поддержать Заклинание :ref:`action--Sustain-a-Spell`
 	Fly: Лететь :ref:`action--Fly`
 	Grab an Edge: Схватиться за Уступ :ref:`action--Grab-an-Edge`
 	Crawl: Ползти :ref:`action--Crawl`
