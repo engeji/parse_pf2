@@ -22,7 +22,6 @@ actions:
 	Step: Шаг (короткий, НЕ провоцирует AoO) :ref:`action--Step`
 	Stand: Встать :ref:`action--Stand`
 	Escape: Вырваться :ref:`action--Escape`
-	Fly: Лететь :ref:`action--Fly`
 	Grab an Edge: Схватиться за Уступ :ref:`action--Grab-an-Edge`
 	Crawl: Ползти :ref:`action--Crawl`
 	Mount: Оседлать
@@ -37,6 +36,8 @@ actions:
 	Raise a Shield: Поднять щит :ref:`action--Raise-a-Shield`
 	Release: Отпустить :ref:`action--Release`
 	Drop Prone: Упасть на землю :ref:`action--Drop-Prone`
+	Fly: Лететь :ref:`action--Fly`
+	Burrow: Рыть :ref:`action--Burrow`
 Affliction: недуг
 alignment: мировоззрение
 Align Armament: (TODO перевод)
