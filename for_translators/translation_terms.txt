@@ -9,7 +9,7 @@ actions:
 	Interact: Взаимодействовать :ref:`action--Interact`
 	Strike: Удар :ref:`action--Strike`
 	Cast a Spell: Использование заклинания :ref:`action--Cast-a-Spell`
-	Sustain a Spell: Поддержать Заклинание :ref:`action--Sustain-a-Spell`
+	Sustain a Spell: Поддержание заклинания :ref:`action--Sustain-a-Spell`
 	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
 	Aid: Помощь :ref:`action--Aid`
 	Delay: Выждать
