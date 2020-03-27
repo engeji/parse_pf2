@@ -12,12 +12,12 @@ actions:
 	Sustain a Spell: Поддержание заклинания :ref:`action--Sustain-a-Spell`
 	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
 	Aid: Помощь :ref:`action--Aid`
-	Delay: Выждать
+	Delay: Выждать :ref:`action--Delay`
 	Ready: Приготовиться :ref:`action--Ready`
 	Seek: Поиск :ref:`action--Seek`
 	Maneuver in Flight: Маневрирование в полете
 	Arrest a Fall: Остановить Падение
-	Take Cover: Укрыться
+	Take Cover: Укрыться :ref:`action--Take-Cover`
 	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO) :ref:`action--Stride`
 	Step: Шаг (короткий, НЕ провоцирует AoO) :ref:`action--Step`
 	Stand: Встать :ref:`action--Stand`
@@ -49,6 +49,7 @@ Attack of Opportunity: Возможность для Атаки :ref:`class-feat
 apex item: наивысший предмет
 area: область
 	area of effect: область действия (эффекта)
+	area effect: эффект по области
 artifacts?
 	rod of cancellation: жезл отмены
 	sphere of annihilation: сфера аннигиляции
