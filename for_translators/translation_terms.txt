@@ -343,8 +343,8 @@ Skill: Навык
 	Thievery: Воровство
 		Palm an Object: Ловкость рук
 		Steal: Украсть
-		Disable a Device: Отключить устройство :ref:`skill--Thievery--Disable-a-Device`
-		Pick a Lock: Вскрыть замок
+		Disable a Device: Отключение устройства :ref:`skill--Thievery--Disable-a-Device`
+		Pick a Lock: Вскрытие замка :ref:`skill--Thievery--Pick-a-Lock`
 slashing damage: режущие повреждения
 statistic: показатель
 Stonewalker: Каменотес
