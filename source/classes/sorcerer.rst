@@ -591,22 +591,24 @@
 
 **Навыки наследия**: Запугивание, Оккультизм
 
-**Дарованные заклинания**: 
-Чары: :ref:`spell--d--Daze`;
-1-й: :ref:`spell--s--Spider-Sting`;
-2-й: :ref:`spell--t--Touch-of-Idiocy`;
-3-й: :ref:`spell--v--Vampiric-Touch`;
-4-й: :ref:`spell--c--Confusion`;
-5-й: *black tentacles*;
-6-й: *feeblemind*;
-7-й: *warp mind*;
-8-й: *uncontrollable dance*;
-9-й: *unfathomable song*
+**Дарованные заклинания**:
 
-**Заклинания наследия**: 
-Начальное: :ref:`spell--focus--Tentacular-Limbs`;
-Продвинутое: :ref:`spell--focus--Aberrant-Whispers`;
-Великое: :ref:`spell--focus--Unusual-Anatomy`
+| Чары: :ref:`spell--d--Daze`;
+| 1-й: :ref:`spell--s--Spider-Sting`;
+| 2-й: :ref:`spell--t--Touch-of-Idiocy`;
+| 3-й: :ref:`spell--v--Vampiric-Touch`;
+| 4-й: :ref:`spell--c--Confusion`;
+| 5-й: :ref:`spell--b--Black-Tentacles`;
+| 6-й: :ref:`spell--f--Feeblemind`;
+| 7-й: :ref:`spell--w--Warp-Mind`;
+| 8-й: :ref:`spell--u--Uncontrollable-Dance`;
+| 9-й: :ref:`spell--u--Unfathomable-Song`
+
+**Заклинания наследия**:
+
+| Начальное: :ref:`spell--focus--Tentacular-Limbs`;
+| Продвинутое: :ref:`spell--focus--Aberrant-Whispers`;
+| Великое: :ref:`spell--focus--Unusual-Anatomy`
 
 **Магия крови**: Потусторонние шепоты защищают разум цели или ваш собственный, давая бонус состояния +2 к испытаниям Воли на 1 раунд.
 
@@ -622,22 +624,24 @@
 
 **Навыки наследия**: Дипломатия, Религия
 
-**Дарованные заклинания**: 
-Чары: :ref:`spell--l--Light`;
-1-й: :ref:`spell--h--Heal`;
-2-й: :ref:`spell--s--Spiritual-Weapon`;
-3-й: :ref:`spell--s--Searing-Light`;
-4-й: :ref:`spell--d--Divine-Wrath`;
-5-й: *flame strike*;
-6-й: *blade barrier*;
-7-й: *divine decree*;
-8-й: *divine aura*;
-9-й: *foresight*
+**Дарованные заклинания**:
 
-**Заклинания наследия**: 
-Начальное: :ref:`spell--focus--Angelic-Halo`;
-Продвинутое: :ref:`spell--focus--Angelic-Wings`;
-Великое: :ref:`spell--focus--Celestial-Brand`
+| Чары: :ref:`spell--l--Light`;
+| 1-й: :ref:`spell--h--Heal`;
+| 2-й: :ref:`spell--s--Spiritual-Weapon`;
+| 3-й: :ref:`spell--s--Searing-Light`;
+| 4-й: :ref:`spell--d--Divine-Wrath`;
+| 5-й: :ref:`spell--f--Flame-Strike`;
+| 6-й: :ref:`spell--b--Blade-Barrier`;
+| 7-й: :ref:`spell--d--Divine-Decree`;
+| 8-й: :ref:`spell--d--Divine-Aura`;
+| 9-й: :ref:`spell--f--Foresight`
+
+**Заклинания наследия**:
+
+| Начальное: :ref:`spell--focus--Angelic-Halo`;
+| Продвинутое: :ref:`spell--focus--Angelic-Wings`;
+| Великое: :ref:`spell--focus--Celestial-Brand`
 
 **Магия крови**: Ангельская аура защищает вас или одну цель, даруя бонус состояния +1 к испытаниям на 1 раунд.
 
@@ -654,22 +658,24 @@
 
 **Навыки наследия**: Запугивание, Религия
 
-**Дарованные заклинания**: 
-Чары: :ref:`spell--a--Acid-Splash`;
-1-й: :ref:`spell--f--Fear`;
-2-й: :ref:`spell--e--Enlarge`;
-3-й: :ref:`spell--s--Slow`;
-4-й: :ref:`spell--d--Divine-Wrath`;
-5-й: *Abyssal plague*;
-6-й: *disintegrate*;
-7-й: *divine decree*;
-8-й: *divine aura*;
-9-й: *implosion*
+**Дарованные заклинания**:
 
-**Заклинания наследия**: 
-Начальное: :ref:`spell--focus--Gluttons-Jaw`;
-Продвинутое: :ref:`spell--focus--Swamp-of-Sloth`;
-Великое: :ref:`spell--focus--Abyssal-Wrath`
+| Чары: :ref:`spell--a--Acid-Splash`;
+| 1-й: :ref:`spell--f--Fear`;
+| 2-й: :ref:`spell--e--Enlarge`;
+| 3-й: :ref:`spell--s--Slow`;
+| 4-й: :ref:`spell--d--Divine-Wrath`;
+| 5-й: :ref:`spell--a--Abyssal-Plague`;
+| 6-й: :ref:`spell--d--Disintegrate`;
+| 7-й: :ref:`spell--d--Divine-Decree`;
+| 8-й: :ref:`spell--d--Divine-Aura`;
+| 9-й: :ref:`spell--i--Implosion`
+
+**Заклинания наследия**:
+
+| Начальное: :ref:`spell--focus--Gluttons-Jaw`;
+| Продвинутое: :ref:`spell--focus--Swamp-of-Sloth`;
+| Великое: :ref:`spell--focus--Abyssal-Wrath`
 
 **Магия крови**: Греховный порок ослабляет защиту цели, или делая вас более внушительным.
 Или цель получает штраф состояния -1 КБ на 1 раунд, или вы получаете бонус состояния +1 к проверкам Запугивания на 1 раунд.
@@ -686,22 +692,24 @@
 
 **Навыки наследия**: Обман, Религия
 
-**Дарованные заклинания**: 
-Чары: :ref:`spell--p--Produce-Flame`;
-1-й: :ref:`spell--c--Charm`;
-2-й: :ref:`spell--f--Flaming-Sphere`;
-3-й: :ref:`spell--e--Enthrall`;
-4-й: :ref:`spell--s--Suggestion`;
-5-й: *crushing despair*;
-6-й: *true seeing*;
-7-й: *divine decree*;
-8-й: *divine aura*;
-9-й: *meteor swarm*
+**Дарованные заклинания**:
+
+| Чары: :ref:`spell--p--Produce-Flame`;
+| 1-й: :ref:`spell--c--Charm`;
+| 2-й: :ref:`spell--f--Flaming-Sphere`;
+| 3-й: :ref:`spell--e--Enthrall`;
+| 4-й: :ref:`spell--s--Suggestion`;
+| 5-й: :ref:`spell--c--Crushing-Despair`;
+| 6-й: :ref:`spell--t--True-Seeing`;
+| 7-й: :ref:`spell--d--Divine-Decree`;
+| 8-й: :ref:`spell--d--Divine-Aura`;
+| 9-й: :ref:`spell--m--Meteor-Swarm`
 
 **Заклинания наследия**: 
-Начальное: :ref:`spell--focus--Diabolic-Edict`;
-Продвинутое: :ref:`spell--focus--Embrace-the-Pit`;
-Великое: :ref:`spell--focus--Hellfire-Plume`
+
+| Начальное: :ref:`spell--focus--Diabolic-Edict`;
+| Продвинутое: :ref:`spell--focus--Embrace-the-Pit`;
+| Великое: :ref:`spell--focus--Hellfire-Plume`
 
 **Магия крови**: Адское пламя обжигает цель или наполняет ваш язык ложью.
 Или цель получает 1 огненных повреждений за уровень заклинания (если заклинание уже наносит изначальные огненные повреждения, объедините их до определения сопротивлений и слабостей), или вы получаете бонус состояния +1 к проверкам Обмана на 1 раунд.
@@ -719,22 +727,24 @@
 
 **Навыки наследия**: Мистика, Запугивание
 
-**Дарованные заклинания**: 
-Чары: :ref:`spell--s--Shield`;
-1-й: :ref:`spell--t--True-Strike`;
-2-й: :ref:`spell--r--Resist-Energy`;
-3-й: :ref:`spell--h--Haste`;
-4-й: :ref:`spell--s--Spell-Immunity`;
-5-й: *chromatic wall*;
-6-й: *dragon form*;
-7-й: *mask of terror*;
-8-й: *prismatic wall*;
-9-й: *overwhelming presence*
+**Дарованные заклинания**:
 
-**Заклинания наследия**: 
-Начальное: :ref:`spell--focus--Dragon-Claws`;
-Продвинутое: :ref:`spell--focus--Dragon-Breath`;
-Великое: :ref:`spell--focus--Dragon-Wings`
+| Чары: :ref:`spell--s--Shield`;
+| 1-й: :ref:`spell--t--True-Strike`;
+| 2-й: :ref:`spell--r--Resist-Energy`;
+| 3-й: :ref:`spell--h--Haste`;
+| 4-й: :ref:`spell--s--Spell-Immunity`;
+| 5-й: :ref:`spell--c--Chromatic-Wall`;
+| 6-й: :ref:`spell--d--Dragon-Form`;
+| 7-й: :ref:`spell--m--Mask-of-Terror`;
+| 8-й: :ref:`spell--p--Prismatic-Wall`;
+| 9-й: :ref:`spell--o--Overwhelming-Presence`
+
+**Заклинания наследия**:
+
+| Начальное: :ref:`spell--focus--Dragon-Claws`;
+| Продвинутое: :ref:`spell--focus--Dragon-Breath`;
+| Великое: :ref:`spell--focus--Dragon-Wings`
 
 **Магия крови**: На вас или цели вырастает драконья чешуя, даруя бонус состояния +1 КБ на 1 раунд.
 
@@ -759,22 +769,24 @@
 
 **Навыки наследия**: Запугивание, Природа
 
-**Дарованные заклинания**: 
-Чары: :ref:`spell--p--Produce-Flame`\*;
-1-й: :ref:`spell--b--Burning-Hands`\*;
-2-й: :ref:`spell--r--Resist-Energy`;
-3-й: :ref:`spell--f--Fireball`\*;
-4-й: :ref:`spell--f--Freedom-of-Movement`;
-5-й: *elemental form*;
-6-й: *repulsion*;
-7-й: *energy aegis*;
-8-й: *prismatic wall*;
-9-й: *storm of vengeance*
+**Дарованные заклинания**:
 
-**Заклинания наследия**: 
-Начальное: :ref:`spell--focus--Elemental-Toss` \*;
-Продвинутое: :ref:`spell--focus--Elemental-Motion`;
-Великое: :ref:`spell--focus--Elemental-Blast` \*
+| Чары: :ref:`spell--p--Produce-Flame`\*;
+| 1-й: :ref:`spell--b--Burning-Hands`\*;
+| 2-й: :ref:`spell--r--Resist-Energy`;
+| 3-й: :ref:`spell--f--Fireball`\*;
+| 4-й: :ref:`spell--f--Freedom-of-Movement`;
+| 5-й: :ref:`spell--e--Elemental-Form`;
+| 6-й: :ref:`spell--r--Repulsion`;
+| 7-й: :ref:`spell--e--Energy-Aegis`;
+| 8-й: :ref:`spell--p--Prismatic-Wall`;
+| 9-й: :ref:`spell--s--Storm-of-Vengeance`
+
+**Заклинания наследия**:
+
+| Начальное: :ref:`spell--focus--Elemental-Toss` \*;
+| Продвинутое: :ref:`spell--focus--Elemental-Motion`;
+| Великое: :ref:`spell--focus--Elemental-Blast` \*
 
 **Магия крови**: Энергия стихии окружает вас или цель.
 Или вы получаете бонус состояния +1 к проверкам Запугивания на 1 раунд, или цель получает 1 повреждений за уровень заклинания.
@@ -805,22 +817,24 @@
 
 **Навыки наследия**: Обман, Природа
 
-**Дарованные заклинания**: 
-Чары: *ghost sound*;
-1-й: :ref:`spell--c--Charm`;
-2-й: :ref:`spell--h--Hideous-Laughter`;
-3-й: :ref:`spell--e--Enthrall`;
-4-й: :ref:`spell--s--Suggestion`;
-5-й: *cloak of colors*;
-6-й: *mislead*;
-7-й: *visions of danger*;
-8-й: *uncontrollable dance*;
-9-й: *resplendent mansion*
+**Дарованные заклинания**:
 
-**Заклинания наследия**: 
-Начальное: :ref:`spell--focus--Faerie-Dust`;
-Продвинутое: :ref:`spell--focus--Fey-Disappearance`;
-Великое: :ref:`spell--focus--Fey-Glamour`
+| Чары: :ref:`spell--g--Ghost-Sound`;
+| 1-й: :ref:`spell--c--Charm`;
+| 2-й: :ref:`spell--h--Hideous-Laughter`;
+| 3-й: :ref:`spell--e--Enthrall`;
+| 4-й: :ref:`spell--s--Suggestion`;
+| 5-й: :ref:`spell--c--Cloak-of-Colors`;
+| 6-й: :ref:`spell--m--Mislead`;
+| 7-й: :ref:`spell--v--Visions-of-Danger`;
+| 8-й: :ref:`spell--u--Uncontrollable-Dance`;
+| 9-й: :ref:`spell--r--Resplendent-Mansion`
+
+**Заклинания наследия**:
+
+| Начальное: :ref:`spell--focus--Faerie-Dust`;
+| Продвинутое: :ref:`spell--focus--Fey-Disappearance`;
+| Великое: :ref:`spell--focus--Fey-Glamour`
 
 **Магия крови**: Красочные чары феи кружатся вокруг вас или цели, скрывая на 1 раунд.
 Такое очевидное сокрытие не может быть использовано чтобы Спрятаться.
@@ -837,22 +851,24 @@
 
 **Навыки наследия**: Обман, Оккультизм
 
-**Дарованные заклинания**: 
-Чары: :ref:`spell--d--Daze`;
-1-й: :ref:`spell--i--Illusory-Disguise`;
-2-й: :ref:`spell--t--Touch-of-Idiocy`;
-3-й: :ref:`spell--b--Blindness`;
-4-й: :ref:`spell--o--Outcasts-Curse`;
-5-й: *mariner's curse*;
-6-й: *baleful polymorph*;
-7-й: *warp mind*;
-8-й: *spiritual epidemic*;
-9-й: * nature's enmity*
+**Дарованные заклинания**:
 
-**Заклинания наследия**: 
-Начальное: :ref:`spell--focus--Jealous-Hex`;
-Продвинутое: :ref:`spell--focus--Horrific-Visage`;
-Великое: :ref:`spell--focus--Youre-Mine`
+| Чары: :ref:`spell--d--Daze`;
+| 1-й: :ref:`spell--i--Illusory-Disguise`;
+| 2-й: :ref:`spell--t--Touch-of-Idiocy`;
+| 3-й: :ref:`spell--b--Blindness`;
+| 4-й: :ref:`spell--o--Outcasts-Curse`;
+| 5-й: :ref:`spell--m--Mariners-Curse`;
+| 6-й: :ref:`spell--b--Baleful-Polymorph`;
+| 7-й: :ref:`spell--w--Warp-Mind`;
+| 8-й: :ref:`spell--s--Spiritual-Epidemic`;
+| 9-й: :ref:`spell--n--Natures-Enmity`
+
+**Заклинания наследия**:
+
+| Начальное: :ref:`spell--focus--Jealous-Hex`;
+| Продвинутое: :ref:`spell--focus--Horrific-Visage`;
+| Великое: :ref:`spell--focus--Youre-Mine`
 
 **Магия крови**: Злобные проклятия карают ваших врагов.
 Первое существо, которое наносит повреждения вам до конца вашего следующего хода, получает 2 ментальных повреждений за уровень заклинаний и должно пройти простое испытание Воли.
@@ -864,28 +880,30 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Один из твоих предков был смертным, который владел магией.
-Такая магическая кровь может оставаться скрытой на протяжении поколений, но в тебе она проявилась в полной мере.
+Такая магическая кровь может оставаться скрытой на протяжении поколений, но в вас она проявилась в полной мере.
 
 **Список заклинаний**: :ref:`spells-list--Arcane`
 
 **Навыки наследия**: Мистика, Общество
 
-**Дарованные заклинания**: 
-Чары: :ref:`spell--d--Detect-Magic`;
-1-й: :ref:`spell--m--Magic-Missile`;
-2-й: :ref:`spell--d--Dispel-Magic`;
-3-й: :ref:`spell--h--Haste`;
-4-й: :ref:`spell--d--Dimension-Door`;
-5-й: *prying eye*;
-6-й: *disintegrate*;
-7-й: *prismatic spray*;
-8-й: *maze*;
-9-й: *prismatic sphere*
+**Дарованные заклинания**:
 
-**Заклинания наследия**: 
-Начальное: :ref:`spell--focus--Ancestral-Memories`;
-Продвинутое: :ref:`spell--focus--Extend-Spell`;
-Великое: :ref:`spell--focus--Arcane-Countermeasure`
+| Чары: :ref:`spell--d--Detect-Magic`;
+| 1-й: :ref:`spell--m--Magic-Missile`;
+| 2-й: :ref:`spell--d--Dispel-Magic`;
+| 3-й: :ref:`spell--h--Haste`;
+| 4-й: :ref:`spell--d--Dimension-Door`;
+| 5-й: :ref:`spell--p--Prying-Eye`;
+| 6-й: :ref:`spell--d--Disintegrate`;
+| 7-й: :ref:`spell--p--Prismatic-Spray`;
+| 8-й: :ref:`spell--m--Maze`;
+| 9-й: :ref:`spell--p--Prismatic-Sphere`
+
+**Заклинания наследия**:
+
+| Начальное: :ref:`spell--focus--Ancestral-Memories`;
+| Продвинутое: :ref:`spell--focus--Extend-Spell`;
+| Великое: :ref:`spell--focus--Arcane-Countermeasure`
 
 **Магия крови**: Всплеск наследственных воспоминаний дает вам или цели бонус состояния +1 на проверки навыков на 1 раунд.
 
@@ -902,22 +920,24 @@
 
 **Навыки наследия**: Запугивание, Религия
 
-**Дарованные заклинания**: 
-Чары: :ref:`spell--c--Chill-Touch`;
-1-й: :ref:`spell--h--Harm`;
-2-й: :ref:`spell--f--False-Life`;
-3-й: :ref:`spell--b--Bind-Undead`;
-4-й: :ref:`spell--t--Talking-Corpse`;
-5-й: *cloudkill*;
-6-й: *vampiric exsanguination*;
-7-й: *finger of death*;
-8-й: *horrid wilting*;
-9-й: *wail of the banshee*
+**Дарованные заклинания**:
 
-**Заклинания наследия**: 
-Начальное: :ref:`spell--focus--Undeaths-Blessing`;
-Продвинутое: :ref:`spell--focus--Drain-Life`;
-Великое: :ref:`spell--focus--Grasping-Grave`
+| Чары: :ref:`spell--c--Chill-Touch`;
+| 1-й: :ref:`spell--h--Harm`;
+| 2-й: :ref:`spell--f--False-Life`;
+| 3-й: :ref:`spell--b--Bind-Undead`;
+| 4-й: :ref:`spell--t--Talking-Corpse`;
+| 5-й: :ref:`spell--c--Cloudkill`;
+| 6-й: :ref:`spell--v--Vampiric-Exsanguination`;
+| 7-й: :ref:`spell--f--Finger-of-Death`;
+| 8-й: :ref:`spell--h--Horrid-Wilting`;
+| 9-й: :ref:`spell--w--Wail-of-the-Banshee`
+
+**Заклинания наследия**:
+
+| Начальное: :ref:`spell--focus--Undeaths-Blessing`;
+| Продвинутое: :ref:`spell--focus--Drain-Life`;
+| Великое: :ref:`spell--focus--Grasping-Grave`
 
 **Магия крови**: Энергия некромантии течет через вас или цель.
 Или вы получаете временные Очки Здоровья равные уровню заклинания на 1 раунд, или цель получает 1 негативных повреждений за уровень заклинания (если заклинание уже наносит начальные негативные повреждения, объедините их до определения сопротивлений и слабостей)
@@ -1021,6 +1041,23 @@
 Добавьте 5 футов к радиусу взрыва, который обычно имеет радиус хотя бы 10 футов (не имеет эффекта на взрыв с меньшим радиусом).
 Добавьте 5 футов к длине конуса или линии, которые обычно имеют длину хотя бы 15 футов или менее, и добавьте 10 футов к длине бОльших конусов и линий.
 
+
+.. _class-feat--Sorcerer--Blessed-Blood:
+
+Благословленная кровь (`Blessed Blood <https://2e.aonprd.com/Feats.aspx?ID=1177>`_)  / 1 ур.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+- чародей
+
+**Предварительные условия**: наследие которое дает сакральные заклинания, вы последователь божества
+
+**Источник**: Lost Omens: Gods & Magic pg. 104
+
+----------
+
+Благословения вашего божества проявляются в силе вашей крови.
+Добавьте вплоть до 3 заклинания вашего божества (это заклинания, которые божество дарует жрецам) к вашему списку заклинаний.
+Они не добавляются автоматически к вашему репертуару, но вы можете выбрать их как обычно, из списка сакральных заклинаний.
 
 
 
