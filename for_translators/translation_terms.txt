@@ -374,6 +374,21 @@ Subordinate Actions: Вспомогательные Действия
 Titles:
 	Jadwiga: Ядвига
 	Erutaki: Эрутаки
+	Varisian: Вариссиец
+	Keleshite: Келешиец
+	Chelaxian: Челиец
+	Nidalese: Нидалец (произносится Ньидолец)
+	Taldan: Талданец
+	Vudrani: Вудронец
+	Shoanti: Шоантиец
+	Lirgeni: Лиргиец
+	Ulfen: Улфэн
+	Tian-Dan: Тянь-Дань
+	Irrisen: Иррисен
+	Thassilon: Тассилон
+	Padishah Empire: Падишахская империя
+	Nidal: Нидал (произносится Ньидол)
+	Lirgen: Лирген
 trait: признак / особенность
 	оружие:
 		agile: быстрое
