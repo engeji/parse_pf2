@@ -383,6 +383,7 @@ Titles:
 	Shoanti: Шоантиец
 	Lirgeni: Лиргиец
 	Ulfen: Улфэн
+	Bonuwat: Бонуватец
 	Tian-Dan: Тянь-Дань
 	Irrisen: Иррисен
 	Thassilon: Тассилон
