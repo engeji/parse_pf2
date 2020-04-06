@@ -19,7 +19,7 @@ actions:
 	Maneuver in Flight: Маневрирование в полете
 	Arrest a Fall: Остановить Падение
 	Take Cover: Укрыться :ref:`action--Take-Cover`
-	Stride: Перемещение (длинное, как правило больше 5 футов, провоцирует AoO) :ref:`action--Stride`
+	Stride: Перемещение :ref:`action--Stride`
 	Step: Шаг (короткий, НЕ провоцирует AoO) :ref:`action--Step`
 	Stand: Встать :ref:`action--Stand`
 	Escape: Вырваться :ref:`action--Escape`
@@ -327,7 +327,7 @@ Skill: Навык
 		Subsist: Проживание
 	Stealth: скрытность
 		Avoid Notice: Избежать Обнаружения
-		Conceal an Object: Скрыть предмет
+		Conceal an Object: Скрыть предмет :ref:`skill--Stealth--Conceal-an-Object`
 		Hide: Спрятаться :ref:`skill--Stealth--Hide`
 		Sneak: Красться :ref:`skill--Stealth--Sneak`
 	Medicine: Медицина
@@ -413,6 +413,7 @@ trait: признак / особенность
 		Summoned: призванный
 		Teleportation: телепортация
 		Flourish: размах
+		curse: проклятие
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 the Pit: Преисподняя
