@@ -221,6 +221,8 @@ Languages: языки
 	Goblin: Гоблинский
 	Orcish: Орочий
 	Sylvan: Сильван
+Locations:
+	Irrisen: Иррисен
 lesser cover: небольшое укрытие
 light: свет
 	bright: яркий
@@ -369,6 +371,9 @@ spellcasting: колдовство / произнесение заклинани
 		primal: природный
 Subordinate Actions: Вспомогательные Действия
 
+Titles:
+	Jadwiga: Ядвига
+	Erutaki: Эрутаки
 trait: признак / особенность
 	оружие:
 		agile: быстрое
