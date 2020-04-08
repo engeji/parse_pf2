@@ -384,12 +384,16 @@ Titles:
 	Lirgeni: Лиргиец
 	Ulfen: Улфэн
 	Bonuwat: Бонуватец
+	Garundi: Гарундиец
+	Mauxi: Маушиец
 	Tian-Dan: Тянь-Дань
+	Tian-Yae: Тянь-Йэ
 	Irrisen: Иррисен
 	Thassilon: Тассилон
 	Padishah Empire: Падишахская империя
 	Nidal: Нидал (произносится Ньидол)
 	Lirgen: Лирген
+	Shory: Шори
 trait: признак / особенность
 	оружие:
 		agile: быстрое
