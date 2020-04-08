@@ -38,6 +38,7 @@ actions:
 	Drop Prone: Упасть на землю :ref:`action--Drop-Prone`
 	Fly: Лететь :ref:`action--Fly`
 	Burrow: Рыть :ref:`action--Burrow`
+	Sense Motive: Понять намерения :ref:`action--Sense-Motive`
 advanced alchemy: продвинутая алхимия
 Affliction: недуг
 alignment: мировоззрение
