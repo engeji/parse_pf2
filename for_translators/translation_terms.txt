@@ -16,7 +16,7 @@ actions:
 	Delay: Выждать :ref:`action--Delay`
 	Ready: Приготовиться :ref:`action--Ready`
 	Seek: Поиск :ref:`action--Seek`
-	Maneuver in Flight: Маневрирование в полете
+	Maneuver in Flight: Маневрирование в полете :ref:`skill--Acrobatics--Maneuver-in-Flight`
 	Arrest a Fall: Остановить Падение
 	Take Cover: Укрыться :ref:`action--Take-Cover`
 	Stride: Перемещение :ref:`action--Stride`
@@ -38,6 +38,7 @@ actions:
 	Drop Prone: Упасть на землю :ref:`action--Drop-Prone`
 	Fly: Лететь :ref:`action--Fly`
 	Burrow: Рыть :ref:`action--Burrow`
+	Sense Motive: Понять намерения :ref:`action--Sense-Motive`
 advanced alchemy: продвинутая алхимия
 Affliction: недуг
 alignment: мировоззрение
@@ -221,6 +222,8 @@ Languages: языки
 	Goblin: Гоблинский
 	Orcish: Орочий
 	Sylvan: Сильван
+Locations:
+	Irrisen: Иррисен
 lesser cover: небольшое укрытие
 light: свет
 	bright: яркий
@@ -369,6 +372,29 @@ spellcasting: колдовство / произнесение заклинани
 		primal: природный
 Subordinate Actions: Вспомогательные Действия
 
+Titles:
+	Jadwiga: Ядвига
+	Erutaki: Эрутаки
+	Varisian: Вариссиец
+	Keleshite: Келешиец
+	Chelaxian: Челиец
+	Nidalese: Нидалец (произносится Ньидолец)
+	Taldan: Талданец
+	Vudrani: Вудронец
+	Shoanti: Шоантиец
+	Lirgeni: Лиргиец
+	Ulfen: Улфэн
+	Bonuwat: Бонуватец
+	Garundi: Гарундиец
+	Mauxi: Маушиец
+	Tian-Dan: Тянь-Дань
+	Tian-Yae: Тянь-Йэ
+	Irrisen: Иррисен
+	Thassilon: Тассилон
+	Padishah Empire: Падишахская империя
+	Nidal: Нидал (произносится Ньидол)
+	Lirgen: Лирген
+	Shory: Шори
 trait: признак / особенность
 	оружие:
 		agile: быстрое
