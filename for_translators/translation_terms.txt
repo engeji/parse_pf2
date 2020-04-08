@@ -16,7 +16,7 @@ actions:
 	Delay: Выждать :ref:`action--Delay`
 	Ready: Приготовиться :ref:`action--Ready`
 	Seek: Поиск :ref:`action--Seek`
-	Maneuver in Flight: Маневрирование в полете
+	Maneuver in Flight: Маневрирование в полете :ref:`skill--Acrobatics--Maneuver-in-Flight`
 	Arrest a Fall: Остановить Падение
 	Take Cover: Укрыться :ref:`action--Take-Cover`
 	Stride: Перемещение :ref:`action--Stride`
