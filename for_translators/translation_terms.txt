@@ -451,9 +451,9 @@ willing: готовый / готовность
 weakness: слабость
 weather:
 	cold: холод
-		severe: сильный
-		extreme: экстремальный
 		incredible: невероятный
+		extreme: экстремальный
+		severe: сильный
 	heat: жара
 weapon's critical specialization effect: критический эффект специализации оружия
 weapons:
