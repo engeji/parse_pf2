@@ -26,7 +26,6 @@ actions:
 	Grab an Edge: Схватиться за Уступ :ref:`action--Grab-an-Edge`
 	Crawl: Ползти :ref:`action--Crawl`
 	Mount: Оседлать
-	Sense the Motive: Понять Намерение
 	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
 	Decipher Writing: Расшифровка Писаний :ref:`activity--gen--Decipher-Writing`
 	Earn Income: Заработать деньги :ref:`expl-activity--Earn-Income`
@@ -327,7 +326,7 @@ Skill: Навык
 		Perform: Выступать
 	Society: Общество
 		Create Forgery: Создать подделку
-		Subsist: Проживание
+		Subsist: Проживание :ref:`downtime--Subsist`
 	Stealth: скрытность
 		Avoid Notice: Избежать Обнаружения
 		Conceal an Object: Скрыть предмет :ref:`skill--Stealth--Conceal-an-Object`
@@ -343,7 +342,7 @@ Skill: Навык
 	Survival: Выживание
 		Cover Tracks: Заметать Следы :ref:`skill--Survival--Cover-Tracks`
 		Track: Выслеживание :ref:`skill--Survival--Track`
-		Sense Direction: Понять Направление
+		Sense Direction: Понять Направление :ref:`skill--Survival--Sense-Direction`
 	Thievery: Воровство
 		Palm an Object: Ловкость рук
 		Steal: Украсть
@@ -389,6 +388,9 @@ Titles:
 	Mauxi: Маушиец
 	Tian-Dan: Тянь-Дань
 	Tian-Yae: Тянь-Йэ
+	Mualijae: Муалижэец
+	Ilverani: Илверанец
+	Vourinoi: Вуринуа
 	Irrisen: Иррисен
 	Thassilon: Тассилон
 	Padishah Empire: Падишахская империя
