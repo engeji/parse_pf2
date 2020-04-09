@@ -133,6 +133,7 @@ Creature: существо
 	dragon
 		brass: латунный
 		copper: медный
+	alghollthu: альголлус
 
 counteract: Противодействие :ref:`ch9--Counteracting`
 Currency: Деньги
@@ -391,6 +392,7 @@ Titles:
 	Mualijae: Муалижэец
 	Ilverani: Илверанец
 	Vourinoi: Вуринуа
+	Spiresworn elf: Присягнувший шпилю эльф
 	Irrisen: Иррисен
 	Thassilon: Тассилон
 	Padishah Empire: Падишахская империя
