@@ -47,7 +47,6 @@ animal companion: животное компаньон
 atone ritual: ритуал искупления
 attack roll: атака
 Attack of Opportunity: Возможность для Атаки :ref:`class-feature--fighter--Attack-Of-Opportunity`
-apex item: наивысший предмет
 area: область
 	area of effect: область действия (эффекта)
 	area effect: эффект по области
@@ -211,6 +210,14 @@ items: предметы
 		Replacement picks: запасные отмычки
 	Infiltrator thieves' tools: инструменты взломщика
 		Infiltrator picks: отмычки взломщика
+	apex item: наивысший предмет
+	changing:
+		draw: достать
+		stow: сложить (куда-либо)
+		strapped: пристегнутый
+		retrieve: извлечь (рюкзак, мешок)
+		wield: владение; экипировать; использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
+		wearing: ношение; носить (одетым)
 
 Languages: языки
 	Taldane: Талдэйн (всеобщий язык)
@@ -450,7 +457,6 @@ the Pit: Преисподняя
 
 unarmored: без брони
 
-wield (что-либо): экипировать; использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
 willing: готовый / готовность
 weakness: слабость
 weather:
