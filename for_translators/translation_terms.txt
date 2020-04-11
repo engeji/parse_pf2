@@ -53,6 +53,9 @@ area: область
 artifacts?
 	rod of cancellation: жезл отмены
 	sphere of annihilation: сфера аннигиляции
+Armor: доспех (когда речь о предмете, комплекте доспехов)
+	unarmored: без брони
+	Half-plate: полулатный
 
 Background: Предыстория
 Basic Action: основное действие
@@ -211,13 +214,15 @@ items: предметы
 	Infiltrator thieves' tools: инструменты взломщика
 		Infiltrator picks: отмычки взломщика
 	apex item: наивысший предмет
-	changing:
+	shoddy: низкокачественный
+	действия с предметами:
 		draw: достать
 		stow: сложить (куда-либо)
 		strapped: пристегнутый
 		retrieve: извлечь (рюкзак, мешок)
 		wield: владение; экипировать; использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
 		wearing: ношение; носить (одетым)
+		donning: одевание (доспеха)
 
 Languages: языки
 	Taldane: Талдэйн (всеобщий язык)
@@ -293,7 +298,6 @@ rune: руна
 		unholy: нечестивая
 
 saving throw: испытание
-shoddy: низкокачественный
 Skill: Навык
 	Arcana: Мистика
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
@@ -454,8 +458,6 @@ trait: признак / особенность
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 the Pit: Преисподняя
-
-unarmored: без брони
 
 willing: готовый / готовность
 weakness: слабость
