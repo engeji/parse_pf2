@@ -206,7 +206,7 @@ hit point: очко здоровья
 immunity: иммунитет
 initiative order: порядок инициативы
 intelligent (о существе): разумный
-invest: одевать (invest an item, invest a magic item)
+invest: вкладывать, вкладываемый, (invest a magic item)
 items: предметы
 	healer's tools: набор лекаря
 	Thieves' tools: инструменты вора
