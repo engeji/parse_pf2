@@ -304,14 +304,15 @@
 
 
 
+.. _ch6--Armor-Statistics:
 
-Показатели доспехов (Armor Statistics)
+Характеристики доспехов (Armor Statistics)
 --------------------------------------------------------------------------------
 
-:ref:`table--6-3` дает показатели для различных форм защиты без доспехов.
+:ref:`table--6-3` показывает характеристики для различных форм защиты без доспехов.
 
-:ref:`table--6-4-1`, :ref:`table--6-4-2` и :ref:`table--6-4-3` предоставляет показатели комплектов доспехов, которые можно купить и одеть, разделенных по категориям.
-Колонки в обоих таблицах дают следующие показатели.
+:ref:`table--6-4-1`, :ref:`table--6-4-2` и :ref:`table--6-4-3` предоставляет характеристики комплектов доспехов, которые можно купить и одеть, разделенных по категориям.
+Колонки в обоих таблицах указывают следующие характеристики.
 
 
 Категория (Category)
@@ -541,7 +542,7 @@
 
 
 
-Урон доспехам
+Урон доспехам (Damaging Armor)
 --------------------------------------------------------------------------------
 
 Показатели вашего доспеха основаны на материале, из которого он преимущественно изготовлен.
@@ -566,118 +567,125 @@
 
 
 
+
+
+
+
 .. rst-class:: equip-subchap
 
-Shields
-=================
+Щиты (Shields)
+=========================================================================================
 
 .. epigraph::
 	
-	*A shield can increase your character’s defense beyond the protection their armor provides.
-	Your character must be wielding a shield in one hand to make use of it, and it grants its
-	bonus to AC only if they use an action to Raise a Shield. This action grants the shield’s bonus
-	to AC as a circumstance bonus until their next turn starts. A shield’s Speed penalty applies
-	whenever your character is holding the shield, whether they have raised it or not.*
+	*Щит может увеличить защиту вашего персонажа сверх той защиты, которую обеспечивает его доспех.
+	Ваш персонаж должен экипировать щит в одну руку чтобы использовать его, и он дает бонус КБ только при использовании действие "Поднять щит".
+	Это действие добавляет бонус щита к КБ, как бонус обстоятельства, до начала следующего хода.
+	Штраф Скорости щита применяется всегда когда ваш персонаж держит щит, независимо от того, поднят он или нет.*
 
 --------------------------------------------
 
 
-Raise a Shield is the action most commonly used with
-shields. Most shields must be held in one hand, so you
-can’t hold anything with that hand and Raise a Shield. A
-buckler, however, doesn’t take up your hand, so you can
-Raise a Shield with a buckler if the hand is free (or, at
-the GM’s discretion, if it’s holding a simple, lightweight
-object that’s not a weapon). You lose the benefits of Raise
-a Shield if that hand is no longer free.
+:ref:`action--Raise-a-Shield` это действие наиболее часто используемое с щитами.
+Большинство щитов должны удерживаться в одной руке, так что вы не можете держать что-то еще этой рукой и использовать "Поднять щит".
+Однако, баклер не занимает вашу руку, так что вы можете использовать :ref:`action--Raise-a-Shield` с баклером если рука свободна (или на усмотрение Мастера, если держите простой, легкий объект, который не является оружием).
+Вы теряете преимущества действия "Поднять щит", если эта рука больше не свободна.
 
-When you have a tower shield raised, you can use the
-Take Cover action (page 471) to increase the circumstance
-bonus to AC to +4. This lasts until the shield is no longer
-raised. If you would normally provide lesser cover against
-an attack, having your tower shield raised provides
-standard cover against it (and other creatures can Take
-Cover as normal using the cover from your shield).
+Когда вы поднимаете башенный щит, то можете использовать действие :ref:`action--Take-Cover` чтобы увеличить бонус обстоятельства к КБ до +4.
+Это длится пока щит поднят.
+Если вы обычно даете небольшое укрытие от атаки, имея поднятый башенный щит, вы даете обычное укрытие (и другие существа могут :ref:`action--Take-Cover` как обычно, используя укрытие вашего щита).
 
-If you have access to the Shield Block reaction (from
-your class or from a feat), you can use it while Raising
-your Shield to reduce the damage you take by an amount
-equal to the shield’s Hardness. Both you and the shield
-then take any remaining damage.
-
-
-Shield Statistics
---------------------
-
-Shields have statistics that follow the same rules as armor:
-Price, Speed Penalty, and Bulk. See page 274 for the rules
-for those statistics. Their other statistics are described here.
-
-AC Bonus
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-A shield grants a circumstance bonus to AC, but only
-when the shield is raised. This requires using the Raise a
-Shield action, found on page 472.
-
-Hardness
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Whenever a shield takes damage, the amount of damage it
-takes is reduced by this amount. This number is particularly
-relevant for shields because of the Shield Block feat
-(page 266). The rules for Hardness appear on page 272.
-
-HP (BT)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-This column lists the shield’s Hit Points (HP) and Broken
-Threshold (BT). These measure how much damage the
-shield can take before it’s destroyed (its total HP) and how
-much it can take before being broken and unusable (its BT).
-These matter primarily for the Shield Block reaction.
-
-
-Attacking with a Shield
---------------------------
-
-A shield can be used as a martial weapon for attacks,
-using the statistics listed for a shield bash on Table 6–7:
-Melee Weapons (page 280). The shield bash is an option
-only for shields that weren’t designed to be used as
-weapons. A shield can’t have runes added to it. You can
-also buy and attach a shield boss or shield spikes to a
-shield to make it a more practical weapon. These can be
-found on Table 6–7. These work like other weapons and
-can even be etched with runes.
-
-
-Shield Descriptions
----------------------
-
-Each type of shield is described in more detail below.
-
-**Buckler**: This very small shield is a favorite of duelists
-and quick, lightly armored warriors. It’s typically made of
-steel and strapped to your forearm. You can Raise a Shield
-with your buckler as long as you have that hand free or
-are holding a light object that’s not a weapon in that hand.
-
-**Wooden Shield**: Though they come in a variety of shapes
-and sizes, the protection offered by wooden shields comes
-from the stoutness of their materials. While wooden shields
-are less expensive than steel shields, they break more easily.
-
-**Steel Shield**: Like wooden shields, steel shields come
-in a variety of shapes and sizes. Though more expensive
-than wooden shields, they are much more durable.
-
-**Tower Shield**: These massive shields can be used to
-provide cover to nearly the entire body. Due to their size,
-they are typically made of wood reinforced with metal.
+Если у вас есть реакция :ref:`feat--Shield-Block` (от вашего класса или способности), вы можете использовать ее пока ваш щит поднят, чтобы снизить получаемый урон на значение Твердости щита.
+Вы и щит получаете любой оставшийся урон.
 
 
 
-< ... >
+Характеристики щита (Shield Statistics)
+--------------------------------------------------------------------------------
+
+Щиты имеют характеристики, которые следуют тем же правилам, что и доспехи: Цена, Штраф Скорости и Масса.
+Смотрите их описание в разделе :ref:`ch6--Armor-Statistics`.
+Другие характеристики щитов описаны далее.
+
+
+Бонус КБ (AC Bonus)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Щит дает бонус обстоятельства к КБ, но только когда поднят.
+Это требует использования действия :ref:`action--Raise-a-Shield`.
+
+
+Твердость (Hardness)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Всякий раз, когда щит получает урон, количество урона снижается на это значение.
+Эта величина важна для щитов, в особенности, из-за способности :ref:`feat--Shield-Block`.
+Правила о Твердости описаны в разделе :ref:`ch6--Item-Damage`.
+
+
+ОЗ (ПП) (HP (BT))
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Эта колонка перечисляет Очки Здоровья (ОЗ) щита и его Предел Поломки (ПП).
+Они измеряют сколько урона может выдержать щит, до того, как будет уничтожен (его полные ОЗ) и до того как станет сломанным, и им будет невозможно пользоваться (его ПП).
+Это важно в основном для реакции :ref:`feat--Shield-Block`.
+
+
+.. _table--6-5:
+
+.. table:: Таблица 6-5: Щиты
+
+	+------------+-------+-------------------+----------------+-------+-----------+---------+
+	|    Щит     |  Цена | Бонус КБ :sup:`1` | Штраф Скорости | Масса | Твердость | ОЗ (ПП) |
+	+============+=======+===================+================+=======+===========+=========+
+	| Баклер     | 1 зм  | +1                | —              | Л     |         3 | 6 (3)   |
+	+------------+-------+-------------------+----------------+-------+-----------+---------+
+	| Деревянный | 1 зм  | +2                | —              | 1     |         3 | 12 (6)  |
+	+------------+-------+-------------------+----------------+-------+-----------+---------+
+	| Стальной   | 2 зм  | +2                | —              | 1     |         5 | 20 (10) |
+	+------------+-------+-------------------+----------------+-------+-----------+---------+
+	| Башенный   | 10 зм | +2 / +4 :sup:`2`  | -5 футов       | 4     |         5 | 20 (10) |
+	+------------+-------+-------------------+----------------+-------+-----------+---------+
+
+**1**: Получение бонуса обстоятельства щита к КБ требует использовать действие :ref:`action--Raise-a-Shield`.
+
+**2**: Получение большего бонуса от башенного щита требует использовать действие :ref:`action--Take-Cover` когда поднят щит.
+
+
+
+
+Атака щитом (Attacking with a Shield)
+--------------------------------------------------------------------------------
+
+Щит может быть использован как воинское оружие для атаки, используя характеристики перечисленные для удара щитом в таблице 6-7 (TODO ссылка).
+Удар щитом это опция только для щитов, которые не были сделаны для использования как оружие.
+Щит не может иметь руны.
+Вы так же можете купить и присоединить умбон или шипы для щита, чтобы сделать его более практичным оружием.
+Они работают как другое оружие и даже могут быть гравированы рунами.
+
+
+
+
+Описание щитов (Shield Descriptions)
+--------------------------------------------------------------------------------
+
+Каждый вид щита описан далее более детально.
+
+
+**Баклер (Buckler)**: Этот очень маленький щит - полюбился дуэлянтам и быстрым, легко бронированным воинам.
+Он обычно изготовлен из стали и пристегивается к вашему предплечью.
+Вы можете использовать :ref:`action--Raise-a-Shield` с баклером пока эта рука свободна или вы держите в ней легкий предмет, который не является оружием.
+
+**Деревянный (Wooden Shield)**: Хотя они бывают разных форм и размеров, защита, которую предлагают деревянные щиты, основана на прочности их материалов.
+В то время, как деревянные щиты дешевле стальных, они легче ломаются.
+
+**Стальной щит (Steel Shield)**: Как и деревянные щиты, стальные изготавливаются разных форм и размеров.
+Хоть и дороже, чем деревянные, они гораздо более прочные.
+
+**Башенный (Tower Shield)**: Эти массивные щиты могу быть использованы, чтобы дать укрытие почти все тело.
+Из-за их размера, они обычно делаются из дерева усиленного металом.
+
+
 
 
 

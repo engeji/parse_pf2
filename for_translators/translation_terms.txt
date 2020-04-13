@@ -484,3 +484,4 @@ weapons:
 	greatsword: двуручный меч
 	starknife: нож-звезда
 	warhammer: боевой молот
+	shield boss: умбон
