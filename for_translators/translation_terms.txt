@@ -144,7 +144,7 @@ Currency: Деньги
 	sp: см / серебряная монета
 	cp: мм / медная монета
 
-damage: повреждение(я)
+damage: урон
 darkvision: ночное зрение
 	Greater Darkvision: Сильное ночное зрение
 DC / difficulty class: класс сложности
@@ -220,7 +220,7 @@ items: предметы
 		stow: сложить (куда-либо)
 		strapped: пристегнутый
 		retrieve: извлечь (рюкзак, мешок)
-		wield: владение; экипировать; использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
+		wield: владение; экипировать; использовать что-либо; носить доспех/кольцо; предмет готов к использованию.
 		wearing: ношение; носить (одетым)
 		donning: одевание (доспеха)
 
@@ -285,6 +285,8 @@ reach: досягаемость
 remove disease: вылечить болезнь
 rune: руна
 	striking rune: разящая руна
+		greater: большая
+		major: старшая
 	potency rune +1/2/3: руна мощи +1/2/3
 	property rune: руна свойства
 		disrupting: разрушающая
@@ -417,7 +419,7 @@ trait: признак / особенность
 		backswing: обратный замах
 		backstabber: предательское
 		forceful: силовое
-		reach: досягаемость
+		reach: длинное
 		volley: залповое
 		trip: опрокидывание
 		two-hand: двуручное
@@ -430,7 +432,10 @@ trait: признак / особенность
 		disarm: разоружение
 		nonlethal: несмертельное
 		shove: толчок
-		bull rush: 
+		bull rush: ------------ TODO
+		jousting: турнирное
+		free-hand: свободная рука
+		tethered: привязанное
 	остальные:
 		visual: визуальный
 		auditory: слуховой
@@ -478,6 +483,7 @@ weapons:
 	morningstar: моргенштерн
 	javelin: метательное копье
 	glaive: глефа
+	Halberd: алебарда
 	dogslicer: собачий тесак
 	horsechopper: лошадиный тесак
 	breath weapon: атака дыханием / дыхание
@@ -485,3 +491,19 @@ weapons:
 	starknife: нож-звезда
 	warhammer: боевой молот
 	shield boss: умбон
+	ranseur: рунка
+	Battle axe: боевой топор
+	Clan dagger: клановый кинжал
+	Bastard sword: меч-бастард
+	Greatpick: двуручный клевец
+	Orc knuckle dagger: Орочий кинжал-кастет
+	bola: бола
+	Meteor hammer: Молот-метеор
+	War razor: боевая бритва
+	Bladed scarf: шарф с клинками
+	Fighting fan: боевой веер
+	Khopesh: хопеш
+	Mambele: Молния
+	Nine-ring sword: меч девяти колец
+	polytool: мультитул
+	Tekko-kagi: сюко
