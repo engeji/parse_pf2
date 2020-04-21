@@ -161,6 +161,7 @@ Deity: Божество
 	Norgorber: Норгорбер
 	Urgathoa: Ургатоа
 	Zon-Kuthon: Зон-Кутон
+	Casandalee: Касандали
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
@@ -412,6 +413,7 @@ Titles:
 	Nidal: Нидал (произносится Ньидол)
 	Lirgen: Лирген
 	Shory: Шори
+	Crimson Reclaimers: Багровые восстановители
 trait: признак / особенность
 	оружие:
 		agile: быстрое
@@ -492,10 +494,12 @@ weapons:
 	warhammer: боевой молот
 	shield boss: умбон
 	ranseur: рунка
+	Sawtooth Saber: Зазубренная сабля
 	Battle axe: боевой топор
 	Clan dagger: клановый кинжал
 	Bastard sword: меч-бастард
 	Greatpick: двуручный клевец
+	Guisarme: Гвизарма
 	Orc knuckle dagger: Орочий кинжал-кастет
 	bola: бола
 	Meteor hammer: Молот-метеор
