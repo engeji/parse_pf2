@@ -47,13 +47,15 @@ animal companion: животное компаньон
 atone ritual: ритуал искупления
 attack roll: атака
 Attack of Opportunity: Возможность для Атаки :ref:`class-feature--fighter--Attack-Of-Opportunity`
-apex item: наивысший предмет
 area: область
 	area of effect: область действия (эффекта)
 	area effect: эффект по области
 artifacts?
 	rod of cancellation: жезл отмены
 	sphere of annihilation: сфера аннигиляции
+Armor: доспех (когда речь о предмете, комплекте доспехов)
+	unarmored: без брони
+	Half-plate: полулатный
 
 Background: Предыстория
 Basic Action: основное действие
@@ -142,7 +144,7 @@ Currency: Деньги
 	sp: см / серебряная монета
 	cp: мм / медная монета
 
-damage: повреждение(я)
+damage: урон
 darkvision: ночное зрение
 	Greater Darkvision: Сильное ночное зрение
 DC / difficulty class: класс сложности
@@ -159,6 +161,7 @@ Deity: Божество
 	Norgorber: Норгорбер
 	Urgathoa: Ургатоа
 	Zon-Kuthon: Зон-Кутон
+	Casandalee: Касандали
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
@@ -204,13 +207,23 @@ hit point: очко здоровья
 immunity: иммунитет
 initiative order: порядок инициативы
 intelligent (о существе): разумный
-invest: одевать (invest an item, invest a magic item)
+invest: вкладывать, вкладываемый, (invest a magic item)
 items: предметы
 	healer's tools: набор лекаря
 	Thieves' tools: инструменты вора
 		Replacement picks: запасные отмычки
 	Infiltrator thieves' tools: инструменты взломщика
 		Infiltrator picks: отмычки взломщика
+	apex item: наивысший предмет
+	shoddy: низкокачественный
+	действия с предметами:
+		draw: достать
+		stow: сложить (куда-либо)
+		strapped: пристегнутый
+		retrieve: извлечь (рюкзак, мешок)
+		wield: владение; экипировать; использовать что-либо; носить доспех/кольцо; предмет готов к использованию.
+		wearing: ношение; носить (одетым)
+		donning: одевание (доспеха)
 
 Languages: языки
 	Taldane: Талдэйн (всеобщий язык)
@@ -273,6 +286,8 @@ reach: досягаемость
 remove disease: вылечить болезнь
 rune: руна
 	striking rune: разящая руна
+		greater: большая
+		major: старшая
 	potency rune +1/2/3: руна мощи +1/2/3
 	property rune: руна свойства
 		disrupting: разрушающая
@@ -286,7 +301,6 @@ rune: руна
 		unholy: нечестивая
 
 saving throw: испытание
-shoddy: низкокачественный
 Skill: Навык
 	Arcana: Мистика
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
@@ -399,6 +413,7 @@ Titles:
 	Nidal: Нидал (произносится Ньидол)
 	Lirgen: Лирген
 	Shory: Шори
+	Crimson Reclaimers: Багровые восстановители
 trait: признак / особенность
 	оружие:
 		agile: быстрое
@@ -406,7 +421,7 @@ trait: признак / особенность
 		backswing: обратный замах
 		backstabber: предательское
 		forceful: силовое
-		reach: досягаемость
+		reach: длинное
 		volley: залповое
 		trip: опрокидывание
 		two-hand: двуручное
@@ -419,7 +434,10 @@ trait: признак / особенность
 		disarm: разоружение
 		nonlethal: несмертельное
 		shove: толчок
-		bull rush: 
+		bull rush: ------------ TODO
+		jousting: турнирное
+		free-hand: свободная рука
+		tethered: привязанное
 	остальные:
 		visual: визуальный
 		auditory: слуховой
@@ -448,9 +466,6 @@ Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 the Pit: Преисподняя
 
-unarmored: без брони
-
-wield (что-либо): экипировать; использовать что-либо; носить доспех/кольцо; в общем речь о владении чем-либо в данный момент
 willing: готовый / готовность
 weakness: слабость
 weather:
@@ -470,9 +485,29 @@ weapons:
 	morningstar: моргенштерн
 	javelin: метательное копье
 	glaive: глефа
+	Halberd: алебарда
 	dogslicer: собачий тесак
 	horsechopper: лошадиный тесак
 	breath weapon: атака дыханием / дыхание
 	greatsword: двуручный меч
 	starknife: нож-звезда
 	warhammer: боевой молот
+	shield boss: умбон
+	ranseur: рунка
+	Sawtooth Saber: Зазубренная сабля
+	Battle axe: боевой топор
+	Clan dagger: клановый кинжал
+	Bastard sword: меч-бастард
+	Greatpick: двуручный клевец
+	Guisarme: Гвизарма
+	Orc knuckle dagger: Орочий кинжал-кастет
+	bola: бола
+	Meteor hammer: Молот-метеор
+	War razor: боевая бритва
+	Bladed scarf: шарф с клинками
+	Fighting fan: боевой веер
+	Khopesh: хопеш
+	Mambele: Молния
+	Nine-ring sword: меч девяти колец
+	polytool: мультитул
+	Tekko-kagi: сюко
