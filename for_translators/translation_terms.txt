@@ -209,11 +209,69 @@ initiative order: порядок инициативы
 intelligent (о существе): разумный
 invest: вкладывать, вкладываемый, (invest a magic item)
 items: предметы
+	Adventurer's Pack: Набор авантюриста
+	Alchemist's Lab: Лаборатория алхимика
+		Expanded Alch.Lab: Расширенная лаборатория алхимика
+	Artisan's Tools: Инструменты ремесленника
+		Sterling Artisan's : Полноценные инструменты ремесленника
+	Backpack: Рюкзак
+	Bandolier: Бандольер
+	Basic Crafter's Book: Простая книга ремесленника
+	Bedroll: Спальный мешок
+	Belt Pouch: Поясная сумка
+	Caltrops: Чеснок
+	Climbing Kit: Набор верхолаза
+		Extreme Climbing Kit: Улучшенный набор верхолаза
+	Clothing: одежда
+		Ordinary: Обычная
+		Fine: Красивая
+		High-fashion fine: модная
+		winter: зимняя
+	Lensatic Compass: Линзовый компас
+	Cookware: Кухонная утварь
+	Disguise kit: Маскировочный набор
+	Fishing Tackle: Рыболовная снасть
+	Flint and Steel: Огниво
+	Formula Book: Книга рецептов
+	Grappling hook: Крюк-кошка
 	healer's tools: набор лекаря
+		Expanded Healer's Tools: Расширенный набор лекаря
+	Holly and Mistletoe: остролист и омела
+	Lantern: фонарь
+		Hooded: Закрывающийся
+		Bull's-eye: С линзой
+	Lock: замОк
+		Poor: Ненадежный
+		Simple: Простой
+		Average: Обычный
+		Good: Хороший
+		Superior: Отличный 
+	Material component pouch: Сумка с материальными компонентами
+	Musical instrument: музыкальный инструмент
+		Virtuoso: Виртуозный
+	Piton: Альпинистский кол
+	Religious symbol: Религиозный символ
+	Religious text: Религиозное писание
+	Repair kit: Набор для ремонта
+		Superb: отличный
+	Sack: мешок
+	Saddlebags: Седельные сумки
+	Satchel: Сумка
+	Sheath: ножны
+	Scroll case: футляр для свитков
+	Spyglass: подзорная труба
+	Tack: сбруя
 	Thieves' tools: инструменты вора
-		Replacement picks: запасные отмычки
+		Replacement picks: отмычки вора
 	Infiltrator thieves' tools: инструменты взломщика
 		Infiltrator picks: отмычки взломщика
+	Vial: бутылек
+	Waterskin: бурдюк
+	Writing set: Письменный набор
+	Scholarly journal: научный журнал
+		compendium: сборник
+	Survey map: обзорная карта
+		atlas: атлас
 	apex item: наивысший предмет
 	shoddy: низкокачественный
 	действия с предметами:
