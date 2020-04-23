@@ -1,4 +1,4 @@
-.. _rst--ch6--equipment:
+.. _ch6--Equipment:
 
 ***************************************************************************************
 6. Снаряжение (Equipment)
@@ -2895,19 +2895,55 @@
 
 
 
-Набор авантюриста (`Adventurer's Pack <https://2e.aonprd.com/Equipment.aspx?ID=1>`_)
+Описание снаряжения для приключений (Adventuring gear description)
+------------------------------------------------------------------------------------
+
+.. _item--Adventurers-Pack:
+
+Набор авантюриста (`Adventurer`s Pack <https://2e.aonprd.com/Equipment.aspx?ID=1>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This item is the starter kit for an
-adventurer, containing the essential items for exploration
-and survival. The Bulk value is for the entire pack together,
-but see the descriptions of individual items as necessary.
-The pack contains the following items: backpack
-(containing the other goods), bedroll, two belt pouches,
-10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’
-rations, soap, 5 torches, and a waterskin.
+Этот предмет начальный набор для авантюриста, содержащий необходимые предметы для исследования и выживания.
+Значение Массы указано для всего комплекта, но при необходимости, смотрите описание отдельных предметов.
 
-< ... >
+Комплект содержит следующие предметы: :ref:`item--Backpack` (содержащий остальные вещи), :ref:`item--Bedroll`, два :ref:`item--Belt-Pouch`, 10 кусочков :ref:`item--Chalk`, :ref:`item--Flint-Steel`, :ref:`item--Rope`, :ref:`item--Rations` на 2 недели, :ref:`item--Soap`, 5 :ref:`item--Torch` и :ref:`item--Waterskin`.
+
+
+.. _item--Alchemists-Tools:
+
+Набор алхимика (`Alchemist`s tools <https://2e.aonprd.com/Equipment.aspx?ID=2>`_)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Это переносной набор пробирок и химикатов, который можно использовать для простых алхимических задач.
+
+.. versionchanged:: /errata-r1
+	Заменено изначальное описание и назначение, из-за добавления лаборатории.
+
+
+.. _item--Alchemists-Lab:
+
+Лаборатория алхимика (`Alchemist`s lab <https://2e.aonprd.com/Equipment.aspx?ID=543>`_)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Вам требуется "Лаборатория алхимика" чтобы :ref:`skill--Crafting--Craft` алхимические предметы во время отдыха.
+
+"Расширенная лаборатория алхимика" (Expanded Alchemist's Lab) дает бонус предмета +1 к проверке Ремесла при создании алхимических предметов.
+
+.. versionadded:: /errata-r1
+	Предмет добавлен.
+
+
+
+
+
+<...>
+
+
+
+
+
+
+
 
 
 Class Kits
