@@ -15,13 +15,13 @@ Pathfinder 2 Core Rulebook
    skills
    feats
    equipment
-   equipment_descr
    spells
    the_age_of_lost_omens
    playing_the_game
    game_mastering
    crafting_and_treasure
    appendix_conditions
+   equipment_description
 
 
 
