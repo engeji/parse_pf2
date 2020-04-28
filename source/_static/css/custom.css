@@ -210,6 +210,14 @@ div.section > p {
 	padding: 0.3em 0.5em;
 }
 
+.rst-content table.docutils td p {
+	margin-bottom: 0.1em;
+}
+
+.rst-content table.docutils td:nth-child(1) p:not(:first-child) {
+	text-indent: 1em;
+}
+
 .rst-content table.docutils td div.line-block {
 	line-height: 1.4em;
 	margin-bottom: 0;
@@ -372,7 +380,7 @@ div.versionadded {
 
 div.versionchanged p,
 div.versionadded p {
-	margin-bottom: 0.2em;
+	margin-bottom: 0em;
 }
 
 div.versionchanged span.versionmodified,

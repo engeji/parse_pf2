@@ -21,6 +21,7 @@ Pathfinder 2 Core Rulebook
    game_mastering
    crafting_and_treasure
    appendix_conditions
+   equipment_description
 
 
 
