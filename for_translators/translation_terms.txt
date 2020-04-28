@@ -272,6 +272,18 @@ items: предметы
 		compendium: сборник
 	Survey map: обзорная карта
 		atlas: атлас
+	potion: зелье
+		minor: слабое
+		lesser: малое
+		moderate: среднее
+		greater: большое
+		major: сильное
+	antidote: противоядие
+	antiplague: лекарство
+	smokestick: дымовая шашка
+	sunrod: солнечный жезл
+	tinderwig: спичка
+	Potency crystal: кристалл мощи
 	apex item: наивысший предмет
 	shoddy: низкокачественный
 	действия с предметами:
@@ -282,6 +294,7 @@ items: предметы
 		wield: владение; экипировать; использовать что-либо; носить доспех/кольцо; предмет готов к использованию.
 		wearing: ношение; носить (одетым)
 		donning: одевание (доспеха)
+		affix: прикрепить (талисман)
 
 Languages: языки
 	Taldane: Талдэйн (всеобщий язык)
@@ -406,10 +419,10 @@ Skill: Навык
 		Hide: Спрятаться :ref:`skill--Stealth--Hide`
 		Sneak: Красться :ref:`skill--Stealth--Sneak`
 	Medicine: Медицина
-		Administer First Aid: Первая Помощь
+		Administer First Aid: Первая Помощь :ref:`skill--Medicine--First-Aid`
 		Treat Wounds: Лечение Ран :ref:`skill--Medicine--Treat-Wounds`
-		Treat Disease: Лечение Болезни
-		Treat Poison: Лечение от яда
+		Treat Disease: Лечение Болезни :ref:`skill--Medicine--Treat-Disease`
+		Treat Poison: Лечение от яда :ref:`skill--Medicine--Treat-Poison`
 	Nature: Природа
 		Command an Animal: Приказать Животному :ref:`skill--Nature--Command-an-Animal`
 	Survival: Выживание

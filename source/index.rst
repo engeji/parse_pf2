@@ -15,6 +15,7 @@ Pathfinder 2 Core Rulebook
    skills
    feats
    equipment
+   equipment_descr
    spells
    the_age_of_lost_omens
    playing_the_game
