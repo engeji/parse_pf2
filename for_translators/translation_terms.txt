@@ -294,6 +294,8 @@ items: предметы
 	wondrous figurine: чудесная статуэтка
 	runestone: рунный камень
 	Feather token: перо-символ
+	Wayfinder: путеводный компас
+	low-grade: низкопробный
 	held item: удерживаемый предмет
 	apex item: наивысший предмет
 	shoddy: низкокачественный
