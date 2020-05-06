@@ -41,6 +41,7 @@ actions:
 	Activate an Item: Активировать предмет :ref:`activity--Activate-An-Item`
 	Invest An Item: Инвестировать предмет :ref:`activity--Invest-An-Item`
 	Sustain an Activation: Поддержание активации :ref:`action--Sustain-an-Activation`
+	Affix a Talisman: Прикрепить талисман :ref:`activity--Affix-a-Talisman`
 advanced alchemy: продвинутая алхимия
 Affliction: недуг
 alignment: мировоззрение
@@ -280,6 +281,7 @@ items: предметы
 		moderate: среднее
 		greater: большое
 		major: сильное
+		true: истинный
 	antidote: противоядие
 	antiplague: лекарство
 	smokestick: дымовая шашка
@@ -293,8 +295,10 @@ items: предметы
 	aeon stone: камень вечности
 	wondrous figurine: чудесная статуэтка
 	runestone: рунный камень
+	snare: силок
 	Feather token: перо-символ
 	Wayfinder: путеводный компас
+	beacon shot: стрела/болт-маячок
 	low-grade: низкопробный
 	held item: удерживаемый предмет
 	apex item: наивысший предмет
@@ -371,6 +375,7 @@ range: дистанция
 reach: досягаемость
 remove disease: вылечить болезнь
 rune: руна
+	fundamental: основная
 	striking rune: разящая руна
 		greater: большая
 		major: старшая
@@ -461,12 +466,14 @@ spell: заклинание
 	spell slots: слоты заклинаний
 	spells heightening: усиление заклинаний
 	signature spell: коронное заклинание (у спонтанных колдунов)
-spell component: компонент заклинания
+component: компонент
 	material: материальный
 	somatic: жестовый
 	verbal: словесный
-	focus: 
-spellcasting: колдовство / произнесение заклинания
+	focus: фокусировка
+	command: команда
+	envision: вообразить
+spellcasting: колдовство / сотворение заклинания
 	spellcasting ability modifier: модификатор характеристики колдовства (TODO перевод)
 	tradition: обычай
 		arcane: мистический
@@ -553,6 +560,8 @@ trait: признак / особенность
 		curse: проклятие
 		invested: инвестируемый
 		magical: магический
+		snare: силок
+		trap: ловушка
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 the Pit: Преисподняя
