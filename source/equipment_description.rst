@@ -1,3 +1,4 @@
+.. rst-class:: gear-description
 
 .. _Adventuring-gear-description:
 

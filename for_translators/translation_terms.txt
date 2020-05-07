@@ -300,6 +300,8 @@ items: предметы
 	Wayfinder: путеводный компас
 	beacon shot: стрела/болт-маячок
 	low-grade: низкопробный
+	standard-grade: стандартный
+	high-grade: высококачественный
 	held item: удерживаемый предмет
 	apex item: наивысший предмет
 	shoddy: низкокачественный
@@ -346,6 +348,8 @@ magic school: школа магии
 Magic Missile: Волшебная стрела
 Maker of Miracles: Чудотворец
 martial: воинский
+materials:
+	darkwood: сумеречное дерево
 meld into stone: слияние с камнем
 mindless: неразумный
 minion: миньон
