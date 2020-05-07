@@ -8,7 +8,7 @@ activity: активность
 actions:
 	Interact: Взаимодействовать :ref:`action--Interact`
 	Strike: Удар :ref:`action--Strike`
-	Cast a Spell: Использование заклинания :ref:`action--Cast-a-Spell`
+	Cast a Spell: Сотворение заклинания :ref:`action--Cast-a-Spell`
 	Sustain a Spell: Поддержание заклинания :ref:`action--Sustain-a-Spell`
 	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
 	Refocus: Сфокусироваться :ref:`action--Refocus`
@@ -20,10 +20,10 @@ actions:
 	Arrest a Fall: Остановить Падение
 	Take Cover: Укрыться :ref:`action--Take-Cover`
 	Stride: Перемещение :ref:`action--Stride`
-	Step: Шаг (короткий, НЕ провоцирует AoO) :ref:`action--Step`
+	Step: Шаг :ref:`action--Step`
 	Stand: Встать :ref:`action--Stand`
 	Escape: Вырваться :ref:`action--Escape`
-	Grab an Edge: Схватиться за Уступ :ref:`action--Grab-an-Edge`
+	Grab an Edge: Схватиться за уступ :ref:`action--Grab-an-Edge`
 	Crawl: Ползти :ref:`action--Crawl`
 	Mount: Оседлать
 	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
@@ -38,6 +38,10 @@ actions:
 	Fly: Лететь :ref:`action--Fly`
 	Burrow: Рыть :ref:`action--Burrow`
 	Sense Motive: Понять намерения :ref:`action--Sense-Motive`
+	Activate an Item: Активировать предмет :ref:`activity--Activate-An-Item`
+	Invest An Item: Инвестировать предмет :ref:`activity--Invest-An-Item`
+	Sustain an Activation: Поддержание активации :ref:`action--Sustain-an-Activation`
+	Affix a Talisman: Прикрепить талисман :ref:`activity--Affix-a-Talisman`
 advanced alchemy: продвинутая алхимия
 Affliction: недуг
 alignment: мировоззрение
@@ -207,7 +211,6 @@ hit point: очко здоровья
 immunity: иммунитет
 initiative order: порядок инициативы
 intelligent (о существе): разумный
-invest: вкладывать, вкладываемый, (invest a magic item)
 items: предметы
 	Adventurer's Pack: Набор авантюриста
 	Alchemist's Lab: Лаборатория алхимика
@@ -278,12 +281,28 @@ items: предметы
 		moderate: среднее
 		greater: большое
 		major: сильное
+		true: истинный
 	antidote: противоядие
 	antiplague: лекарство
 	smokestick: дымовая шашка
 	sunrod: солнечный жезл
 	tinderwig: спичка
 	Potency crystal: кристалл мощи
+	slippers of spider climbing: паучьи башмаки
+	mail of luck: пластинчатый доспех удачи
+	everburning torch: вечный факел
+	winged boots: крылатые сапоги
+	aeon stone: камень вечности
+	wondrous figurine: чудесная статуэтка
+	runestone: рунный камень
+	snare: силок
+	Feather token: перо-символ
+	Wayfinder: путеводный компас
+	beacon shot: стрела/болт-маячок
+	low-grade: низкопробный
+	standard-grade: стандартный
+	high-grade: высококачественный
+	held item: удерживаемый предмет
 	apex item: наивысший предмет
 	shoddy: низкокачественный
 	действия с предметами:
@@ -295,6 +314,8 @@ items: предметы
 		wearing: ношение; носить (одетым)
 		donning: одевание (доспеха)
 		affix: прикрепить (талисман)
+		etched: гравирован(а) (о рунах)
+		invest: инвестировать :ref:`activity--Invest-An-Item`
 
 Languages: языки
 	Taldane: Талдэйн (всеобщий язык)
@@ -327,6 +348,8 @@ magic school: школа магии
 Magic Missile: Волшебная стрела
 Maker of Miracles: Чудотворец
 martial: воинский
+materials:
+	darkwood: сумеречное дерево
 meld into stone: слияние с камнем
 mindless: неразумный
 minion: миньон
@@ -356,11 +379,14 @@ range: дистанция
 reach: досягаемость
 remove disease: вылечить болезнь
 rune: руна
+	fundamental: основная
 	striking rune: разящая руна
 		greater: большая
 		major: старшая
 	potency rune +1/2/3: руна мощи +1/2/3
+	resilient: стойкости
 	property rune: руна свойства
+		flaming: пылающая
 		disrupting: разрушающая
 		ghost touch: призрачное касание
 		returning: возвращающаяся
@@ -436,6 +462,7 @@ Skill: Навык
 		Pick a Lock: Вскрытие замка :ref:`skill--Thievery--Pick-a-Lock`
 slashing damage: режущие повреждения
 statistic: показатель
+stat block: блок характеристик
 Stonewalker: Каменотес
 status bonus: бонус состояния
 spell: заклинание
@@ -443,12 +470,14 @@ spell: заклинание
 	spell slots: слоты заклинаний
 	spells heightening: усиление заклинаний
 	signature spell: коронное заклинание (у спонтанных колдунов)
-spell component: компонент заклинания
+component: компонент
 	material: материальный
 	somatic: жестовый
 	verbal: словесный
-	focus: 
-spellcasting: колдовство / произнесение заклинания
+	focus: фокусировка
+	command: команда
+	envision: вообразить
+spellcasting: колдовство / сотворение заклинания
 	spellcasting ability modifier: модификатор характеристики колдовства (TODO перевод)
 	tradition: обычай
 		arcane: мистический
@@ -533,6 +562,10 @@ trait: признак / особенность
 		Teleportation: телепортация
 		Flourish: размах
 		curse: проклятие
+		invested: инвестируемый
+		magical: магический
+		snare: силок
+		trap: ловушка
 Trigger: Триггер (в описании способностей)
 Tremorsense: виброчувствительность
 the Pit: Преисподняя

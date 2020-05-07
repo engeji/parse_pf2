@@ -19,7 +19,7 @@ Pathfinder 2 Core Rulebook
    the_age_of_lost_omens
    playing_the_game
    game_mastering
-   crafting_and_treasure
+   crafting_and_treasure/index
    appendix_conditions
    equipment_description
 
