@@ -405,7 +405,7 @@ Skill: Навык
 		Balance: Балансировать :ref:`skill--Acrobatics--Balance`
 		Tumble Through: Проскочить :ref:`skill--Acrobatics--Tumble-Through`
 		Maneuver in Flight: Маневрировать в полете
-		Squeeze: Протиснуться
+		Squeeze: Протиснуться :ref:`skill--Acrobatics--Squeeze`
 	Athletics: Атлетика
 		Climb: Карабкаться :ref:`skill--Athletics--Climb`
 		Force Open: Открыть Силой :ref:`skill--Athletics--Force-Open`
