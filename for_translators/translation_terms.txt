@@ -282,6 +282,7 @@ items: предметы
 		greater: большое
 		major: сильное
 		true: истинный
+		supreme: величайший
 	antidote: противоядие
 	antiplague: лекарство
 	smokestick: дымовая шашка
