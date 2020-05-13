@@ -1227,8 +1227,7 @@
 
 :ref:`spell--h--Heroism` :sup:`У` (очар.): Подстегивает внутренний героизм существа, чтобы сделать его более умелым.
 
-:ref:`spell--h--Hypercognition` (прориц.): 
-Recall massive amounts of information in an instant.
+:ref:`spell--h--Hypercognition` (прориц.): Мгновенно вспоминаете огромное количество информации.
 
 :ref:`spell--h--Hypnotic-Pattern` (иллюз.): Меняющиеся цвета ослепляют и завораживают существ.
 

@@ -499,6 +499,8 @@ div.craft-treasure-worn h1,
 div.craft-treasure-runes h1,
 div.craft-treasure-shields h1,
 div.craft-treasure-weapons h1,
+div.craft-treasure-staves h1,
+div.craft-treasure-wands h1,
 div.gm-subchap h3,
 div.game-mode h3 { 
 	box-sizing: border-box;
@@ -526,6 +528,8 @@ div.craft-treasure-worn h2,
 div.craft-treasure-runes h2,
 div.craft-treasure-shields h2,
 div.craft-treasure-weapons h2,
+div.craft-treasure-staves h2,
+div.craft-treasure-wands h2,
 div.gm-subchap h4,
 div.game-mode h4 {
 	box-sizing: border-box;
@@ -550,6 +554,8 @@ div.craft-treasure-snares h3,
 div.craft-treasure-worn h3,
 div.craft-treasure-worn div.section div.craft-treasure-worn-companion-invest h3,
 div.craft-treasure-runes h3,
+div.craft-treasure-staves h3,
+div.craft-treasure-wands h3,
 div.gm-subchap h5,
 div.game-mode h5 {
 	box-sizing: border-box;
