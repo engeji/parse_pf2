@@ -1,10 +1,10 @@
 .. include:: /helpers/roles.rst
 
 
-.. _rst--ch2--ancestries-and-backgrounds:
+.. _ch2--ancestries-and-backgrounds:
 
 ******************************
-Родословные и предыстории
+2. Родословные и предыстории
 ******************************
 
 < ... >
