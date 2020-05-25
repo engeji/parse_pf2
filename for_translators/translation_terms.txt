@@ -166,7 +166,6 @@ Deity: Божество
 	Urgathoa: Ургатоа
 	Zon-Kuthon: Зон-Кутон
 	Casandalee: Касандали
-	Green Faith: Зеленая вера
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
@@ -322,15 +321,13 @@ items: предметы
 Languages: языки
 	Taldane: Талдэйн (всеобщий язык)
 	Elven: Эльфийский
+	Celestial: Небесный (небожитель)
+	Draconic: Драконий
+	Gnoll: гнолльский
 	Gnomish: Гномий
 	Goblin: Гоблинский
-	Halfling: полуросличий
 	Orcish: Орочий
 	Sylvan: Сильван
-	Undercommon: подземный
-	Draconic: Драконий
-	Celestial: Небесный (небожитель)
-	Gnoll: гнолльский
 Locations:
 	Irrisen: Иррисен
 lesser cover: небольшое укрытие
@@ -460,8 +457,8 @@ Skill: Навык
 		Track: Выслеживание :ref:`skill--Survival--Track`
 		Sense Direction: Понять Направление :ref:`skill--Survival--Sense-Direction`
 	Thievery: Воровство
-		Palm an Object: Ловкость рук :ref:`skill--Thievery--Palm-an-Object`
-		Steal: Украсть :ref:`skill--Thievery--Steal`
+		Palm an Object: Ловкость рук
+		Steal: Украсть
 		Disable a Device: Отключение устройства :ref:`skill--Thievery--Disable-a-Device`
 		Pick a Lock: Вскрытие замка :ref:`skill--Thievery--Pick-a-Lock`
 slashing damage: режущие повреждения
@@ -518,11 +515,6 @@ Titles:
 	Lirgen: Лирген
 	Shory: Шори
 	Crimson Reclaimers: Багровые восстановители
-	Nuldrig: Налдриг
-	Darklands: Темноземье
-	Kyonin: Кьонин
-	Mwangi Expanse: Просторы Муанги
-	Nirmathas: Нирмафас
 trait: признак / особенность
 	оружие:
 		agile: быстрое

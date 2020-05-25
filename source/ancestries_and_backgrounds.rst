@@ -12,87 +12,70 @@
 
 
 .. rst-class:: ancestry
-.. _ch2--ancestry--gnome:
+.. _rst--ch2--ancestry--gnome:
 
-Гном (Gnome)
-==================================
+Гном
+=================
 
 .. include:: /ancestries/gnome.rst
 
 
 
 .. rst-class:: ancestry
-.. _ch2--ancestry--goblin:
+.. _rst--ch2--ancestry--goblin:
 
-Гоблин (Goblin)
-==================================
+Гоблин
+=================
 
 .. include:: /ancestries/goblin.rst
 
 
 
 .. rst-class:: ancestry
-.. _ch2--ancestry--dwarf:
+.. _rst--ch2--ancestry--dwarf:
 
-Дварф (Dwarf)
-==================================
+Дварф
+=================
 
 .. include:: /ancestries/dwarf.rst
 
 
 
 .. rst-class:: ancestry
-.. _ch2--ancestry--halfing:
+.. _rst--ch2--ancestry--halfing:
 
-Полурослик (Halfling)
-==================================
+Полурослик
+=================
 
 .. include:: /ancestries/halfing.rst
 
 
 
 .. rst-class:: ancestry
-.. _ch2--ancestry--human:
+.. _rst--ch2--ancestry--human:
 
 Человек
-==================================
+=================
 
 .. include:: /ancestries/human.rst
 
 
 
 .. rst-class:: ancestry
-.. _ch2--ancestry--elf:
+.. _rst--ch2--ancestry--elf:
 
 Эльф
-==================================
+=================
 
 .. include:: /ancestries/elf.rst
 
 
 
-.. rst-class:: ancestry
-.. _ch2--ancestry--leshy:
-
-Леший (Leshy)
-=================
-
-.. include:: /ancestries/leshy.rst
-
-
-
-
-
-
-
-
-
-
 .. rst-class:: backgrounds
-.. _ch2--backgrounds:
+.. _rst--ch2--backgrounds:
 
 Предыстории
-=============================================================================================================
+=================
 
 .. rst-class:: red
 .. epigraph::
@@ -154,7 +137,7 @@ or Swamp Lore). You gain the Train Animal skill feat.
 
 
 .. rst-class:: languages
-.. _ch2--languages:
+.. _rst--ch2--languages:
 
 Языки
 =================
