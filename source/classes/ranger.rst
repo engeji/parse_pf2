@@ -536,7 +536,7 @@
 - следопыт
 
 С вами путешествует молодое животное и подчиняется простым командам так хорошо как только может.
-Смотрите раздел :ref:`ch3--classes--animal-companions`
+Смотрите раздел :ref:`ch3--classes--animal-companions-familiars`
 
 Когда вы используете :ref:`class-feature--ranger--Hunt-Prey`, ваше животное получает преимущества этого действия и ваше преимущество от :ref:`class-feature--ranger--Hunters-Edge`, если оно у вас есть.
 
