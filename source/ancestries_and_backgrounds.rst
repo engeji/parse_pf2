@@ -3,79 +3,26 @@
 
 .. _ch2--ancestries-and-backgrounds:
 
-******************************
-2. Родословные и предыстории
-******************************
+*************************************************************************************************************
+2. Родословные и предыстории (Ancestries & Backgrounds)
+*************************************************************************************************************
 
 < ... >
 
 
 
-.. rst-class:: ancestry
-.. _ch2--ancestry--gnome:
-
-Гном (Gnome)
-==================================
 
 .. include:: /ancestries/gnome.rst
 
-
-
-.. rst-class:: ancestry
-.. _ch2--ancestry--goblin:
-
-Гоблин (Goblin)
-==================================
-
 .. include:: /ancestries/goblin.rst
-
-
-
-.. rst-class:: ancestry
-.. _ch2--ancestry--dwarf:
-
-Дварф (Dwarf)
-==================================
 
 .. include:: /ancestries/dwarf.rst
 
-
-
-.. rst-class:: ancestry
-.. _ch2--ancestry--halfing:
-
-Полурослик (Halfling)
-==================================
-
 .. include:: /ancestries/halfing.rst
-
-
-
-.. rst-class:: ancestry
-.. _ch2--ancestry--human:
-
-Человек
-==================================
 
 .. include:: /ancestries/human.rst
 
-
-
-.. rst-class:: ancestry
-.. _ch2--ancestry--elf:
-
-Эльф
-==================================
-
 .. include:: /ancestries/elf.rst
-
-
-
-.. rst-class:: ancestry
-.. _ch2--ancestry--leshy:
-
-Леший (Leshy)
-=================
 
 .. include:: /ancestries/leshy.rst
 
@@ -91,13 +38,18 @@
 .. rst-class:: backgrounds
 .. _ch2--backgrounds:
 
-Предыстории
+Предыстории (Backgrounds)
 =============================================================================================================
 
 .. rst-class:: red
 .. epigraph::
 	
-	*< ... >*
+	*Backgrounds allow you to customize your character based on their life before adventuring. 
+	This is the next step in their life story after their ancestry, which reflects the circumstances 
+	of their birth. Your character’s background can help you learn or portray more about their 
+	personality while also suggesting what sorts of things they’re likely to know. Consider 
+	what events set your character on their path to the life of an adventurer and how those 
+	circumstances relate to their background.*
 
 -----------------------------------------------------------------------------
 
@@ -153,11 +105,19 @@ or Swamp Lore). You gain the Train Animal skill feat.
 
 
 
+
+
+
+
+
+
 .. rst-class:: languages
 .. _ch2--languages:
 
-Языки
-=================
+Языки (Languages)
+=============================================================================================================
+
+<todo>
 
 
 
