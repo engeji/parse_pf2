@@ -469,10 +469,12 @@ div.char-class h2,
 div.animal-companions h2,
 div.class-archetypes h2,
 div.equip-subchap h2,
+div.gear-description h2,
 div.spells-focus h2,
 div.spells-rituals h2,
 div.gm-subchap h2,
 div.conditions h2,
+div.glossary h2,
 div.game-mode h2 {
 	box-sizing: border-box;
 	color: #5e0000;
@@ -491,7 +493,6 @@ div.char-class h3,
 div.animal-companions h3,
 div.class-archetypes h3,
 div.equip-subchap h3,
-div.gear-description h1,
 div.craft-treasure-alchemicalitems h1,
 div.craft-treasure-consumables h1,
 div.craft-treasure-snares h1,
@@ -506,6 +507,7 @@ div.craft-treasure-armor h1,
 div.craft-treasure-structures h1,
 div.gm-subchap h3,
 div.conditions h3,
+div.glossary h3,
 div.game-mode h3 { 
 	box-sizing: border-box;
 	color: #002664;
@@ -524,7 +526,7 @@ div.char-class h4,
 div.animal-companions h4,
 div.class-archetypes h4,
 div.equip-subchap h4,
-div.gear-description h2,
+div.gear-description h3,
 div.craft-treasure-alchemicalitems h2,
 div.craft-treasure-consumables h2,
 div.craft-treasure-snares h2,
@@ -537,6 +539,7 @@ div.craft-treasure-wands h2,
 div.craft-treasure-armor h2,
 div.gm-subchap h4,
 div.conditions h4,
+div.glossary h4,
 div.game-mode h4 {
 	box-sizing: border-box;
 	color: #5e0000;

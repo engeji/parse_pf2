@@ -13,6 +13,7 @@
 .. include:: /appendix/glossary_index.rst
 
 
+.. include:: /appendix/equipment_description.rst
 
 
 
