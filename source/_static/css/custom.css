@@ -472,6 +472,7 @@ div.equip-subchap h2,
 div.spells-focus h2,
 div.spells-rituals h2,
 div.gm-subchap h2,
+div.conditions h2,
 div.game-mode h2 {
 	box-sizing: border-box;
 	color: #5e0000;
@@ -504,6 +505,7 @@ div.craft-treasure-wands h1,
 div.craft-treasure-armor h1,
 div.craft-treasure-structures h1,
 div.gm-subchap h3,
+div.conditions h3,
 div.game-mode h3 { 
 	box-sizing: border-box;
 	color: #002664;
@@ -534,6 +536,7 @@ div.craft-treasure-staves h2,
 div.craft-treasure-wands h2,
 div.craft-treasure-armor h2,
 div.gm-subchap h4,
+div.conditions h4,
 div.game-mode h4 {
 	box-sizing: border-box;
 	color: #5e0000;

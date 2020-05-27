@@ -10,124 +10,29 @@
 
 
 
-.. rst-class:: char-class
-.. _ch3--classes--alchemist:
-
-Алхимик
-==========================
-
 .. include:: /classes/alchemist.rst
-
-
-
-.. rst-class:: char-class
-.. _ch3--classes--bard:
-
-Бард
-==========================
 
 .. include:: /classes/bard.rst
 
-
-
-.. rst-class:: char-class
-.. _ch3--classes--barbarian:
-
-Варвар
-==========================
-
 .. include:: /classes/barbarian.rst
-
-
-
-.. rst-class:: char-class
-.. _ch3--classes--fighter:
-
-Воин
-==========================
 
 .. include:: /classes/fighter.rst
 
-
-
-.. rst-class:: char-class
-.. _ch3--classes--wizard:
-
-Волшебник
-==========================
-
 .. include:: /classes/wizard.rst
-
-
-
-.. rst-class:: char-class
-.. _ch3--classes--druid:
-
-Друид
-==========================
 
 .. include:: /classes/druid.rst
 
-
-
-.. rst-class:: char-class
-.. _ch3--classes--cleric:
-
-Жрец
-==========================
-
 .. include:: /classes/cleric.rst
-
-
-
-.. rst-class:: char-class
-.. _ch3--classes--monk:
-
-Монах
-==========================
 
 .. include:: /classes/monk.rst
 
-
-
-.. rst-class:: char-class
-.. _ch3--classes--rogue:
-
-Плут
-==========================
-
 .. include:: /classes/rogue.rst
-
-
-
-.. rst-class:: char-class
-.. _ch3--classes--ranger:
-
-Следопыт
-==========================
 
 .. include:: /classes/ranger.rst
 
-
-
-.. rst-class:: char-class
-.. _ch3--classes--sorcerer:
-
-Чародей
-==========================
-
 .. include:: /classes/sorcerer.rst
 
-
-
-.. rst-class:: char-class
-.. _ch3--classes--champion:
-
-Чемпион
-==========================
-
 .. include:: /classes/champion.rst
-
 
 
 
@@ -135,11 +40,10 @@
 
 
 
-
 .. rst-class:: class-archetypes
 .. _ch3--classes--archetypes:
 
-Archetypes
+Архетипы (Archetypes)
 =========================================
 
 < ... >
