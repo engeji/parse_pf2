@@ -1314,14 +1314,14 @@
 **Использование**: прикрепляемый к оружию
 **Масса**: —
 
-**Активация**: |д-2| :ref:`class-feature--fighter--Intimidating-Strike`
+**Активация**: |д-2| :ref:`class-feat--fighter--Intimidating-Strike`
 
 ----------
 
 Кажется, что темный дым внутри этого обсидианового камня извивается.
-Когда вы активируете этот самоцвет, вы делаете :ref:`class-feature--fighter--Intimidating-Strike` как способность воина.
+Когда вы активируете этот самоцвет, вы делаете :ref:`class-feat--fighter--Intimidating-Strike` как способность воина.
 
-У если у вас есть способность :ref:`class-feature--fighter--Intimidating-Strike`, увеличьте состояние "напуган" от способности до "напуган 2" или "напуган 3" при крит.попадании.
+У если у вас есть способность :ref:`class-feat--fighter--Intimidating-Strike`, увеличьте состояние "напуган" от способности до "напуган 2" или "напуган 3" при крит.попадании.
 
 
 .. _item--Emerald-Grasshopper:
