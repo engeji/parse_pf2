@@ -1177,7 +1177,7 @@
 
 .. _class-feat--ranger--Side-by-Side:
 
-Бок о бок (`Side by Side <https://2e.aonprd.com/Feats.aspx?ID=529>`_) / 12 ур.
+Бок о бок (`Side by Side (Ranger) <https://2e.aonprd.com/Feats.aspx?ID=529>`_) / 12 ур.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - рейнджер
