@@ -17,7 +17,9 @@ actions:
 	Ready: Приготовиться :ref:`action--Ready`
 	Seek: Поиск :ref:`action--Seek`
 	Maneuver in Flight: Маневрирование в полете :ref:`skill--Acrobatics--Maneuver-in-Flight`
-	Arrest a Fall: Остановить Падение
+	Arrest a Fall: Остановить Падение :ref:`action--Arrest-a-Fall`
+	Avert Gaze: Отвести взгляд :ref:`action--Avert-Gaze`
+	Point Out: Указать :ref:`action--Point-Out`
 	Take Cover: Укрыться :ref:`action--Take-Cover`
 	Stride: Перемещение :ref:`action--Stride`
 	Step: Шаг :ref:`action--Step`
