@@ -524,6 +524,7 @@ Titles:
 	Kyonin: Кьонин
 	Mwangi Expanse: Просторы Муанги
 	Nirmathas: Нирмафас
+	archon: архон
 trait: признак / особенность
 	оружие:
 		agile: быстрое
