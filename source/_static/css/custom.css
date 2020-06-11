@@ -406,7 +406,8 @@ div.description.section > p {
 div.description.section > h2,
 div.description.section > h3,
 div.description.section > h4,
-div.description.section > h5 {
+div.description.section > h5,
+div.description.section > h6 {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -420,7 +421,8 @@ div.description.section > h5 {
 div.description.section > h2 + ul,
 div.description.section > h3 + ul,
 div.description.section > h4 + ul,
-div.description.section > h5 + ul {
+div.description.section > h5 + ul,
+div.description.section > h6 + ul {
 	background-color: #d9c484;
 	display: inline-block;
 	margin-bottom: 0.2em;
@@ -430,7 +432,8 @@ div.description.section > h5 + ul {
 div.description.section > h2 + ul li,
 div.description.section > h3 + ul li,
 div.description.section > h4 + ul li,
-div.description.section > h5 + ul li {
+div.description.section > h5 + ul li,
+div.description.section > h6 + ul li {
 	display: inline;
 	margin: 0 0.025em;
 	margin-left: 0;
@@ -440,7 +443,8 @@ div.description.section > h1 + ul li p,
 div.description.section > h2 + ul li p,
 div.description.section > h3 + ul li p,
 div.description.section > h4 + ul li p,
-div.description.section > h5 + ul li p {
+div.description.section > h5 + ul li p,
+div.description.section > h6 + ul li p {
 	background-color: #5e0000;
 	color: #fff;
 	display: inline;
