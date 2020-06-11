@@ -1255,6 +1255,8 @@
 
 
 
+.. _expl-activity--Identify-Alchemy:
+
 Определение алхимии (`Identify Alchemy <https://2e.aonprd.com/Actions.aspx?ID=44>`_)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
