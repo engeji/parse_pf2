@@ -830,7 +830,7 @@
 
 .. _class-feat--fighter--Swipe:
 
-Взмах (`Swipe <https://2e.aonprd.com/Feats.aspx?ID=142>`_) |д-2| / 4 ур.
+Взмах (`Swipe (Fighter) <https://2e.aonprd.com/Feats.aspx?ID=142>`_) |д-2| / 4 ур.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - размах
