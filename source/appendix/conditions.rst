@@ -198,6 +198,8 @@
 Вы не можете :ref:`action--Delay` или :ref:`action--Ready` с состоянием "бегство".
 
 
+.. _condition--Persistent-Damage:
+
 Продолжительный урон (`Persistent Damage <https://2e.aonprd.com/Conditions.aspx?ID=29>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
