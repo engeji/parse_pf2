@@ -8,6 +8,8 @@ activity: активность
 actions:
 	Interact: Взаимодействовать :ref:`action--Interact`
 	Strike: Удар :ref:`action--Strike`
+	Stride: Перемещение :ref:`action--Stride`
+	Step: Шаг :ref:`action--Step`
 	Cast a Spell: Сотворение заклинания :ref:`action--Cast-a-Spell`
 	Sustain a Spell: Поддержание заклинания :ref:`action--Sustain-a-Spell`
 	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
@@ -16,13 +18,9 @@ actions:
 	Delay: Выждать :ref:`action--Delay`
 	Ready: Приготовиться :ref:`action--Ready`
 	Seek: Поиск :ref:`action--Seek`
-	Maneuver in Flight: Маневрирование в полете :ref:`skill--Acrobatics--Maneuver-in-Flight`
-	Arrest a Fall: Остановить Падение :ref:`action--Arrest-a-Fall`
 	Avert Gaze: Отвести взгляд :ref:`action--Avert-Gaze`
 	Point Out: Указать :ref:`action--Point-Out`
 	Take Cover: Укрыться :ref:`action--Take-Cover`
-	Stride: Перемещение :ref:`action--Stride`
-	Step: Шаг :ref:`action--Step`
 	Stand: Встать :ref:`action--Stand`
 	Escape: Вырваться :ref:`action--Escape`
 	Grab an Edge: Схватиться за уступ :ref:`action--Grab-an-Edge`
@@ -38,6 +36,8 @@ actions:
 	Release: Отпустить :ref:`action--Release`
 	Drop Prone: Упасть на землю :ref:`action--Drop-Prone`
 	Fly: Лететь :ref:`action--Fly`
+	Arrest a Fall: Остановить Падение :ref:`action--Arrest-a-Fall`
+	Maneuver in Flight: Маневрирование в полете :ref:`skill--Acrobatics--Maneuver-in-Flight`
 	Burrow: Рыть :ref:`action--Burrow`
 	Sense Motive: Понять намерения :ref:`action--Sense-Motive`
 	Activate an Item: Активировать предмет :ref:`activity--Activate-An-Item`
@@ -191,9 +191,6 @@ feat: способность
 	Toughness: Живучесть
 	Ride: Езда верхом
 	Expeditious Search: Оперативный Обыск
-	Stealth:
-		Swift Sneak: Быстро Красться
-		Legendary Sneak: Легендарно Красться
 Flat check: Чистая проверка
 fleeing: убегающий
 focus spell: заклинание фокусировки (TODO уточнить)
@@ -429,7 +426,7 @@ Skill: Навык
 		formula: рецепт
 			common: обычный
 	Deception: Обман
-		Create a Diversion: Отвлечь Внимание
+		Create a Diversion: Отвлечь Внимание :ref:`skill--Deception--Create-a-Diversion`
 		Feint: Финт :ref:`skill--Deception--Feint`
 		Lie: Лгать :ref:`skill--Deception--Lie`
 		Impersonate: Перевоплотиться :ref:`skill--Deception--Impersonate`
@@ -447,7 +444,7 @@ Skill: Навык
 		Create Forgery: Создать подделку
 		Subsist: Проживание :ref:`downtime--Subsist`
 	Stealth: скрытность
-		Avoid Notice: Избежать Обнаружения
+		Avoid Notice: Избегать обнаружения :ref:`expl-activity--Avoid-Notice`
 		Conceal an Object: Скрыть предмет :ref:`skill--Stealth--Conceal-an-Object`
 		Hide: Спрятаться :ref:`skill--Stealth--Hide`
 		Sneak: Красться :ref:`skill--Stealth--Sneak`
