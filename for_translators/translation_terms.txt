@@ -25,7 +25,7 @@ actions:
 	Escape: Вырваться :ref:`action--Escape`
 	Grab an Edge: Схватиться за уступ :ref:`action--Grab-an-Edge`
 	Crawl: Ползти :ref:`action--Crawl`
-	Mount: Оседлать
+	Mount: Оседлать :ref:`action--Mount`
 	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
 	Decipher Writing: Расшифровка Писаний :ref:`activity--gen--Decipher-Writing`
 	Earn Income: Заработать деньги :ref:`expl-activity--Earn-Income`
@@ -555,7 +555,7 @@ trait: признак / особенность
 		move: движение
 			move action: перемещение/движение
 		manipulate: воздействие
-		secret: тайна
+		secret: тайна / тайная проверка
 		emotion: эмоция
 		morph: трансформация
 		polymorph: полиморф
@@ -576,7 +576,7 @@ trait: признак / особенность
 		magical: магический
 		snare: силок
 		trap: ловушка
-Trigger: Триггер (в описании способностей)
+trigger: триггер (в описании способностей), провоцировать (о срабатывании триггера)
 Tremorsense: виброчувствительность
 the Pit: Преисподняя
 
