@@ -27,6 +27,7 @@ actions:
 	Crawl: Ползти :ref:`action--Crawl`
 	Mount: Оседлать :ref:`action--Mount`
 	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
+	Identify Alchemy: Определение алхимии :ref:`expl-activity--Identify-Alchemy`
 	Decipher Writing: Расшифровка Писаний :ref:`activity--gen--Decipher-Writing`
 	Earn Income: Заработать деньги :ref:`expl-activity--Earn-Income`
 	Leap: Прыжок :ref:`action--Leap`
@@ -44,6 +45,14 @@ actions:
 	Invest An Item: Инвестировать предмет :ref:`activity--Invest-An-Item`
 	Sustain an Activation: Поддержание активации :ref:`action--Sustain-an-Activation`
 	Affix a Talisman: Прикрепить талисман :ref:`activity--Affix-a-Talisman`
+	Defend: Защищаться :ref:`expl-activity--Defend`
+	Detect Magic: Обнаружение магии :ref:`expl-activity--Detect-Magic`
+	Follow The Expert: Повторять за экспертом :ref:`expl-activity--Follow-The-Expert`
+	Hustle: Спешить :ref:`expl-activity--Hustle`
+	Investigate: Исследовать :ref:`expl-activity--Investigate`
+	Repeat A Spell: Повторять заклинание :ref:`expl-activity--Repeat-A-Spell`
+	Scout: Разведывать :ref:`expl-activity--Scout`
+	Search: Искать :ref:`expl-activity--Search`
 advanced alchemy: продвинутая алхимия
 Affliction: недуг
 alignment: мировоззрение
@@ -431,7 +440,7 @@ Skill: Навык
 		Lie: Лгать :ref:`skill--Deception--Lie`
 		Impersonate: Перевоплотиться :ref:`skill--Deception--Impersonate`
 	Diplomacy: Дипломатия
-		Gather Information: Собрать информацию
+		Gather Information: Собрать информацию :ref:`skill--Diplomacy--Gather-Info`
 		Make an Impression: Произвести Впечатление :ref:`skill--Diplomacy--Make-an-Impression`
 		Request: Просьба :ref:`skill--Diplomacy--Request`
 	Intimidation: Запугивание
