@@ -450,7 +450,7 @@ Skill: Навык
 	Performance: Выступление
 		Perform: Выступать
 	Society: Общество
-		Create Forgery: Создать подделку
+		Create Forgery: Создать подделку :ref:`skill--Society--Create-Forgery`
 		Subsist: Проживание :ref:`downtime--Subsist`
 	Stealth: скрытность
 		Avoid Notice: Избегать обнаружения :ref:`expl-activity--Avoid-Notice`
