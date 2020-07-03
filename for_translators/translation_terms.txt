@@ -8,6 +8,8 @@ activity: активность
 actions:
 	Interact: Взаимодействовать :ref:`action--Interact`
 	Strike: Удар :ref:`action--Strike`
+	Stride: Перемещение :ref:`action--Stride`
+	Step: Шаг :ref:`action--Step`
 	Cast a Spell: Сотворение заклинания :ref:`action--Cast-a-Spell`
 	Sustain a Spell: Поддержание заклинания :ref:`action--Sustain-a-Spell`
 	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
@@ -16,19 +18,16 @@ actions:
 	Delay: Выждать :ref:`action--Delay`
 	Ready: Приготовиться :ref:`action--Ready`
 	Seek: Поиск :ref:`action--Seek`
-	Maneuver in Flight: Маневрирование в полете :ref:`skill--Acrobatics--Maneuver-in-Flight`
-	Arrest a Fall: Остановить Падение :ref:`action--Arrest-a-Fall`
 	Avert Gaze: Отвести взгляд :ref:`action--Avert-Gaze`
 	Point Out: Указать :ref:`action--Point-Out`
 	Take Cover: Укрыться :ref:`action--Take-Cover`
-	Stride: Перемещение :ref:`action--Stride`
-	Step: Шаг :ref:`action--Step`
 	Stand: Встать :ref:`action--Stand`
 	Escape: Вырваться :ref:`action--Escape`
 	Grab an Edge: Схватиться за уступ :ref:`action--Grab-an-Edge`
 	Crawl: Ползти :ref:`action--Crawl`
-	Mount: Оседлать
+	Mount: Оседлать :ref:`action--Mount`
 	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
+	Identify Alchemy: Определение алхимии :ref:`expl-activity--Identify-Alchemy`
 	Decipher Writing: Расшифровка Писаний :ref:`activity--gen--Decipher-Writing`
 	Earn Income: Заработать деньги :ref:`expl-activity--Earn-Income`
 	Leap: Прыжок :ref:`action--Leap`
@@ -38,12 +37,22 @@ actions:
 	Release: Отпустить :ref:`action--Release`
 	Drop Prone: Упасть на землю :ref:`action--Drop-Prone`
 	Fly: Лететь :ref:`action--Fly`
+	Arrest a Fall: Остановить Падение :ref:`action--Arrest-a-Fall`
+	Maneuver in Flight: Маневрирование в полете :ref:`skill--Acrobatics--Maneuver-in-Flight`
 	Burrow: Рыть :ref:`action--Burrow`
 	Sense Motive: Понять намерения :ref:`action--Sense-Motive`
 	Activate an Item: Активировать предмет :ref:`activity--Activate-An-Item`
 	Invest An Item: Инвестировать предмет :ref:`activity--Invest-An-Item`
 	Sustain an Activation: Поддержание активации :ref:`action--Sustain-an-Activation`
 	Affix a Talisman: Прикрепить талисман :ref:`activity--Affix-a-Talisman`
+	Defend: Защищаться :ref:`expl-activity--Defend`
+	Detect Magic: Обнаружение магии :ref:`expl-activity--Detect-Magic`
+	Follow The Expert: Повторять за экспертом :ref:`expl-activity--Follow-The-Expert`
+	Hustle: Спешить :ref:`expl-activity--Hustle`
+	Investigate: Исследовать :ref:`expl-activity--Investigate`
+	Repeat A Spell: Повторять заклинание :ref:`expl-activity--Repeat-A-Spell`
+	Scout: Разведывать :ref:`expl-activity--Scout`
+	Search: Искать :ref:`expl-activity--Search`
 advanced alchemy: продвинутая алхимия
 Affliction: недуг
 alignment: мировоззрение
@@ -191,9 +200,6 @@ feat: способность
 	Toughness: Живучесть
 	Ride: Езда верхом
 	Expeditious Search: Оперативный Обыск
-	Stealth:
-		Swift Sneak: Быстро Красться
-		Legendary Sneak: Легендарно Красться
 Flat check: Чистая проверка
 fleeing: убегающий
 focus spell: заклинание фокусировки (TODO уточнить)
@@ -429,12 +435,12 @@ Skill: Навык
 		formula: рецепт
 			common: обычный
 	Deception: Обман
-		Create a Diversion: Отвлечь Внимание
+		Create a Diversion: Отвлечь Внимание :ref:`skill--Deception--Create-a-Diversion`
 		Feint: Финт :ref:`skill--Deception--Feint`
 		Lie: Лгать :ref:`skill--Deception--Lie`
 		Impersonate: Перевоплотиться :ref:`skill--Deception--Impersonate`
 	Diplomacy: Дипломатия
-		Gather Information: Собрать информацию
+		Gather Information: Собрать информацию :ref:`skill--Diplomacy--Gather-Info`
 		Make an Impression: Произвести Впечатление :ref:`skill--Diplomacy--Make-an-Impression`
 		Request: Просьба :ref:`skill--Diplomacy--Request`
 	Intimidation: Запугивание
@@ -444,10 +450,10 @@ Skill: Навык
 	Performance: Выступление
 		Perform: Выступать
 	Society: Общество
-		Create Forgery: Создать подделку
+		Create Forgery: Создать подделку :ref:`skill--Society--Create-Forgery`
 		Subsist: Проживание :ref:`downtime--Subsist`
 	Stealth: скрытность
-		Avoid Notice: Избежать Обнаружения
+		Avoid Notice: Избегать обнаружения :ref:`expl-activity--Avoid-Notice`
 		Conceal an Object: Скрыть предмет :ref:`skill--Stealth--Conceal-an-Object`
 		Hide: Спрятаться :ref:`skill--Stealth--Hide`
 		Sneak: Красться :ref:`skill--Stealth--Sneak`
@@ -558,7 +564,7 @@ trait: признак / особенность
 		move: движение
 			move action: перемещение/движение
 		manipulate: воздействие
-		secret: тайна
+		secret: тайна / тайная проверка
 		emotion: эмоция
 		morph: трансформация
 		polymorph: полиморф
@@ -579,7 +585,7 @@ trait: признак / особенность
 		magical: магический
 		snare: силок
 		trap: ловушка
-Trigger: Триггер (в описании способностей)
+trigger: триггер (в описании способностей), провоцировать (о срабатывании триггера)
 Tremorsense: виброчувствительность
 the Pit: Преисподняя
 
