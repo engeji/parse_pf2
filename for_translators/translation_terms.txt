@@ -171,6 +171,7 @@ Deity: Божество
 	Calistria: Калистрия
 	Torag: Тораг
 	Iomedae: Айомедэй
+	Sarenrae: Саренрэй
 	Cayden Cailean: Кайдэн Кайлин
 	Gozreh: Гозрей
 	Norgorber: Норгорбер
@@ -634,3 +635,4 @@ weapons:
 	Nine-ring sword: меч девяти колец
 	polytool: мультитул
 	Tekko-kagi: сюко
+worshipper: верующий

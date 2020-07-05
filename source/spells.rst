@@ -2004,25 +2004,10 @@
 .. include:: /spells/focus.rst
 
 
-
-
-
-.. rst-class:: spells-rituals
-
-Ритуалы
-----------------------------------------------------------------------------------------
-
-.. epigraph::
-
-	*A ritual is an esoteric and complex spell that anyone can cast.
-	It takes much longer to cast a ritual than a normal spell, but rituals can have more powerful effects.*
-
------------------------------------------------------------------------------
-
+.. include:: /spells/rituals.rst
 
 
 
 
 
 .. include:: /helpers/actions.rst
-
