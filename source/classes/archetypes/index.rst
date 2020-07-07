@@ -110,3 +110,4 @@
 .. include:: /classes/archetypes/alchemist.rst
 .. include:: /classes/archetypes/barbarian.rst
 .. include:: /classes/archetypes/bard.rst
+.. include:: /classes/archetypes/champion.rst
