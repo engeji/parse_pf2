@@ -121,7 +121,6 @@
 Вы получаете преимущества :ref:`arch--Expert-Spellcasting`
 
 
-
 .. _arch-feat--Cleric--Master-Spellcasting:
 
 Экспертное колдовство жреца (`Master Cleric Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=700>`_) / 18 ур.
