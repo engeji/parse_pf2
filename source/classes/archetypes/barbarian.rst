@@ -55,7 +55,7 @@
 
 .. _arch-feat--Barbarian--Basic-Fury:
 
-Простая ярость (`Basic Fury <https://2e.aonprd.com/Feats.aspx?ID=673>`_) / 4 ур.
+Основная ярость (`Basic Fury <https://2e.aonprd.com/Feats.aspx?ID=673>`_) / 4 ур.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -69,7 +69,7 @@
 
 .. _arch-feat--Barbarian--Advanced-Fury:
 
-Расширенная ярость (`Advanced Fury <https://2e.aonprd.com/Feats.aspx?ID=674>`_) / 6 ур.
+Улучшенная ярость (`Advanced Fury <https://2e.aonprd.com/Feats.aspx?ID=674>`_) / 6 ур.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
