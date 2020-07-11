@@ -117,3 +117,4 @@
 .. include:: /classes/archetypes/monk.rst
 .. include:: /classes/archetypes/ranger.rst
 .. include:: /classes/archetypes/rogue.rst
+.. include:: /classes/archetypes/sorcerer.rst

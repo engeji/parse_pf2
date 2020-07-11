@@ -39,6 +39,9 @@
 
 **Особенность**: Вы не можете выбрать другую способность посвящения, пока не получите две другие способности из архетипа друида.
 
+.. versionchanged:: /errata-r1
+	Предложение о том, какие заклинания можно добавлять в репертуар.
+
 
 .. _arch-feat--Druid--Basic-Spellcasting:
 
@@ -126,7 +129,7 @@
 
 ----------
 
-Вы получаете преимущества :ref:`arch--Expert-Spellcasting`
+Вы получаете преимущества :ref:`arch--Expert-Spellcasting`.
 
 
 .. _arch-feat--Druid--Master-Spellcasting:
@@ -140,4 +143,4 @@
 
 ----------
 
-Вы получаете преимущества :ref:`arch--Master-Spellcasting`
+Вы получаете преимущества :ref:`arch--Master-Spellcasting`.

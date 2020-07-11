@@ -44,6 +44,9 @@
 
 **Особенность**: Вы не можете выбрать другую способность посвящения, пока не получите две другие способности из архетипа жреца.
 
+.. versionchanged:: /errata-r1
+	Предложение о том, какие заклинания можно добавлять в репертуар.
+
 
 .. _arch-feat--Cleric--Basic-Spellcasting:
 
@@ -118,7 +121,7 @@
 
 ----------
 
-Вы получаете преимущества :ref:`arch--Expert-Spellcasting`
+Вы получаете преимущества :ref:`arch--Expert-Spellcasting`.
 
 
 .. _arch-feat--Cleric--Master-Spellcasting:
@@ -132,4 +135,4 @@
 
 ----------
 
-Вы получаете преимущества :ref:`arch--Master-Spellcasting`
+Вы получаете преимущества :ref:`arch--Master-Spellcasting`.
