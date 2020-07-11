@@ -115,3 +115,4 @@
 .. include:: /classes/archetypes/druid.rst
 .. include:: /classes/archetypes/fighter.rst
 .. include:: /classes/archetypes/monk.rst
+.. include:: /classes/archetypes/ranger.rst
