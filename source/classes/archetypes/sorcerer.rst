@@ -1,4 +1,4 @@
-.. rst-class:: archetype
+.. rst-class:: archetype multiclass
 .. _archetype--Sorcerer:
 
 Чародей (`Sorcerer <https://2e.aonprd.com/Archetypes.aspx?ID=9>`_)

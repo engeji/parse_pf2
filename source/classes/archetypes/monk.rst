@@ -1,4 +1,4 @@
-.. rst-class:: archetype
+.. rst-class:: archetype multiclass
 .. _archetype--Monk:
 
 Монах (`Monk <https://2e.aonprd.com/Archetypes.aspx?ID=8>`_)

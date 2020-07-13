@@ -119,3 +119,6 @@
 .. include:: /classes/archetypes/rogue.rst
 .. include:: /classes/archetypes/sorcerer.rst
 .. include:: /classes/archetypes/wizard.rst
+
+
+.. include:: /classes/archetypes/dlc/aldori_duelist.rst

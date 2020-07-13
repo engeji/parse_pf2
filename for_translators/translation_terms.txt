@@ -536,6 +536,7 @@ Titles:
 	Mwangi Expanse: Просторы Муанги
 	Nirmathas: Нирмафас
 	archon: архон
+	Broken Lands: Разоренные Земли
 trait: признак / особенность
 	оружие:
 		agile: быстрое

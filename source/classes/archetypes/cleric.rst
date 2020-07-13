@@ -1,4 +1,4 @@
-.. rst-class:: archetype
+.. rst-class:: archetype multiclass
 .. _archetype--Cleric:
 
 Жрец (`Cleric <https://2e.aonprd.com/Archetypes.aspx?ID=5>`_)

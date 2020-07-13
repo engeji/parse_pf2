@@ -1,4 +1,4 @@
-.. rst-class:: archetype
+.. rst-class:: archetype multiclass
 .. _archetype--Bard:
 
 Бард (`Bard <https://2e.aonprd.com/Archetypes.aspx?ID=3>`_)

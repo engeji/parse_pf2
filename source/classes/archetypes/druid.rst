@@ -1,4 +1,4 @@
-.. rst-class:: archetype
+.. rst-class:: archetype multiclass
 .. _archetype--Druid:
 
 Друид (`Druid <https://2e.aonprd.com/Archetypes.aspx?ID=6>`_)
