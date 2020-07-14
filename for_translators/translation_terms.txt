@@ -505,7 +505,8 @@ Subordinate Actions: Вспомогательные Действия
 Titles:
 	Jadwiga: Ядвига
 	Erutaki: Эрутаки
-	Varisian: Вариссиец
+	Varisia: Варисия
+	Varisian: Варисиец
 	Keleshite: Келешиец
 	Chelaxian: Челиец
 	Nidalese: Нидалец (произносится Ньидолец)
@@ -525,6 +526,7 @@ Titles:
 	Spiresworn elf: Присягнувший шпилю эльф
 	Irrisen: Иррисен
 	Thassilon: Тассилон
+	New Thassilonian: Новотассилонец
 	Padishah Empire: Падишахская империя
 	Nidal: Нидал (произносится Ньидол)
 	Lirgen: Лирген
@@ -537,6 +539,7 @@ Titles:
 	Nirmathas: Нирмафас
 	archon: архон
 	Broken Lands: Разоренные Земли
+	Saga Lands: Земли Сказаний
 trait: признак / особенность
 	оружие:
 		agile: быстрое

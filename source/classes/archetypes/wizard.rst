@@ -131,7 +131,7 @@
 
 .. _arch-feat--Wizard--Master-Spellcasting:
 
-Экспертное колдовство волшебника (`Master Wizard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=749>`_) / 18 ур.
+Мастерское колдовство волшебника (`Master Wizard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=749>`_) / 18 ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
