@@ -540,6 +540,7 @@ Titles:
 	archon: архон
 	Broken Lands: Разоренные Земли
 	Saga Lands: Земли Сказаний
+	Jalmeray: Джалмерэй
 trait: признак / особенность
 	оружие:
 		agile: быстрое
