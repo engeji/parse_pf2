@@ -1,4 +1,4 @@
-.. rst-class:: archetype
+.. rst-class:: archetype multiclass
 .. _archetype--Alchemist:
 
 Алхимик (`Alchemist <https://2e.aonprd.com/Archetypes.aspx?ID=1>`_)

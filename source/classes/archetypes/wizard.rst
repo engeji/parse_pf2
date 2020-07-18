@@ -1,4 +1,4 @@
-.. rst-class:: archetype
+.. rst-class:: archetype multiclass
 .. _archetype--Wizard:
 
 Волшебник (`Wizard <https://2e.aonprd.com/Archetypes.aspx?ID=9>`_)
@@ -131,7 +131,7 @@
 
 .. _arch-feat--Wizard--Master-Spellcasting:
 
-Экспертное колдовство волшебника (`Master Wizard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=749>`_) / 18 ур.
+Мастерское колдовство волшебника (`Master Wizard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=749>`_) / 18 ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип

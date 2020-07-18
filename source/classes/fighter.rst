@@ -1067,14 +1067,14 @@
 
 **Предварительные условия**: :ref:`class-feat--fighter--Dueling-Parry`
 
-**Триггер**: Существо в вашей досягаемости критически провалило :ref:`action--Strike` по вам
+**Триггер**: Существо в пределах вашей досягаемости критически провалило :ref:`action--Strike` по вам
 
 **Требования**: Вы получаете преимущество от :ref:`class-feat--fighter--Dueling-Parry`
 
 ----------
 
 Вы делаете ответный удар по промахнувшемуся противнику.
-Сделайте :ref:`action--Strike` или попытайтесь :ref:`skill--Athletics--Disarm` спровоцировавшее существо.
+Сделайте :ref:`action--Strike` в ближнем бою или попытайтесь :ref:`skill--Athletics--Disarm` спровоцировавшее существо.
 
 
 .. _class-feat--fighter--Felling-Strike:

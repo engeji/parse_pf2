@@ -61,7 +61,7 @@
 Архетип заклинателя позволяет вам использовать свитки, посохи и волшебные палочки таким же образом, как это могут делать члены класса заклинателя.
 
 Архетипы заклинателей всегда дают способность колдовать чары вместе со способностью посвящения, и далее у них есть способности простого, экспертного и мастерского колдовства.
-Эти способности делят свое имя с архетипом; например, способность волшебника для мастерского колдовства называется "Мастерское колдовство волшебника" (TODO ссылка).
+Эти способности делят свое имя с архетипом; например, способность волшебника для мастерского колдовства называется :ref:`arch-feat--Wizard--Master-Spellcasting`.
 Все слоты заклинаний, которые вы получаете от архетипа заклинателя имеют ограничения в зависимости от архетипа; например, архетип барда дает вам слоты заклинаний, которые вы можете использовать только, чтобы колдовать оккультные заклинания из репертуара барда, даже если вы чародей с оккультными заклинаниями в своем репертуаре.
 
 .. _arch--Basic-Spellcasting:
@@ -107,15 +107,21 @@
 
 
 
-.. include:: /classes/archetypes/alchemist.rst
 .. include:: /classes/archetypes/barbarian.rst
-.. include:: /classes/archetypes/bard.rst
 .. include:: /classes/archetypes/champion.rst
-.. include:: /classes/archetypes/cleric.rst
-.. include:: /classes/archetypes/druid.rst
 .. include:: /classes/archetypes/fighter.rst
 .. include:: /classes/archetypes/monk.rst
 .. include:: /classes/archetypes/ranger.rst
 .. include:: /classes/archetypes/rogue.rst
+.. include:: /classes/archetypes/alchemist.rst
+.. include:: /classes/archetypes/cleric.rst
+.. include:: /classes/archetypes/druid.rst
+.. include:: /classes/archetypes/bard.rst
 .. include:: /classes/archetypes/sorcerer.rst
 .. include:: /classes/archetypes/wizard.rst
+
+
+.. include:: /classes/archetypes/dlc/aldori_duelist.rst
+.. include:: /classes/archetypes/dlc/runescarred.rst
+.. include:: /classes/archetypes/dlc/student_of_perfection.rst
+.. include:: /classes/archetypes/dlc/living_monolith.rst

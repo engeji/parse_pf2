@@ -1,4 +1,4 @@
-.. rst-class:: archetype
+.. rst-class:: archetype multiclass
 .. _archetype--Champion:
 
 Чемпион (`Champion <https://2e.aonprd.com/Archetypes.aspx?ID=4>`_)
