@@ -343,6 +343,9 @@ Languages: языки
 	Draconic: Драконий
 	Celestial: Небесный (небожитель)
 	Gnoll: гнолльский
+	Osiriani: осириани; Ancient Osiriani: древний осириани
+	Sphinx: сфинский
+	Terran: земляной
 Locations:
 	Irrisen: Иррисен
 lesser cover: небольшое укрытие
@@ -541,6 +544,7 @@ Titles:
 	Broken Lands: Разоренные Земли
 	Saga Lands: Земли Сказаний
 	Jalmeray: Джалмерэй
+	Golden Road: Золотой путь
 trait: признак / особенность
 	оружие:
 		agile: быстрое

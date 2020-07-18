@@ -4759,6 +4759,8 @@
 Ученик Совершенства (Student of Perfection)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Заклинания ки архетипа :ref:`archetype--Student-of-Perfection`.
+
 .. _spell--focus--Perfect-Strike:
 
 Совершенный удар (`Perfect Strike <https://2e.aonprd.com/Spells.aspx?ID=542>`_) / Фокус. 2 ур.

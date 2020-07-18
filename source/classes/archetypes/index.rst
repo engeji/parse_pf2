@@ -124,3 +124,4 @@
 .. include:: /classes/archetypes/dlc/aldori_duelist.rst
 .. include:: /classes/archetypes/dlc/runescarred.rst
 .. include:: /classes/archetypes/dlc/student_of_perfection.rst
+.. include:: /classes/archetypes/dlc/living_monolith.rst
