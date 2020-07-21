@@ -125,3 +125,6 @@
 .. include:: /classes/archetypes/dlc/runescarred.rst
 .. include:: /classes/archetypes/dlc/student_of_perfection.rst
 .. include:: /classes/archetypes/dlc/living_monolith.rst
+.. include:: /classes/archetypes/dlc/lion_blade.rst
+.. include:: /classes/archetypes/dlc/red_mantis_assassin.rst
+.. include:: /classes/archetypes/dlc/magic_warrior.rst
