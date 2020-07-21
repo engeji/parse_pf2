@@ -547,6 +547,7 @@ Titles:
 	Jalmeray: Джалмерэй
 	Golden Road: Золотой путь
 	Mediogalti Island: остров Медиогальти
+	Old-Mage Jatembe: Старый Маг Джатембэ
 trait: признак / особенность
 	оружие:
 		agile: быстрое
