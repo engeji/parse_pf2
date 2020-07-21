@@ -180,6 +180,7 @@ Deity: Божество
 	Zon-Kuthon: Зон-Кутон
 	Casandalee: Касандали
 	Green Faith: Зеленая вера
+	Achaekek: Ачакек
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
@@ -545,6 +546,7 @@ Titles:
 	Saga Lands: Земли Сказаний
 	Jalmeray: Джалмерэй
 	Golden Road: Золотой путь
+	Mediogalti Island: остров Медиогальти
 trait: признак / особенность
 	оружие:
 		agile: быстрое
