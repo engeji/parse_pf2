@@ -18,7 +18,7 @@
 
 .. include:: /ancestries/dwarf.rst
 
-.. include:: /ancestries/halfing.rst
+.. include:: /ancestries/halfling.rst
 
 .. include:: /ancestries/human.rst
 
