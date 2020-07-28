@@ -548,6 +548,9 @@ Titles:
 	Golden Road: Золотой путь
 	Mediogalti Island: остров Медиогальти
 	Old-Mage Jatembe: Старый Маг Джатембэ
+	Mihrini: Мирини
+	Jaric: Джарик
+	Uhlam: Улам
 trait: признак / особенность
 	оружие:
 		agile: быстрое
