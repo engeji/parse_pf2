@@ -553,6 +553,8 @@ Titles:
 	Uhlam: Улам
 	Mbe’ke: Мбе'ке
 	Taralu: Таралу
+	Ouat: Уат
+	Pahmet: Памэт
 trait: признак / особенность
 	оружие:
 		agile: быстрое
