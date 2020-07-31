@@ -914,10 +914,52 @@ div.spells-focus h3 { /* Выделение алфавитного заголо�
 
 
 /*
+	Универсальные стили списка признаков
+*/
+
+div.section > h2 + ul,
+div.section > h3 + ul,
+div.section > h4 + ul,
+div.section > h5 + ul,
+div.section > h6 + ul {
+	background-color: #d9c484;
+	display: inline-block;
+	margin-bottom: 0.2em;
+	padding: 0.15em 0.2em;
+}
+
+div.section > h2 + ul li,
+div.section > h3 + ul li,
+div.section > h4 + ul li,
+div.section > h5 + ul li,
+div.section > h6 + ul li {
+	display: inline;
+	margin: 0 0.025em !important;
+}
+
+div.section > h2 + ul li p,
+div.section > h3 + ul li p,
+div.section > h4 + ul li p,
+div.section > h5 + ul li p,
+div.section > h6 + ul li p {
+	background-color: #5e0000;
+	color: #fff;
+	display: inline;
+	font-weight: bolder;
+	padding: 0.3em;
+}
+
+
+/*
 	С помощью JS мы ищем p у которых внутри есть span.uncommon (или span.rare)
 	и добавляем родителю (p) класс 'uncommon' или 'rare'
 */
 
+div.section > h2 + ul li p.uncommon,
+div.section > h3 + ul li p.uncommon,
+div.section > h4 + ul li p.uncommon,
+div.section > h5 + ul li p.uncommon,
+div.section > h6 + ul li p.uncommon,
 div.item-type-rarity.section ul li p.uncommon,
 div.ancestry-class-feats div.section > h5 + ul li p.uncommon,
 div.archetype.multiclass div.section > h5 + ul li p.uncommon,
@@ -950,6 +992,11 @@ div.craft-treasure-worn div.section > h3 + ul li p.uncommon {
 	background-color: #98513d;
 }
 
+div.section > h2 + ul li p.rare,
+div.section > h3 + ul li p.rare,
+div.section > h4 + ul li p.rare,
+div.section > h5 + ul li p.rare,
+div.section > h6 + ul li p.rare,
 div.item-type-rarity.section ul li p.rare,
 div.ancestry-class-feats div.section > h5 + ul li p.rare,
 div.archetype.multiclass div.section > h5 + ul li p.rare,
