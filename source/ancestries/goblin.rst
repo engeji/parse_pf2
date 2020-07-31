@@ -20,7 +20,7 @@
 .. rst-class:: sidebar-char-ancestry-class
 
 .. sidebar:: hidden
-	
+
 	.. rubric:: Очки здоровья
 
 	6
@@ -542,7 +542,7 @@
 
 .. _ancestry-feat--Goblin--Tree-Climber:
 
-Древолаз (`Tree Climber <https://2e.aonprd.com/Feats.aspx?ID=1006>`_) / 5 ур.
+Древолаз (`Tree Climber (Goblin) <https://2e.aonprd.com/Feats.aspx?ID=1006>`_) / 5 ур.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
