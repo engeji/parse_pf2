@@ -555,6 +555,7 @@ Titles:
 	Taralu: Таралу
 	Ouat: Уат
 	Pahmet: Памэт
+	Vahird: Вахирд
 trait: признак / особенность
 	оружие:
 		agile: быстрое
