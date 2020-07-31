@@ -551,6 +551,11 @@ Titles:
 	Mihrini: Мирини
 	Jaric: Джарик
 	Uhlam: Улам
+	Mbe’ke: Мбе'ке
+	Taralu: Таралу
+	Ouat: Уат
+	Pahmet: Памэт
+	Vahird: Вахирд
 trait: признак / особенность
 	оружие:
 		agile: быстрое
