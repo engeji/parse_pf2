@@ -339,6 +339,7 @@ Languages: языки
 	Goblin: Гоблинский
 	Halfling: полуросличий
 	Orcish: Орочий
+	Jotun: Йотун
 	Sylvan: Сильван
 	Undercommon: подземный
 	Draconic: Драконий
@@ -556,6 +557,7 @@ Titles:
 	Ouat: Уат
 	Pahmet: Памэт
 	Vahird: Вахирд
+	Xulgath: Зулгат
 trait: признак / особенность
 	оружие:
 		agile: быстрое
