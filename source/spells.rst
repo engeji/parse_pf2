@@ -680,7 +680,7 @@
 
 :ref:`spell--f--Fear` :sup:`У` (очар.): Напугайте существо, возможно заставив его убегать.
 
-:ref:`spell--h--Harm` H (nec): Negative energy harms the living or heals the undead, either a single creature or all in a burst.
+:ref:`spell--h--Harm` :sup:`У` (некр.): Негативная энергия вредит живым или исцеляет нежить, либо одно существо, либо всех в области.
 
 :ref:`spell--h--Heal` :sup:`У` (некр.): Позитивная энергия исцеляет живых и ранит нежить, как одно существо, так и всех в области.
 
