@@ -582,6 +582,7 @@ trait: признак / особенность
 		jousting: турнирное
 		free-hand: свободная рука
 		tethered: привязанное
+		grapple: захват
 	остальные:
 		visual: визуальный
 		auditory: слуховой
