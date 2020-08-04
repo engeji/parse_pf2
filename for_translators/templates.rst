@@ -28,6 +28,7 @@
 **Требования**: 
 
 **Источник**: Lost Omens: 
+**Источник**: Advanced Player's Guide pg. 
 
 ----------
 
@@ -72,6 +73,7 @@
 **Требования**: 
 
 **Источник**: Lost Omens: 
+**Источник**: Advanced Player's Guide pg. 
 
 ----------
 
