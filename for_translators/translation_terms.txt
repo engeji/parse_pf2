@@ -7,7 +7,7 @@ Ability (об основных статах): характеристика
 activity: активность
 actions:
 	Interact: Взаимодействовать :ref:`action--Interact`
-	Strike: Удар :ref:`action--Strike`
+	Strike: Удар :ref:`action--Strike` / :ref:`Выстрел (Strike) <action--Strike>` 
 	Stride: Перемещение :ref:`action--Stride`
 	Step: Шаг :ref:`action--Step`
 	Cast a Spell: Сотворение заклинания :ref:`action--Cast-a-Spell`
