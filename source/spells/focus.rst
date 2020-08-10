@@ -1,13 +1,15 @@
 
 .. rst-class:: spells-focus
+.. _ch7--spells-focus:
 
 Заклинания фокусировки (Focus Spells)
 ----------------------------------------------------------------------------------------
 
 .. epigraph::
 
-	*Some classes gain special spells that they cast using Focus Points instead of spell slots.
-	These focus spells are listed below, organized by class. The full rules for casting focus spells appear on page 300.*
+	*Некоторые классы получают особые заклинания, которые они могут колдовать используя Очки Фокусировки, вместо слотов заклинаний.
+	Эти заклинания фокусировки перечислены далее, и сгруппированы по классам.
+	Полные правила о использовании заклинаний фокусировки описаны в разделе* :ref:`spells--info--Focus-Spells`
 
 -----------------------------------------------------------------------------
 

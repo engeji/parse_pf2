@@ -697,7 +697,7 @@
 
 **Предварительные условия**: :ref:`ancestry-feat--Elf--Share-Thoughts`
 
-**Источник**: Lost Omens: 
+**Источник**: Lost Omens: Character Guide pg. 27
 
 ----------
 

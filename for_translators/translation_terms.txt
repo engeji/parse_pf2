@@ -595,7 +595,7 @@ trait: признак / особенность
 		morph: трансформация
 		polymorph: полиморф
 		mental: ментальный
-		incapacitation: дееспособность
+		incapacitation: недееспособность
 		possession: одержимость
 		prediction: предсказание
 		scrying: видЕние

@@ -1596,7 +1596,7 @@
 
 .. _class-feat--Barbarian--Brutal-Critical:
 
-Брутальный крит (`Brutal Critical <https://2e.aonprd.com/Feats.aspx?ID=174>`_) / 1 ур.
+Брутальный крит (`Brutal Critical <https://2e.aonprd.com/Feats.aspx?ID=174>`_) / 18 ур.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - варвар
