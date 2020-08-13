@@ -419,6 +419,7 @@ rune: руна
 		unholy: нечестивая
 
 saving throw: испытание
+senses: чувства, сенсорные чувства
 Skill: Навык
 	Arcana: Мистика
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
