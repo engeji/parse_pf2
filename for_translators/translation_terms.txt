@@ -508,6 +508,7 @@ spellcasting: колдовство / сотворение заклинания
 		primal: природный
 Subordinate Actions: Вспомогательные Действия
 
+tap into: погрузиться в, подключиться к
 Titles:
 	Jadwiga: Ядвига
 	Erutaki: Эрутаки
