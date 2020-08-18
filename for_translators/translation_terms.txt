@@ -65,9 +65,9 @@ Attack of Opportunity: Возможность для Атаки :ref:`class-feat
 area: область
 	area of effect: область действия (эффекта)
 	area effect: эффект по области
-artifacts?
-	rod of cancellation: жезл отмены
-	sphere of annihilation: сфера аннигиляции
+artifacts:
+	rod of cancellation: жезл отмены (APG 262)
+	sphere of annihilation: сфера аннигиляции (GMG 113)
 Armor: доспех (когда речь о предмете, комплекте доспехов)
 	unarmored: без брони
 	Half-plate: полулатный
