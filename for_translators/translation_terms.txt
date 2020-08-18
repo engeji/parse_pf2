@@ -370,6 +370,8 @@ Magic Missile: Волшебная стрела
 Maker of Miracles: Чудотворец
 martial: воинский
 materials:
+	adamantine: адамантин, адамантиновый
+	orichalcum: орихалк
 	darkwood: сумеречное дерево
 meld into stone: слияние с камнем
 mindless: неразумный
