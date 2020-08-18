@@ -152,6 +152,7 @@ Creature: существо
 		brass: латунный
 		copper: медный
 	alghollthu: альголлус
+	protean: протей
 
 counteract: Противодействие :ref:`ch9--Counteracting`
 Currency: Деньги
