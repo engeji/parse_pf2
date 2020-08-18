@@ -7,7 +7,7 @@ Ability (об основных статах): характеристика
 activity: активность
 actions:
 	Interact: Взаимодействовать :ref:`action--Interact`
-	Strike: Удар :ref:`action--Strike`
+	Strike: Удар :ref:`action--Strike` / :ref:`Выстрел (Strike) <action--Strike>` 
 	Stride: Перемещение :ref:`action--Stride`
 	Step: Шаг :ref:`action--Step`
 	Cast a Spell: Сотворение заклинания :ref:`action--Cast-a-Spell`
@@ -65,9 +65,9 @@ Attack of Opportunity: Возможность для Атаки :ref:`class-feat
 area: область
 	area of effect: область действия (эффекта)
 	area effect: эффект по области
-artifacts?
-	rod of cancellation: жезл отмены
-	sphere of annihilation: сфера аннигиляции
+artifacts:
+	rod of cancellation: жезл отмены (APG 262)
+	sphere of annihilation: сфера аннигиляции (GMG 113)
 Armor: доспех (когда речь о предмете, комплекте доспехов)
 	unarmored: без брони
 	Half-plate: полулатный
@@ -152,6 +152,7 @@ Creature: существо
 		brass: латунный
 		copper: медный
 	alghollthu: альголлус
+	protean: протей
 
 counteract: Противодействие :ref:`ch9--Counteracting`
 Currency: Деньги
@@ -370,6 +371,8 @@ Magic Missile: Волшебная стрела
 Maker of Miracles: Чудотворец
 martial: воинский
 materials:
+	adamantine: адамантин, адамантиновый
+	orichalcum: орихалк
 	darkwood: сумеречное дерево
 meld into stone: слияние с камнем
 mindless: неразумный
@@ -419,6 +422,7 @@ rune: руна
 		unholy: нечестивая
 
 saving throw: испытание
+senses: чувства, сенсорные чувства
 Skill: Навык
 	Arcana: Мистика
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
@@ -507,6 +511,7 @@ spellcasting: колдовство / сотворение заклинания
 		primal: природный
 Subordinate Actions: Вспомогательные Действия
 
+tap into: погрузиться в, подключиться к
 Titles:
 	Jadwiga: Ядвига
 	Erutaki: Эрутаки
@@ -595,7 +600,7 @@ trait: признак / особенность
 		morph: трансформация
 		polymorph: полиморф
 		mental: ментальный
-		incapacitation: дееспособность
+		incapacitation: недееспособность
 		possession: одержимость
 		prediction: предсказание
 		scrying: видЕние
@@ -611,6 +616,7 @@ trait: признак / особенность
 		magical: магический
 		snare: силок
 		trap: ловушка
+		haunt: призрак (вид опасности)
 trigger: триггер (в описании способностей), провоцировать (о срабатывании триггера)
 Tremorsense: виброчувствительность
 the Pit: Преисподняя
