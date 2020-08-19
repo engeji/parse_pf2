@@ -386,6 +386,7 @@ persistent damage: продолжительный урон
 prerequisites: предварительные условия
 proficiency bonus: бонус мастерства
 plane: план
+	Demiplane: полуплан
 	Outer Sphere: Внешняя Сфера
 	Abyss: Бездна
 	Astral: Астральный
@@ -393,7 +394,6 @@ plane: план
 	Elemental: Стихийный
 	Material: Материальный
 	Shadow: Теневой
-	Astral: Астральный
 	Ethereal: Эфемерный
 	Boneyard: Могильник
 
