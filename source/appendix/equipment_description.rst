@@ -75,7 +75,7 @@
 
 .. _item--Basic-Crafters-Book:
 
-Простая книга ремесленника (`Basic Crafter`s Book <https://2e.aonprd.com/Equipment.aspx?ID=6>`_)
+Основная книга ремесленника (`Basic Crafter`s Book <https://2e.aonprd.com/Equipment.aspx?ID=6>`_)
 ---------------------------------------------------------------------------------------------------------
 
 Эта книга содержит :ref:`ch6--Formulas` для создания всех простых предметов из этой главы.

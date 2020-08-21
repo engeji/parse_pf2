@@ -460,7 +460,7 @@ Skill: Навык
 		Demoralize: Деморализовать :ref:`skill--Intimidation--Demoralize`
 		Intimidating Prowess: Мастерство Запугивания
 	Performance: Выступление
-		Perform: Выступать
+		Perform: Выступать :ref:`skill--Performance--Perform`
 	Society: Общество
 		Create Forgery: Создать подделку :ref:`skill--Society--Create-Forgery`
 		Subsist: Проживание :ref:`downtime--Subsist`
@@ -563,6 +563,7 @@ Titles:
 	Pahmet: Памэт
 	Vahird: Вахирд
 	Xulgath: Зулгат
+	Arclords of Nex: Верховные лорды Некса
 trait: признак / особенность
 	оружие:
 		agile: быстрое
