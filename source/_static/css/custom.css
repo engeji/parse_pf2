@@ -723,7 +723,8 @@ div.actions-descr div.section div.section > h5 {
 	text-transform: uppercase;
 }
 
-div.item-type-rarity.section ul,
+div.item-type-rarity.section ul:has(p.uncommon),
+div.item-type-rarity.section ul:has(p.rare),
 div.ancestry-class-feats div.section > h5 + ul,
 div.spells-descr div.section > h4 + ul,
 div.gen-skill-actions div.section > h4 + ul,
@@ -764,7 +765,8 @@ div.actions-descr div.section div.section > h5 + ul {
 	padding: 0.15em 0.2em;
 }
 
-div.item-type-rarity.section ul li,
+div.item-type-rarity.section ul li:has(p.uncommon),
+div.item-type-rarity.section ul li:has(p.rare),
 div.ancestry-class-feats div.section > h5 + ul li,
 div.spells-descr div.section > h4 + ul li,
 div.gen-skill-actions div.section > h4 + ul li,
@@ -803,7 +805,8 @@ div.actions-descr div.section div.section > h5 + ul li {
 	margin: 0 0.025em;
 }
 
-div.item-type-rarity.section ul li p,
+div.item-type-rarity.section ul li p.uncommon,
+div.item-type-rarity.section ul li p.rare,
 div.ancestry-class-feats div.section > h5 + ul li p,
 div.spells-descr div.section > h4 + ul li p,
 div.gen-skill-actions div.section > h4 + ul li p,
