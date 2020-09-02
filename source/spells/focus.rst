@@ -4431,7 +4431,7 @@
 
 .. _spell--focus--Genies-Veil:
 
-Покров джинна (`Genie's Veil <https://2e.aonprd.com/Spells.aspx?ID=783>`_) / Фокус. 1 ур.
+Покров джинна (`Genie's Veil <https://2e.aonprd.com/Spells.aspx?ID=783>`_) / Фокус. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -4457,7 +4457,7 @@
 
 .. _spell--focus--Hearts-Desire:
 
-Заветное желание (`Heart's Desire <https://2e.aonprd.com/Spells.aspx?ID=784>`_) / Фокус. 3 ур.
+Заветное желание (`Heart's Desire <https://2e.aonprd.com/Spells.aspx?ID=784>`_) / Фокус. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -4495,7 +4495,7 @@
 
 .. _spell--focus--Wish-Twisted-Form:
 
-Искажающее желание (`Wish-Twisted Form <https://2e.aonprd.com/Spells.aspx?ID=790>`_) / Фокус. 5 ур.
+Искажающее желание (`Wish-Twisted Form <https://2e.aonprd.com/Spells.aspx?ID=790>`_) / Фокус. 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -4536,7 +4536,7 @@
 
 .. _spell--focus--Nymphs-Token:
 
-Символ нимфы (`Nymph's Token <https://2e.aonprd.com/Spells.aspx?ID=785>`_) / Фокус. 1 ур.
+Символ нимфы (`Nymph's Token <https://2e.aonprd.com/Spells.aspx?ID=785>`_) / Фокус. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -4563,7 +4563,7 @@
 
 .. _spell--focus--Blinding-Beauty:
 
-Ослепляющая красота (`Blinding Beauty <https://2e.aonprd.com/Spells.aspx?ID=779>`_) / Фокус. 3 ур.
+Ослепляющая красота (`Blinding Beauty <https://2e.aonprd.com/Spells.aspx?ID=779>`_) / Фокус. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -4594,7 +4594,7 @@
 
 .. _spell--focus--Establish-Ward:
 
-Установить защиту (`Establish Ward <https://2e.aonprd.com/Spells.aspx?ID=782>`_) / Фокус. 5 ур.
+Установить защиту (`Establish Ward <https://2e.aonprd.com/Spells.aspx?ID=782>`_) / Фокус. 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -4626,7 +4626,7 @@
 
 .. _spell--focus--Sepulchral-Mask:
 
-Погребальная маска (`Sepulchral Mask <https://2e.aonprd.com/Spells.aspx?ID=786>`_) / Фокус. 1 ур.
+Погребальная маска (`Sepulchral Mask <https://2e.aonprd.com/Spells.aspx?ID=786>`_) / Фокус. 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -4666,7 +4666,7 @@
 
 .. _spell--focus--Spirit-Veil:
 
-Духовная завеса (`Spirit Veil <https://2e.aonprd.com/Spells.aspx?ID=788>`_) / Фокус. 3 ур.
+Духовная завеса (`Spirit Veil <https://2e.aonprd.com/Spells.aspx?ID=788>`_) / Фокус. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -4694,7 +4694,7 @@
 
 .. _spell--focus--Shepherd-of-Souls:
 
-Пастырь душ (`Shepherd of Souls <https://2e.aonprd.com/Spells.aspx?ID=787>`_) / Фокус. 5 ур.
+Пастырь душ (`Shepherd of Souls <https://2e.aonprd.com/Spells.aspx?ID=787>`_) / Фокус. 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -4725,7 +4725,7 @@
 
 .. _spell--focus--Dim-the-Light:
 
-Приглушить свет (`Dim the Light <https://2e.aonprd.com/Spells.aspx?ID=781>`_) / Фокус. 1 ур.
+Приглушить свет (`Dim the Light <https://2e.aonprd.com/Spells.aspx?ID=781>`_) / Фокус. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -4748,7 +4748,7 @@
 
 .. _spell--focus--Steal-Shadow:
 
-Украсть тень (`Steal Shadow <https://2e.aonprd.com/Spells.aspx?ID=789>`_) / Фокус. 3 ур.
+Украсть тень (`Steal Shadow <https://2e.aonprd.com/Spells.aspx?ID=789>`_) / Фокус. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -4785,7 +4785,7 @@
 
 .. _spell--focus--Consuming-Darkness:
 
-Поглощающая тьма (`Consuming Darkness <https://2e.aonprd.com/Spells.aspx?ID=780>`_) / Фокус. 5 ур.
+Поглощающая тьма (`Consuming Darkness <https://2e.aonprd.com/Spells.aspx?ID=780>`_) / Фокус. 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
