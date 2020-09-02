@@ -167,7 +167,7 @@ darkvision: ночное зрение
 DC / difficulty class: класс сложности
 Deity: Божество
 	Irori: Ирори
-	Nethys: Нефис
+	Nethys: Нэфис
 	Shelyn: Шелин
 	Desna: Дезна
 	Calistria: Калистрия
@@ -187,6 +187,22 @@ Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
 	divine font: божественная сила
 	divine focus: сакральное сосредоточение/фокус
+domains: домены
+	glyph: символ
+	secrecy: тайна
+	trickery: хитрость
+	indulgence: потворство
+	might: мощь
+	void: пустота
+	knowledge: знания
+	perfection: совершенство
+	change: изменение
+	vigil: бдение
+	knowledge: знания
+	swarm: рой
+	creation: творчество
+	repose: покой
+	decay: разложение
 Domain Initiate: Посвященный в домен
 duration: продолжительность
 
@@ -565,6 +581,7 @@ Titles:
 	Vahird: Вахирд
 	Xulgath: Зулгат
 	Arclords of Nex: Верховные лорды Некса
+	Empyreal Lords: Небесные владыки
 trait: признак / особенность
 	оружие:
 		agile: быстрое
