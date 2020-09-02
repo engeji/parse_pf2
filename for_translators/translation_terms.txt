@@ -582,6 +582,11 @@ Titles:
 	Xulgath: Зулгат
 	Arclords of Nex: Верховные лорды Некса
 	Empyreal Lords: Небесные владыки
+	janni: джанни
+	djinni: джинн
+	efreeti: ифрит
+	marid: марид
+	shaitan: шайтан
 trait: признак / особенность
 	оружие:
 		agile: быстрое
