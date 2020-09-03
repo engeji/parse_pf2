@@ -17,7 +17,7 @@
 .. rst-class:: sidebar-char-ancestry-class
 
 .. sidebar:: hidden
-	
+
 	.. rubric:: Начальные умения
 
 	На 1-м уровне вы получаете указанный уровень мастерства в перечисленных показателях.
@@ -1431,7 +1431,7 @@
 
 .. _class-feat--Sorcerer--Split-Shot:
 
-Разделенный выстрел (`Split Shot <https://2e.aonprd.com/Feats.aspx?ID=1814>`_) |д-1| / 4
+Разделенный выстрел (`Split Shot (Sorcerer) <https://2e.aonprd.com/Feats.aspx?ID=1814>`_) |д-1| / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - метамагия
