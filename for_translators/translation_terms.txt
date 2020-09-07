@@ -56,7 +56,6 @@ actions:
 advanced alchemy: продвинутая алхимия
 Affliction: недуг
 alignment: мировоззрение
-Align Armament: (TODO перевод)
 ancestry: родословная
 animal companion: животное компаньон
 atone ritual: ритуал искупления
