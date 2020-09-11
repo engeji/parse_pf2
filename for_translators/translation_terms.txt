@@ -139,6 +139,7 @@ Creature: существо
 	beast: чудовище
 	fiends: бесы (демоны, дьяволы, ...)
 		devil: дьявол
+		daemon: дэймон
 		demon: демон
 		urdefhan: урдефаном
 	ooze: слизь
