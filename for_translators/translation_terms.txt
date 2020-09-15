@@ -141,7 +141,7 @@ Creature: существо
 		devil: дьявол
 		daemon: дэймон
 		demon: демон
-		urdefhan: урдефаном
+		urdefhan: урдефан
 	ooze: слизь
 	aberration: аберрация
 	spirit: дух

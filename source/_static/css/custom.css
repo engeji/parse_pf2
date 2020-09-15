@@ -1048,3 +1048,11 @@ div.craft-treasure-weapons div.section > h3 + ul li p.rare,
 div.craft-treasure-worn div.section > h3 + ul li p.rare {
 	background-color: #002664;
 }
+
+div.section > h2 + ul li p.alignment,
+div.section > h3 + ul li p.alignment,
+div.section > h4 + ul li p.alignment,
+div.section > h5 + ul li p.alignment,
+div.section > h6 + ul li p.alignment {
+	background-color: #576293;
+}
