@@ -236,6 +236,7 @@ heal: исцеление
 	healing: исцеление / исцелять
 heightening spells: усиление заклинаний
 heritage: наследственность
+hex: сглаз
 hit point: очко здоровья
 
 immunity: иммунитет
