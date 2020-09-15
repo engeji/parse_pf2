@@ -617,7 +617,7 @@ div.spells-descr div.section,
 div.gen-skill-actions div.section,
 div.skill-descr div.section,
 div.feats-descr div.section,
-div.animal div.section,
+div.animal.section,
 div.expl-activities div.section,
 div.spells-focus div.section,
 div.rituals-list div.section,
@@ -652,7 +652,7 @@ div.spells-descr div.section > p,
 div.gen-skill-actions div.section > p,
 div.skill-descr div.section > p,
 div.feats-descr div.section > p,
-div.animal div.section > p,
+div.animal.section > p,
 div.expl-activities div.section > p,
 div.spells-focus div.section > p,
 div.rituals-list div.section > p,
@@ -688,7 +688,7 @@ div.spells-descr div.section > h4,
 div.gen-skill-actions div.section > h4,
 div.skill-descr div.section > h4,
 div.feats-descr div.section > h3,
-div.animal div.section > h5,
+div.animal.section > h5,
 div.archetype.multiclass div.section > h5,
 div.archetype div.section > h4,
 div.expl-activities div.section > h4,
@@ -734,7 +734,7 @@ div.spells-descr div.section > h4 + ul,
 div.gen-skill-actions div.section > h4 + ul,
 div.skill-descr div.section > h4 + ul,
 div.feats-descr div.section > h3 + ul,
-div.animal div.section > h5 + ul,
+div.animal.section > h5 + ul,
 div.archetype.multiclass div.section > h5 + ul ,
 div.archetype div.section > h4 + ul ,
 div.expl-activities div.section > h4 + ul,
@@ -776,7 +776,7 @@ div.spells-descr div.section > h4 + ul li,
 div.gen-skill-actions div.section > h4 + ul li,
 div.skill-descr div.section > h4 + ul li,
 div.feats-descr div.section > h3 + ul li,
-div.animal div.section > h5 + ul li,
+div.animal.section > h5 + ul li,
 div.archetype.multiclass div.section > h5 + ul li,
 div.archetype div.section > h4 + ul li,
 div.expl-activities div.section > h4 + ul li,
@@ -816,7 +816,7 @@ div.spells-descr div.section > h4 + ul li p,
 div.gen-skill-actions div.section > h4 + ul li p,
 div.skill-descr div.section > h4 + ul li p,
 div.feats-descr div.section > h3 + ul li p,
-div.animal div.section > h5 + ul li p,
+div.animal.section > h5 + ul li p,
 div.archetype.multiclass div.section > h5 + ul li p,
 div.archetype div.section > h4 + ul li p,
 div.expl-activities div.section > h4 + ul li p,
@@ -857,7 +857,7 @@ div.spells-descr div.section hr,
 div.gen-skill-actions div.section hr,
 div.skill-descr div.section hr,
 div.feats-descr div.section hr,
-div.animal div.section hr,
+div.animal.section hr,
 div.archetype.multiclass div.section hr,
 div.archetype div.section hr,
 div.expl-activities div.section hr,
@@ -888,6 +888,17 @@ div.craft-treasure-worn div.section hr,
 div.actions-descr div.section hr {
 	border-top: 1px solid #404040;
 	margin: 1px 0;
+}
+
+div.animal.section h5 {
+	box-sizing: border-box;
+	color: #404040;
+	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+	font-size: 100%;
+	font-weight: 700;
+	margin-bottom: 0.3em;
+	margin-top: 0;
+	text-transform: uppercase;
 }
 
 div.gen-skill-actions div.section > h5 { /* некоторые подробности по действиям скиллов */
