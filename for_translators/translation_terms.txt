@@ -184,6 +184,8 @@ Deity: Божество
 	Achaekek: Ачакек
 	Shizuru: Шицуру
 	Tsukiyo: Цукио
+	Lady Nanbyo: Леди Наньбо
+	Ymeri: Имери
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
@@ -577,7 +579,7 @@ Titles:
 	Mihrini: Мирини
 	Jaric: Джарик
 	Uhlam: Улам
-	Mbe’ke: Мбе'ке
+	Mbe'ke: Мбе'ке
 	Taralu: Таралу
 	Ouat: Уат
 	Pahmet: Памэт
