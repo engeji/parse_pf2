@@ -182,6 +182,8 @@ Deity: Божество
 	Casandalee: Касандали
 	Green Faith: Зеленая вера
 	Achaekek: Ачакек
+	Shizuru: Шицуру
+	Tsukiyo: Цукио
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
