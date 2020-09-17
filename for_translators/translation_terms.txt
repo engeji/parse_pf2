@@ -187,6 +187,9 @@ Deity: Божество
 	Lady Nanbyo: Леди Наньбо
 	Ymeri: Имери
 	Qi Zhong: Ци Чжун
+	Gruhastha: Грухаста
+	Magdh: Магд
+	Monad: Монада
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
