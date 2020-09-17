@@ -166,6 +166,7 @@ darkvision: ночное зрение
 	Greater Darkvision: Сильное ночное зрение
 DC / difficulty class: класс сложности
 Deity: Божество
+	Elemental lord: повелитель стихии
 	Irori: Ирори
 	Nethys: Нэфис
 	Shelyn: Шелин
@@ -190,6 +191,7 @@ Deity: Божество
 	Gruhastha: Грухаста
 	Magdh: Магд
 	Monad: Монада
+	Hei Feng: Хей Фэн
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
