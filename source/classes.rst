@@ -36,6 +36,8 @@
 
 .. include:: /classes/witch.rst
 
+.. include:: /classes/oracle.rst
+
 
 
 .. include:: /classes/animal-companions-familiars.rst

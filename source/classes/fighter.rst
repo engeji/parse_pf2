@@ -467,7 +467,7 @@
 
 
 .. rst-class:: ancestry-class-feats
-.. _class-feats--fighter:
+.. _class-feats--Fighter:
 
 Способности воина (Fighter Feats)
 ---------------------------------------------------------------------------------------------------------
