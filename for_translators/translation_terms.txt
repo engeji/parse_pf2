@@ -186,6 +186,7 @@ Deity: Божество
 	Tsukiyo: Цукио
 	Lady Nanbyo: Леди Наньбо
 	Ymeri: Имери
+	Qi Zhong: Ци Чжун
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
