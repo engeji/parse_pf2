@@ -1,7 +1,7 @@
 .. rst-class:: archetype multiclass
 .. _archetype--Fighter:
 
-Воин (`Fighter <https://2e.aonprd.com/Archetypes.aspx?ID=7>`_)
+Воин (`Fighter (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=7>`_)
 -------------------------------------------------------------------------------------------------------------
 
 Вы потратили время, изучая искусство воинское искусство, повышая свое мастерство в воинском оружии и ношении доспехов.

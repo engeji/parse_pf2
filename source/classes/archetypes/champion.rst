@@ -1,7 +1,7 @@
 .. rst-class:: archetype multiclass
 .. _archetype--Champion:
 
-Чемпион (`Champion <https://2e.aonprd.com/Archetypes.aspx?ID=4>`_)
+Чемпион (`Champion (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=4>`_)
 -------------------------------------------------------------------------------------------------------------
 
 Вы дали торжественную клятву своему божеству, которое даровало вам силу чемпиона, чтобы помочь вашем деле.

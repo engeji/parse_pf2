@@ -1,7 +1,7 @@
 .. rst-class:: archetype multiclass
 .. _archetype--Bard:
 
-Бард (`Bard <https://2e.aonprd.com/Archetypes.aspx?ID=3>`_)
+Бард (`Bard (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=3>`_)
 -------------------------------------------------------------------------------------------------------------
 
 Муза призвала вас к занятиям оккультными знаниями, позволяя вам произносить несколько заклинаний.
