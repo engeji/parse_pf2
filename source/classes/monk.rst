@@ -1,7 +1,7 @@
 .. rst-class:: char-class
 .. _ch3--classes--monk:
 
-Монах (Monk)
+Монах (`Monk <https://2e.aonprd.com/Classes.aspx?ID=8>`_)
 =========================================================================================
 
 .. epigraph::

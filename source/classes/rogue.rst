@@ -1,7 +1,7 @@
 .. rst-class:: char-class
 .. _ch3--classes--rogue:
 
-Плут (Rogue)
+Плут (`Rogue <https://2e.aonprd.com/Classes.aspx?ID=10>`_)
 =========================================================================================
 
 .. epigraph::

@@ -1,7 +1,7 @@
 .. rst-class:: char-class
 .. _ch3--classes--fighter:
 
-Воин (Fighter)
+Воин (`Fighter <https://2e.aonprd.com/Classes.aspx?ID=7>`_)
 =========================================================================================
 
 .. epigraph::

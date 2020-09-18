@@ -1,7 +1,7 @@
 .. rst-class:: char-class
 .. _ch3--classes--barbarian:
 
-Варвар (Barbarian)
+Варвар (`Barbarian <https://2e.aonprd.com/Classes.aspx?ID=2>`_)
 =========================================================================================
 
 .. epigraph::
