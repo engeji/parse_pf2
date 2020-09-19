@@ -1979,7 +1979,7 @@
 
 | **Критический успех**: Вы получаете крит.успешный эффект :ref:`skill--Athletics--Shove` и потом крит.успешный эффект :ref:`skill--Athletics--Trip` против цели
 | **Успех**: Вы получаете успешный эффект :ref:`skill--Athletics--Shove` и потом успешный эффект :ref:`skill--Athletics--Trip` против цели
-| **Неудача**: Вы получаете обычный эффект :ref:`class-feat--Barbarian--Knockback`
+| **Провал**: Вы получаете обычный эффект :ref:`class-feat--Barbarian--Knockback`
 
 
 .. _class-feat--Barbarian--Giants-Lunge:
