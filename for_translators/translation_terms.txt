@@ -28,7 +28,7 @@ actions:
 	Mount: Оседлать :ref:`action--Mount`
 	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
 	Identify Alchemy: Определение алхимии :ref:`expl-activity--Identify-Alchemy`
-	Decipher Writing: Расшифровка Писаний :ref:`activity--gen--Decipher-Writing`
+	Decipher Writing: Расшифровка текста :ref:`activity--gen--Decipher-Writing`
 	Earn Income: Заработать деньги :ref:`expl-activity--Earn-Income`
 	Leap: Прыжок :ref:`action--Leap`
 	Recall Knowledge: Вспомнить Изученное :ref:`skill--Recall-Knowledge`
