@@ -1,7 +1,7 @@
 .. rst-class:: archetype multiclass
 .. _archetype--Druid:
 
-Друид (`Druid <https://2e.aonprd.com/Archetypes.aspx?ID=6>`_)
+Друид (`Druid (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=6>`_)
 -------------------------------------------------------------------------------------------------------------
 
 Вы вступили в круг друидов и научились нескольким секретам ордена, дающим вам природную силу.

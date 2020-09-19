@@ -1,7 +1,7 @@
 .. rst-class:: char-class
 .. _ch3--classes--wizard:
 
-Волшебник (Wizard)
+Волшебник (`Wizard <https://2e.aonprd.com/Classes.aspx?ID=12>`_)
 =========================================================================================
 
 .. epigraph::

@@ -1,7 +1,7 @@
 .. rst-class:: char-class
 .. _ch3--classes--Witch:
 
-Ведьма (Witch)
+Ведьма (`Witch <https://2e.aonprd.com/Classes.aspx?ID=16>`_)
 =========================================================================================
 
 .. epigraph::

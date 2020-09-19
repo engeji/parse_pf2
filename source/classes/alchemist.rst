@@ -1,7 +1,7 @@
 .. rst-class:: char-class
 .. _ch3--classes--alchemist:
 
-Алхимик (Alchemist)
+Алхимик (`Alchemist <https://2e.aonprd.com/Classes.aspx?ID=1>`_)
 =========================================================================================
 
 

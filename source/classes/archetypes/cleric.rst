@@ -1,7 +1,7 @@
 .. rst-class:: archetype multiclass
 .. _archetype--Cleric:
 
-Жрец (`Cleric <https://2e.aonprd.com/Archetypes.aspx?ID=5>`_)
+Жрец (`Cleric (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=5>`_)
 -------------------------------------------------------------------------------------------------------------
 
 Ты посвященный жрец своего божества и даже научился сотворять несколько сакральных заклинаний.

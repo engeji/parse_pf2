@@ -1,7 +1,7 @@
 .. rst-class:: archetype multiclass
 .. _archetype--Barbarian:
 
-Варвар (`Barbarian <https://2e.aonprd.com/Archetypes.aspx?ID=2>`_)
+Варвар (`Barbarian (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=2>`_)
 -------------------------------------------------------------------------------------------------------------
 
 Глубоко внутри вас таится ярость, которая иногда прорывается наружу, даруя вам часть мощи варвара в дополнение к другим способностям.

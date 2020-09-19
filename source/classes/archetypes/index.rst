@@ -107,18 +107,20 @@
 
 
 
+.. include:: /classes/archetypes/fighter.rst
 .. include:: /classes/archetypes/barbarian.rst
 .. include:: /classes/archetypes/champion.rst
-.. include:: /classes/archetypes/fighter.rst
 .. include:: /classes/archetypes/monk.rst
-.. include:: /classes/archetypes/ranger.rst
 .. include:: /classes/archetypes/rogue.rst
+.. include:: /classes/archetypes/ranger.rst
+
 .. include:: /classes/archetypes/alchemist.rst
+.. include:: /classes/archetypes/bard.rst
+
 .. include:: /classes/archetypes/cleric.rst
 .. include:: /classes/archetypes/druid.rst
-.. include:: /classes/archetypes/bard.rst
-.. include:: /classes/archetypes/sorcerer.rst
 .. include:: /classes/archetypes/wizard.rst
+.. include:: /classes/archetypes/sorcerer.rst
 
 
 .. include:: /classes/archetypes/dlc/aldori_duelist.rst

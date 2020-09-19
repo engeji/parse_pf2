@@ -1,7 +1,7 @@
 .. rst-class:: archetype multiclass
 .. _archetype--Ranger:
 
-Рейнджер (`Ranger <https://2e.aonprd.com/Archetypes.aspx?ID=9>`_)
+Рейнджер (`Ranger (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=9>`_)
 -------------------------------------------------------------------------------------------------------------
 
 Вы научились охотиться, выслеживать и выживать в дикой местности, добавляя навыки рейнджера в свой арсенал.

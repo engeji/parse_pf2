@@ -11,31 +11,20 @@
 
 
 .. include:: /classes/fighter.rst
-
 .. include:: /classes/barbarian.rst
-
 .. include:: /classes/champion.rst
-
+.. include:: /classes/monk.rst
 .. include:: /classes/rogue.rst
-
 .. include:: /classes/ranger.rst
 
-.. include:: /classes/monk.rst
-
 .. include:: /classes/alchemist.rst
-
 .. include:: /classes/bard.rst
 
 .. include:: /classes/cleric.rst
-
-.. include:: /classes/wizard.rst
-
-.. include:: /classes/sorcerer.rst
-
 .. include:: /classes/druid.rst
-
+.. include:: /classes/wizard.rst
 .. include:: /classes/witch.rst
-
+.. include:: /classes/sorcerer.rst
 .. include:: /classes/oracle.rst
 
 

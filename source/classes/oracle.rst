@@ -1488,7 +1488,7 @@
 
 .. _class-feat--Oracle--Surging-Might:
 
-Название (`Surging Might <https://2e.aonprd.com/Feats.aspx?ID=1499>`_) |д-1| / 10
+Рвущаяся мощь (`Surging Might <https://2e.aonprd.com/Feats.aspx?ID=1499>`_) |д-1| / 10
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - метамагия

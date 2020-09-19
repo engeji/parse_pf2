@@ -1,7 +1,7 @@
 .. rst-class:: char-class
 .. _ch3--classes--champion:
 
-Чемпион (Champion)
+Чемпион (`Champion <https://2e.aonprd.com/Classes.aspx?ID=4>`_)
 =========================================================================================
 
 .. epigraph::
