@@ -1485,7 +1485,7 @@
 
 .. _skill--Diplomacy--Make-an-Impression:
 
-Произвести Впечатление (`Make an Impression <https://2e.aonprd.com/Actions.aspx?ID=50>`_)
+Произвести впечатление (`Make an Impression <https://2e.aonprd.com/Actions.aspx?ID=50>`_)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - слуховое
@@ -1595,6 +1595,7 @@
 
 
 .. rst-class:: skill-descr
+.. _skill--Lore:
 
 Знания (Инт) (Lore (Int))
 -----------------------------------------------------------------------------------------------------------
@@ -1636,7 +1637,7 @@
 	* Шахтерские (Mining)
 	* Мореходные (Sailing)
 	* Разведки (Scouting)
-	* Письмена/гравировка (Scribing)
+	* Гравировка (Scribing)
 	* Конные (Stabling)
 	* Дубление (Tanning)
 	* Театральные (Theater)

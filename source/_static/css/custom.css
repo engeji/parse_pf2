@@ -493,6 +493,7 @@ div.game-mode h2 {
 /* as h2*/
 div.char-creation-step h3,
 div.ancestry h3,
+div.backgrounds h3,
 div.languages h3,
 div.char-class h3,
 div.animal-companions h3,
@@ -593,7 +594,7 @@ div.game-mode h5 {
 	text-transform: initial;
 }
 
-div.backgrounds h3 { /* в этом разделе нет вложенностей, h3 это уже описание предысторий */
+div.backgrounds h4 { /* в этом разделе нет вложенностей, h3 это уже описание предысторий */
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
