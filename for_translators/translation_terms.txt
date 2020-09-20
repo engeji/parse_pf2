@@ -481,7 +481,7 @@ Skill: Навык
 		Impersonate: Перевоплотиться :ref:`skill--Deception--Impersonate`
 	Diplomacy: Дипломатия
 		Gather Information: Собрать информацию :ref:`skill--Diplomacy--Gather-Info`
-		Make an Impression: Произвести Впечатление :ref:`skill--Diplomacy--Make-an-Impression`
+		Make an Impression: Произвести впечатление :ref:`skill--Diplomacy--Make-an-Impression`
 		Request: Просьба :ref:`skill--Diplomacy--Request`
 	Intimidation: Запугивание
 		Coerce: Принуждение :ref:`skill--Intimidation--Coerce`
