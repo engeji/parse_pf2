@@ -416,6 +416,7 @@ proficiency bonus: бонус мастерства
 plane: план
 	Demiplane: полуплан
 	Outer Sphere: Внешняя Сфера
+	Hell: Ад
 	Abyss: Бездна
 	Astral: Астральный
 	Heaven: Небесный
@@ -561,6 +562,7 @@ Titles:
 	Mualijae: Муалижэец
 	Ilverani: Илверанец
 	Vourinoi: Вуринуа
+	Quah: куа
 	Spiresworn elf: Присягнувший шпилю эльф
 	Irrisen: Иррисен
 	Thassilon: Тассилон
@@ -598,6 +600,11 @@ Titles:
 	efreeti: ифрит
 	marid: марид
 	shaitan: шайтан
+	Rivethun: Риватун
+	Verduran Forest: Вердюранский лес
+	Wildwood: Диколесье
+	Bellflower: Беллфлауэ
+	Westcrown: Вэсткраун
 trait: признак / особенность
 	оружие:
 		agile: быстрое
