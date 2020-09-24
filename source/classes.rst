@@ -16,6 +16,7 @@
 .. include:: /classes/monk.rst
 .. include:: /classes/rogue.rst
 .. include:: /classes/ranger.rst
+.. include:: /classes/swashbuckler.rst
 
 .. include:: /classes/alchemist.rst
 .. include:: /classes/bard.rst
