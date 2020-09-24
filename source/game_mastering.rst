@@ -1,10 +1,8 @@
 .. include:: /helpers/roles.rst
+.. _ch10--game-mastering:
 
-
-.. _rst--ch10--game-mastering--label:
-
-ГМство / Game Mastering
-===========================
+10. ГМство (Game Mastering)
+==========================================================================================================
 
 .. epigraph::
 
