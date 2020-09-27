@@ -15,6 +15,7 @@
 .. include:: /classes/champion.rst
 .. include:: /classes/monk.rst
 .. include:: /classes/rogue.rst
+.. include:: /classes/swashbuckler.rst
 .. include:: /classes/ranger.rst
 
 .. include:: /classes/alchemist.rst
