@@ -18,6 +18,7 @@
 .. include:: /classes/swashbuckler.rst
 .. include:: /classes/ranger.rst
 
+.. include:: /classes/investigator.rst
 .. include:: /classes/alchemist.rst
 .. include:: /classes/bard.rst
 
