@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: backgrounds
 .. _ch2--Backgrounds:
 
@@ -1604,3 +1606,9 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 
 Вы обучены **Оккультизму** и Знаниям проклятий (Curse).
 Вы получаете способность навыка :ref:`feat--Oddity-Identification`.
+
+
+
+
+
+.. include:: /helpers/actions.rst

@@ -246,6 +246,8 @@ heal: исцеление
 	healing: исцеление / исцелять
 heightening spells: усиление заклинаний
 heritage: наследственность
+	changeling: подменыш
+	duskwalker: TODO
 hex: сглаз
 hit point: очко здоровья
 

@@ -10,7 +10,7 @@ Pathfinder 2e
    :maxdepth: 2
    
    introduction
-   ancestries_and_backgrounds
+   ancestries_and_backgrounds/index
    classes/index
    skills
    feats
