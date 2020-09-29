@@ -1,5 +1,3 @@
-.. include:: /helpers/roles.rst
-
 .. _ch3--classes:
 
 ********************************************************************************************************
@@ -166,35 +164,49 @@
 
 
 
-.. include:: /classes/fighter.rst
-.. include:: /classes/barbarian.rst
-.. include:: /classes/champion.rst
-.. include:: /classes/monk.rst
-.. include:: /classes/rogue.rst
-.. include:: /classes/swashbuckler.rst
-.. include:: /classes/ranger.rst
+.. _ch3--classes-list:
 
-.. include:: /classes/investigator.rst
-.. include:: /classes/alchemist.rst
-.. include:: /classes/bard.rst
+Список классов
+============================================================================================================
 
-.. include:: /classes/cleric.rst
-.. include:: /classes/druid.rst
-.. include:: /classes/wizard.rst
-.. include:: /classes/witch.rst
-.. include:: /classes/sorcerer.rst
-.. include:: /classes/oracle.rst
+.. toctree::
+   :maxdepth: 2
 
+   fighter
+   barbarian
+   champion
+   monk
+   rogue
+   swashbuckler
+   ranger
 
+   investigator
+   alchemist
+   bard
 
-.. include:: /classes/animal-companions-familiars.rst
-
-
-
-.. include:: /classes/archetypes/index.rst
-
-
+   cleric
+   druid
+   wizard
+   witch
+   sorcerer
+   oracle
 
 
 
-.. include:: /helpers/actions.rst
+Звери-компаньоны и Фамильяры (Animal Companions and Familiars)
+============================================================================================================
+
+.. toctree::
+   :maxdepth: 2
+
+   animal-companions-familiars
+
+
+
+Архетипы (Archetypes)
+============================================================================================================
+
+.. toctree::
+   :maxdepth: 2
+
+   archetypes/index

@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype
 .. _archetype--Runescarred:
 
@@ -10,7 +12,7 @@
 
 .. _arch-feat--Runescarred--Dedication:
 
-Посвящение покрытого рунами (`Runescarred Dedication <https://2e.aonprd.com/Feats.aspx?ID=912>`_) / 2 ур.
+Посвящение покрытого рунами (`Runescarred Dedication <https://2e.aonprd.com/Feats.aspx?ID=912>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычное`
@@ -37,7 +39,7 @@
 
 .. _arch-feat--Runescarred--Spell-Runes:
 
-Руны заклинаний (`Spell Runes <https://2e.aonprd.com/Feats.aspx?ID=913>`_) / 4 ур.
+Руны заклинаний (`Spell Runes <https://2e.aonprd.com/Feats.aspx?ID=913>`_) / 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -56,7 +58,7 @@
 
 .. _arch-feat--Runescarred--Living-Rune:
 
-Живая руна (`Living Rune <https://2e.aonprd.com/Feats.aspx?ID=914>`_) / 6 ур.
+Живая руна (`Living Rune <https://2e.aonprd.com/Feats.aspx?ID=914>`_) / 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -74,7 +76,7 @@
 
 .. _arch-feat--Runescarred--Warding-Rune:
 
-Отражающая руна (`Warding Rune <https://2e.aonprd.com/Feats.aspx?ID=915>`_) / 6 ур.
+Отражающая руна (`Warding Rune <https://2e.aonprd.com/Feats.aspx?ID=915>`_) / 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -92,7 +94,7 @@
 
 .. _arch-feat--Runescarred--Greater-Spell-Runes:
 
-Великие руны заклинаний (`Greater Spell Runes <https://2e.aonprd.com/Feats.aspx?ID=916>`_) / 10 ур.
+Великие руны заклинаний (`Greater Spell Runes <https://2e.aonprd.com/Feats.aspx?ID=916>`_) / 10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -106,3 +108,9 @@
 Вы получаете более сильные руны заклинаний.
 Вы получаете руну заклинаний соответствующую арканному заклинанию 4-го уровня.
 На 12-м уровне вы получаете руну заклинания соответствующую арканному заклинанию 5-го уровня, а на 14-м уровне руну заклинания соответствующую арканному заклинанию 6-го уровня.
+
+
+
+
+
+.. include:: /helpers/actions.rst

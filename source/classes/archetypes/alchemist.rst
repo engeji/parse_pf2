@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Alchemist:
 
@@ -23,7 +25,7 @@
 
 .. _arch-feat--Alchemist--Dedication:
 
-Посвящение алхимика (`Alchemist Dedication <https://2e.aonprd.com/Feats.aspx?ID=665>`_) / 2 ур.
+Посвящение алхимика (`Alchemist Dedication <https://2e.aonprd.com/Feats.aspx?ID=665>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -47,7 +49,7 @@
 
 .. _arch-feat--Alchemist--Basic-Concoction:
 
-Простая смесь (`Basic Concoction <https://2e.aonprd.com/Feats.aspx?ID=666>`_) / 4 ур.
+Простая смесь (`Basic Concoction <https://2e.aonprd.com/Feats.aspx?ID=666>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -61,7 +63,7 @@
 
 .. _arch-feat--Alchemist--Quick-Alchemy:
 
-Быстрая алхимия (`Quick Alchemy <https://2e.aonprd.com/Feats.aspx?ID=667>`_) / 4 ур.
+Быстрая алхимия (`Quick Alchemy <https://2e.aonprd.com/Feats.aspx?ID=667>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -75,7 +77,7 @@
 
 .. _arch-feat--Alchemist--Advanced-Concoction:
 
-Продвинутая смесь (`Advanced Concoction <https://2e.aonprd.com/Feats.aspx?ID=668>`_) / 6 ур.
+Продвинутая смесь (`Advanced Concoction <https://2e.aonprd.com/Feats.aspx?ID=668>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -93,7 +95,7 @@
 
 .. _arch-feat--Alchemist--Expert-Alchemy:
 
-Экспертная алхимия (`Expert Alchemy <https://2e.aonprd.com/Feats.aspx?ID=669>`_) / 6 ур.
+Экспертная алхимия (`Expert Alchemy <https://2e.aonprd.com/Feats.aspx?ID=669>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -108,7 +110,7 @@
 
 .. _arch-feat--Alchemist--Master-Alchemy:
 
-Мастерская алхимия (`Master Alchemy <https://2e.aonprd.com/Feats.aspx?ID=670>`_) / 12 ур.
+Мастерская алхимия (`Master Alchemy <https://2e.aonprd.com/Feats.aspx?ID=670>`_) / 12
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -119,3 +121,9 @@
 
 Ваш уровень продвинутой алхимии увеличивается до 7.
 За каждый уровень, который вы получаете после 12-го, ваш уровень продвинутой алхимии увеличивается на 1.
+
+
+
+
+
+.. include:: /helpers/actions.rst

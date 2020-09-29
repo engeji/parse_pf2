@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Rogue:
 
@@ -23,7 +25,7 @@
 
 .. _arch-feat--Rogue--Dedication:
 
-Посвящение плута (`Rogue Dedication <https://2e.aonprd.com/Feats.aspx?ID=727>`_) / 2 ур.
+Посвящение плута (`Rogue Dedication <https://2e.aonprd.com/Feats.aspx?ID=727>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -44,7 +46,7 @@
 
 .. _arch-feat--Rogue--Basic-Trickery:
 
-Основная уловка (`Basic Trickery <https://2e.aonprd.com/Feats.aspx?ID=728>`_) / 4 ур.
+Основная уловка (`Basic Trickery <https://2e.aonprd.com/Feats.aspx?ID=728>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -58,7 +60,7 @@
 
 .. _arch-feat--Rogue--Sneak-Attacker:
 
-Бьющий исподтишка (`Sneak Attacker <https://2e.aonprd.com/Feats.aspx?ID=729>`_) / 4 ур.
+Бьющий исподтишка (`Sneak Attacker <https://2e.aonprd.com/Feats.aspx?ID=729>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -73,7 +75,7 @@
 
 .. _arch-feat--Rogue--Advanced-Trickery:
 
-Продвинутая уловка (`Advanced Trickery <https://2e.aonprd.com/Feats.aspx?ID=730>`_) / 6 ур.
+Продвинутая уловка (`Advanced Trickery <https://2e.aonprd.com/Feats.aspx?ID=730>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -91,7 +93,7 @@
 
 .. _arch-feat--Rogue--Skill-Mastery:
 
-Мастерство навыка (`Skill Mastery <https://2e.aonprd.com/Feats.aspx?ID=731>`_) / 8 ур.
+Мастерство навыка (`Skill Mastery <https://2e.aonprd.com/Feats.aspx?ID=731>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -108,7 +110,7 @@
 
 .. _arch-feat--Rogue--Uncanny-Dodge:
 
-Невероятное уклонение (`Uncanny Dodge <https://2e.aonprd.com/Feats.aspx?ID=732>`_) / 10 ур.
+Невероятное уклонение (`Uncanny Dodge <https://2e.aonprd.com/Feats.aspx?ID=732>`_) / 10
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -122,7 +124,7 @@
 
 .. _arch-feat--Rogue--Evasiveness:
 
-Увертливость (`Evasiveness <https://2e.aonprd.com/Feats.aspx?ID=733>`_) / 12 ур.
+Увертливость (`Evasiveness <https://2e.aonprd.com/Feats.aspx?ID=733>`_) / 12
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -132,3 +134,9 @@
 ----------
 
 Ваш уровень мастерства для спасброска Рефлекса увеличивается до мастера.
+
+
+
+
+
+.. include:: /helpers/actions.rst

@@ -106,27 +106,36 @@
 	Предложение о коронных заклинаниях.
 
 
+Список архетипов 
+=================================================================================================
 
-.. include:: /classes/archetypes/fighter.rst
-.. include:: /classes/archetypes/barbarian.rst
-.. include:: /classes/archetypes/champion.rst
-.. include:: /classes/archetypes/monk.rst
-.. include:: /classes/archetypes/rogue.rst
-.. include:: /classes/archetypes/ranger.rst
+.. toctree::
+   :maxdepth: 1
 
-.. include:: /classes/archetypes/alchemist.rst
-.. include:: /classes/archetypes/bard.rst
+   fighter
+   barbarian
+   champion
+   monk
+   rogue
+   swashbuckler
+   ranger
 
-.. include:: /classes/archetypes/cleric.rst
-.. include:: /classes/archetypes/druid.rst
-.. include:: /classes/archetypes/wizard.rst
-.. include:: /classes/archetypes/sorcerer.rst
+   investigator
+   alchemist
+   bard
+
+   cleric
+   druid
+   wizard
+   witch
+   sorcerer
+   oracle
 
 
-.. include:: /classes/archetypes/dlc/aldori_duelist.rst
-.. include:: /classes/archetypes/dlc/runescarred.rst
-.. include:: /classes/archetypes/dlc/student_of_perfection.rst
-.. include:: /classes/archetypes/dlc/living_monolith.rst
-.. include:: /classes/archetypes/dlc/lion_blade.rst
-.. include:: /classes/archetypes/dlc/red_mantis_assassin.rst
-.. include:: /classes/archetypes/dlc/magic_warrior.rst
+   dlc/aldori_duelist
+   dlc/runescarred
+   dlc/student_of_perfection
+   dlc/living_monolith
+   dlc/lion_blade
+   dlc/red_mantis_assassin
+   dlc/magic_warrior

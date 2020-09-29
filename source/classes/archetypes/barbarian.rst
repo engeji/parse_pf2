@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Barbarian:
 
@@ -16,7 +18,7 @@
 
 .. _arch-feat--Barbarian--Dedication:
 
-Посвящение варвара (`Barbarian Dedication <https://2e.aonprd.com/Feats.aspx?ID=671>`_) / 2 ур.
+Посвящение варвара (`Barbarian Dedication <https://2e.aonprd.com/Feats.aspx?ID=671>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -40,7 +42,7 @@
 
 .. _arch-feat--Barbarian--Resiliency:
 
-Варварская стойкость (`Barbarian Resiliency <https://2e.aonprd.com/Feats.aspx?ID=672>`_) / 4 ур.
+Варварская стойкость (`Barbarian Resiliency <https://2e.aonprd.com/Feats.aspx?ID=672>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -55,7 +57,7 @@
 
 .. _arch-feat--Barbarian--Basic-Fury:
 
-Основная ярость (`Basic Fury <https://2e.aonprd.com/Feats.aspx?ID=673>`_) / 4 ур.
+Основная ярость (`Basic Fury <https://2e.aonprd.com/Feats.aspx?ID=673>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -69,7 +71,7 @@
 
 .. _arch-feat--Barbarian--Advanced-Fury:
 
-Улучшенная ярость (`Advanced Fury <https://2e.aonprd.com/Feats.aspx?ID=674>`_) / 6 ур.
+Улучшенная ярость (`Advanced Fury <https://2e.aonprd.com/Feats.aspx?ID=674>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -87,7 +89,7 @@
 
 .. _arch-feat--Barbarian--Instinct-Ability:
 
-Способность инстинкта (`Instinct Ability <https://2e.aonprd.com/Feats.aspx?ID=675>`_) / 6 ур.
+Способность инстинкта (`Instinct Ability <https://2e.aonprd.com/Feats.aspx?ID=675>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -101,7 +103,7 @@
 
 .. _arch-feat--Barbarian--Juggernauts-Fortitude:
 
-Стойкость джаггернаута (`Juggernaut's Fortitude <https://2e.aonprd.com/Feats.aspx?ID=676>`_) / 12 ур.
+Стойкость джаггернаута (`Juggernaut's Fortitude <https://2e.aonprd.com/Feats.aspx?ID=676>`_) / 12
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -111,3 +113,9 @@
 ----------
 
 Ваш уровень мастерства спасбросков Стойкости увеличивается до мастера.
+
+
+
+
+
+.. include:: /helpers/actions.rst

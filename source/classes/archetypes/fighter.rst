@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Fighter:
 
@@ -23,7 +25,7 @@
 
 .. _arch-feat--Fighter--Dedication:
 
-Посвящение воина (`Fighter Dedication <https://2e.aonprd.com/Feats.aspx?ID=709>`_) / 2 ур.
+Посвящение воина (`Fighter Dedication <https://2e.aonprd.com/Feats.aspx?ID=709>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -43,7 +45,7 @@
 
 .. _arch-feat--Fighter--Basic-Maneuver:
 
-Основной прием (`Basic Maneuver <https://2e.aonprd.com/Feats.aspx?ID=710>`_) / 4 ур.
+Основной прием (`Basic Maneuver <https://2e.aonprd.com/Feats.aspx?ID=710>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -57,8 +59,8 @@
 
 .. _arch-feat--Fighter--Resiliency:
 
-Воинская стойкость (`Fighter Resiliency <https://2e.aonprd.com/Feats.aspx?ID=711>`_) / 4 ур.
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Воинская стойкость (`Fighter Resiliency (Archetype) <https://2e.aonprd.com/Feats.aspx?ID=711>`_) / 4
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -72,7 +74,7 @@
 
 .. _arch-feat--Fighter--Opportunist:
 
-Оппортунист (`Opportunist <https://2e.aonprd.com/Feats.aspx?ID=712>`_) / 4 ур.
+Оппортунист (`Opportunist <https://2e.aonprd.com/Feats.aspx?ID=712>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -86,7 +88,7 @@
 
 .. _arch-feat--Fighter--Advanced-Maneuver:
 
-Улучшенный прием (`Advanced Maneuver <https://2e.aonprd.com/Feats.aspx?ID=713>`_) / 6 ур.
+Улучшенный прием (`Advanced Maneuver <https://2e.aonprd.com/Feats.aspx?ID=713>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -104,8 +106,8 @@
 
 .. _arch-feat--Fighter--Diverse-Weapon-Expert:
 
-Разносторонний эксперт оружия (`Diverse Weapon Expert <https://2e.aonprd.com/Feats.aspx?ID=714>`_) / 12 ур.
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Разносторонний эксперт оружия (`Diverse Weapon Expert <https://2e.aonprd.com/Feats.aspx?ID=714>`_) / 12
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -114,3 +116,9 @@
 ----------
 
 Ваш уровень мастерства с простым и воинским оружием увеличивается до эксперта, а ваш уровень мастерства улучшенного оружия увеличивается до обученного.
+
+
+
+
+
+.. include:: /helpers/actions.rst

@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Sorcerer:
 
@@ -15,7 +17,7 @@
 
 .. _arch-feat--Sorcerer--Dedication:
 
-Посвящение чародея (`Sorcerer Dedication <https://2e.aonprd.com/Feats.aspx?ID=734>`_) / 2 ур.
+Посвящение чародея (`Sorcerer Dedication <https://2e.aonprd.com/Feats.aspx?ID=734>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -46,7 +48,7 @@
 
 .. _arch-feat--Sorcerer--Basic-Spellcasting:
 
-Основное колдовство чародея (`Basic Sorcerer Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=735>`_) / 4 ур.
+Основное колдовство чародея (`Basic Sorcerer Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=735>`_) / 4
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -61,7 +63,7 @@
 
 .. _arch-feat--Sorcerer--Basic-Blood-Potency:
 
-Основная мощь крови (`Basic Blood Potency <https://2e.aonprd.com/Feats.aspx?ID=736>`_) / 4 ур.
+Основная мощь крови (`Basic Blood Potency <https://2e.aonprd.com/Feats.aspx?ID=736>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -75,7 +77,7 @@
 
 .. _arch-feat--Sorcerer--Basic-Bloodline-Spell:
 
-Основные заклинания наследия (`Basic Bloodline Spell <https://2e.aonprd.com/Feats.aspx?ID=737>`_) / 4 ур.
+Основные заклинания наследия (`Basic Bloodline Spell <https://2e.aonprd.com/Feats.aspx?ID=737>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -90,7 +92,7 @@
 
 .. _arch-feat--Sorcerer--Advanced-Blood-Potency:
 
-Улучшенная мощь крови (`Advanced Blood Potency <https://2e.aonprd.com/Feats.aspx?ID=738>`_) / 6 ур.
+Улучшенная мощь крови (`Advanced Blood Potency <https://2e.aonprd.com/Feats.aspx?ID=738>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -108,7 +110,7 @@
 
 .. _arch-feat--Sorcerer--Bloodline-Breadth:
 
-Широта наследия (`Bloodline Breadth <https://2e.aonprd.com/Feats.aspx?ID=739>`_) / 8 ур.
+Широта наследия (`Bloodline Breadth <https://2e.aonprd.com/Feats.aspx?ID=739>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -123,8 +125,8 @@
 
 .. _arch-feat--Sorcerer--Expert-Spellcasting:
 
-Экспертное колдовство чародея (`Expert Sorcerer Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=740>`_) / 12 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Экспертное колдовство чародея (`Expert Sorcerer Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=740>`_) / 12
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -137,8 +139,8 @@
 
 .. _arch-feat--Sorcerer--Master-Spellcasting:
 
-Экспертное колдовство чародея (`Master Sorcerer Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=741>`_) / 18 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Экспертное колдовство чародея (`Master Sorcerer Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=741>`_) / 18
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -147,3 +149,9 @@
 ----------
 
 Вы получаете преимущества :ref:`arch--Master-Spellcasting`.
+
+
+
+
+
+.. include:: /helpers/actions.rst

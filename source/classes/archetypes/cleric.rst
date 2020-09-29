@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Cleric:
 
@@ -21,7 +23,7 @@
 
 .. _arch-feat--Cleric--Dedication:
 
-Посвящение жреца (`Cleric Dedication <https://2e.aonprd.com/Feats.aspx?ID=694>`_) / 2 ур.
+Посвящение жреца (`Cleric Dedication <https://2e.aonprd.com/Feats.aspx?ID=694>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -50,7 +52,7 @@
 
 .. _arch-feat--Cleric--Basic-Spellcasting:
 
-Основное колдовство жреца (`Basic Cleric Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=695>`_) / 4 ур.
+Основное колдовство жреца (`Basic Cleric Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=695>`_) / 4
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -65,7 +67,7 @@
 
 .. _arch-feat--Cleric--Basic-Dogma:
 
-Основная догма (`Basic Dogma <https://2e.aonprd.com/Feats.aspx?ID=696>`_) / 4 ур.
+Основная догма (`Basic Dogma <https://2e.aonprd.com/Feats.aspx?ID=696>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -79,7 +81,7 @@
 
 .. _arch-feat--Cleric--Advanced-Dogma:
 
-Улучшенная догма (`Advanced Dogma <https://2e.aonprd.com/Feats.aspx?ID=697>`_) / 6 ур.
+Улучшенная догма (`Advanced Dogma <https://2e.aonprd.com/Feats.aspx?ID=697>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -97,7 +99,7 @@
 
 .. _arch-feat--Cleric--Divine-Breadth:
 
-Сакральная широта (`Divine Breadth <https://2e.aonprd.com/Feats.aspx?ID=698>`_) / 8 ур.
+Сакральная широта (`Divine Breadth <https://2e.aonprd.com/Feats.aspx?ID=698>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -112,8 +114,8 @@
 
 .. _arch-feat--Cleric--Expert-Spellcasting:
 
-Экспертное колдовство жреца (`Expert Cleric Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=699>`_) / 12 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Экспертное колдовство жреца (`Expert Cleric Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=699>`_) / 12
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -126,8 +128,8 @@
 
 .. _arch-feat--Cleric--Master-Spellcasting:
 
-Экспертное колдовство жреца (`Master Cleric Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=700>`_) / 18 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Экспертное колдовство жреца (`Master Cleric Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=700>`_) / 18
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -136,3 +138,9 @@
 ----------
 
 Вы получаете преимущества :ref:`arch--Master-Spellcasting`.
+
+
+
+
+
+.. include:: /helpers/actions.rst

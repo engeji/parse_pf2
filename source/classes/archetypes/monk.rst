@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Monk:
 
@@ -21,7 +23,7 @@
 
 .. _arch-feat--Monk--Dedication:
 
-Посвящение монаха (`Monk Dedication <https://2e.aonprd.com/Feats.aspx?ID=715>`_) / 2 ур.
+Посвящение монаха (`Monk Dedication <https://2e.aonprd.com/Feats.aspx?ID=715>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -41,7 +43,7 @@
 
 .. _arch-feat--Monk--Basic-Kata:
 
-Основное ката (`Basic Kata <https://2e.aonprd.com/Feats.aspx?ID=716>`_) / 4 ур.
+Основное ката (`Basic Kata <https://2e.aonprd.com/Feats.aspx?ID=716>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -55,7 +57,7 @@
 
 .. _arch-feat--Monk--Resiliency:
 
-Монашеская стойкость (`Monk Resiliency <https://2e.aonprd.com/Feats.aspx?ID=717>`_) / 4 ур.
+Монашеская стойкость (`Monk Resiliency <https://2e.aonprd.com/Feats.aspx?ID=717>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -70,7 +72,7 @@
 
 .. _arch-feat--Monk--Advanced-Kata:
 
-Улучшенная ката (`Advanced Kata <https://2e.aonprd.com/Feats.aspx?ID=718>`_) / 6 ур.
+Улучшенная ката (`Advanced Kata <https://2e.aonprd.com/Feats.aspx?ID=718>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -88,7 +90,7 @@
 
 .. _arch-feat--Monk--Moves:
 
-Монашеские движения (`Monk Moves <https://2e.aonprd.com/Feats.aspx?ID=719>`_) / 8 ур.
+Монашеские движения (`Monk Moves <https://2e.aonprd.com/Feats.aspx?ID=719>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -102,7 +104,7 @@
 
 .. _arch-feat--Monk--Flurry:
 
-Монашеский шквал ударов (`Monk's Flurry <https://2e.aonprd.com/Feats.aspx?ID=720>`_) / 10 ур.
+Монашеский шквал ударов (`Monk's Flurry <https://2e.aonprd.com/Feats.aspx?ID=720>`_) / 10
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -116,7 +118,7 @@
 
 .. _arch-feat--Monk--Perfections-Path:
 
-Путь совершенства (`Perfection's Path <https://2e.aonprd.com/Feats.aspx?ID=721>`_) / 12 ур.
+Путь совершенства (`Perfection's Path <https://2e.aonprd.com/Feats.aspx?ID=721>`_) / 12
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -127,3 +129,9 @@
 
 Выберите один спасбросок (Стойкость, Рефлекс или Воля) в котором вы эксперт.
 Ваш уровень мастерства в выбранном спасброске увеличивается до мастера.
+
+
+
+
+
+.. include:: /helpers/actions.rst

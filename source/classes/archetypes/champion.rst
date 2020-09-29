@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Champion:
 
@@ -16,7 +18,7 @@
 
 .. _arch-feat--Champion--Dedication:
 
-Посвящение чемпиона (`Champion Dedication <https://2e.aonprd.com/Feats.aspx?ID=686>`_) / 2 ур.
+Посвящение чемпиона (`Champion Dedication <https://2e.aonprd.com/Feats.aspx?ID=686>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -40,7 +42,7 @@
 
 .. _arch-feat--Champion--Basic-Devotion:
 
-Основная преданность (`Basic Devotion <https://2e.aonprd.com/Feats.aspx?ID=687>`_) / 4 ур.
+Основная преданность (`Basic Devotion <https://2e.aonprd.com/Feats.aspx?ID=687>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -54,7 +56,7 @@
 
 .. _arch-feat--Champion--Resiliency:
 
-Чемпионская стойкость (`Champion Resiliency <https://2e.aonprd.com/Feats.aspx?ID=688>`_) / 4 ур.
+Чемпионская стойкость (`Champion Resiliency <https://2e.aonprd.com/Feats.aspx?ID=688>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -69,7 +71,7 @@
 
 .. _arch-feat--Champion--Healing-Touch:
 
-Исцеляющее касание (`Healing Touch <https://2e.aonprd.com/Feats.aspx?ID=689>`_) / 4 ур.
+Исцеляющее касание (`Healing Touch <https://2e.aonprd.com/Feats.aspx?ID=689>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -84,7 +86,7 @@
 
 .. _arch-feat--Champion--Advanced-Devotion:
 
-Сильная преданность (`Advanced Devotion <https://2e.aonprd.com/Feats.aspx?ID=690>`_) / 6 ур.
+Сильная преданность (`Advanced Devotion <https://2e.aonprd.com/Feats.aspx?ID=690>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -102,7 +104,7 @@
 
 .. _arch-feat--Champion--Reaction:
 
-Реакция чемпиона (`Champion's Reaction <https://2e.aonprd.com/Feats.aspx?ID=691>`_) / 6 ур.
+Реакция чемпиона (`Champion's Reaction <https://2e.aonprd.com/Feats.aspx?ID=691>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -116,7 +118,7 @@
 
 .. _arch-feat--Champion--Divine-Ally:
 
-Божественный союзник (`Divine Ally <https://2e.aonprd.com/Feats.aspx?ID=692>`_) / 6 ур.
+Божественный союзник (`Divine Ally <https://2e.aonprd.com/Feats.aspx?ID=692>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -130,8 +132,8 @@
 
 .. _arch-feat--Champion--Diverse-Armor-Expert:
 
-Разносторонний эксперт доспехов (`Diverse Armor Expert <https://2e.aonprd.com/Feats.aspx?ID=693>`_) / 14 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Разносторонний эксперт доспехов (`Diverse Armor Expert <https://2e.aonprd.com/Feats.aspx?ID=693>`_) / 14
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -140,3 +142,9 @@
 ----------
 
 Ваш уровень мастерства в обращении с легкими, средними, тяжелыми доспехами и защите без доспехов увеличивается до эксперта.
+
+
+
+
+
+.. include:: /helpers/actions.rst

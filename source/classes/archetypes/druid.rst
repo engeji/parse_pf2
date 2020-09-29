@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Druid:
 
@@ -15,7 +17,7 @@
 
 .. _arch-feat--Druid--Dedication:
 
-Посвящение друида (`Druid Dedication <https://2e.aonprd.com/Feats.aspx?ID=701>`_) / 2 ур.
+Посвящение друида (`Druid Dedication <https://2e.aonprd.com/Feats.aspx?ID=701>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -45,7 +47,7 @@
 
 .. _arch-feat--Druid--Basic-Spellcasting:
 
-Основное колдовство друида (`Basic Druid Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=702>`_) / 4 ур.
+Основное колдовство друида (`Basic Druid Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=702>`_) / 4
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -59,7 +61,7 @@
 
 .. _arch-feat--Druid--Basic-Wilding:
 
-Основная дикость (`Basic Wilding <https://2e.aonprd.com/Feats.aspx?ID=703>`_) / 4 ур.
+Основная дикость (`Basic Wilding <https://2e.aonprd.com/Feats.aspx?ID=703>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -73,7 +75,7 @@
 
 .. _arch-feat--Druid--Order-Spell:
 
-Заклинание ордена (`Order Spell <https://2e.aonprd.com/Feats.aspx?ID=704>`_) / 4 ур.
+Заклинание ордена (`Order Spell <https://2e.aonprd.com/Feats.aspx?ID=704>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -88,7 +90,7 @@
 
 .. _arch-feat--Druid--Advanced-Wilding:
 
-Улучшенная дикость (`Advanced Wilding <https://2e.aonprd.com/Feats.aspx?ID=705>`_) / 6 ур.
+Улучшенная дикость (`Advanced Wilding <https://2e.aonprd.com/Feats.aspx?ID=705>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -106,7 +108,7 @@
 
 .. _arch-feat--Druid--Primal-Breadth:
 
-Природная широта (`Primal Breadth <https://2e.aonprd.com/Feats.aspx?ID=706>`_) / 8 ур.
+Природная широта (`Primal Breadth <https://2e.aonprd.com/Feats.aspx?ID=706>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -120,8 +122,8 @@
 
 .. _arch-feat--Druid--Expert-Spellcasting:
 
-Экспертное колдовство друида (`Expert Druid Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=707>`_) / 12 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Экспертное колдовство друида (`Expert Druid Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=707>`_) / 12
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -134,8 +136,8 @@
 
 .. _arch-feat--Druid--Master-Spellcasting:
 
-Экспертное колдовство друида (`Master Druid Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=708>`_) / 18 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Экспертное колдовство друида (`Master Druid Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=708>`_) / 18
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -144,3 +146,9 @@
 ----------
 
 Вы получаете преимущества :ref:`arch--Master-Spellcasting`.
+
+
+
+
+
+.. include:: /helpers/actions.rst

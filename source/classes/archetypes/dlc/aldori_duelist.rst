@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype
 .. _archetype--Aldori-Duelist:
 
@@ -10,7 +12,7 @@
 
 .. _arch-feat--Aldori-Duelist--Dedication:
 
-Посвящение дуэлянта Алдори (`Aldori Duelist Dedication <https://2e.aonprd.com/Feats.aspx?ID=876>`_) / 2 ур.
+Посвящение дуэлянта Алдори (`Aldori Duelist Dedication <https://2e.aonprd.com/Feats.aspx?ID=876>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычное`
@@ -35,7 +37,7 @@
 
 .. _arch-feat--Aldori-Duelist--Parry:
 
-Парирование Алдори (`Aldori Parry <https://2e.aonprd.com/Feats.aspx?ID=877>`_) |д-1| / 4 ур.
+Парирование Алдори (`Aldori Parry <https://2e.aonprd.com/Feats.aspx?ID=877>`_) |д-1| / 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -54,7 +56,7 @@
 
 .. _arch-feat--Aldori-Duelist--Duelists-Edge:
 
-Преимущество дуэлянта (`Duelist's Edge <https://2e.aonprd.com/Feats.aspx?ID=878>`_) |д-св| / 4 ур.
+Преимущество дуэлянта (`Duelist's Edge <https://2e.aonprd.com/Feats.aspx?ID=878>`_) |д-св| / 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -73,7 +75,7 @@
 
 .. _arch-feat--Aldori-Duelist--Riposte:
 
-Контратака Алдори (`Aldori Riposte <https://2e.aonprd.com/Feats.aspx?ID=879>`_) |д-р| / 6 ур.
+Контратака Алдори (`Aldori Riposte <https://2e.aonprd.com/Feats.aspx?ID=879>`_) |д-р| / 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - воин
@@ -94,7 +96,7 @@
 
 .. _arch-feat--Aldori-Duelist--Unnerving-Prowess:
 
-Нервирующее мастерство (`Unnerving Prowess <https://2e.aonprd.com/Feats.aspx?ID=880>`_) |д-св| / 6 ур.
+Нервирующее мастерство (`Unnerving Prowess <https://2e.aonprd.com/Feats.aspx?ID=880>`_) |д-св| / 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -114,7 +116,7 @@
 
 .. _arch-feat--Aldori-Duelist--Saving-Slash:
 
-Спасительный взмах (`Saving Slash <https://2e.aonprd.com/Feats.aspx?ID=881>`_) |д-р| / 10 ур.
+Спасительный взмах (`Saving Slash <https://2e.aonprd.com/Feats.aspx?ID=881>`_) |д-р| / 10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -130,3 +132,9 @@
 Вы быстро закручиваете свой клинок, пытаясь отразить достаточно инерции, чтобы избежать худшей атаки.
 Сделайте чистую проверку с КС 16.
 Если она успешная, то атака становится обычным попаданием вместо критического.
+
+
+
+
+
+.. include:: /helpers/actions.rst

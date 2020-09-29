@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype
 .. _archetype--Magic-Warrior:
 
@@ -9,7 +11,7 @@
 
 .. _arch-feat--Magic-Warrior--Dedication:
 
-Посвящение магического воина (`Magic Warrior Dedication <https://2e.aonprd.com/Feats.aspx?ID=903>`_) / 2 ур.
+Посвящение магического воина (`Magic Warrior Dedication <https://2e.aonprd.com/Feats.aspx?ID=903>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -40,7 +42,7 @@
 
 .. _arch-feat--Magic-Warrior--Aspect:
 
-Аспект магического воина (`Magic Warrior Aspect <https://2e.aonprd.com/Feats.aspx?ID=904>`_) / 4 ур.
+Аспект магического воина (`Magic Warrior Aspect <https://2e.aonprd.com/Feats.aspx?ID=904>`_) / 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -57,8 +59,8 @@
 
 .. _arch-feat--Magic-Warrior--Transformation:
 
-Превращение магического воина (`Magic Warrior Transformation <https://2e.aonprd.com/Feats.aspx?ID=905>`_) / 4 ур.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Превращение магического воина (`Magic Warrior Transformation <https://2e.aonprd.com/Feats.aspx?ID=905>`_) / 4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
 
@@ -74,7 +76,7 @@
 
 .. _arch-feat--Magic-Warrior--Nameless-Anonymity:
 
-Безымянная анонимность (`Nameless Anonymity <https://2e.aonprd.com/Feats.aspx?ID=906>`_) / 6 ур.
+Безымянная анонимность (`Nameless Anonymity <https://2e.aonprd.com/Feats.aspx?ID=906>`_) / 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -87,3 +89,9 @@
 
 Ваша маска еще сильнее защищает вас от прорицаний.
 Раз в день, вы можете колдовать на себя :ref:`spell--n--Nondetection`, усиленное до наибольшего уровня заклинания, который вы можете колдовать; это заклинание мгновенно заканчивается если ваша маска снята даже на мгновение.
+
+
+
+
+
+.. include:: /helpers/actions.rst

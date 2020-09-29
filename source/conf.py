@@ -18,8 +18,8 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Pathfinder 2 Core Rulebook'
-copyright = '2019, Balt'
+project = 'Pathfinder 2e'
+copyright = '2020, Balt'
 author = 'Balt'
 
 # The full version, including alpha/beta/rc tags
@@ -52,7 +52,6 @@ smartquotes = False
 exclude_patterns = [
 	'ancestries',
 	'backgrounds.rst',
-	'classes',
 	'helpers',
 	'spells',
 	'appendix',
