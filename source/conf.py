@@ -23,7 +23,7 @@ copyright = '2020, Balt'
 author = 'Balt'
 
 # The full version, including alpha/beta/rc tags
-release = 'alpha 0.1'
+release = 'beta 0.8'
 
 
 # -- General configuration ---------------------------------------------------
@@ -50,10 +50,12 @@ smartquotes = False
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = [
+	'helpers',
 	'ancestries',
 	'backgrounds.rst',
-	'helpers',
-	'spells',
+	'spells.rst',
+	'spells/spell-descriptions.rst',
+	'spells/general_info.rst',
 	'appendix',
 	'Thumbs.db', '.DS_Store'
 ]

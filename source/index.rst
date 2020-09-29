@@ -15,7 +15,7 @@ Pathfinder 2e
    skills
    feats
    equipment
-   spells
+   spells/index
    the_age_of_lost_omens
    playing_the_game
    game_mastering

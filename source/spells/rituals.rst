@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: spells-rituals
 
 Ритуалы (Rituals)
@@ -1759,3 +1761,9 @@
 ----------
 
 **Усиление (10-й)**: Стоимость увеличивается до 10.000 зм, а радиус может быть вплоть до 5 миль.
+
+
+
+
+
+.. include:: /helpers/actions.rst
