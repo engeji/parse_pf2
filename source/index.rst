@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Pathfinder 2 Core Rulebook
+Pathfinder 2e
 ======================================================
 
 .. toctree::
@@ -11,11 +11,11 @@ Pathfinder 2 Core Rulebook
    
    introduction
    ancestries_and_backgrounds
-   classes
+   classes/index
    skills
    feats
    equipment
-   spells
+   spells/index
    the_age_of_lost_omens
    playing_the_game
    game_mastering

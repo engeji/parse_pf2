@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Ranger:
 
@@ -21,7 +23,7 @@
 
 .. _arch-feat--Ranger--Dedication:
 
-Посвящение рейнджера (`Ranger Dedication <https://2e.aonprd.com/Feats.aspx?ID=722>`_) / 2 ур.
+Посвящение рейнджера (`Ranger Dedication <https://2e.aonprd.com/Feats.aspx?ID=722>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -41,7 +43,7 @@
 
 .. _arch-feat--Ranger--Basic Hunters-Trick:
 
-Простой охотничий трюк (`Basic Hunter's Trick <https://2e.aonprd.com/Feats.aspx?ID=723>`_) / 4 ур.
+Простой охотничий трюк (`Basic Hunter's Trick <https://2e.aonprd.com/Feats.aspx?ID=723>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -55,7 +57,7 @@
 
 .. _arch-feat--Ranger--Resiliency:
 
-Рейнджерская стойкость (`Ranger Resiliency <https://2e.aonprd.com/Feats.aspx?ID=724>`_) / 4 ур.
+Рейнджерская стойкость (`Ranger Resiliency <https://2e.aonprd.com/Feats.aspx?ID=724>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -70,7 +72,7 @@
 
 .. _arch-feat--Ranger--Advanced-Hunters-Trick:
 
-Улучшенный охотничий трюк (`Advanced Hunter's Trick <https://2e.aonprd.com/Feats.aspx?ID=725>`_) / 6 ур.
+Улучшенный охотничий трюк (`Advanced Hunter's Trick <https://2e.aonprd.com/Feats.aspx?ID=725>`_) / 6
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -88,7 +90,7 @@
 
 .. _arch-feat--Ranger--Master-Spotter:
 
-Мастер наблюдения (`Master Spotter <https://2e.aonprd.com/Feats.aspx?ID=726>`_) / 12 ур.
+Мастер наблюдения (`Master Spotter <https://2e.aonprd.com/Feats.aspx?ID=726>`_) / 12
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -98,3 +100,9 @@
 ----------
 
 Ваш уровень мастерства Восприятия увеличивается до мастера.
+
+
+
+
+
+.. include:: /helpers/actions.rst

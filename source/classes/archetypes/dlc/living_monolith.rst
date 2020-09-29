@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype
 .. _archetype--Living-Monolith:
 
@@ -9,8 +11,8 @@
 
 .. _arch-feat--Living-Monolith--Dedication:
 
-Посвящение живого монолита (`Living Monolith Dedication <https://2e.aonprd.com/Feats.aspx?ID=888>`_) / 2 ур.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Посвящение живого монолита (`Living Monolith Dedication <https://2e.aonprd.com/Feats.aspx?ID=888>`_) / 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычное`
 - архетип
@@ -34,7 +36,7 @@
 
 .. _arch-feat--Living-Monolith--Ka-Stone-Ritual:
 
-Ритуал камня ка (`Ka Stone Ritual <https://2e.aonprd.com/Feats.aspx?ID=889>`_) / 4 ур.
+Ритуал камня ка (`Ka Stone Ritual <https://2e.aonprd.com/Feats.aspx?ID=889>`_) / 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :rare:`редкое`
@@ -62,7 +64,7 @@
 
 .. _arch-feat--Living-Monolith--Stone-Blood:
 
-Каменная кровь (`Stone Blood <https://2e.aonprd.com/Feats.aspx?ID=890>`_) / 6 ур.
+Каменная кровь (`Stone Blood <https://2e.aonprd.com/Feats.aspx?ID=890>`_) / 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -80,7 +82,7 @@
 
 .. _arch-feat--Living-Monolith--Fortified-Flesh:
 
-Укрепленная плоть (`Fortified Flesh <https://2e.aonprd.com/Feats.aspx?ID=891>`_) / 8 ур.
+Укрепленная плоть (`Fortified Flesh <https://2e.aonprd.com/Feats.aspx?ID=891>`_) / 8
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -97,7 +99,7 @@
 
 .. _arch-feat--Living-Monolith--Attunement-to-Stone:
 
-Гармонизация с камнем (`Attunement to Stone <https://2e.aonprd.com/Feats.aspx?ID=892>`_) / 10 ур.
+Гармонизация с камнем (`Attunement to Stone <https://2e.aonprd.com/Feats.aspx?ID=892>`_) / 10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -114,7 +116,7 @@
 
 .. _arch-feat--Living-Monolith--Judgement-of-the-Monolith:
 
-Правосудие монолита (`Judgement of the Monolith <https://2e.aonprd.com/Feats.aspx?ID=893>`_) / 12 ур.
+Правосудие монолита (`Judgement of the Monolith <https://2e.aonprd.com/Feats.aspx?ID=893>`_) / 12
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -132,7 +134,7 @@
 
 .. _arch-feat--Living-Monolith--Stone-Communion:
 
-Каменная общность (`Stone Communion <https://2e.aonprd.com/Feats.aspx?ID=894>`_) / 14 ур.
+Каменная общность (`Stone Communion <https://2e.aonprd.com/Feats.aspx?ID=894>`_) / 14
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -145,3 +147,8 @@
 
 Вы получаете уникальную общность с землей и камнями.
 Вы изучаете земляной язык и можете активировать ваш *камень ка* за 10 минут (вообразить), чтобы сотворить :ref:`spell--s--Stone-Tell`.
+
+
+
+
+.. include:: /helpers/actions.rst

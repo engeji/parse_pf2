@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype
 .. _archetype--Student-of-Perfection:
 
@@ -9,8 +11,8 @@
 
 .. _arch-feat--Student-of-Perfection--Dedication:
 
-Посвящение ученика совершенства (`Student of Perfection Dedication <https://2e.aonprd.com/Feats.aspx?ID=900>`_) / 2 ур.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Посвящение ученика совершенства (`Student of Perfection Dedication <https://2e.aonprd.com/Feats.aspx?ID=900>`_) / 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычное`
 - архетип
@@ -34,7 +36,7 @@
 
 .. _arch-feat--Student-of-Perfection--Perfect-Strike:
 
-Совершенный удар (`Perfect Strike <https://2e.aonprd.com/Feats.aspx?ID=901>`_) / 4 ур.
+Совершенный удар (`Perfect Strike <https://2e.aonprd.com/Feats.aspx?ID=901>`_) / 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -51,7 +53,7 @@
 
 .. _arch-feat--Student-of-Perfection--Perfect-Ki-Adept:
 
-Адепт совершенного ки (`Perfect Ki Adept <https://2e.aonprd.com/Feats.aspx?ID=902>`_) / 6 ур.
+Адепт совершенного ки (`Perfect Ki Adept <https://2e.aonprd.com/Feats.aspx?ID=902>`_) / 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -70,3 +72,9 @@
 | :ref:`spell--focus--Untwisting-Iron-Buffer` для "Несгибаемого железа".
 
 Увеличьте запас Очков Фокусировки на 1.
+
+
+
+
+
+.. include:: /helpers/actions.rst

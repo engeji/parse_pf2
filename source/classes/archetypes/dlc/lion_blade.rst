@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype
 .. _archetype--Lion-Blade:
 
@@ -10,7 +12,7 @@
 
 .. _arch-feat--Lion-Blade--Dedication:
 
-Посвящение Львиного клинка (`Lion Blade Dedication <https://2e.aonprd.com/Feats.aspx?ID=917>`_) / 2 ур.
+Посвящение Львиного клинка (`Lion Blade Dedication <https://2e.aonprd.com/Feats.aspx?ID=917>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычное`
@@ -34,7 +36,7 @@
 
 .. _arch-feat--Lion-Blade--Lost-in-the-Crowd:
 
-Затерявшийся в толпе (`Lost in the Crowd <https://2e.aonprd.com/Feats.aspx?ID=918>`_) / 4 ур.
+Затерявшийся в толпе (`Lost in the Crowd <https://2e.aonprd.com/Feats.aspx?ID=918>`_) / 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -51,7 +53,7 @@
 
 .. _arch-feat--Lion-Blade--Crowd-Mastery:
 
-Мастерство толпы (`Crowd Mastery <https://2e.aonprd.com/Feats.aspx?ID=919>`_) / 6 ур.
+Мастерство толпы (`Crowd Mastery <https://2e.aonprd.com/Feats.aspx?ID=919>`_) / 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -68,7 +70,7 @@
 
 .. _arch-feat--Lion-Blade--Expeditious-Advance:
 
-Ускоренное продвижение (`Expeditious Advance <https://2e.aonprd.com/Feats.aspx?ID=920>`_) / 6 ур.
+Ускоренное продвижение (`Expeditious Advance <https://2e.aonprd.com/Feats.aspx?ID=920>`_) / 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -87,7 +89,7 @@
 
 .. _arch-feat--Lion-Blade--Spys-Countermeasures:
 
-Противодействия шпиона (`Spy's Countermeasures <https://2e.aonprd.com/Feats.aspx?ID=921>`_) / 10 ур.
+Противодействия шпиона (`Spy's Countermeasures <https://2e.aonprd.com/Feats.aspx?ID=921>`_) / 10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -107,7 +109,7 @@
 
 .. _arch-feat--Lion-Blade--Flicker:
 
-Мелькание (`Flicker <https://2e.aonprd.com/Feats.aspx?ID=922>`_) |д-1| / 12 ур.
+Мелькание (`Flicker <https://2e.aonprd.com/Feats.aspx?ID=922>`_) |д-1| / 12
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -121,3 +123,9 @@
 Вы используете свои движения и маскировки, чтобы стать 
 Вы получаете состояние "скрыт" до своего следующего хода.
 Как обычно, для состояния "скрыт" связанного с очевидным визуальным проявлением, вы не можете использовать его, чтобы :ref:`skill--Stealth--Hide`.
+
+
+
+
+
+.. include:: /helpers/actions.rst

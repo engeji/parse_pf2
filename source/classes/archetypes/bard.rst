@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Bard:
 
@@ -16,7 +18,7 @@
 
 .. _arch-feat--Bard--Dedication:
 
-Посвящение барда (`Bard Dedication <https://2e.aonprd.com/Feats.aspx?ID=677>`_) / 2 ур.
+Посвящение барда (`Bard Dedication <https://2e.aonprd.com/Feats.aspx?ID=677>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -45,7 +47,7 @@
 
 .. _arch-feat--Bard--Basic-Spellcasting:
 
-Основное колдовство барда (`Basic Bard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=678>`_) / 4 ур.
+Основное колдовство барда (`Basic Bard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=678>`_) / 4
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -60,7 +62,7 @@
 
 .. _arch-feat--Bard--Basic-Muses-Whispers:
 
-Основной шепот музы (`Basic Muse's Whispers <https://2e.aonprd.com/Feats.aspx?ID=679>`_) / 4 ур.
+Основной шепот музы (`Basic Muse's Whispers <https://2e.aonprd.com/Feats.aspx?ID=679>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -74,7 +76,7 @@
 
 .. _arch-feat--Bard--Advanced-Muses-Whispers:
 
-Улучшенный шепот музы (`Advanced Muse's Whispers <https://2e.aonprd.com/Feats.aspx?ID=680>`_) / 6 ур.
+Улучшенный шепот музы (`Advanced Muse's Whispers <https://2e.aonprd.com/Feats.aspx?ID=680>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -92,7 +94,7 @@
 
 .. _arch-feat--Bard--Counter-Perform:
 
-Ответное выступление (`Counter Perform <https://2e.aonprd.com/Feats.aspx?ID=681>`_) / 6 ур.
+Ответное выступление (`Counter Perform <https://2e.aonprd.com/Feats.aspx?ID=681>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -107,7 +109,7 @@
 
 .. _arch-feat--Bard--Inspirational-Performance:
 
-Вдохновляющее выступление (`Inspirational Performance <https://2e.aonprd.com/Feats.aspx?ID=682>`_) / 8 ур.
+Вдохновляющее выступление (`Inspirational Performance <https://2e.aonprd.com/Feats.aspx?ID=682>`_) / 8
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -121,7 +123,7 @@
 
 .. _arch-feat--Bard--Occult-Breadth:
 
-Оккультная широта (`Occult Breadth <https://2e.aonprd.com/Feats.aspx?ID=683>`_) / 8 ур.
+Оккультная широта (`Occult Breadth <https://2e.aonprd.com/Feats.aspx?ID=683>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -136,8 +138,8 @@
 
 .. _arch-feat--Bard--Expert-Spellcasting:
 
-Экспертное колдовство барда (`Expert Bard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=684>`_) / 12 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Экспертное колдовство барда (`Expert Bard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=684>`_) / 12
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -150,8 +152,8 @@
 
 .. _arch-feat--Bard--Master-Spellcasting:
 
-Мастерское колдовство барда (`Master Bard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=685>`_) / 18 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Мастерское колдовство барда (`Master Bard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=685>`_) / 18
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -160,3 +162,9 @@
 ----------
 
 Вы получаете преимущества :ref:`arch--Master-Spellcasting`.
+
+
+
+
+
+.. include:: /helpers/actions.rst

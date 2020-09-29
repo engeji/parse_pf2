@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: archetype multiclass
 .. _archetype--Wizard:
 
@@ -15,7 +17,7 @@
 
 .. _arch-feat--Wizard--Dedication:
 
-Посвящение волшебника (`Wizard Dedication <https://2e.aonprd.com/Feats.aspx?ID=742>`_) / 2 ур.
+Посвящение волшебника (`Wizard Dedication <https://2e.aonprd.com/Feats.aspx?ID=742>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -38,7 +40,7 @@
 
 .. _arch-feat--Wizard--Arcane-School-Spell:
 
-Заклинание арканной школы (`Arcane School Spell <https://2e.aonprd.com/Feats.aspx?ID=743>`_) / 4 ур.
+Заклинание арканной школы (`Arcane School Spell <https://2e.aonprd.com/Feats.aspx?ID=743>`_) / 4
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -54,7 +56,7 @@
 
 .. _arch-feat--Wizard--Basic-Arcana:
 
-Основная аркана (`Basic Arcana <https://2e.aonprd.com/Feats.aspx?ID=744>`_) / 4 ур.
+Основная аркана (`Basic Arcana <https://2e.aonprd.com/Feats.aspx?ID=744>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -68,7 +70,7 @@
 
 .. _arch-feat--Wizard--Basic-Spellcasting:
 
-Основное колдовство волшебника (`Basic Wizard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=745>`_) / 4 ур.
+Основное колдовство волшебника (`Basic Wizard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=745>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -83,7 +85,7 @@
 
 .. _arch-feat--Wizard--Advanced-Arcana:
 
-Продвинутая аркана (`Advanced Arcana <https://2e.aonprd.com/Feats.aspx?ID=746>`_) / 6 ур.
+Продвинутая аркана (`Advanced Arcana <https://2e.aonprd.com/Feats.aspx?ID=746>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -102,7 +104,7 @@
 
 .. _arch-feat--Wizard--Arcane-Breadth:
 
-Арканная широта (`Arcane Breadth <https://2e.aonprd.com/Feats.aspx?ID=747>`_) / 8 ур.
+Арканная широта (`Arcane Breadth <https://2e.aonprd.com/Feats.aspx?ID=747>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -117,7 +119,7 @@
 
 .. _arch-feat--Wizard--Expert-Spellcasting:
 
-Экспертное колдовство волшебника (`Expert Wizard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=748>`_) / 12 ур.
+Экспертное колдовство волшебника (`Expert Wizard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=748>`_) / 12
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
@@ -131,8 +133,8 @@
 
 .. _arch-feat--Wizard--Master-Spellcasting:
 
-Мастерское колдовство волшебника (`Master Wizard Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=749>`_) / 18 ур.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Мастерское колдовство волшебника (`Master Wizard Spellcasting (Archetype) <https://2e.aonprd.com/Feats.aspx?ID=749>`_) / 18
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
 
@@ -141,3 +143,9 @@
 ----------
 
 Вы получаете преимущества :ref:`arch--Master-Spellcasting`.
+
+
+
+
+
+.. include:: /helpers/actions.rst

@@ -475,8 +475,8 @@ div.class-archetypes h2,
 div.equip-subchap h2,
 div.gear-description h2,
 div.religion h2,
-div.spells-focus h2,
-div.spells-rituals h2,
+/*div.spells-focus h2,*/
+/*div.spells-rituals h2,*/
 div.gm-subchap h2,
 div.conditions h2,
 div.glossary h2,
@@ -495,14 +495,15 @@ div.char-creation-step h3,
 div.ancestry h3,
 div.backgrounds h3,
 div.languages h3,
-div.char-class h3,
-div.animal-companions h3,
+div.char-class h2,
+div.animal-companions h2,
 /*div.class-archetypes h3,*/
-div.archetype.multiclass h3,
-div.archetype h3,
+div.archetype.multiclass h1,
+div.archetype h1,
 div.equip-subchap h3,
 div.religion h3,
-div.spells-rituals h3,
+div.spells-focus h2,
+/*div.spells-rituals h3,*/
 div.craft-treasure-alchemicalitems h1,
 div.craft-treasure-consumables h1,
 div.craft-treasure-snares h1,
@@ -532,15 +533,15 @@ div.game-mode h3 {
 /* as h3*/
 div.char-creation-step h4,
 div.ancestry h4,
-div.char-class h4,
-div.animal-companions h4,
-/*div.class-archetypes h3,*/
-div.archetype.multiclass h4,
+div.char-class h3,
+div.animal-companions h3,
+div.class-archetypes h2,
+div.archetype.multiclass h2,
 div.archetype h4,
 div.equip-subchap h4,
 div.gear-description h3,
 div.religion h4,
-div.spells-rituals h4,
+div./*spells-rituals*/ h4,
 div.craft-treasure-alchemicalitems h2,
 div.craft-treasure-consumables h2,
 div.craft-treasure-snares h2,
@@ -568,9 +569,9 @@ div.game-mode h4 {
 /* as h4*/
 div.char-creation-step h5,
 div.ancestry h5, 
-div.char-class h5,
-div.animal-companions h5,
-/*div.class-archetypes h4,*/
+div.char-class h4,
+div.animal-companions h4,
+div.class-archetypes h3,
 div.equip-subchap h5,
 div.religion h5,
 div.spells-rituals h5,
@@ -615,6 +616,7 @@ div.backgrounds h4 { /* в этом разделе нет вложенносте
 
 div.ancestry-class-feats div.section,
 div.spells-descr div.section,
+div.spell.section,
 div.gen-skill-actions div.section,
 div.skill-descr div.section,
 div.feats-descr div.section,
@@ -650,6 +652,7 @@ div.actions-descr div.section {
 
 div.ancestry-class-feats div.section > p,
 div.spells-descr div.section > p,
+div.spell.section > p,
 div.gen-skill-actions div.section > p,
 div.skill-descr div.section > p,
 div.feats-descr div.section > p,
@@ -684,17 +687,18 @@ div.actions-descr div.section div.section > p {
 	text-indent: inherit;
 }
 
-div.ancestry-class-feats div.section > h5,
+div.ancestry-class-feats div.section > h4,
 div.spells-descr div.section > h4,
+div.spell.section > h1,
 div.gen-skill-actions div.section > h4,
 div.skill-descr div.section > h4,
 div.feats-descr div.section > h3,
-div.animal.section > h5,
-div.archetype.multiclass div.section > h5,
-div.archetype div.section > h4,
+div.animal.section > h4,
+div.archetype.multiclass div.section > h3,
+div.archetype div.section > h2,
 div.expl-activities div.section > h4,
-div.spells-focus div.section > h4,
-div.rituals-list div.section > h4,
+div.spells-focus div.section > h3,
+div.rituals-list div.section > h3,
 div.gm-hazards div.section > h4,
 div.craft-treasure-bombs div.section > h4,
 div.craft-treasure-elixirs div.section > h4,
@@ -730,17 +734,18 @@ div.actions-descr div.section div.section > h5 {
 
 div.item-type-rarity.section ul:has(p.uncommon),
 div.item-type-rarity.section ul:has(p.rare),
-div.ancestry-class-feats div.section > h5 + ul,
+div.ancestry-class-feats div.section > h4 + ul,
 div.spells-descr div.section > h4 + ul,
+div.spell.section > h1 + ul,
 div.gen-skill-actions div.section > h4 + ul,
 div.skill-descr div.section > h4 + ul,
 div.feats-descr div.section > h3 + ul,
-div.animal.section > h5 + ul,
-div.archetype.multiclass div.section > h5 + ul ,
-div.archetype div.section > h4 + ul ,
+div.animal.section > h4 + ul,
+div.archetype.multiclass div.section > h3 + ul ,
+div.archetype div.section > h2 + ul ,
 div.expl-activities div.section > h4 + ul,
-div.spells-focus div.section > h4 + ul,
-div.rituals-list div.section > h4 + ul,
+div.spells-focus div.section > h3 + ul,
+div.rituals-list div.section > h3 + ul,
 div.gm-hazards div.section > h4 + ul,
 div.craft-treasure-bombs div.section > h4 + ul,
 div.craft-treasure-elixirs div.section > h4 + ul,
@@ -772,17 +777,18 @@ div.actions-descr div.section div.section > h5 + ul {
 
 div.item-type-rarity.section ul li:has(p.uncommon),
 div.item-type-rarity.section ul li:has(p.rare),
-div.ancestry-class-feats div.section > h5 + ul li,
+div.ancestry-class-feats div.section > h4 + ul li,
 div.spells-descr div.section > h4 + ul li,
+div.spell.section > h1 + ul li,
 div.gen-skill-actions div.section > h4 + ul li,
 div.skill-descr div.section > h4 + ul li,
 div.feats-descr div.section > h3 + ul li,
-div.animal.section > h5 + ul li,
-div.archetype.multiclass div.section > h5 + ul li,
-div.archetype div.section > h4 + ul li,
+div.animal.section > h4 + ul li,
+div.archetype.multiclass div.section > h3 + ul li,
+div.archetype div.section > h2 + ul li,
 div.expl-activities div.section > h4 + ul li,
-div.spells-focus div.section > h4 + ul li,
-div.rituals-list div.section > h4 + ul li,
+div.spells-focus div.section > h3 + ul li,
+div.rituals-list div.section > h3 + ul li,
 div.gm-hazards div.section > h4 + ul li,
 div.craft-treasure-bombs div.section > h4 + ul li,
 div.craft-treasure-elixirs div.section > h4 + ul li,
@@ -812,17 +818,18 @@ div.actions-descr div.section div.section > h5 + ul li {
 
 div.item-type-rarity.section ul li p.uncommon,
 div.item-type-rarity.section ul li p.rare,
-div.ancestry-class-feats div.section > h5 + ul li p,
+div.ancestry-class-feats div.section > h4 + ul li p,
 div.spells-descr div.section > h4 + ul li p,
+div.spell.section > h1 + ul li p,
 div.gen-skill-actions div.section > h4 + ul li p,
 div.skill-descr div.section > h4 + ul li p,
 div.feats-descr div.section > h3 + ul li p,
-div.animal.section > h5 + ul li p,
-div.archetype.multiclass div.section > h5 + ul li p,
-div.archetype div.section > h4 + ul li p,
+div.animal.section > h4 + ul li p,
+div.archetype.multiclass div.section > h3 + ul li p,
+div.archetype div.section > h2 + ul li p,
 div.expl-activities div.section > h4 + ul li p,
-div.spells-focus div.section > h4 + ul li p,
-div.rituals-list div.section > h4 + ul li p,
+div.spells-focus div.section > h3 + ul li p,
+div.rituals-list div.section > h3 + ul li p,
 div.gm-hazards div.section > h4 + ul li p,
 div.craft-treasure-bombs div.section > h4 + ul li p,
 div.craft-treasure-elixirs div.section > h4 + ul li p,
@@ -855,6 +862,7 @@ div.actions-descr div.section div.section > h5 + ul li p {
 
 div.ancestry-class-feats div.section hr,
 div.spells-descr div.section hr,
+div.spell.section hr,
 div.gen-skill-actions div.section hr,
 div.skill-descr div.section hr,
 div.feats-descr div.section hr,
@@ -891,7 +899,7 @@ div.actions-descr div.section hr {
 	margin: 1px 0;
 }
 
-div.animal.section h5 {
+div.animal.section h4 {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -913,10 +921,10 @@ div.gen-skill-actions div.section > h5 { /* некоторые подробно�
 	text-transform: inherit;
 }
 
-div.ancestry-class-feats h4,
+div.ancestry-class-feats h3,
+/*div.spells-focus h3,*/
 div.feats-descr h2,
-div.spells-descr h3,
-div.spells-focus h3 { /* Выделение алфавитного заголовка */
+div.spells-descr h3 { /* Выделение алфавитного заголовка */
 	background-color: #002664;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
@@ -936,6 +944,7 @@ div.spells-focus h3 { /* Выделение алфавитного заголо�
 	Универсальные стили списка признаков
 */
 
+div.section > h1 + ul,
 div.section > h2 + ul,
 div.section > h3 + ul,
 div.section > h4 + ul,
@@ -947,6 +956,7 @@ div.section > h6 + ul {
 	padding: 0.15em 0.2em;
 }
 
+div.section > h1 + ul li,
 div.section > h2 + ul li,
 div.section > h3 + ul li,
 div.section > h4 + ul li,
@@ -956,6 +966,7 @@ div.section > h6 + ul li {
 	margin: 0 0.025em !important;
 }
 
+div.section > h1 + ul li p,
 div.section > h2 + ul li p,
 div.section > h3 + ul li p,
 div.section > h4 + ul li p,
@@ -974,19 +985,21 @@ div.section > h6 + ul li p {
 	и добавляем родителю (p) класс 'uncommon' или 'rare'
 */
 
+div.section > h1 + ul li p.uncommon,
 div.section > h2 + ul li p.uncommon,
 div.section > h3 + ul li p.uncommon,
 div.section > h4 + ul li p.uncommon,
 div.section > h5 + ul li p.uncommon,
 div.section > h6 + ul li p.uncommon,
 div.item-type-rarity.section ul li p.uncommon,
-div.ancestry-class-feats div.section > h5 + ul li p.uncommon,
-div.archetype.multiclass div.section > h5 + ul li p.uncommon,
-div.archetype div.section > h4 + ul li p.uncommon,
+div.ancestry-class-feats div.section > h4 + ul li p.uncommon,
+div.archetype.multiclass div.section > h3 + ul li p.uncommon,
+div.archetype div.section > h2 + ul li p.uncommon,
 div.feats-descr div.section > h3 + ul li p.uncommon,
 div.spells-descr div.section > h4 + ul li p.uncommon,
-div.spells-focus div.section > h4 + ul li p.uncommon,
-div.rituals-list div.section > h4 + ul li p.uncommon,
+div.spell.section > h1 + ul li p.uncommon,
+div.spells-focus div.section > h3 + ul li p.uncommon,
+div.rituals-list div.section > h3 + ul li p.uncommon,
 div.gm-hazards div.section > h4 + ul li p.uncommon,
 div.craft-treasure-bombs div.section > h4 + ul li p.uncommon,
 div.craft-treasure-elixirs div.section > h4 + ul li p.uncommon,
@@ -1012,19 +1025,21 @@ div.craft-treasure-worn div.section > h3 + ul li p.uncommon {
 	background-color: #98513d;
 }
 
+div.section > h1 + ul li p.rare,
 div.section > h2 + ul li p.rare,
 div.section > h3 + ul li p.rare,
 div.section > h4 + ul li p.rare,
 div.section > h5 + ul li p.rare,
 div.section > h6 + ul li p.rare,
 div.item-type-rarity.section ul li p.rare,
-div.ancestry-class-feats div.section > h5 + ul li p.rare,
-div.archetype.multiclass div.section > h5 + ul li p.rare,
-div.archetype div.section > h4 + ul li p.rare,
+div.ancestry-class-feats div.section > h4 + ul li p.rare,
+div.archetype.multiclass div.section > h3 + ul li p.rare,
+div.archetype div.section > h2 + ul li p.rare,
 div.feats-descr div.section > h3 + ul li p.rare,
 div.spells-descr div.section > h4 + ul li p.rare,
-div.spells-focus div.section > h4 + ul li p.rare,
-div.rituals-list div.section > h4 + ul li p.rare,
+div.spell.section > h1 + ul li p.rare,
+div.spells-focus div.section > h3 + ul li p.rare,
+div.rituals-list div.section > h3 + ul li p.rare,
 div.gm-hazards div.section > h4 + ul li p.rare,
 div.craft-treasure-bombs div.section > h4 + ul li p.rare,
 div.craft-treasure-elixirs div.section > h4 + ul li p.rare,
@@ -1050,6 +1065,7 @@ div.craft-treasure-worn div.section > h3 + ul li p.rare {
 	background-color: #002664;
 }
 
+div.section > h1 + ul li p.alignment,
 div.section > h2 + ul li p.alignment,
 div.section > h3 + ul li p.alignment,
 div.section > h4 + ul li p.alignment,
