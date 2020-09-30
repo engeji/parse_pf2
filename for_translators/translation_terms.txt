@@ -135,7 +135,7 @@ condition: состояние
 	Unnoticed: Незамеченный
 	Wounded: Ранен
 Creature: существо
-	animal: животное
+	animal: зверь, животное
 	beast: чудовище
 	fiends: бесы (демоны, дьяволы, ...)
 		devil: дьявол
@@ -145,6 +145,8 @@ Creature: существо
 	ooze: слизь
 	aberration: аберрация
 	spirit: дух
+	hag: карга
+		annis: эннис
 	extraplanar: экстрапланарный
 	monitor: наблюдатель
 	lizardfolk: людоящер
@@ -247,7 +249,13 @@ heal: исцеление
 heightening spells: усиление заклинаний
 heritage: наследственность
 	changeling: подменыш
-	duskwalker: TODO
+	duskwalker: сумеречный
+	dhampir: дампир
+		moroi: морой, морои (множ.)
+	tiefling
+		hellspawn: адское отродье
+		pitborn: дитя преисподней
+		grimspawn: дитя мрака
 hex: сглаз
 hit point: очко здоровья
 
@@ -416,6 +424,7 @@ persistent damage: продолжительный урон
 prerequisites: предварительные условия
 proficiency bonus: бонус мастерства
 plane: план
+	Great Beyond: Великое запределье
 	Demiplane: полуплан
 	Outer Sphere: Внешняя Сфера
 	Hell: Ад
