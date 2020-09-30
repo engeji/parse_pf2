@@ -266,6 +266,7 @@
    versatile_heritages/changeling
    versatile_heritages/dhampir
    versatile_heritages/aasimar
+   versatile_heritages/duskwalker
 
 
 

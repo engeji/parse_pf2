@@ -158,6 +158,8 @@ Creature: существо
 	celestial
 		Cassisian: кассисиан
 		Balisse: баллис
+	psychopomp: психопомп
+		sahkil: сахкил (злые экс-психопомпы)
 
 counteract: Противодействие :ref:`ch9--Counteracting`
 Currency: Деньги
@@ -466,6 +468,8 @@ rune: руна
 
 saving throw: испытание
 senses: чувства, сенсорные чувства
+	tremorsense: виброчувствительность
+	lifesense: жизнечувствительность
 Skill: Навык
 	Arcana: Мистика
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
@@ -675,7 +679,6 @@ trait: признак / особенность
 		haunt: призрак (вид опасности)
 		cursebound: проклятое (фокусные оракула)
 trigger: триггер (в описании способностей), провоцировать (о срабатывании триггера)
-Tremorsense: виброчувствительность
 the Pit: Преисподняя
 
 willing: готовый / готовность
