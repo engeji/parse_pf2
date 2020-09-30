@@ -157,7 +157,7 @@
 
 Слишком хорошо осознавая свою истинную природу, вы изучали карг и их силы.
 Вы становитесь обучены Обману и Оккультизму.
-Если вы автоматически будете обучены одному из этих навыков (например, из-за предыстории или класса), то вместо этого вы становитесь обучены навыка на свой выбор.
+Если вы автоматически будете обучены одному из этих навыков (например, из-за предыстории или класса), то вместо этого вы становитесь обучены навыку на свой выбор.
 Вы так же становитесь обучены Знаниям карг.
 
 
@@ -297,36 +297,36 @@
 
 Заклинания доступные всем ковенам:
 
-| :ref:`spell--a--Augury`
-| :ref:`spell--c--Charm`
-| :ref:`spell--c--Clairaudience`
-| :ref:`spell--c--Clairvoyance`
-| :ref:`spell--d--Dream-Message`
-| :ref:`spell--i--Illusory-Disguise`
+* :ref:`spell--a--Augury`
+* :ref:`spell--c--Charm`
+* :ref:`spell--c--Clairaudience`
+* :ref:`spell--c--Clairvoyance`
+* :ref:`spell--d--Dream-Message`
+* :ref:`spell--i--Illusory-Disguise`
 
 Подходящие заклинания, предоставляемые наиболее выдающимися видами карг:
 
 **Морская карга**
 
-| :ref:`spell--a--Acid-Arrow`
-| :ref:`spell--w--Water-Walk`
+* :ref:`spell--a--Acid-Arrow`
+* :ref:`spell--w--Water-Walk`
 
 
 **Зеленая карга**
 
-| :ref:`spell--e--Entangle`
-| :ref:`spell--o--Outcasts-Curse`
-| :ref:`spell--w--Wall-of-Thorns`
+* :ref:`spell--e--Entangle`
+* :ref:`spell--o--Outcasts-Curse`
+* :ref:`spell--w--Wall-of-Thorns`
 
 
 **Карга эннис**
 
-| :ref:`spell--e--Earthbind`
+* :ref:`spell--e--Earthbind`
 
 
 **Ночная карга**
 
-| :ref:`spell--n--Nightmare`
+* :ref:`spell--n--Nightmare`
 
 
 

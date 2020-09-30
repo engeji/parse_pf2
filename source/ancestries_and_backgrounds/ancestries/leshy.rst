@@ -257,7 +257,7 @@
 
 .. _ancestry-feat--Leshy--Grasping-Reach:
 
-Удлиненный хват (`Grasping Reach <https://2e.aonprd.com/Feats.aspx?ID=1037>`_) / 1 ур.
+Удлиненный хват (`Grasping Reach <https://2e.aonprd.com/Feats.aspx?ID=1037>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший
@@ -272,7 +272,7 @@
 
 .. _ancestry-feat--Leshy--Harmlessly-Cute:
 
-Безвредный и миленький (`Harmlessly Cute <https://2e.aonprd.com/Feats.aspx?ID=1038>`_) / 1 ур.
+Безвредный и миленький (`Harmlessly Cute <https://2e.aonprd.com/Feats.aspx?ID=1038>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший
@@ -286,7 +286,7 @@
 
 .. _ancestry-feat--Leshy--Leshy-Lore:
 
-Знания леших (`Leshy Lore <https://2e.aonprd.com/Feats.aspx?ID=1039>`_) / 1 ур.
+Знания леших (`Leshy Lore <https://2e.aonprd.com/Feats.aspx?ID=1039>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший
@@ -301,7 +301,7 @@
 
 .. _ancestry-feat--Leshy--Leshy-Superstition:
 
-Приметы леших (`Leshy Superstition <https://2e.aonprd.com/Feats.aspx?ID=1040>`_) |д-р| / 1 ур.
+Приметы леших (`Leshy Superstition <https://2e.aonprd.com/Feats.aspx?ID=1040>`_) |д-р| / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший
@@ -316,7 +316,7 @@
 
 .. _ancestry-feat--Leshy--Seedpod:
 
-Семенная коробочка (`Seedpod <https://2e.aonprd.com/Feats.aspx?ID=1041>`_) / 1 ур.
+Семенная коробочка (`Seedpod <https://2e.aonprd.com/Feats.aspx?ID=1041>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший
@@ -331,7 +331,7 @@
 
 .. _ancestry-feat--Leshy--Shadow-of-the-Wilds:
 
-Тень дикой местности (`Shadow of the Wilds <https://2e.aonprd.com/Feats.aspx?ID=1042>`_) / 1 ур.
+Тень дикой местности (`Shadow of the Wilds <https://2e.aonprd.com/Feats.aspx?ID=1042>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший
@@ -344,7 +344,7 @@
 
 .. _ancestry-feat--Leshy--Undaunted:
 
-Неустрашимый (`Undaunted <https://2e.aonprd.com/Feats.aspx?ID=1043>`_) / 1 ур.
+Неустрашимый (`Undaunted <https://2e.aonprd.com/Feats.aspx?ID=1043>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший
@@ -365,7 +365,7 @@
 
 .. _ancestry-feat--Leshy--Leshy-Glide:
 
-Планирование лешего (`Leshy Glide <https://2e.aonprd.com/Feats.aspx?ID=1044>`_) |д-1| / 5 ур.
+Планирование лешего (`Leshy Glide <https://2e.aonprd.com/Feats.aspx?ID=1044>`_) |д-1| / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший
@@ -381,7 +381,7 @@
 
 .. _ancestry-feat--Leshy--Ritual-Reversion:
 
-Обратный ритуал (`Ritual Reversion <https://2e.aonprd.com/Feats.aspx?ID=1045>`_) |д-2| / 5 ур.
+Обратный ритуал (`Ritual Reversion <https://2e.aonprd.com/Feats.aspx?ID=1045>`_) |д-2| / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - природный
@@ -398,7 +398,7 @@
 
 .. _ancestry-feat--Leshy--Speak-with-Kindred:
 
-Разговор с себе подобными (`Speak with Kindred <https://2e.aonprd.com/Feats.aspx?ID=1046>`_) / 5 ур.
+Разговор с себе подобными (`Speak with Kindred <https://2e.aonprd.com/Feats.aspx?ID=1046>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший
@@ -420,7 +420,7 @@
 
 .. _ancestry-feat--Leshy--Bark-and-Tendril:
 
-Кора и усики (`Bark and Tendril <https://2e.aonprd.com/Feats.aspx?ID=1047>`_) / 9 ур.
+Кора и усики (`Bark and Tendril <https://2e.aonprd.com/Feats.aspx?ID=1047>`_) / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший
@@ -433,7 +433,7 @@
 
 .. _ancestry-feat--Leshy--Lucky-Keepsake:
 
-Счастливый сувенир (`Lucky Keepsake <https://2e.aonprd.com/Feats.aspx?ID=1048>`_) / 9 ур.
+Счастливый сувенир (`Lucky Keepsake <https://2e.aonprd.com/Feats.aspx?ID=1048>`_) / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший
@@ -449,7 +449,7 @@
 
 .. _ancestry-feat--Leshy--Solar-Rejuvenation:
 
-Солнечное восстановление сил (`Solar Rejuvenation <https://2e.aonprd.com/Feats.aspx?ID=1049>`_) / 9 ур.
+Солнечное восстановление сил (`Solar Rejuvenation <https://2e.aonprd.com/Feats.aspx?ID=1049>`_) / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - леший

@@ -296,7 +296,7 @@
 
 .. _ancestry-feat--Halfling--Distracting-Shadows:
 
-Отвлекающие тени (`Distracting Shadows <https://2e.aonprd.com/Feats.aspx?ID=52>`_) / 1 ур.
+Отвлекающие тени (`Distracting Shadows <https://2e.aonprd.com/Feats.aspx?ID=52>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -307,7 +307,7 @@
 
 .. _ancestry-feat--Halfling--Lore:
 
-Знания полуросликов (`Halfling Lore <https://2e.aonprd.com/Feats.aspx?ID=53>`_) / 1 ур.
+Знания полуросликов (`Halfling Lore <https://2e.aonprd.com/Feats.aspx?ID=53>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -320,7 +320,7 @@
 
 .. _ancestry-feat--Halfling--Luck:
 
-Удача полурослика (`Halfling Luck <https://2e.aonprd.com/Feats.aspx?ID=54>`_) |д-св| / 1 ур.
+Удача полурослика (`Halfling Luck <https://2e.aonprd.com/Feats.aspx?ID=54>`_) |д-св| / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - удача
@@ -338,7 +338,7 @@
 
 .. _ancestry-feat--Halfling--Weapon-Familiarity:
 
-Знакомство с оружием полуросликов (`Halfling Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=55>`_) / 1 ур.
+Знакомство с оружием полуросликов (`Halfling Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=55>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -352,7 +352,7 @@
 
 .. _ancestry-feat--Halfling--Sure-Feet:
 
-Надежные ноги (`Sure Feet <https://2e.aonprd.com/Feats.aspx?ID=56>`_) / 1 ур.
+Надежные ноги (`Sure Feet <https://2e.aonprd.com/Feats.aspx?ID=56>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -364,7 +364,7 @@
 
 .. _ancestry-feat--Halfling--Titan-Slinger:
 
-Убийца титанов (`Titan Slinger <https://2e.aonprd.com/Feats.aspx?ID=57>`_) / 1 ур.
+Убийца титанов (`Titan Slinger <https://2e.aonprd.com/Feats.aspx?ID=57>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -375,7 +375,7 @@
 
 .. _ancestry-feat--Halfling--Unfettered-Halfling:
 
-Освобожденный полурослик (`Unfettered Halfling <https://2e.aonprd.com/Feats.aspx?ID=58>`_) / 1 ур.
+Освобожденный полурослик (`Unfettered Halfling <https://2e.aonprd.com/Feats.aspx?ID=58>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -388,7 +388,7 @@
 
 .. _ancestry-feat--Halfling--Watchful:
 
-Бдительный полурослик (`Watchful Halfling <https://2e.aonprd.com/Feats.aspx?ID=59>`_) / 1 ур.
+Бдительный полурослик (`Watchful Halfling <https://2e.aonprd.com/Feats.aspx?ID=59>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -403,7 +403,7 @@
 
 .. _ancestry-feat--Halfling--Adroit-Manipulation:
 
-Ловкие манипуляции (`Adroit Manipulation <https://2e.aonprd.com/Feats.aspx?ID=1012>`_) / 1 ур.
+Ловкие манипуляции (`Adroit Manipulation <https://2e.aonprd.com/Feats.aspx?ID=1012>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -422,7 +422,7 @@
 
 .. _ancestry-feat--Halfling--Innocuous:
 
-Безобидный (`Innocuous <https://2e.aonprd.com/Feats.aspx?ID=1013>`_) / 1 ур.
+Безобидный (`Innocuous <https://2e.aonprd.com/Feats.aspx?ID=1013>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -438,7 +438,7 @@
 
 .. _ancestry-feat--Halfling--Intuitive-Cooperation:
 
-Интуитивное сотрудничество (`Intuitive Cooperation <https://2e.aonprd.com/Feats.aspx?ID=1014>`_) / 1 ур.
+Интуитивное сотрудничество (`Intuitive Cooperation <https://2e.aonprd.com/Feats.aspx?ID=1014>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -456,7 +456,7 @@
 
 .. _ancestry-feat--Halfling--Unassuming-Dedication:
 
-Скромная увлеченность (`Unassuming Dedication <https://2e.aonprd.com/Feats.aspx?ID=1015>`_) / 1 ур.
+Скромная увлеченность (`Unassuming Dedication <https://2e.aonprd.com/Feats.aspx?ID=1015>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -474,7 +474,7 @@
 
 .. _ancestry-feat--Halfling--Folksy-Patter:
 
-Народный жаргон (`Folksy Patter <https://2e.aonprd.com/Feats.aspx?ID=1430>`_) / 1 ур.
+Народный жаргон (`Folksy Patter <https://2e.aonprd.com/Feats.aspx?ID=1430>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -492,7 +492,7 @@
 
 .. _ancestry-feat--Halfling--Prairie-Rider:
 
-Степной наездник (`Prairie Rider <https://2e.aonprd.com/Feats.aspx?ID=1431>`_) / 1 ур.
+Степной наездник (`Prairie Rider <https://2e.aonprd.com/Feats.aspx?ID=1431>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -515,7 +515,7 @@
 
 .. _ancestry-feat--Halfling--Cultural-Adaptability:
 
-Приспосабливаемость к культуре (`Cultural Adaptability <https://2e.aonprd.com/Feats.aspx?ID=60>`_) / 5 ур.
+Приспосабливаемость к культуре (`Cultural Adaptability <https://2e.aonprd.com/Feats.aspx?ID=60>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -526,7 +526,7 @@
 
 .. _ancestry-feat--Halfling--Weapon-Trickster:
 
-Ловкач оружия полуросликов (`Halfling Weapon Trickster <https://2e.aonprd.com/Feats.aspx?ID=61>`_) / 5 ур.
+Ловкач оружия полуросликов (`Halfling Weapon Trickster <https://2e.aonprd.com/Feats.aspx?ID=61>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -541,7 +541,7 @@
 
 .. _ancestry-feat--Halfling--Easily-Dismissed:
 
-Легко на заметить (`Easily Dismissed <https://2e.aonprd.com/Feats.aspx?ID=1016>`_) / 5 ур.
+Легко на заметить (`Easily Dismissed <https://2e.aonprd.com/Feats.aspx?ID=1016>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -562,7 +562,7 @@
 
 .. _ancestry-feat--Halfling--Ingenuity:
 
-Полуросличья изобретательность (`Halfling Ingenuity <https://2e.aonprd.com/Feats.aspx?ID=1017>`_) / 5 ур.
+Полуросличья изобретательность (`Halfling Ingenuity <https://2e.aonprd.com/Feats.aspx?ID=1017>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -581,7 +581,7 @@
 
 .. _ancestry-feat--Halfling--Shared-Luck:
 
-Общая удача (`Shared Luck <https://2e.aonprd.com/Feats.aspx?ID=1018>`_) / 5 ур.
+Общая удача (`Shared Luck <https://2e.aonprd.com/Feats.aspx?ID=1018>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -600,7 +600,7 @@
 
 .. _ancestry-feat--Halfling--Step-Lively:
 
-Поторапливаться (`Step Lively <https://2e.aonprd.com/Feats.aspx?ID=1432>`_) |д-р| / 5 ур.
+Поторапливаться (`Step Lively <https://2e.aonprd.com/Feats.aspx?ID=1432>`_) |д-р| / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -623,7 +623,7 @@
 
 .. _ancestry-feat--Halfling--Guiding-Luck:
 
-Направляющая удача (`Guiding Luck <https://2e.aonprd.com/Feats.aspx?ID=62>`_) / 9 ур.
+Направляющая удача (`Guiding Luck <https://2e.aonprd.com/Feats.aspx?ID=62>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -638,7 +638,7 @@
 
 .. _ancestry-feat--Halfling--Irrepressible:
 
-Неугомонный (`Irrepressible <https://2e.aonprd.com/Feats.aspx?ID=63>`_) / 9 ур.
+Неугомонный (`Irrepressible <https://2e.aonprd.com/Feats.aspx?ID=63>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -650,7 +650,7 @@
 
 .. _ancestry-feat--Halfling--Cunning-Climber:
 
-Хитрый скалолаз (`Cunning Climber <https://2e.aonprd.com/Feats.aspx?ID=1019>`_) / 9 ур.
+Хитрый скалолаз (`Cunning Climber <https://2e.aonprd.com/Feats.aspx?ID=1019>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -666,7 +666,7 @@
 
 .. _ancestry-feat--Halfling--Fade-Away:
 
-Исчезновение (`Fade Away <https://2e.aonprd.com/Feats.aspx?ID=1020>`_) / 9 ур.
+Исчезновение (`Fade Away <https://2e.aonprd.com/Feats.aspx?ID=1020>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -685,7 +685,7 @@
 
 .. _ancestry-feat--Halfling--Helpful-Halfling:
 
-Полезный полурослик (`Helpful Halfling <https://2e.aonprd.com/Feats.aspx?ID=1021>`_) / 9 ур.
+Полезный полурослик (`Helpful Halfling <https://2e.aonprd.com/Feats.aspx?ID=1021>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -701,7 +701,7 @@
 
 .. _ancestry-feat--Halfling--Dance-Underfoot:
 
-Танец под ногами (`Dance Underfoot <https://2e.aonprd.com/Feats.aspx?ID=1433>`_) / 9 ур.
+Танец под ногами (`Dance Underfoot <https://2e.aonprd.com/Feats.aspx?ID=1433>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -721,7 +721,7 @@
 
 .. _ancestry-feat--Halfling--Unhampered-Passage:
 
-Беспрепятственный проход (`Unhampered Passage <https://2e.aonprd.com/Feats.aspx?ID=1434>`_) / 9 ур.
+Беспрепятственный проход (`Unhampered Passage <https://2e.aonprd.com/Feats.aspx?ID=1434>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -742,7 +742,7 @@
 
 .. _ancestry-feat--Halfling--Ceaseless-Shadows:
 
-Непрерывные тени (`Ceaseless Shadows <https://2e.aonprd.com/Feats.aspx?ID=64>`_) / 13 ур.
+Непрерывные тени (`Ceaseless Shadows <https://2e.aonprd.com/Feats.aspx?ID=64>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -758,7 +758,7 @@
 
 .. _ancestry-feat--Halfling--Weapon-Expertise:
 
-Эксперт оружия полуросликов (`Halfling Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=65>`_) / 13 ур.
+Эксперт оружия полуросликов (`Halfling Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=65>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -773,7 +773,7 @@
 
 .. _ancestry-feat--Halfling--Cobble-Dancer:
 
-Танцующий по гальке (`Cobble Dancer <https://2e.aonprd.com/Feats.aspx?ID=1022>`_) / 13 ур.
+Танцующий по гальке (`Cobble Dancer <https://2e.aonprd.com/Feats.aspx?ID=1022>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -788,7 +788,7 @@
 
 .. _ancestry-feat--Halfling--Incredible-Luck:
 
-Невероятная удача (`Incredible Luck <https://2e.aonprd.com/Feats.aspx?ID=1023>`_) / 13 ур.
+Невероятная удача (`Incredible Luck <https://2e.aonprd.com/Feats.aspx?ID=1023>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -806,7 +806,7 @@
 
 .. _ancestry-feat--Halfling--Toppling-Dance:
 
-Опрокидывающий танец (`Toppling Dance <https://2e.aonprd.com/Feats.aspx?ID=1435>`_) / 13 ур.
+Опрокидывающий танец (`Toppling Dance <https://2e.aonprd.com/Feats.aspx?ID=1435>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
@@ -829,7 +829,7 @@
 
 .. _ancestry-feat--Halfling--Shadow-Self:
 
-Своя тень (`Shadow Self <https://2e.aonprd.com/Feats.aspx?ID=1436>`_) / 17 ур.
+Своя тень (`Shadow Self <https://2e.aonprd.com/Feats.aspx?ID=1436>`_) / 17
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик

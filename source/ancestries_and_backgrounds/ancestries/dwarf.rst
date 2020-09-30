@@ -310,7 +310,7 @@
 
 .. _ancestry-feat--Dwarf--Dwarven-Lore:
 
-Дварфийские знания (`Dwarven Lore <https://2e.aonprd.com/Feats.aspx?ID=1>`_) / 1 ур.
+Дварфийские знания (`Dwarven Lore <https://2e.aonprd.com/Feats.aspx?ID=1>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -323,7 +323,7 @@
 
 .. _ancestry-feat--Dwarf--Weapon-Familiarity:
 
-Знакомство с оружием дварфов (`Dwarven Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=2>`_) / 1 ур.
+Знакомство с оружием дварфов (`Dwarven Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=2>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -337,7 +337,7 @@
 
 .. _ancestry-feat--Dwarf--Rock-Runner:
 
-Каменный бегун (`Rock Runner <https://2e.aonprd.com/Feats.aspx?ID=3>`_) / 1 ур.
+Каменный бегун (`Rock Runner <https://2e.aonprd.com/Feats.aspx?ID=3>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -349,7 +349,7 @@
 
 .. _ancestry-feat--Dwarf--Stonecunning:
 
-Хитрость каменной кладки (`Stonecunning <https://2e.aonprd.com/Feats.aspx?ID=4>`_) / 1 ур.
+Хитрость каменной кладки (`Stonecunning <https://2e.aonprd.com/Feats.aspx?ID=4>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -364,7 +364,7 @@
 
 .. _ancestry-feat--Dwarf--Unburdened-Iron:
 
-Необремененяющее железо (`Unburdened Iron <https://2e.aonprd.com/Feats.aspx?ID=5>`_) / 1 ур.
+Необремененяющее железо (`Unburdened Iron <https://2e.aonprd.com/Feats.aspx?ID=5>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -379,7 +379,7 @@
 
 .. _ancestry-feat--Dwarf--Vengeful-Hatred:
 
-Мстительная ненависть (`Vengeful Hatred <https://2e.aonprd.com/Feats.aspx?ID=6>`_) / 1 ур.
+Мстительная ненависть (`Vengeful Hatred <https://2e.aonprd.com/Feats.aspx?ID=6>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -396,7 +396,7 @@
 
 .. _ancestry-feat--Dwarf--Avenge-in-Glory:
 
-Отомстить с честью (`Avenge in Glory <https://2e.aonprd.com/Feats.aspx?ID=964>`_) |д-р| / 1 ур.
+Отомстить с честью (`Avenge in Glory <https://2e.aonprd.com/Feats.aspx?ID=964>`_) |д-р| / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -418,7 +418,7 @@
 
 .. _ancestry-feat--Dwarf--Clans-Edge:
 
-Клановое острие (`Clan's Edge <https://2e.aonprd.com/Feats.aspx?ID=965>`_) |д-2| / 1 ур.
+Клановое острие (`Clan's Edge <https://2e.aonprd.com/Feats.aspx?ID=965>`_) |д-2| / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -437,7 +437,7 @@
 
 .. _ancestry-feat--Dwarf--Forge-Days-Rest:
 
-Отдых кузнечного дня (`Forge-Day's Rest <https://2e.aonprd.com/Feats.aspx?ID=966>`_) / 1 ур.
+Отдых кузнечного дня (`Forge-Day's Rest <https://2e.aonprd.com/Feats.aspx?ID=966>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -455,7 +455,7 @@
 
 .. _ancestry-feat--Dwarf--Surface-Culture:
 
-Культура поверхности (`Surface Culture <https://2e.aonprd.com/Feats.aspx?ID=967>`_) / 1 ур.
+Культура поверхности (`Surface Culture <https://2e.aonprd.com/Feats.aspx?ID=967>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -473,7 +473,7 @@
 
 .. _ancestry-feat--Dwarf--Dwarven-Doughtiness:
 
-Дварфская отвага (`Dwarven Doughtiness <https://2e.aonprd.com/Feats.aspx?ID=1397>`_) / 1 ур.
+Дварфская отвага (`Dwarven Doughtiness <https://2e.aonprd.com/Feats.aspx?ID=1397>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -488,7 +488,7 @@
 
 .. _ancestry-feat--Dwarf--Eye-for-Treasure:
 
-Нюх на сокровища (`Eye for Treasure <https://2e.aonprd.com/Feats.aspx?ID=1398>`_) / 1 ур.
+Нюх на сокровища (`Eye for Treasure <https://2e.aonprd.com/Feats.aspx?ID=1398>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -511,7 +511,7 @@
 
 .. _ancestry-feat--Dwarf--Boulder-Roll:
 
-Наезд булыжника (`Boulder Roll <https://2e.aonprd.com/Feats.aspx?ID=7>`_) |д-2| / 5 ур.
+Наезд булыжника (`Boulder Roll <https://2e.aonprd.com/Feats.aspx?ID=7>`_) |д-2| / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -531,7 +531,7 @@
 
 .. _ancestry-feat--Dwarf--Dwarven-Weapon-Cunning:
 
-Хитрость дварфского оружия (`Dwarven Weapon Cunning <https://2e.aonprd.com/Feats.aspx?ID=8>`_) / 5 ур.
+Хитрость дварфского оружия (`Dwarven Weapon Cunning <https://2e.aonprd.com/Feats.aspx?ID=8>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -546,7 +546,7 @@
 
 .. _ancestry-feat--Dwarf--Clan-Protector:
 
-Защитник клана (`Clan Protector <https://2e.aonprd.com/Feats.aspx?ID=968>`_) / 5 ур.
+Защитник клана (`Clan Protector <https://2e.aonprd.com/Feats.aspx?ID=968>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -562,7 +562,7 @@
 
 .. _ancestry-feat--Dwarf--Protective-Sheath:
 
-Защитные ножны (`Protective Sheath <https://2e.aonprd.com/Feats.aspx?ID=969>`_) / 5 ур.
+Защитные ножны (`Protective Sheath <https://2e.aonprd.com/Feats.aspx?ID=969>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -580,7 +580,7 @@
 
 .. _ancestry-feat--Dwarf--Tomb-Watchers-Glare:
 
-Взгляд хранителя гробниц (`Tomb-Watcher's Glare <https://2e.aonprd.com/Feats.aspx?ID=970>`_) / 5 ур.
+Взгляд хранителя гробниц (`Tomb-Watcher's Glare <https://2e.aonprd.com/Feats.aspx?ID=970>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - сакральная
@@ -598,7 +598,7 @@
 
 .. _ancestry-feat--Dwarf--Defy-the-Darkness:
 
-Бросить вызов тьме (`Defy the Darkness <https://2e.aonprd.com/Feats.aspx?ID=1399>`_) / 5 ур.
+Бросить вызов тьме (`Defy the Darkness <https://2e.aonprd.com/Feats.aspx?ID=1399>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -616,7 +616,7 @@
 
 .. _ancestry-feat--Dwarf--Dwarven-Reinforcement:
 
-Дварфское укрепление (`Dwarven Reinforcement <https://2e.aonprd.com/Feats.aspx?ID=1400>`_) / 5 ур.
+Дварфское укрепление (`Dwarven Reinforcement <https://2e.aonprd.com/Feats.aspx?ID=1400>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -635,7 +635,7 @@
 
 .. _ancestry-feat--Dwarf--Sheltering-Slab:
 
-Прикрывающая плита (`Sheltering Slab <https://2e.aonprd.com/Feats.aspx?ID=1401>`_) / 5 ур.
+Прикрывающая плита (`Sheltering Slab <https://2e.aonprd.com/Feats.aspx?ID=1401>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -657,7 +657,7 @@
 
 .. _ancestry-feat--Dwarf--Mountains-Stoutness:
 
-Прочность горы (`Mountain's Stoutness <https://2e.aonprd.com/Feats.aspx?ID=9>`_) / 9 ур.
+Прочность горы (`Mountain's Stoutness <https://2e.aonprd.com/Feats.aspx?ID=9>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -674,7 +674,7 @@
 
 .. _ancestry-feat--Dwarf--Stonewalker:
 
-Каменщик (`Stonewalker <https://2e.aonprd.com/Feats.aspx?ID=10>`_) / 9 ур.
+Каменщик (`Stonewalker <https://2e.aonprd.com/Feats.aspx?ID=10>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -688,7 +688,7 @@
 
 .. _ancestry-feat--Dwarf--Battleforger:
 
-Боевой кузнец (`Battleforger <https://2e.aonprd.com/Feats.aspx?ID=971>`_) / 9 ур.
+Боевой кузнец (`Battleforger <https://2e.aonprd.com/Feats.aspx?ID=971>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -706,7 +706,7 @@
 
 .. _ancestry-feat--Dwarf--Energy-Blessed:
 
-Благословленный энергией (`Energy Blessed <https://2e.aonprd.com/Feats.aspx?ID=972>`_) / 9 ур.
+Благословленный энергией (`Energy Blessed <https://2e.aonprd.com/Feats.aspx?ID=972>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -724,7 +724,7 @@
 
 .. _ancestry-feat--Dwarf--Heroes-Call:
 
-Зов героев (`Heroes' Call <https://2e.aonprd.com/Feats.aspx?ID=973>`_) / 9 ур.
+Зов героев (`Heroes' Call <https://2e.aonprd.com/Feats.aspx?ID=973>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -740,7 +740,7 @@
 
 .. _ancestry-feat--Dwarf--Kneel-for-No-God:
 
-Не преклоняться перед богом (`Kneel for No God <https://2e.aonprd.com/Feats.aspx?ID=974>`_) / 9 ур.
+Не преклоняться перед богом (`Kneel for No God <https://2e.aonprd.com/Feats.aspx?ID=974>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -759,7 +759,7 @@
 
 .. _ancestry-feat--Dwarf--Echoes-in-Stone:
 
-Отзвуки в камне (`Echoes in Stone <https://2e.aonprd.com/Feats.aspx?ID=1402>`_) |д-1| / 9 ур.
+Отзвуки в камне (`Echoes in Stone <https://2e.aonprd.com/Feats.aspx?ID=1402>`_) |д-1| / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - концентрация
@@ -777,7 +777,7 @@
 
 .. _ancestry-feat--Dwarf--Returning-Throw:
 
-Возвращающийся бросок (`Returning Throw <https://2e.aonprd.com/Feats.aspx?ID=1403>`_) |д-2| / 9 ур.
+Возвращающийся бросок (`Returning Throw <https://2e.aonprd.com/Feats.aspx?ID=1403>`_) |д-2| / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -794,7 +794,7 @@
 
 .. _ancestry-feat--Dwarf--Stone-Bones:
 
-Каменные кости (`Stone Bones <https://2e.aonprd.com/Feats.aspx?ID=1404>`_) |д-р| / 9 ур.
+Каменные кости (`Stone Bones <https://2e.aonprd.com/Feats.aspx?ID=1404>`_) |д-р| / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -818,7 +818,7 @@
 
 .. _ancestry-feat--Dwarf--Dwarven-Weapon-Expertise:
 
-Эксперт дварфского оружия (`Dwarven Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=11>`_) / 13 ур.
+Эксперт дварфского оружия (`Dwarven Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=11>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -833,7 +833,7 @@
 
 .. _ancestry-feat--Dwarf--Telluric-Power:
 
-Земная мощь (`Telluric Power <https://2e.aonprd.com/Feats.aspx?ID=1405>`_) / 13 ур.
+Земная мощь (`Telluric Power <https://2e.aonprd.com/Feats.aspx?ID=1405>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
@@ -854,7 +854,7 @@
 
 .. _ancestry-feat--Dwarf--Stonegate:
 
-Каменные врата (`Stonegate <https://2e.aonprd.com/Feats.aspx?ID=1406>`_) / 17 ур.
+Каменные врата (`Stonegate <https://2e.aonprd.com/Feats.aspx?ID=1406>`_) / 17
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф

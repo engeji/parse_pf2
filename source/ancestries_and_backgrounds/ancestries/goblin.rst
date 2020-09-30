@@ -266,7 +266,7 @@
 
 .. _ancestry-feat--Goblin--Burn-It:
 
-Сжечь! (`Burn It! <https://2e.aonprd.com/Feats.aspx?ID=38>`_) / 1 ур.
+Сжечь! (`Burn It! <https://2e.aonprd.com/Feats.aspx?ID=38>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -278,7 +278,7 @@
 
 .. _ancestry-feat--Goblin--City-Scavenger:
 
-Городской падальщик (`City Scavenger <https://2e.aonprd.com/Feats.aspx?ID=39>`_) / 1 ур.
+Городской падальщик (`City Scavenger <https://2e.aonprd.com/Feats.aspx?ID=39>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -295,7 +295,7 @@
 
 .. _ancestry-feat--Goblin--Goblin-Lore:
 
-Гоблинские знания (`Goblin Lore <https://2e.aonprd.com/Feats.aspx?ID=40>`_) / 1 ур.
+Гоблинские знания (`Goblin Lore <https://2e.aonprd.com/Feats.aspx?ID=40>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -308,7 +308,7 @@
 
 .. _ancestry-feat--Goblin--Goblin-Scuttle:
 
-Гоблинское увиливание (`Goblin Scuttle <https://2e.aonprd.com/Feats.aspx?ID=41>`_) |д-р| / 1 ур.
+Гоблинское увиливание (`Goblin Scuttle <https://2e.aonprd.com/Feats.aspx?ID=41>`_) |д-р| / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -323,7 +323,7 @@
 
 .. _ancestry-feat--Goblin--Goblin-Song:
 
-Гоблинская песенка (`Goblin Song <https://2e.aonprd.com/Feats.aspx?ID=42>`_) |д-1| / 1 ур.
+Гоблинская песенка (`Goblin Song <https://2e.aonprd.com/Feats.aspx?ID=42>`_) |д-1| / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -341,7 +341,7 @@
 
 .. _ancestry-feat--Goblin--Goblin-Weapon-Familiarity:
 
-Знакомство с гоблинским оружием (`Goblin Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=43>`_) / 1 ур.
+Знакомство с гоблинским оружием (`Goblin Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=43>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -355,7 +355,7 @@
 
 .. _ancestry-feat--Goblin--Junk-Tinker:
 
-Изобретатель из мусора (`Junk Tinker <https://2e.aonprd.com/Feats.aspx?ID=44>`_) / 1 ур.
+Изобретатель из мусора (`Junk Tinker <https://2e.aonprd.com/Feats.aspx?ID=44>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -372,7 +372,7 @@
 
 .. _ancestry-feat--Goblin--Rough-Rider:
 
-Суровый наездник (`Rough Rider <https://2e.aonprd.com/Feats.aspx?ID=45>`_) / 1 ур.
+Суровый наездник (`Rough Rider <https://2e.aonprd.com/Feats.aspx?ID=45>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -385,7 +385,7 @@
 
 .. _ancestry-feat--Goblin--Very-Sneaky:
 
-Очень пронырливый (`Very Sneaky <https://2e.aonprd.com/Feats.aspx?ID=46>`_) / 1 ур.
+Очень пронырливый (`Very Sneaky <https://2e.aonprd.com/Feats.aspx?ID=46>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -398,7 +398,7 @@
 
 .. _ancestry-feat--Goblin--Bouncy-Goblin:
 
-Упругий гоблин (`Bouncy Goblin <https://2e.aonprd.com/Feats.aspx?ID=999>`_) / 1 ур.
+Упругий гоблин (`Bouncy Goblin <https://2e.aonprd.com/Feats.aspx?ID=999>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -416,7 +416,7 @@
 
 .. _ancestry-feat--Goblin--Fang-Sharpener:
 
-Точащий клыки (`Fang Sharpener <https://2e.aonprd.com/Feats.aspx?ID=1000>`_) / 1 ур.
+Точащий клыки (`Fang Sharpener <https://2e.aonprd.com/Feats.aspx?ID=1000>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -434,7 +434,7 @@
 
 .. _ancestry-feat--Goblin--Hard-Tail:
 
-Крепкий хвост (`Hard Tail <https://2e.aonprd.com/Feats.aspx?ID=1001>`_) / 1 ур.
+Крепкий хвост (`Hard Tail <https://2e.aonprd.com/Feats.aspx?ID=1001>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -451,7 +451,7 @@
 
 .. _ancestry-feat--Goblin--Extra-Squishy:
 
-Очень мягкий (`Extra Squishy <https://2e.aonprd.com/Feats.aspx?ID=1423>`_) / 1 ур.
+Очень мягкий (`Extra Squishy <https://2e.aonprd.com/Feats.aspx?ID=1423>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -471,7 +471,7 @@
 
 .. _ancestry-feat--Goblin--Twitchy:
 
-Дерганный (`Twitchy <https://2e.aonprd.com/Feats.aspx?ID=1424>`_) / 1 ур.
+Дерганный (`Twitchy <https://2e.aonprd.com/Feats.aspx?ID=1424>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -493,7 +493,7 @@
 
 .. _ancestry-feat--Goblin--Goblin-Weapon-Frenzy:
 
-Ярость гоблинского оружия (`Goblin Weapon Frenzy <https://2e.aonprd.com/Feats.aspx?ID=47>`_) / 5 ур.
+Ярость гоблинского оружия (`Goblin Weapon Frenzy <https://2e.aonprd.com/Feats.aspx?ID=47>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -509,7 +509,7 @@
 
 .. _ancestry-feat--Goblin--Ankle-Bite:
 
-Укус в лодыжку (`Ankle Bite <https://2e.aonprd.com/Feats.aspx?ID=1002>`_) |д-р| / 5 ур.
+Укус в лодыжку (`Ankle Bite <https://2e.aonprd.com/Feats.aspx?ID=1002>`_) |д-р| / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -531,7 +531,7 @@
 
 .. _ancestry-feat--Goblin--Chosen-of-Lamashtu:
 
-Избранник Ламашту (`Chosen of Lamashtu <https://2e.aonprd.com/Feats.aspx?ID=1003>`_) / 5 ур.
+Избранник Ламашту (`Chosen of Lamashtu <https://2e.aonprd.com/Feats.aspx?ID=1003>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -549,7 +549,7 @@
 
 .. _ancestry-feat--Goblin--Tail-Spin:
 
-Вращение хвостом (`Tail Spin <https://2e.aonprd.com/Feats.aspx?ID=1004>`_) |д-2| / 5 ур.
+Вращение хвостом (`Tail Spin <https://2e.aonprd.com/Feats.aspx?ID=1004>`_) |д-2| / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -567,7 +567,7 @@
 
 .. _ancestry-feat--Goblin--Torch-Goblin:
 
-Гоблин-факел (`Torch Goblin <https://2e.aonprd.com/Feats.aspx?ID=1005>`_) |д-1| / 5 ур.
+Гоблин-факел (`Torch Goblin <https://2e.aonprd.com/Feats.aspx?ID=1005>`_) |д-1| / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -587,7 +587,7 @@
 
 .. _ancestry-feat--Goblin--Tree-Climber:
 
-Древолаз (`Tree Climber (Goblin) <https://2e.aonprd.com/Feats.aspx?ID=1006>`_) / 5 ур.
+Древолаз (`Tree Climber (Goblin) <https://2e.aonprd.com/Feats.aspx?ID=1006>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -605,7 +605,7 @@
 
 .. _ancestry-feat--Goblin--Kneecap:
 
-Коленная чашечка (`Kneecap <https://2e.aonprd.com/Feats.aspx?ID=1425>`_) |д-1| / 5 ур.
+Коленная чашечка (`Kneecap <https://2e.aonprd.com/Feats.aspx?ID=1425>`_) |д-1| / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -626,7 +626,7 @@
 
 .. _ancestry-feat--Goblin--Loud-Singer:
 
-Громкий певец (`Loud Singer <https://2e.aonprd.com/Feats.aspx?ID=1426>`_) / 5 ур.
+Громкий певец (`Loud Singer <https://2e.aonprd.com/Feats.aspx?ID=1426>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -643,7 +643,7 @@
 
 .. _ancestry-feat--Goblin--Vandal:
 
-Вандал (`Vandal <https://2e.aonprd.com/Feats.aspx?ID=1427>`_) / 5 ур.
+Вандал (`Vandal <https://2e.aonprd.com/Feats.aspx?ID=1427>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -667,7 +667,7 @@
 
 .. _ancestry-feat--Goblin--Cave-Climber:
 
-Пещерный альпинист (`Cave Climber <https://2e.aonprd.com/Feats.aspx?ID=48>`_) / 9 ур.
+Пещерный альпинист (`Cave Climber <https://2e.aonprd.com/Feats.aspx?ID=48>`_) / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -678,7 +678,7 @@
 
 .. _ancestry-feat--Goblin--Skittering-Scuttle:
 
-Беготня (`Skittering Scuttle <https://2e.aonprd.com/Feats.aspx?ID=49>`_) / 9 ур.
+Беготня (`Skittering Scuttle <https://2e.aonprd.com/Feats.aspx?ID=49>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -693,7 +693,7 @@
 
 .. _ancestry-feat--Goblin--Freeze-It:
 
-Заморозить! (`Freeze It! <https://2e.aonprd.com/Feats.aspx?ID=1007>`_) |д-1| / 9 ур.
+Заморозить! (`Freeze It! <https://2e.aonprd.com/Feats.aspx?ID=1007>`_) |д-1| / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -716,7 +716,7 @@
 
 .. _ancestry-feat--Goblin--Hungry-Goblin:
 
-Голодный гоблин (`Hungry Goblin <https://2e.aonprd.com/Feats.aspx?ID=1008>`_) / 9 ур.
+Голодный гоблин (`Hungry Goblin <https://2e.aonprd.com/Feats.aspx?ID=1008>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -733,7 +733,7 @@
 
 .. _ancestry-feat--Goblin--Roll-with-It:
 
-Пустить на самотек (`Roll with It <https://2e.aonprd.com/Feats.aspx?ID=1009>`_) |д-р| / 9 ур.
+Пустить на самотек (`Roll with It <https://2e.aonprd.com/Feats.aspx?ID=1009>`_) |д-р| / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -755,7 +755,7 @@
 
 .. _ancestry-feat--Goblin--Scalding-Spit:
 
-Обжигающий плевок (`Scalding Spit <https://2e.aonprd.com/Feats.aspx?ID=1010>`_) / 9 ур.
+Обжигающий плевок (`Scalding Spit <https://2e.aonprd.com/Feats.aspx?ID=1010>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -772,7 +772,7 @@
 
 .. _ancestry-feat--Goblin--Cling:
 
-Вцепиться (`Cling <https://2e.aonprd.com/Feats.aspx?ID=1428>`_) |д-1| / 9 ур.
+Вцепиться (`Cling <https://2e.aonprd.com/Feats.aspx?ID=1428>`_) |д-1| / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -801,7 +801,7 @@
 
 .. _ancestry-feat--Goblin--Goblin-Weapon-Expertise:
 
-Эксперт гоблинского оружия (`Goblin Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=50>`_) / 13 ур.
+Эксперт гоблинского оружия (`Goblin Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=50>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -816,7 +816,7 @@
 
 .. _ancestry-feat--Goblin--Very-Very-Sneaky:
 
-Очень-очень пронырливый (`Very, Very Sneaky <https://2e.aonprd.com/Feats.aspx?ID=51>`_) / 13 ур.
+Очень-очень пронырливый (`Very, Very Sneaky <https://2e.aonprd.com/Feats.aspx?ID=51>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -830,7 +830,7 @@
 
 .. _ancestry-feat--Goblin--Unbreakable-er-Goblin:
 
-Несокрушимее (`Unbreakable-er Goblin <https://2e.aonprd.com/Feats.aspx?ID=1011>`_) / 13 ур.
+Несокрушимее (`Unbreakable-er Goblin <https://2e.aonprd.com/Feats.aspx?ID=1011>`_) / 13
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гоблин
@@ -856,7 +856,7 @@
 
 .. _ancestry-feat--Goblin--Reckless-Abandon:
 
-Безрассудный отказ (`Reckless Abandon (Goblin) <https://2e.aonprd.com/Feats.aspx?ID=1429>`_) |д-св| / 17 ур.
+Безрассудный отказ (`Reckless Abandon (Goblin) <https://2e.aonprd.com/Feats.aspx?ID=1429>`_) |д-св| / 17
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - удача

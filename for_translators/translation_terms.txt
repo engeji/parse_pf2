@@ -155,6 +155,9 @@ Creature: существо
 		copper: медный
 	alghollthu: альголлус
 	protean: протей
+	celestial
+		Cassisian: кассисиан
+		Balisse: баллис
 
 counteract: Противодействие :ref:`ch9--Counteracting`
 Currency: Деньги

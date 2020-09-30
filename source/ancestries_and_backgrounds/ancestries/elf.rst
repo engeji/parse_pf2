@@ -262,7 +262,7 @@
 
 .. _ancestry-feat--Elf--Ancestral-Longevity:
 
-Родовое долголетие (`Ancestral Longevity <https://2e.aonprd.com/Feats.aspx?ID=12>`_) / 1 ур.
+Родовое долголетие (`Ancestral Longevity <https://2e.aonprd.com/Feats.aspx?ID=12>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -279,7 +279,7 @@
 
 .. _ancestry-feat--Elf--Elven-Lore:
 
-Знания эльфов (`Elven Lore <https://2e.aonprd.com/Feats.aspx?ID=13>`_) / 1 ур.
+Знания эльфов (`Elven Lore <https://2e.aonprd.com/Feats.aspx?ID=13>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -292,7 +292,7 @@
 
 .. _ancestry-feat--Elf--Elven-Weapon-Familiarity:
 
-Знакомство с эльфийским оружием (`Elven Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=14>`_) / 1 ур.
+Знакомство с эльфийским оружием (`Elven Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=14>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -306,7 +306,7 @@
 
 .. _ancestry-feat--Elf--Forlorn:
 
-Покинутый (`Forlorn <https://2e.aonprd.com/Feats.aspx?ID=15>`_) / 1 ур.
+Покинутый (`Forlorn <https://2e.aonprd.com/Feats.aspx?ID=15>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -318,7 +318,7 @@
 
 .. _ancestry-feat--Elf--Nimble-Elf:
 
-Проворный эльф (`Nimble Elf <https://2e.aonprd.com/Feats.aspx?ID=16>`_) / 1 ур.
+Проворный эльф (`Nimble Elf <https://2e.aonprd.com/Feats.aspx?ID=16>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -329,7 +329,7 @@
 
 .. _ancestry-feat--Elf--Otherworldly-Magic:
 
-Потусторонняя магия (`Otherworldly Magic <https://2e.aonprd.com/Feats.aspx?ID=17>`_) / 1 ур.
+Потусторонняя магия (`Otherworldly Magic <https://2e.aonprd.com/Feats.aspx?ID=17>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -342,7 +342,7 @@
 
 .. _ancestry-feat--Elf--Unwavering-Mien:
 
-Непоколебимая наружность (`Unwavering Mien <https://2e.aonprd.com/Feats.aspx?ID=18>`_) / 1 ур.
+Непоколебимая наружность (`Unwavering Mien <https://2e.aonprd.com/Feats.aspx?ID=18>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -356,7 +356,7 @@
 
 .. _ancestry-feat--Elf--Elemental-Wrath:
 
-Гнев стихии (`Elemental Wrath <https://2e.aonprd.com/Feats.aspx?ID=975>`_) / 1 ур.
+Гнев стихии (`Elemental Wrath <https://2e.aonprd.com/Feats.aspx?ID=975>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -373,7 +373,7 @@
 
 .. _ancestry-feat--Elf--Elven-Verve:
 
-Эльфийская живость (`Elven Verve <https://2e.aonprd.com/Feats.aspx?ID=976>`_) / 1 ур.
+Эльфийская живость (`Elven Verve <https://2e.aonprd.com/Feats.aspx?ID=976>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -389,7 +389,7 @@
 
 .. _ancestry-feat--Elf--Share-Thoughts:
 
-Общие мысли (`Share Thoughts <https://2e.aonprd.com/Feats.aspx?ID=977>`_) / 1 ур.
+Общие мысли (`Share Thoughts <https://2e.aonprd.com/Feats.aspx?ID=977>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -406,7 +406,7 @@
 
 .. _ancestry-feat--Elf--Wildborn-Magic:
 
-Дикая магия (`Wildborn Magic <https://2e.aonprd.com/Feats.aspx?ID=978>`_) / 1 ур.
+Дикая магия (`Wildborn Magic <https://2e.aonprd.com/Feats.aspx?ID=978>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -426,7 +426,7 @@
 
 .. _ancestry-feat--Elf--Woodcraft:
 
-Знание леса (`Woodcraft <https://2e.aonprd.com/Feats.aspx?ID=979>`_) / 1 ур.
+Знание леса (`Woodcraft <https://2e.aonprd.com/Feats.aspx?ID=979>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -441,7 +441,7 @@
 
 .. _ancestry-feat--Elf--Ancestral-Linguistics:
 
-Родовая лингвистика (`Ancestral Linguistics <https://2e.aonprd.com/Feats.aspx?ID=1407>`_) / 1 ур.
+Родовая лингвистика (`Ancestral Linguistics <https://2e.aonprd.com/Feats.aspx?ID=1407>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -460,7 +460,7 @@
 
 .. _ancestry-feat--Elf--Elven-Aloofness:
 
-Эльфийская отчужденность (`Elven Aloofness <https://2e.aonprd.com/Feats.aspx?ID=1408>`_) / 1 ур.
+Эльфийская отчужденность (`Elven Aloofness <https://2e.aonprd.com/Feats.aspx?ID=1408>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -476,7 +476,7 @@
 
 .. _ancestry-feat--Elf--Know-Your-Own:
 
-Познание себя (`Know Your Own <https://2e.aonprd.com/Feats.aspx?ID=1409>`_) / 1 ур.
+Познание себя (`Know Your Own <https://2e.aonprd.com/Feats.aspx?ID=1409>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -497,7 +497,7 @@
 
 .. _ancestry-feat--Elf--Ageless-Patience:
 
-Вечное терпение (`Ageless Patience <https://2e.aonprd.com/Feats.aspx?ID=19>`_) / 5 ур.
+Вечное терпение (`Ageless Patience <https://2e.aonprd.com/Feats.aspx?ID=19>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -513,7 +513,7 @@
 
 .. _ancestry-feat--Elf--Elven-Weapon-Elegance:
 
-Изящество эльфийского оружия (`Elven Weapon Elegance <https://2e.aonprd.com/Feats.aspx?ID=20>`_) / 5 ур.
+Изящество эльфийского оружия (`Elven Weapon Elegance <https://2e.aonprd.com/Feats.aspx?ID=20>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -528,7 +528,7 @@
 
 .. _ancestry-feat--Elf--Defiance-Unto-Death:
 
-Неповиновение смерти (`Defiance Unto Death <https://2e.aonprd.com/Feats.aspx?ID=980>`_) / 5 ур.
+Неповиновение смерти (`Defiance Unto Death <https://2e.aonprd.com/Feats.aspx?ID=980>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -546,7 +546,7 @@
 
 .. _ancestry-feat--Elf--Elven-Instincts:
 
-Эльфийские инстинкты (`Elven Instincts <https://2e.aonprd.com/Feats.aspx?ID=981>`_) / 5 ур.
+Эльфийские инстинкты (`Elven Instincts <https://2e.aonprd.com/Feats.aspx?ID=981>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -562,7 +562,7 @@
 
 .. _ancestry-feat--Elf--Forest-Stealth:
 
-Лесная скрытность (`Forest Stealth <https://2e.aonprd.com/Feats.aspx?ID=982>`_) |д-1| / 5 ур.
+Лесная скрытность (`Forest Stealth <https://2e.aonprd.com/Feats.aspx?ID=982>`_) |д-1| / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -581,7 +581,7 @@
 
 .. _ancestry-feat--Elf--Wildborn-Adept:
 
-Адепт дикой магии (`Wildborn Adept <https://2e.aonprd.com/Feats.aspx?ID=983>`_) / 5 ур.
+Адепт дикой магии (`Wildborn Adept <https://2e.aonprd.com/Feats.aspx?ID=983>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -599,7 +599,7 @@
 
 .. _ancestry-feat--Elf--Ancestral-Suspicion:
 
-Родовая настороженность (`Ancestral Suspicion <https://2e.aonprd.com/Feats.aspx?ID=1410>`_) / 5 ур.
+Родовая настороженность (`Ancestral Suspicion <https://2e.aonprd.com/Feats.aspx?ID=1410>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -616,7 +616,7 @@
 
 .. _ancestry-feat--Elf--Martial-Experience:
 
-Воинский опыт (`Martial Experience <https://2e.aonprd.com/Feats.aspx?ID=1411>`_) / 5 ур.
+Воинский опыт (`Martial Experience <https://2e.aonprd.com/Feats.aspx?ID=1411>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -638,7 +638,7 @@
 
 .. _ancestry-feat--Elf--Elf-Step:
 
-Эльфийский шаг (`Elf Step <https://2e.aonprd.com/Feats.aspx?ID=21>`_) |д-1| / 9 ур.
+Эльфийский шаг (`Elf Step <https://2e.aonprd.com/Feats.aspx?ID=21>`_) |д-1| / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -649,7 +649,7 @@
 
 .. _ancestry-feat--Elf--Expert-Longevity:
 
-Эксперт долголетия (`Expert Longevity <https://2e.aonprd.com/Feats.aspx?ID=22>`_) / 9 ур.
+Эксперт долголетия (`Expert Longevity <https://2e.aonprd.com/Feats.aspx?ID=22>`_) / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -668,7 +668,7 @@
 
 .. _ancestry-feat--Elf--Brightness-Seeker:
 
-Ищущий положительное (`Brightness Seeker <https://2e.aonprd.com/Feats.aspx?ID=984>`_) / 9 ур.
+Ищущий положительное (`Brightness Seeker <https://2e.aonprd.com/Feats.aspx?ID=984>`_) / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -691,7 +691,7 @@
 
 .. _ancestry-feat--Elf--Sense-Thoughts:
 
-Чувствовать мысли (`Sense Thoughts <https://2e.aonprd.com/Feats.aspx?ID=985>`_) / 9 ур.
+Чувствовать мысли (`Sense Thoughts <https://2e.aonprd.com/Feats.aspx?ID=985>`_) / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -709,7 +709,7 @@
 
 .. _ancestry-feat--Elf--Otherworldly-Acumen:
 
-Потусторонняя проницательность (`Otherworldly Acumen <https://2e.aonprd.com/Feats.aspx?ID=1412>`_) / 9 ур.
+Потусторонняя проницательность (`Otherworldly Acumen <https://2e.aonprd.com/Feats.aspx?ID=1412>`_) / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -730,7 +730,7 @@
 
 .. _ancestry-feat--Elf--Tree-Climber:
 
-Древолаз (`Tree Climber (Elf) <https://2e.aonprd.com/Feats.aspx?ID=1413>`_) / 9 ур.
+Древолаз (`Tree Climber (Elf) <https://2e.aonprd.com/Feats.aspx?ID=1413>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -751,7 +751,7 @@
 
 .. _ancestry-feat--Elf--Universal-Longevity:
 
-Универсальное долголетие (`Universal Longevity <https://2e.aonprd.com/Feats.aspx?ID=23>`_) |д-1| / 13 ур.
+Универсальное долголетие (`Universal Longevity <https://2e.aonprd.com/Feats.aspx?ID=23>`_) |д-1| / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -768,7 +768,7 @@
 
 .. _ancestry-feat--Elf--Elven-Weapon-Expertise:
 
-Эксперт эльфийского оружия (`Elven Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=24>`_) / 13 ур.
+Эксперт эльфийского оружия (`Elven Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=24>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -783,7 +783,7 @@
 
 .. _ancestry-feat--Elf--Wandering-Heart:
 
-Блуждающее сердце (`Wandering Heart <https://2e.aonprd.com/Feats.aspx?ID=986>`_) / 13 ур.
+Блуждающее сердце (`Wandering Heart <https://2e.aonprd.com/Feats.aspx?ID=986>`_) / 13
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф
@@ -801,7 +801,7 @@
 
 .. _ancestry-feat--Elf--Avenge-Ally:
 
-Отомстить за союзника (`Avenge Ally <https://2e.aonprd.com/Feats.aspx?ID=1414>`_) |д-1| / 13 ур.
+Отомстить за союзника (`Avenge Ally <https://2e.aonprd.com/Feats.aspx?ID=1414>`_) |д-1| / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - удача
@@ -828,7 +828,7 @@
 
 .. _ancestry-feat--Elf--Magic-Rider:
 
-Верхом на магии (`Magic Rider <https://2e.aonprd.com/Feats.aspx?ID=1415>`_) / 17 ур.
+Верхом на магии (`Magic Rider <https://2e.aonprd.com/Feats.aspx?ID=1415>`_) / 17
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эльф

@@ -241,7 +241,7 @@
 
 .. _ancestry-feat--Gnome--Animal-Accomplice:
 
-Животное-единомышленник (`Animal Accomplice <https://2e.aonprd.com/Feats.aspx?ID=25>`_) / 1 ур.
+Животное-единомышленник (`Animal Accomplice <https://2e.aonprd.com/Feats.aspx?ID=25>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -253,7 +253,7 @@
 
 .. _ancestry-feat--Gnome--Burrow-Elocutionist:
 
-Читающий вибрации (`Burrow Elocutionist <https://2e.aonprd.com/Feats.aspx?ID=26>`_) / 1 ур.
+Читающий вибрации (`Burrow Elocutionist <https://2e.aonprd.com/Feats.aspx?ID=26>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -265,7 +265,7 @@
 
 .. _ancestry-feat--Gnome--Fey-Fellowship:
 
-Дружба с феями (`Fey Fellowship <https://2e.aonprd.com/Feats.aspx?ID=27>`_) / 1 ур.
+Дружба с феями (`Fey Fellowship <https://2e.aonprd.com/Feats.aspx?ID=27>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -282,7 +282,7 @@
 
 .. _ancestry-feat--Gnome--First-World-Magic:
 
-Магия Первого Мира (`First World Magic <https://2e.aonprd.com/Feats.aspx?ID=28>`_) / 1 ур.
+Магия Первого Мира (`First World Magic <https://2e.aonprd.com/Feats.aspx?ID=28>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -295,7 +295,7 @@
 
 .. _ancestry-feat--Gnome--Gnome-Obsession:
 
-Гномья одержимость (`Gnome Obsession <https://2e.aonprd.com/Feats.aspx?ID=29>`_) / 1 ур.
+Гномья одержимость (`Gnome Obsession <https://2e.aonprd.com/Feats.aspx?ID=29>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -309,7 +309,7 @@
 
 .. _ancestry-feat--Gnome--Gnome-Weapon-Familiarity:
 
-Знакомство с гномьим оружием (`Gnome Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=30>`_) / 1 ур.
+Знакомство с гномьим оружием (`Gnome Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=30>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -326,7 +326,7 @@
 
 .. _ancestry-feat--Gnome--Illusion-Sense:
 
-Ощущение иллюзий (`Illusion Sense <https://2e.aonprd.com/Feats.aspx?ID=31>`_) / 1 ур.
+Ощущение иллюзий (`Illusion Sense <https://2e.aonprd.com/Feats.aspx?ID=31>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -338,7 +338,7 @@
 
 .. _ancestry-feat--Gnome--Gnome-Polyglot:
 
-Гном-полиглот (`Gnome Polyglot <https://2e.aonprd.com/Feats.aspx?ID=987>`_) / 1 ур.
+Гном-полиглот (`Gnome Polyglot <https://2e.aonprd.com/Feats.aspx?ID=987>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -355,7 +355,7 @@
 
 .. _ancestry-feat--Gnome--Grim-Insight:
 
-Мрачная интуиция (`Grim Insight <https://2e.aonprd.com/Feats.aspx?ID=988>`_) / 1 ур.
+Мрачная интуиция (`Grim Insight <https://2e.aonprd.com/Feats.aspx?ID=988>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -372,7 +372,7 @@
 
 .. _ancestry-feat--Gnome--Inventive-Offensive:
 
-Изобретательное нападение (`Inventive Offensive <https://2e.aonprd.com/Feats.aspx?ID=989>`_) |д-3| / 1 ур.
+Изобретательное нападение (`Inventive Offensive <https://2e.aonprd.com/Feats.aspx?ID=989>`_) |д-3| / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -396,7 +396,7 @@
 
 .. _ancestry-feat--Gnome--Life-Giving-Magic:
 
-Животворящая магия (`Life-Giving Magic <https://2e.aonprd.com/Feats.aspx?ID=990>`_) |д-р| / 1 ур.
+Животворящая магия (`Life-Giving Magic <https://2e.aonprd.com/Feats.aspx?ID=990>`_) |д-р| / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -415,7 +415,7 @@
 
 .. _ancestry-feat--Gnome--Natural-Performer:
 
-Прирожденный артист (`Natural Performer <https://2e.aonprd.com/Feats.aspx?ID=991>`_) / 1 ур.
+Прирожденный артист (`Natural Performer <https://2e.aonprd.com/Feats.aspx?ID=991>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -430,7 +430,7 @@
 
 .. _ancestry-feat--Gnome--Theoretical-Acumen:
 
-Смекалка теоретика (`Theoretical Acumen <https://2e.aonprd.com/Feats.aspx?ID=992>`_) |д-св| / 1 ур.
+Смекалка теоретика (`Theoretical Acumen <https://2e.aonprd.com/Feats.aspx?ID=992>`_) |д-св| / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -451,7 +451,7 @@
 
 .. _ancestry-feat--Gnome--Unexpected-Shift:
 
-Внезапное перемещение (`Unexpected Shift <https://2e.aonprd.com/Feats.aspx?ID=993>`_) |д-р| / 1 ур.
+Внезапное перемещение (`Unexpected Shift <https://2e.aonprd.com/Feats.aspx?ID=993>`_) |д-р| / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -469,7 +469,7 @@
 
 .. _ancestry-feat--Gnome--Vibrant-Display:
 
-Яркая демонстрация (`Vibrant Display <https://2e.aonprd.com/Feats.aspx?ID=994>`_) / 1 ур.
+Яркая демонстрация (`Vibrant Display <https://2e.aonprd.com/Feats.aspx?ID=994>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -491,7 +491,7 @@
 
 .. _ancestry-feat--Gnome--Empathetic-Plea:
 
-Чуткая просьба (`Empathetic Plea <https://2e.aonprd.com/Feats.aspx?ID=1416>`_) |д-р| / 1 ур.
+Чуткая просьба (`Empathetic Plea <https://2e.aonprd.com/Feats.aspx?ID=1416>`_) |д-р| / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эмоция
@@ -519,7 +519,7 @@
 
 .. _ancestry-feat--Gnome--Razzle-Dazzle:
 
-Кутерьма (`Razzle-Dazzle <https://2e.aonprd.com/Feats.aspx?ID=1417>`_) |д-св| / 1 ур.
+Кутерьма (`Razzle-Dazzle <https://2e.aonprd.com/Feats.aspx?ID=1417>`_) |д-св| / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -544,7 +544,7 @@
 
 .. _ancestry-feat--Gnome--Animal-Elocutionist:
 
-Понимающий животных (`Animal Elocutionist <https://2e.aonprd.com/Feats.aspx?ID=32>`_) / 5 ур.
+Понимающий животных (`Animal Elocutionist <https://2e.aonprd.com/Feats.aspx?ID=32>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -560,7 +560,7 @@
 
 .. _ancestry-feat--Gnome--Energized-Font:
 
-Заряжающая сила (`Energized Font <https://2e.aonprd.com/Feats.aspx?ID=33>`_) |д-1| / 5 ур.
+Заряжающая сила (`Energized Font <https://2e.aonprd.com/Feats.aspx?ID=33>`_) |д-1| / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -577,7 +577,7 @@
 
 .. _ancestry-feat--Gnome--Gnome-Weapon-Innovator:
 
-Новатор гномьего оружия (`Gnome Weapon Innovator <https://2e.aonprd.com/Feats.aspx?ID=34>`_) / 5 ур.
+Новатор гномьего оружия (`Gnome Weapon Innovator <https://2e.aonprd.com/Feats.aspx?ID=34>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -592,7 +592,7 @@
 
 .. _ancestry-feat--Gnome--Eclectic-Obsession:
 
-Эклектическая одержимость (`Eclectic Obsession <https://2e.aonprd.com/Feats.aspx?ID=995>`_) / 5 ур.
+Эклектическая одержимость (`Eclectic Obsession <https://2e.aonprd.com/Feats.aspx?ID=995>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -613,7 +613,7 @@
 
 .. _ancestry-feat--Gnome--Intuitive-Illusions:
 
-Интуитивные иллюзии (`Intuitive Illusions <https://2e.aonprd.com/Feats.aspx?ID=996>`_) |д-св| / 5 ур.
+Интуитивные иллюзии (`Intuitive Illusions <https://2e.aonprd.com/Feats.aspx?ID=996>`_) |д-св| / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -634,7 +634,7 @@
 
 .. _ancestry-feat--Gnome--Natural-Illusionist:
 
-Прирожденный иллюзионист (`Natural Illusionist <https://2e.aonprd.com/Feats.aspx?ID=997>`_) / 5 ур.
+Прирожденный иллюзионист (`Natural Illusionist <https://2e.aonprd.com/Feats.aspx?ID=997>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -652,7 +652,7 @@
 
 .. _ancestry-feat--Gnome--Project-Persona:
 
-Проекция персоны (`Project Persona <https://2e.aonprd.com/Feats.aspx?ID=1418>`_) |д-1| / 5 ур.
+Проекция персоны (`Project Persona <https://2e.aonprd.com/Feats.aspx?ID=1418>`_) |д-1| / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - природный
@@ -681,7 +681,7 @@
 
 .. _ancestry-feat--Gnome--First-World-Adept:
 
-Адепт Первого мира (`First World Adept <https://2e.aonprd.com/Feats.aspx?ID=35>`_) / 9 ур.
+Адепт Первого мира (`First World Adept <https://2e.aonprd.com/Feats.aspx?ID=35>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -697,7 +697,7 @@
 
 .. _ancestry-feat--Gnome--Vivacious-Conduit:
 
-Оживленный проводник (`Vivacious Conduit <https://2e.aonprd.com/Feats.aspx?ID=36>`_) / 9 ур.
+Оживленный проводник (`Vivacious Conduit <https://2e.aonprd.com/Feats.aspx?ID=36>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -708,7 +708,7 @@
 
 .. _ancestry-feat--Gnome--Fortutious-Shift:
 
-Удачное перемещение (`Fortutious Shift <https://2e.aonprd.com/Feats.aspx?ID=998>`_) / 9 ур.
+Удачное перемещение (`Fortutious Shift <https://2e.aonprd.com/Feats.aspx?ID=998>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -725,7 +725,7 @@
 
 .. _ancestry-feat--Gnome--Cautious-Curiosity:
 
-Осторожное любопытство (`Cautious Curiosity <https://2e.aonprd.com/Feats.aspx?ID=1419>`_) / 9 ур.
+Осторожное любопытство (`Cautious Curiosity <https://2e.aonprd.com/Feats.aspx?ID=1419>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -744,7 +744,7 @@
 
 .. _ancestry-feat--Gnome--Life-Leap:
 
-Жизненный скачок (`Life Leap <https://2e.aonprd.com/Feats.aspx?ID=1420>`_) |д-1| / 9 ур.
+Жизненный скачок (`Life Leap <https://2e.aonprd.com/Feats.aspx?ID=1420>`_) |д-1| / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - движение
@@ -774,7 +774,7 @@
 
 .. _ancestry-feat--Gnome--Weapon-Expertise:
 
-Эксперт оружия гномов (`Gnome Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=37>`_) / 13 ур.
+Эксперт оружия гномов (`Gnome Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=37>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
@@ -789,7 +789,7 @@
 
 .. _ancestry-feat--Gnome--Instinctive-Obfuscation:
 
-Инстинктивное запутывание (`Instinctive Obfuscation <https://2e.aonprd.com/Feats.aspx?ID=1421>`_) |д-р| / 13 ур.
+Инстинктивное запутывание (`Instinctive Obfuscation <https://2e.aonprd.com/Feats.aspx?ID=1421>`_) |д-р| / 13
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - иллюзия
@@ -819,7 +819,7 @@
 
 .. _ancestry-feat--Gnome--Homeward-Bound:
 
-Возвращение домой (`Homeward Bound <https://2e.aonprd.com/Feats.aspx?ID=1422>`_) / 17 ур.
+Возвращение домой (`Homeward Bound <https://2e.aonprd.com/Feats.aspx?ID=1422>`_) / 17
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - гном
