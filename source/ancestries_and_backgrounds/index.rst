@@ -264,6 +264,7 @@
    :maxdepth: 2
    
    versatile_heritages/changeling
+   versatile_heritages/dhampir
 
 
 
