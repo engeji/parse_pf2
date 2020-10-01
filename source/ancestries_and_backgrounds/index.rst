@@ -124,6 +124,7 @@
    ancestries/human
    ancestries/elf
    ancestries/leshy
+   ancestries/catfolk
 
 
 
