@@ -649,6 +649,7 @@ trait: признак / особенность
 		free-hand: свободная рука
 		tethered: привязанное
 		grapple: захват
+		concealable: скрываемое
 	остальные:
 		visual: визуальный
 		auditory: слуховой
