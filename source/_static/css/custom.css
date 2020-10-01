@@ -59,6 +59,7 @@ h5, .h5 {
 .wy-nav-content {
 	background-color: #efede9;
 	max-width: 100%;
+	padding: 1.5em 1.75em;
 }
 
 .rst-content ul.simple,

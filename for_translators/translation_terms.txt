@@ -434,6 +434,7 @@ plane: план
 	Outer Sphere: Внешняя Сфера
 	Hell: Ад
 	Abyss: Бездна
+	Abaddon: Абаддон
 	Astral: Астральный
 	Heaven: Небесный
 	Elemental: Стихийный
