@@ -581,7 +581,7 @@
 
 .. _ancestry-feat--Halfling--Shared-Luck:
 
-Общая удача (`Shared Luck <https://2e.aonprd.com/Feats.aspx?ID=1018>`_) / 5
+Общая удача (`Shared Luck (Halfling) <https://2e.aonprd.com/Feats.aspx?ID=1018>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик
