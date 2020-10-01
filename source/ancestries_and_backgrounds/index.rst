@@ -125,6 +125,7 @@
    ancestries/elf
    ancestries/leshy
    ancestries/catfolk
+   ancestries/kobold
 
 
 
