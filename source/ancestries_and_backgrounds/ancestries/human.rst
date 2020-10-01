@@ -301,7 +301,7 @@
 
 .. _ancestry-feat--Human--Adapted-Cantrip:
 
-Заимствованные чары (`Adapted Cantrip <https://2e.aonprd.com/Feats.aspx?ID=66>`_) / 1 ур.
+Заимствованные чары (`Adapted Cantrip <https://2e.aonprd.com/Feats.aspx?ID=66>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -321,7 +321,7 @@
 
 .. _ancestry-feat--Human--Cooperative-Nature:
 
-Коллективный характер (`Cooperative Nature <https://2e.aonprd.com/Feats.aspx?ID=67>`_) / 1 ур.
+Коллективный характер (`Cooperative Nature <https://2e.aonprd.com/Feats.aspx?ID=67>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -332,7 +332,7 @@
 
 .. _ancestry-feat--Human--General-Training:
 
-Общая тренировка (`General Training <https://2e.aonprd.com/Feats.aspx?ID=68>`_) / 1 ур.
+Общая тренировка (`General Training <https://2e.aonprd.com/Feats.aspx?ID=68>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -346,7 +346,7 @@
 
 .. _ancestry-feat--Human--Haughty-Obstinacy:
 
-Надменное высокомерие (`Haughty Obstinacy <https://2e.aonprd.com/Feats.aspx?ID=69>`_) / 1 ур.
+Надменное высокомерие (`Haughty Obstinacy <https://2e.aonprd.com/Feats.aspx?ID=69>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -358,7 +358,7 @@
 
 .. _ancestry-feat--Human--Natural-Ambition:
 
-Природные амбиции (`Natural Ambition <https://2e.aonprd.com/Feats.aspx?ID=70>`_) / 1 ур.
+Природные амбиции (`Natural Ambition <https://2e.aonprd.com/Feats.aspx?ID=70>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -370,7 +370,7 @@
 
 .. _ancestry-feat--Human--Natural-Skill:
 
-Природный навык (`Natural Skill <https://2e.aonprd.com/Feats.aspx?ID=71>`_) / 1 ур.
+Природный навык (`Natural Skill <https://2e.aonprd.com/Feats.aspx?ID=71>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -381,7 +381,7 @@
 
 .. _ancestry-feat--Human--Unconventional-Weaponry:
 
-Необычное оружие (`Unconventional Weaponry <https://2e.aonprd.com/Feats.aspx?ID=72>`_) / 1 ур.
+Необычное оружие (`Unconventional Weaponry <https://2e.aonprd.com/Feats.aspx?ID=72>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -396,7 +396,7 @@
 
 .. _ancestry-feat--Human--Arcane-Tattoos:
 
-Арканные татуировки (`Arcane Tattoos <https://2e.aonprd.com/Feats.aspx?ID=938>`_) / 1 ур.
+Арканные татуировки (`Arcane Tattoos <https://2e.aonprd.com/Feats.aspx?ID=938>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -424,7 +424,7 @@
 
 .. _ancestry-feat--Human--Courteous-Comeback:
 
-Вежливо выкрутиться (`Courteous Comeback <https://2e.aonprd.com/Feats.aspx?ID=939>`_) |д-св| / 1 ур.
+Вежливо выкрутиться (`Courteous Comeback <https://2e.aonprd.com/Feats.aspx?ID=939>`_) |д-св| / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -447,7 +447,7 @@
 
 .. _ancestry-feat--Human--Devils-Advocate:
 
-Адвокат дьявола (`Devil's Advocate <https://2e.aonprd.com/Feats.aspx?ID=940>`_) / 1 ур.
+Адвокат дьявола (`Devil's Advocate <https://2e.aonprd.com/Feats.aspx?ID=940>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -470,7 +470,7 @@
 
 .. _ancestry-feat--Human--Dragon-Spit:
 
-Драконий плевок (`Dragon Spit <https://2e.aonprd.com/Feats.aspx?ID=941>`_) / 1 ур.
+Драконий плевок (`Dragon Spit <https://2e.aonprd.com/Feats.aspx?ID=941>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -489,7 +489,7 @@
 
 .. _ancestry-feat--Human--Gloomseer:
 
-Видящий во мраке (`Gloomseer <https://2e.aonprd.com/Feats.aspx?ID=942>`_) / 1 ур.
+Видящий во мраке (`Gloomseer <https://2e.aonprd.com/Feats.aspx?ID=942>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -506,7 +506,7 @@
 
 .. _ancestry-feat--Human--Keep-Up-Appearances:
 
-Не подавать виду (`Keep Up Appearances <https://2e.aonprd.com/Feats.aspx?ID=943>`_) |д-р| / 1 ур.
+Не подавать виду (`Keep Up Appearances <https://2e.aonprd.com/Feats.aspx?ID=943>`_) |д-р| / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -529,7 +529,7 @@
 
 .. _ancestry-feat--Human--Know-Oneself:
 
-Самопознание (`Know Oneself <https://2e.aonprd.com/Feats.aspx?ID=944>`_) |д-р| / 1 ур.
+Самопознание (`Know Oneself <https://2e.aonprd.com/Feats.aspx?ID=944>`_) |д-р| / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -552,7 +552,7 @@
 
 .. _ancestry-feat--Human--Quah-Bond:
 
-Связь куа (`Quah Bond <https://2e.aonprd.com/Feats.aspx?ID=945>`_) / 1 ур.
+Связь куа (`Quah Bond <https://2e.aonprd.com/Feats.aspx?ID=945>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -579,7 +579,7 @@
 
 .. _ancestry-feat--Human--Saoc-Astrology:
 
-Астрология Саока (`Saoc Astrology <https://2e.aonprd.com/Feats.aspx?ID=946>`_) |д-1| / 1 ур.
+Астрология Саока (`Saoc Astrology <https://2e.aonprd.com/Feats.aspx?ID=946>`_) |д-1| / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -607,7 +607,7 @@
 
 .. _ancestry-feat--Human--Tupilaq-Carver:
 
-Резчик тупилаков (`Tupilaq Carver <https://2e.aonprd.com/Feats.aspx?ID=947>`_) / 1 ур.
+Резчик тупилаков (`Tupilaq Carver <https://2e.aonprd.com/Feats.aspx?ID=947>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -629,7 +629,7 @@
 
 .. _ancestry-feat--Human--Viking-Shieldbearer:
 
-Щитоносец викингов (`Viking Shieldbearer <https://2e.aonprd.com/Feats.aspx?ID=948>`_) / 1 ур.
+Щитоносец викингов (`Viking Shieldbearer <https://2e.aonprd.com/Feats.aspx?ID=948>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -647,7 +647,7 @@
 
 .. _ancestry-feat--Human--Witch-Warden:
 
-Борец с ведьмами (`Witch Warden <https://2e.aonprd.com/Feats.aspx?ID=949>`_) / 1 ур.
+Борец с ведьмами (`Witch Warden <https://2e.aonprd.com/Feats.aspx?ID=949>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
@@ -672,7 +672,7 @@
 
 .. _ancestry-feat--Human--Adaptive-Adept:
 
-Знаток заимствования (`Adaptive Adept <https://2e.aonprd.com/Feats.aspx?ID=73>`_) / 5 ур.
+Знаток заимствования (`Adaptive Adept <https://2e.aonprd.com/Feats.aspx?ID=73>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -690,7 +690,7 @@
 
 .. _ancestry-feat--Human--Clever-Improviser:
 
-Смышленый импровизатор (`Clever Improviser <https://2e.aonprd.com/Feats.aspx?ID=74>`_) / 5 ур.
+Смышленый импровизатор (`Clever Improviser <https://2e.aonprd.com/Feats.aspx?ID=74>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -702,7 +702,7 @@
 
 .. _ancestry-feat--Human--Darkseer:
 
-Видящий во тьме (`Darkseer <https://2e.aonprd.com/Feats.aspx?ID=950>`_) / 5 ур.
+Видящий во тьме (`Darkseer <https://2e.aonprd.com/Feats.aspx?ID=950>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -719,7 +719,7 @@
 
 .. _ancestry-feat--Human--Ornate-Tattoo:
 
-Витиеватая татуировка (`Ornate Tattoo <https://2e.aonprd.com/Feats.aspx?ID=951>`_) / 5 ур.
+Витиеватая татуировка (`Ornate Tattoo <https://2e.aonprd.com/Feats.aspx?ID=951>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -737,7 +737,7 @@
 
 .. _ancestry-feat--Human--Wavetouched-Paragon:
 
-Благословленный волнами (`Wavetouched Paragon <https://2e.aonprd.com/Feats.aspx?ID=952>`_) / 5 ур.
+Благословленный волнами (`Wavetouched Paragon <https://2e.aonprd.com/Feats.aspx?ID=952>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -756,7 +756,7 @@
 
 .. _ancestry-feat--Human--Sense-Allies:
 
-Ощущение союзников (`Sense Allies <https://2e.aonprd.com/Feats.aspx?ID=1437>`_) / 5 ур.
+Ощущение союзников (`Sense Allies <https://2e.aonprd.com/Feats.aspx?ID=1437>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -778,7 +778,7 @@
 
 .. _ancestry-feat--Human--Cooperative-Soul:
 
-Душа компании (`Cooperative Soul <https://2e.aonprd.com/Feats.aspx?ID=75>`_) / 9 ур.
+Душа компании (`Cooperative Soul <https://2e.aonprd.com/Feats.aspx?ID=75>`_) / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -793,7 +793,7 @@
 
 .. _ancestry-feat--Human--Incredible-Improvisation:
 
-Невероятная импровизация (`Incredible Improvisation <https://2e.aonprd.com/Feats.aspx?ID=76>`_) |д-св| / 9 ур.
+Невероятная импровизация (`Incredible Improvisation <https://2e.aonprd.com/Feats.aspx?ID=76>`_) |д-св| / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -812,7 +812,7 @@
 
 .. _ancestry-feat--Human--Multitalented:
 
-Многогранный (`Multitalented <https://2e.aonprd.com/Feats.aspx?ID=77>`_) / 9 ур.
+Многогранный (`Multitalented <https://2e.aonprd.com/Feats.aspx?ID=77>`_) / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -825,7 +825,7 @@
 
 .. _ancestry-feat--Human--Dragon-Prince:
 
-Принц драконов (`Dragon Prince <https://2e.aonprd.com/Feats.aspx?ID=953>`_) / 9 ур.
+Принц драконов (`Dragon Prince <https://2e.aonprd.com/Feats.aspx?ID=953>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -844,7 +844,7 @@
 
 .. _ancestry-feat--Human--Heir-of-the-Saoc:
 
-Наследник Саока (`Heir of the Saoc <https://2e.aonprd.com/Feats.aspx?ID=954>`_) / 9 ур.
+Наследник Саока (`Heir of the Saoc <https://2e.aonprd.com/Feats.aspx?ID=954>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -863,7 +863,7 @@
 
 .. _ancestry-feat--Human--Shory-Aeromancer:
 
-Аэромант Шори (`Shory Aeromancer <https://2e.aonprd.com/Feats.aspx?ID=955>`_) / 9 ур.
+Аэромант Шори (`Shory Aeromancer <https://2e.aonprd.com/Feats.aspx?ID=955>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -880,7 +880,7 @@
 
 .. _ancestry-feat--Human--Virtue-Forged-Tattoos:
 
-Действенные татуировки (`Virtue-Forged Tattoos <https://2e.aonprd.com/Feats.aspx?ID=956>`_) / 9 ур.
+Действенные татуировки (`Virtue-Forged Tattoos <https://2e.aonprd.com/Feats.aspx?ID=956>`_) / 9
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -898,7 +898,7 @@
 
 .. _ancestry-feat--Human--Group-Aid:
 
-Групповая помощь (`Group Aid <https://2e.aonprd.com/Feats.aspx?ID=1438>`_) / 9 ур.
+Групповая помощь (`Group Aid <https://2e.aonprd.com/Feats.aspx?ID=1438>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -917,7 +917,7 @@
 
 .. _ancestry-feat--Human--Hardy-Traveler:
 
-Выносливый путешественник (`Hardy Traveler <https://2e.aonprd.com/Feats.aspx?ID=1439>`_) / 9 ур.
+Выносливый путешественник (`Hardy Traveler <https://2e.aonprd.com/Feats.aspx?ID=1439>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -939,7 +939,7 @@
 
 .. _ancestry-feat--Human--Unconventional-Expertise:
 
-Необычная опытность (`Unconventional Expertise <https://2e.aonprd.com/Feats.aspx?ID=78>`_) / 13 ур.
+Необычная опытность (`Unconventional Expertise <https://2e.aonprd.com/Feats.aspx?ID=78>`_) / 13
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -954,7 +954,7 @@
 
 .. _ancestry-feat--Human--Irriseni-Ice-Witch:
 
-Ледяная ведьма Иррисена (`Irriseni Ice-Witch <https://2e.aonprd.com/Feats.aspx?ID=957>`_) / 13 ур.
+Ледяная ведьма Иррисена (`Irriseni Ice-Witch <https://2e.aonprd.com/Feats.aspx?ID=957>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -971,7 +971,7 @@
 
 .. _ancestry-feat--Human--Shadow-Pact:
 
-Теневой пакт (`Shadow Pact <https://2e.aonprd.com/Feats.aspx?ID=958>`_) / 13 ур.
+Теневой пакт (`Shadow Pact <https://2e.aonprd.com/Feats.aspx?ID=958>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -991,7 +991,7 @@
 
 .. _ancestry-feat--Human--Shory-Aerialist:
 
-Воздушный акробат Шори (`Shory Aerialist <https://2e.aonprd.com/Feats.aspx?ID=959>`_) / 13 ур.
+Воздушный акробат Шори (`Shory Aerialist <https://2e.aonprd.com/Feats.aspx?ID=959>`_) / 13
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -1008,7 +1008,7 @@
 
 .. _ancestry-feat--Human--Advanced-General-Training:
 
-Продвинутя общая тренировка (`Advanced General Training <https://2e.aonprd.com/Feats.aspx?ID=1440>`_) / 13 ур.
+Продвинутя общая тренировка (`Advanced General Training <https://2e.aonprd.com/Feats.aspx?ID=1440>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -1026,7 +1026,7 @@
 
 .. _ancestry-feat--Human--Bounce-Back:
 
-Прийти в норму (`Bounce Back <https://2e.aonprd.com/Feats.aspx?ID=1441>`_) |д-св| / 13 ур.
+Прийти в норму (`Bounce Back <https://2e.aonprd.com/Feats.aspx?ID=1441>`_) |д-св| / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -1045,7 +1045,7 @@
 
 .. _ancestry-feat--Human--Stubborn-Persistence:
 
-Упрямая настойчивость (`Stubborn Persistence <https://2e.aonprd.com/Feats.aspx?ID=1442>`_) / 13 ур.
+Упрямая настойчивость (`Stubborn Persistence <https://2e.aonprd.com/Feats.aspx?ID=1442>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - человек
@@ -1068,7 +1068,7 @@
 
 .. _ancestry-feat--Human--Heroic-Presence:
 
-Героическое присутствие (`Heroic Presence <https://2e.aonprd.com/Feats.aspx?ID=1443>`_) |д-1| / 17 ур.
+Героическое присутствие (`Heroic Presence <https://2e.aonprd.com/Feats.aspx?ID=1443>`_) |д-1| / 17
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эмоция
@@ -1107,7 +1107,7 @@
 
 .. _ancestry-feat--HalfElf--Elf-Atavism:
 
-Эльфийский атавизм (`Elf Atavism <https://2e.aonprd.com/Feats.aspx?ID=79>`_) / 1 ур.
+Эльфийский атавизм (`Elf Atavism <https://2e.aonprd.com/Feats.aspx?ID=79>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полуэльф
@@ -1124,7 +1124,7 @@
 
 .. _ancestry-feat--HalfElf--Round-Ears:
 
-Круглые уши (`Round Ears <https://2e.aonprd.com/Feats.aspx?ID=960>`_) / 1 ур.
+Круглые уши (`Round Ears <https://2e.aonprd.com/Feats.aspx?ID=960>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полуэльф
@@ -1143,7 +1143,7 @@
 
 .. _ancestry-feat--HalfElf--Sociable:
 
-Компанейский (`Sociable <https://2e.aonprd.com/Feats.aspx?ID=961>`_) / 1 ур.
+Компанейский (`Sociable <https://2e.aonprd.com/Feats.aspx?ID=961>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полуэльф
@@ -1158,7 +1158,7 @@
 
 .. _ancestry-feat--HalfElf--Earned-Glory:
 
-Заработанная слава (`Earned Glory <https://2e.aonprd.com/Feats.aspx?ID=1444>`_) / 1 ур.
+Заработанная слава (`Earned Glory <https://2e.aonprd.com/Feats.aspx?ID=1444>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полуэльф
@@ -1183,7 +1183,7 @@
 
 .. _ancestry-feat--HalfElf--Inspire-Imitation:
 
-Вдохновляющее подражание (`Inspire Imitation <https://2e.aonprd.com/Feats.aspx?ID=80>`_) / 5 ур.
+Вдохновляющее подражание (`Inspire Imitation <https://2e.aonprd.com/Feats.aspx?ID=80>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полуэльф
@@ -1194,7 +1194,7 @@
 
 .. _ancestry-feat--HalfElf--Supernatural-Charm:
 
-Сверхъестественное обаяние (`Supernatural Charm <https://2e.aonprd.com/Feats.aspx?ID=81>`_) / 5 ур.
+Сверхъестественное обаяние (`Supernatural Charm <https://2e.aonprd.com/Feats.aspx?ID=81>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полуэльф
@@ -1211,7 +1211,7 @@
 
 .. _ancestry-feat--HalfElf--Pinch-Time:
 
-Щепотка времени (`Pinch Time <https://2e.aonprd.com/Feats.aspx?ID=1445>`_) / 9 ур.
+Щепотка времени (`Pinch Time <https://2e.aonprd.com/Feats.aspx?ID=1445>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полуэльф
@@ -1248,7 +1248,7 @@
 
 .. _ancestry-feat--HalfOrc--Monstrous-Peacemaker:
 
-Чудовищный миротворец (`Monstrous Peacemaker <https://2e.aonprd.com/Feats.aspx?ID=82>`_) / 1 ур.
+Чудовищный миротворец (`Monstrous Peacemaker <https://2e.aonprd.com/Feats.aspx?ID=82>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полуорк
@@ -1260,7 +1260,7 @@
 
 .. _ancestry-feat--HalfOrc--Orc-Ferocity:
 
-Орочья свирепость (`Orc Ferocity <https://2e.aonprd.com/Feats.aspx?ID=83>`_) |д-р| / 1 ур.
+Орочья свирепость (`Orc Ferocity <https://2e.aonprd.com/Feats.aspx?ID=83>`_) |д-р| / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - орк
@@ -1277,7 +1277,7 @@
 
 .. _ancestry-feat--HalfOrc--Orc-Sight:
 
-Орочье зрение (`Orc Sight <https://2e.aonprd.com/Feats.aspx?ID=84>`_) / 1 ур.
+Орочье зрение (`Orc Sight <https://2e.aonprd.com/Feats.aspx?ID=84>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полуорк
@@ -1295,7 +1295,7 @@
 
 .. _ancestry-feat--HalfOrc--Orc-Superstition:
 
-Орочье суеверие (`Orc Superstition <https://2e.aonprd.com/Feats.aspx?ID=85>`_) |д-р| / 1 ур.
+Орочье суеверие (`Orc Superstition <https://2e.aonprd.com/Feats.aspx?ID=85>`_) |д-р| / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - концентрация
@@ -1311,7 +1311,7 @@
 
 .. _ancestry-feat--HalfOrc--Orc-Weapon-Familiarity:
 
-Знакомство с орочьим оружием (`Orc Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=86>`_) / 1 ур.
+Знакомство с орочьим оружием (`Orc Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=86>`_) / 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - орк
@@ -1325,7 +1325,7 @@
 
 .. _ancestry-feat--HalfOrc--Overlooked-Mastermind:
 
-Неприметный лидер (`Overlooked Mastermind <https://2e.aonprd.com/Feats.aspx?ID=962>`_) / 1 ур.
+Неприметный лидер (`Overlooked Mastermind <https://2e.aonprd.com/Feats.aspx?ID=962>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полуорк
@@ -1341,7 +1341,7 @@
 
 .. _ancestry-feat--HalfOrc--Tusks:
 
-Клыки (`Tusks <https://2e.aonprd.com/Feats.aspx?ID=963>`_) / 1 ур.
+Клыки (`Tusks <https://2e.aonprd.com/Feats.aspx?ID=963>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полуорк
@@ -1364,7 +1364,7 @@
 
 .. _ancestry-feat--HalfOrc--Orc-Weapon-Carnage:
 
-Резня орочьим оружием (`Orc Weapon Carnage <https://2e.aonprd.com/Feats.aspx?ID=87>`_) / 5 ур.
+Резня орочьим оружием (`Orc Weapon Carnage <https://2e.aonprd.com/Feats.aspx?ID=87>`_) / 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - орк
@@ -1379,7 +1379,7 @@
 
 .. _ancestry-feat--HalfOrc--Victorious-Vigor:
 
-Победоносная сила (`Victorious Vigor <https://2e.aonprd.com/Feats.aspx?ID=88>`_) |д-р| / 5 ур.
+Победоносная сила (`Victorious Vigor <https://2e.aonprd.com/Feats.aspx?ID=88>`_) |д-р| / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - орк
@@ -1399,7 +1399,7 @@
 
 .. _ancestry-feat--HalfOrc--Pervasive-Superstition:
 
-Распространенное суеверие (`Pervasive Superstition <https://2e.aonprd.com/Feats.aspx?ID=89>`_) / 9 ур.
+Распространенное суеверие (`Pervasive Superstition <https://2e.aonprd.com/Feats.aspx?ID=89>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - орк
@@ -1419,7 +1419,7 @@
 
 .. _ancestry-feat--HalfOrc--Incredible-Ferocity:
 
-Невероятная свирепость (`Incredible Ferocity <https://2e.aonprd.com/Feats.aspx?ID=90>`_) / 13 ур.
+Невероятная свирепость (`Incredible Ferocity <https://2e.aonprd.com/Feats.aspx?ID=90>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - орк
@@ -1434,7 +1434,7 @@
 
 .. _ancestry-feat--HalfOrc--Orc Weapon-Expertise:
 
-Эксперт орочьего оружия (`Orc Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=91>`_) / 13 ур.
+Эксперт орочьего оружия (`Orc Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=91>`_) / 13
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - орк

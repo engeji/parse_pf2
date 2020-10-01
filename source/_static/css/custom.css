@@ -59,6 +59,7 @@ h5, .h5 {
 .wy-nav-content {
 	background-color: #efede9;
 	max-width: 100%;
+	padding: 1.5em 1.75em;
 }
 
 .rst-content ul.simple,
@@ -467,7 +468,7 @@ div.description hr {
 
 /* as h1*/
 div.ancestry h2,
-div.versatile-heritage h2,
+div.versatile-heritages h2,
 /*div.backgrounds h2,*/
 div.languages h2,
 div.char-class h2,
@@ -494,7 +495,7 @@ div.game-mode h2 {
 /* as h2*/
 div.char-creation-step h3,
 div.ancestry h2,
-div.versatile-heritage h3,
+div.versatile-heritages h3,
 /*div.backgrounds h3,*/
 div.languages h3,
 div.char-class h2,
@@ -535,7 +536,7 @@ div.game-mode h3 {
 /* as h3*/
 div.char-creation-step h4,
 /*div.ancestry h4,*/
-div.versatile-heritage h4,
+div.versatile-heritages h4,
 div.char-class h3,
 div.animal-companions h3,
 div.class-archetypes h2,
@@ -571,7 +572,8 @@ div.game-mode h4 {
 
 /* as h4*/
 div.char-creation-step h5,
-div.ancestry h5, 
+div.ancestry h5,
+div.versatile-heritages h5,
 div.char-class h4,
 div.animal-companions h4,
 div.class-archetypes h3,
