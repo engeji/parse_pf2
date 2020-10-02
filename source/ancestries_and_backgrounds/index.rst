@@ -127,6 +127,7 @@
    ancestries/catfolk
    ancestries/kobold
    ancestries/orc
+   ancestries/ratfolk
 
 
 
