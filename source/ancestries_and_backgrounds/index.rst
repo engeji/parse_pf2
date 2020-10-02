@@ -126,6 +126,7 @@
    ancestries/leshy
    ancestries/catfolk
    ancestries/kobold
+   ancestries/orc
 
 
 
