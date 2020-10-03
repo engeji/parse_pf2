@@ -128,6 +128,7 @@
    ancestries/kobold
    ancestries/orc
    ancestries/ratfolk
+   ancestries/tengu
 
 
 
