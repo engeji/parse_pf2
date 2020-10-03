@@ -90,7 +90,7 @@
 
 .. _arch-feat--Ranger--Master-Spotter:
 
-Мастер наблюдения (`Master Spotter <https://2e.aonprd.com/Feats.aspx?ID=726>`_) / 12
+Мастер наблюдения (`Master Spotter (Ranger) <https://2e.aonprd.com/Feats.aspx?ID=726>`_) / 12
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
