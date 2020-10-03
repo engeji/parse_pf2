@@ -624,6 +624,7 @@ Titles:
 	Wildwood: Диколесье
 	Bellflower: Беллфлауэ
 	Westcrown: Вэсткраун
+	Azaersi: Азэрси
 trait: признак / особенность
 	оружие:
 		agile: быстрое

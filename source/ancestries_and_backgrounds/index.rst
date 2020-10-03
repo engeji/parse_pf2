@@ -125,6 +125,7 @@
    ancestries/elf
    ancestries/leshy
    ancestries/lizardfolk
+   ancestries/hobgoblin
    ancestries/catfolk
    ancestries/kobold
    ancestries/orc
