@@ -241,6 +241,18 @@
 
 
 
+Универсальные наследия (Versatile Heritages)
+-----------------------------------------------------------------------------------------------------------
+
+.. include:: /helpers/versatile_heretages.rst
+
+
+
+
+
+
+
+
 
 
 .. rst-class:: ancestry-class-feats

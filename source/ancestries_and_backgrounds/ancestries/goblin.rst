@@ -244,6 +244,12 @@
 Пока вы в лесу или джунглях, то получаете бонус обстоятельства +2 к проверкам Скрытности для :ref:`skill--Stealth--Hide` и :ref:`skill--Stealth--Sneak`, проверок Выживания для :ref:`downtime--Subsist`, и вашему КС Выживания для :ref:`skill--Survival--Cover-Tracks`.
 
 
+Универсальные наследия (Versatile Heritages)
+-----------------------------------------------------------------------------------------------------------
+
+.. include:: /helpers/versatile_heretages.rst
+
+
 
 
 
