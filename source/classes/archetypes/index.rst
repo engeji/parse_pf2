@@ -135,6 +135,7 @@
    acrobat
    archaeologist
    archer
+   assassin
 
 
 
