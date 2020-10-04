@@ -134,6 +134,7 @@
 
    acrobat
    archaeologist
+   archer
 
 
 
