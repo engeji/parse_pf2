@@ -139,7 +139,7 @@
 
 .. _arch-feat--Sorcerer--Master-Spellcasting:
 
-Экспертное колдовство чародея (`Master Sorcerer Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=741>`_) / 18
+Мастерское колдовство чародея (`Master Sorcerer Spellcasting <https://2e.aonprd.com/Feats.aspx?ID=741>`_) / 18
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - архетип
