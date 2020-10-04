@@ -132,6 +132,11 @@
    oracle
 
 
+   acrobat
+   archaeologist
+
+
+
    dlc/aldori_duelist
    dlc/runescarred
    dlc/student_of_perfection
