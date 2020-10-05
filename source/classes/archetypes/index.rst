@@ -187,6 +187,7 @@
    bounty-hunter
    cavalier
    celebrity
+   dandy
    
 
    herbalist
