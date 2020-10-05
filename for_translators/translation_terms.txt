@@ -482,7 +482,7 @@ Skill: Навык
 	Athletics: Атлетика
 		Climb: Карабкаться :ref:`skill--Athletics--Climb`
 		Force Open: Открыть Силой :ref:`skill--Athletics--Force-Open`
-		Grapple: Захват :ref:`skill--Athletics--Grapple`
+		Grapple: Захватить :ref:`skill--Athletics--Grapple`
 		High Jump: Прыжок в Высоту :ref:`skill--Athletics--HJump`
 		Long Jump: Прыжок в Длину :ref:`skill--Athletics--LJump`
 		Shove: Толкнуть :ref:`skill--Athletics--Shove`

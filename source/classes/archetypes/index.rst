@@ -184,6 +184,7 @@
    bastion
    beastmaster
    blessed-one
+   bounty-hunter
    
 
    herbalist
