@@ -136,6 +136,7 @@
    archaeologist
    archer
    assassin
+   bastion
 
 
 
