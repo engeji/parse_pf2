@@ -186,6 +186,7 @@
    blessed-one
    bounty-hunter
    cavalier
+   celebrity
    
 
    herbalist
