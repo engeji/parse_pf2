@@ -182,6 +182,7 @@
    archer
    assassin
    bastion
+   beastmaster
    
 
    herbalist
