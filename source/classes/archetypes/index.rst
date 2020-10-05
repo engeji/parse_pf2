@@ -183,6 +183,7 @@
    assassin
    bastion
    beastmaster
+   blessed-one
    
 
    herbalist
