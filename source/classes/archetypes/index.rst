@@ -185,6 +185,7 @@
    beastmaster
    blessed-one
    bounty-hunter
+   cavalier
    
 
    herbalist
