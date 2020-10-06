@@ -192,6 +192,7 @@
    dual-weapon-warrior
    duelist
    eldritch-archer
+   familiar-master
    
 
    herbalist
