@@ -188,6 +188,7 @@
    cavalier
    celebrity
    dandy
+   dragon-disciple
    
 
    herbalist
