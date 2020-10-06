@@ -518,9 +518,9 @@ Skill: Навык
 		Hide: Спрятаться :ref:`skill--Stealth--Hide`
 		Sneak: Красться :ref:`skill--Stealth--Sneak`
 	Medicine: Медицина
-		Administer First Aid: Первая Помощь :ref:`skill--Medicine--First-Aid`
-		Treat Wounds: Лечение Ран :ref:`skill--Medicine--Treat-Wounds`
-		Treat Disease: Лечение Болезни :ref:`skill--Medicine--Treat-Disease`
+		Administer First Aid: Первая помощь :ref:`skill--Medicine--First-Aid`
+		Treat Wounds: Лечение ран :ref:`skill--Medicine--Treat-Wounds`
+		Treat Disease: Лечение болезни :ref:`skill--Medicine--Treat-Disease`
 		Treat Poison: Лечение от яда :ref:`skill--Medicine--Treat-Poison`
 	Nature: Природа
 		Command an Animal: Приказать Животному :ref:`skill--Nature--Command-an-Animal`

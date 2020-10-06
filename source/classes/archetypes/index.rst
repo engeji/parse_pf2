@@ -117,6 +117,9 @@
 	Предложение о коронных заклинаниях.
 
 
+
+.. _arhc--Alchemical-Archetypes:
+
 Алхимические архетипы (`Alchemical Archetypes <https://2e.aonprd.com/Rules.aspx?ID=1435>`_)
 --------------------------------------------------------------------------------------------------------
 
@@ -194,8 +197,6 @@
    eldritch-archer
    familiar-master
    gladiator
-   
-
    herbalist
 
 
