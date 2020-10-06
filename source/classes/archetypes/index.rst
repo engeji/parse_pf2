@@ -193,6 +193,7 @@
    duelist
    eldritch-archer
    familiar-master
+   gladiator
    
 
    herbalist
