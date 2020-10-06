@@ -1275,7 +1275,7 @@
 
 .. _class-feat--rogue--Blind-Fight:
 
-Бой вслепую (`Blind-Fight <http://2e.aonprd.com/Feats.aspx?ID=388>`_) / 8
+Бой вслепую (`Blind-Fight (Rogue) <http://2e.aonprd.com/Feats.aspx?ID=388>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - плут

@@ -198,6 +198,7 @@
    familiar-master
    gladiator
    herbalist
+   horizon-walker
 
 
 
