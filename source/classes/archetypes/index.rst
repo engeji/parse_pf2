@@ -191,6 +191,7 @@
    dragon-disciple
    dual-weapon-warrior
    duelist
+   eldritch-archer
    
 
    herbalist
