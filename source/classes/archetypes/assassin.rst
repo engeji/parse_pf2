@@ -3,7 +3,7 @@
 .. rst-class:: archetype
 .. _archetype--Assassin:
 
-Ассасин (`Assassin (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=48>`_)
+Ассасин (`Assassin <https://2e.aonprd.com/Archetypes.aspx?ID=48>`_)
 ------------------------------------------------------------------------------------------------------------
 
 Целенаправленное убийство с помощью скрытности и уловок - мастерство ассасина.

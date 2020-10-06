@@ -3,7 +3,7 @@
 .. rst-class:: archetype
 .. _archetype--Celebrity:
 
-Знаменитость (`Celebrity (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=54>`_)
+Знаменитость (`Celebrity <https://2e.aonprd.com/Archetypes.aspx?ID=54>`_)
 ------------------------------------------------------------------------------------------------------------
 
 Вы особенная личность... и вы это знаете.

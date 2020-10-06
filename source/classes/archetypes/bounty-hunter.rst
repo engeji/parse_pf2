@@ -3,7 +3,7 @@
 .. rst-class:: archetype
 .. _archetype--Bounty-Hunter:
 
-Охотник за головами (`Bounty Hunter (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=52>`_)
+Охотник за головами (`Bounty Hunter <https://2e.aonprd.com/Archetypes.aspx?ID=52>`_)
 ------------------------------------------------------------------------------------------------------------
 
 Будь то из-за деньги, славы или справедливости, вы знаете, как выслеживать, побеждать и захватывать опасных людей.

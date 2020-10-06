@@ -726,7 +726,7 @@
 
 .. _class-feat--ranger--Quick-Draw:
 
-Быстрый выхват (`Quick Draw <http://2e.aonprd.com/Feats.aspx?ID=498>`_) |д-1| / 2
+Быстрый выхват (`Quick Draw (Ranger) <http://2e.aonprd.com/Feats.aspx?ID=498>`_) |д-1| / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - рейнджер

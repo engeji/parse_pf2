@@ -3,7 +3,7 @@
 .. rst-class:: archetype
 .. _archetype--Dual-Weapon-Warrior:
 
-Воин с двойным оружием (`Dual-Weapon Warrior (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=57>`_)
+Воин с двойным оружием (`Dual-Weapon Warrior <https://2e.aonprd.com/Archetypes.aspx?ID=57>`_)
 ------------------------------------------------------------------------------------------------------------
 
 Вы можете без особых усилий одновременно сражаться с парой оружия, сплетая его вместе в бурю быстрых атак.

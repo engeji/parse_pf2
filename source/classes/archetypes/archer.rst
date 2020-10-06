@@ -3,7 +3,7 @@
 .. rst-class:: archetype
 .. _archetype--Archer:
 
-Лучник (`Archer (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=47>`_)
+Лучник (`Archer <https://2e.aonprd.com/Archetypes.aspx?ID=47>`_)
 ------------------------------------------------------------------------------------------------------------
 
 Луки всех видов являются мощным оружием.

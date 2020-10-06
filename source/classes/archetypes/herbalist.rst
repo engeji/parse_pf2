@@ -3,7 +3,7 @@
 .. rst-class:: archetype
 .. _archetype--Herbalist:
 
-Травник (`Herbalist (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=62>`_)
+Травник (`Herbalist <https://2e.aonprd.com/Archetypes.aspx?ID=62>`_)
 ------------------------------------------------------------------------------------------------------------
 
 описание

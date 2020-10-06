@@ -190,6 +190,7 @@
    dandy
    dragon-disciple
    dual-weapon-warrior
+   duelist
    
 
    herbalist

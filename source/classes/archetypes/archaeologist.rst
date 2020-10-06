@@ -3,7 +3,7 @@
 .. rst-class:: archetype
 .. _archetype--Archaeologist:
 
-Археолог (`Archaeologist (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=46>`_)
+Археолог (`Archaeologist <https://2e.aonprd.com/Archetypes.aspx?ID=46>`_)
 ------------------------------------------------------------------------------------------------------------
 
 Авантюристы совершают набеги на гробницы ради материальной выгоды, но истинные археологи ценят знания, полученные из таких мест.

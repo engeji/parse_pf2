@@ -3,7 +3,7 @@
 .. rst-class:: archetype
 .. _archetype--Blessed-One:
 
-Благословенный (`Blessed One (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=51>`_)
+Благословенный (`Blessed One <https://2e.aonprd.com/Archetypes.aspx?ID=51>`_)
 ------------------------------------------------------------------------------------------------------------
 
 Благодаря удаче или подвигу, наследию или героизму, вы несете благословение божества.

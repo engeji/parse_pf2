@@ -3,7 +3,7 @@
 .. rst-class:: archetype
 .. _archetype--Dandy:
 
-Денди (`Dandy (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=55>`_)
+Денди (`Dandy <https://2e.aonprd.com/Archetypes.aspx?ID=55>`_)
 ------------------------------------------------------------------------------------------------------------
 
 Вы изящный мастер стиля, культуры и этикета, знающий даже самые тонкие правила этикета.

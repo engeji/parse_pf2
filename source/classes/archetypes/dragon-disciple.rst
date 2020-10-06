@@ -3,7 +3,7 @@
 .. rst-class:: archetype
 .. _archetype--Dragon-Disciple:
 
-Ученик дракона (`Dragon Disciple (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=56>`_)
+Ученик дракона (`Dragon Disciple <https://2e.aonprd.com/Archetypes.aspx?ID=56>`_)
 ------------------------------------------------------------------------------------------------------------
 
 Колышущиеся волны страха, шелест толстой чешуи и хлопанье огромных крыльев возвещает о прибытии огромного дракона.
