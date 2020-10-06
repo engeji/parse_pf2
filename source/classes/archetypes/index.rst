@@ -189,6 +189,7 @@
    celebrity
    dandy
    dragon-disciple
+   dual-weapon-warrior
    
 
    herbalist
