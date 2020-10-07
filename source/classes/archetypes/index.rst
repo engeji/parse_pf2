@@ -207,6 +207,7 @@
    medic
    pirate
    poisoner
+   ritualist
 
 
 
