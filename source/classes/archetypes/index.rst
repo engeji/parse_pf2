@@ -205,6 +205,7 @@
    martial-artist
    mauler
    medic
+   pirate
 
 
 
