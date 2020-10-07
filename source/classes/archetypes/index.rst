@@ -208,6 +208,7 @@
    pirate
    poisoner
    ritualist
+   scout
 
 
 
