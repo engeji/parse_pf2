@@ -203,6 +203,7 @@
    loremaster
    marshal
    martial-artist
+   mauler
 
 
 
