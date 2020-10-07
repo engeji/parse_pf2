@@ -201,6 +201,7 @@
    horizon-walker
    linguist
    loremaster
+   marshal
 
 
 
