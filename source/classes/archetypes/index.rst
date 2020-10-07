@@ -206,6 +206,7 @@
    mauler
    medic
    pirate
+   poisoner
 
 
 
