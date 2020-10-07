@@ -199,6 +199,7 @@
    gladiator
    herbalist
    horizon-walker
+   linguist
 
 
 
