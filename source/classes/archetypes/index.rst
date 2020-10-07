@@ -202,6 +202,7 @@
    linguist
    loremaster
    marshal
+   martial-artist
 
 
 
