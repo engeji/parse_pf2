@@ -212,6 +212,7 @@
    ritualist
    scout
    scroll-trickster
+   scrounger
 
 
 
