@@ -200,6 +200,7 @@
    herbalist
    horizon-walker
    linguist
+   loremaster
 
 
 
