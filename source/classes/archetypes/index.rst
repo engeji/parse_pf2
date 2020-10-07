@@ -204,6 +204,7 @@
    marshal
    martial-artist
    mauler
+   medic
 
 
 
