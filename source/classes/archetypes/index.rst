@@ -213,6 +213,7 @@
    scout
    scroll-trickster
    scrounger
+   sentinel
 
 
 
