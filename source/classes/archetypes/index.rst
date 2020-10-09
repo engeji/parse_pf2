@@ -216,6 +216,7 @@
    sentinel
    shadowdancer
    snarecrafter
+   talisman-dabbler
 
 
 
