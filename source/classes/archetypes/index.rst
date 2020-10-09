@@ -214,6 +214,7 @@
    scroll-trickster
    scrounger
    sentinel
+   shadowdancer
 
 
 
