@@ -215,6 +215,7 @@
    scrounger
    sentinel
    shadowdancer
+   snarecrafter
 
 
 
