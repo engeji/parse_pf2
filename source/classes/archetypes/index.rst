@@ -217,6 +217,7 @@
    shadowdancer
    snarecrafter
    talisman-dabbler
+   vigilante
 
 
 
