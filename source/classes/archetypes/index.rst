@@ -219,6 +219,7 @@
    talisman-dabbler
    vigilante
    viking
+   weapon-improviser
 
 
 

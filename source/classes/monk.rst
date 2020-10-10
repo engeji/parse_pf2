@@ -1934,7 +1934,7 @@
 
 .. _class-feat--monk--Shattering-Strike:
 
-Разрушающий удар (`Shattering Strike <https://2e.aonprd.com/Feats.aspx?ID=482>`_) |д-2| / 16
+Разрушающий удар (`Shattering Strike (Monk) <https://2e.aonprd.com/Feats.aspx?ID=482>`_) |д-2| / 16
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - монах
