@@ -218,6 +218,7 @@
    snarecrafter
    talisman-dabbler
    vigilante
+   viking
 
 
 
