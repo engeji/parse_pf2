@@ -175,10 +175,10 @@
    fighter
    barbarian
    champion
+   ranger
    monk
    rogue
    swashbuckler
-   ranger
 
    investigator
    alchemist
