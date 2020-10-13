@@ -1499,7 +1499,7 @@
 
 .. _class-feat--Fighter--Twin-Riposte:
 
-Двойная контратака (`Twin Riposte (fighter) <https://2e.aonprd.com/Feats.aspx?ID=523>`_) |д-р| / 10
+Двойная контратака (`Twin Riposte (Fighter) <https://2e.aonprd.com/Feats.aspx?ID=523>`_) |д-р| / 10
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - воин

@@ -782,7 +782,7 @@
 - волшебник
 
 Вы заключаете договор с существом, которое служит вам и помогает вашему колдовству.
-Вы получаете фамильяра (см. :ref:`ch3--classes--animal-companions-familiars`).
+Вы получаете фамильяра (см. :ref:`ch3--classes--Familiars`).
 
 
 .. _class-feat--Wizard--Hand-Of-The-Apprentice:

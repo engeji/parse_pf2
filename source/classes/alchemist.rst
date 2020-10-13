@@ -407,7 +407,7 @@
 Их описание начинается в :ref:`class-feats--Alchemist`.
 
 
-Способности навыков / 2-й ур.
+Способности навыков / 2-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 На 2-м уровне, и каждые 2 уровня после него, вы получаете способность навыка.
@@ -416,14 +416,14 @@
 Вы должны быть как минимум обучены навыку, чтобы выбрать его способность.
 
 
-Общие способности / 3-й ур.
+Общие способности / 3-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 На 3-м уровне и каждые 4 уровня после него, вы получаете общую способность.
 Общие способности описываются в Главе :ref:`ch5--feats`.
 
 
-Увеличение навыков / 3-й ур.
+Увеличение навыков / 3-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 На 3-м уровне и каждые 2 уровня после него, вы получаете увеличение навыка.
@@ -432,7 +432,7 @@
 На 7-м уровне, вы можете использовать увеличение навыков, чтобы стать мастером навыка, в котором вы эксперт, а увеличение навыка на 15-м уровне, чтобы повысить мастерство до легендарного в навыках, в которых вы мастер.
 
 
-Повышение характеристик / 5-й ур.
+Повышение характеристик / 5-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 На 5-м уровне и каждые 5 уровней после него, вы повышаете четыре разные характеристики.
@@ -440,7 +440,7 @@
 Повышение характеристики увеличивает ее на 1, если она уже 18 или больше, или на 2 если она меньше 18.
 
 
-Способности родословной / 5-й ур.
+Способности родословной / 5-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 В дополнение к способности родословной с которой вы начинали, вы получаете новую способность на 5-м уровне и каждые 4 уровня после него.
@@ -449,7 +449,7 @@
 
 .. _class-feature--Alchemist--Field-Discovery:
 
-Исследование в области (Field Discovery) / 5-й ур.
+Исследование в области (Field Discovery) / 5-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вы изучаете особое открытие в зависимости от вашей области исследования.
@@ -476,14 +476,14 @@
 
 
 
-Опыт с оружием алхимика (Alchemical Weapon Expertise) / 7-й ур.
+Опыт с оружием алхимика (Alchemical Weapon Expertise) / 7-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вы обучились более эффективному владению оружию, которое находите в своей лаборатории.
 Ваш уровень мастерства с простым оружием, алхимическими бомбами и безоружными атаками увеличивается до эксперта.
 
 
-Железная воля (Iron Will) / 7-й ур.
+Железная воля (Iron Will) / 7-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ваша ментальная защита как железная крепость.
@@ -492,7 +492,7 @@
 
 .. _class-feature--Alchemist--Perpetual-Infusions:
 
-Вечные настои (Perpetual Infusions) / 7-й ур.
+Вечные настои (Perpetual Infusions) / 7-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вы научились создавать вечные алхимические настои, которые могут обеспечить почти бесконечный запас определенных простых предметов.
@@ -539,21 +539,21 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 
 
-Опыт алхимика (Alchemical Expertise) / 9-й ур.
+Опыт алхимика (Alchemical Expertise) / 9-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Постоянные практики увеличили эффективность ваших смесей.
 Ваш уровень мастерства КС класса алхимика увеличивается до эксперта.
 
 
-Бдительность (Alertness) / 9-й ур.
+Бдительность (Alertness) / 9-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вы остаетесь бдительными к угрозам вокруг вас.
 Ваш уровень мастерства в Восприятии увеличивается до эксперта.
 
 
-Двойное смешивание (Double Brew) / 9-й ур.
+Двойное смешивание (Double Brew) / 9-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вы так хорошо знаете свои формулы, что можете создать сразу два предмета.
@@ -561,7 +561,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 Эти предметы не обязательно должны быть одинаковыми.
 
 
-Джаггернаут (Juggernaut) / 11-й ур.
+Джаггернаут (Juggernaut) / 11-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ваше тело привыкло к физическим нагрузкам и устойчиво к болезням.
@@ -571,7 +571,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feature--Alchemist--Perpetual-Potency:
 
-Вечная эффективность (Perpetual Potency) / 11-й ур.
+Вечная эффективность (Perpetual Potency) / 11-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ваши вечные настои улучшаются, позволяя вам использовать :ref:`class-feature--Alchemist--Quick-Alchemy` для бесплатного создания более мощных предметов.
@@ -600,7 +600,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 
 
-Большое открытие в области (Greater Field Discovery) / 13-й ур.
+Большое открытие в области (Greater Field Discovery) / 13-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вы изучаете невероятное открытие, которое продвигает понимание ваше области исследования.
@@ -635,14 +635,14 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 
 
-Опыт с легкими доспехами (Light Armor Expertise) / 13-й ур.
+Опыт с легкими доспехами (Light Armor Expertise) / 13-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вы научились уклоняться нося легкие доспехи или вовсе не нося их.
 Ваш уровень мастерства ношения легких доспехов и защиты без доспехов увеличивается до эксперта.
 
 
-Специализация в оружии (Weapon Specialization) / 13-й ур.
+Специализация в оружии (Weapon Specialization) / 13-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вы научились наносить бóльшие ранения оружием, которое знаете лучше всего.
@@ -650,7 +650,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 Этот урон увеличивается до 3 если для мастера, и до 4 для легендарного мастерства.
 
 
-Алхимическая готовность (Alchemical Alacrity) / 15-й ур.
+Алхимическая готовность (Alchemical Alacrity) / 15-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вам так нравится создавать предметы, что вы можете создавать три за раз.
@@ -658,7 +658,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 Эти предметы не обязательно должны быть одинаковыми.
 
 
-Уклонение (Evasion) / 15-й ур.
+Уклонение (Evasion) / 15-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вы научились быстро двигаться, чтобы избегать взрывов, дыхания дракона или того хуже.
@@ -666,7 +666,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 Когда вы получаете успех в спасброске Рефлекса, вы считаете его критическим успехом.
 
 
-Алхимическое мастерство (Alchemical Mastery) / 17-й ур.
+Алхимическое мастерство (Alchemical Mastery) / 17-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ваши алхимические смеси невероятно эффективны.
@@ -675,7 +675,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feature--Alchemist--Perpetual-Perfection:
 
-Вечное совершенство (Perpetual Perfection) / 17-й ур.
+Вечное совершенство (Perpetual Perfection) / 17-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вы довели до совершенства ваши вечные настойки, что позволяет вам использовать :ref:`class-feature--Alchemist--Quick-Alchemy` для бесплатного создания еще более мощных предметов.
@@ -732,7 +732,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-.. sidebar:: Ключевые термины
+.. sidebar:: Ключевые термины (Key Terms)
 
 	Вы увидите следующие ключевые термины во многих особенностях класса плута.
 
@@ -749,7 +749,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Alchemical-Familiar:
 
-Алхимический фамильяр (`Alchemical Familiar <https://2e.aonprd.com/Feats.aspx?ID=92>`_) / 1 ур.
+Алхимический фамильяр (`Alchemical Familiar <https://2e.aonprd.com/Feats.aspx?ID=92>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -762,7 +762,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Alchemical-Savant:
 
-Специалист алхимии (`Alchemical Savant <https://2e.aonprd.com/Feats.aspx?ID=93>`_) / 1 ур.
+Специалист алхимии (`Alchemical Savant <https://2e.aonprd.com/Feats.aspx?ID=93>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -778,7 +778,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Far-Lobber:
 
-Метатель вдаль (`Far Lobber <https://2e.aonprd.com/Feats.aspx?ID=94>`_) / 1 ур.
+Метатель вдаль (`Far Lobber <https://2e.aonprd.com/Feats.aspx?ID=94>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -789,7 +789,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Quick-Bomber:
 
-Быстрый бомбометатель (`Quick Bomber <https://2e.aonprd.com/Feats.aspx?ID=95>`_) |д-1| / 1 ур.
+Быстрый бомбометатель (`Quick Bomber <https://2e.aonprd.com/Feats.aspx?ID=95>`_) |д-1| / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -800,7 +800,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Subtle-Delivery:
 
-Точная доставка (`Subtle Delivery <https://2e.aonprd.com/Feats.aspx?ID=1593>`_) / 1 ур.
+Точная доставка (`Subtle Delivery <https://2e.aonprd.com/Feats.aspx?ID=1593>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -822,7 +822,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Poison-Resistance:
 
-Сопротивление яду (`Poison Resistance <https://2e.aonprd.com/Feats.aspx?ID=96>`_) / 2 ур.
+Сопротивление яду (`Poison Resistance <https://2e.aonprd.com/Feats.aspx?ID=96>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -833,7 +833,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Revivifying-Mutagen:
 
-Восстанавливающий мутаген (`Revivifying Mutagen <https://2e.aonprd.com/Feats.aspx?ID=97>`_) / 2 ур.
+Восстанавливающий мутаген (`Revivifying Mutagen <https://2e.aonprd.com/Feats.aspx?ID=97>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -845,7 +845,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Smoke-Bomb:
 
-Дымовая бомба (`Smoke Bomb <https://2e.aonprd.com/Feats.aspx?ID=98>`_) / 2 ур.
+Дымовая бомба (`Smoke Bomb <https://2e.aonprd.com/Feats.aspx?ID=98>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - примесь 1
@@ -866,7 +866,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Demolition-Charge:
 
-Подрывной заряд (`Demolition Charge <https://2e.aonprd.com/Feats.aspx?ID=1594>`_) / 2 ур.
+Подрывной заряд (`Demolition Charge <https://2e.aonprd.com/Feats.aspx?ID=1594>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -899,7 +899,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Calculated-Splash:
 
-Рассчитанные брызги (`Calculated Splash <https://2e.aonprd.com/Feats.aspx?ID=99>`_) / 4 ур.
+Рассчитанные брызги (`Calculated Splash <https://2e.aonprd.com/Feats.aspx?ID=99>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -910,7 +910,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Efficient-Alchemy:
 
-Эффективная алхимия (`Efficient Alchemy <https://2e.aonprd.com/Feats.aspx?ID=100>`_) / 4 ур.
+Эффективная алхимия (`Efficient Alchemy <https://2e.aonprd.com/Feats.aspx?ID=100>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -924,7 +924,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Enduring-Alchemy:
 
-Стойкая алхимия (`Enduring Alchemy <https://2e.aonprd.com/Feats.aspx?ID=101>`_) / 4 ур.
+Стойкая алхимия (`Enduring Alchemy <https://2e.aonprd.com/Feats.aspx?ID=101>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -937,7 +937,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Healing-Bomb:
 
-Исцеляющая бомба (`Healing Bomb <https://2e.aonprd.com/Feats.aspx?ID=1595>`_) |д-св| / 4 ур.
+Исцеляющая бомба (`Healing Bomb <https://2e.aonprd.com/Feats.aspx?ID=1595>`_) |д-св| / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - примесь 2
@@ -960,7 +960,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Tenacious-Toxins:
 
-Крепкие токсины (`Tenacious Toxins <https://2e.aonprd.com/Feats.aspx?ID=1596>`_) / 4 ур.
+Крепкие токсины (`Tenacious Toxins <https://2e.aonprd.com/Feats.aspx?ID=1596>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -981,7 +981,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Combine-Elixirs:
 
-Совмещение эликсиров (`Combine Elixirs <https://2e.aonprd.com/Feats.aspx?ID=102>`_) |д-св| / 6 ур.
+Совмещение эликсиров (`Combine Elixirs <https://2e.aonprd.com/Feats.aspx?ID=102>`_) |д-св| / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - примесь 2
@@ -1002,7 +1002,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Debilitating-Bomb:
 
-Ослабляющая бомба (`Debilitating Bomb <https://2e.aonprd.com/Feats.aspx?ID=103>`_) |д-св| / 6 ур.
+Ослабляющая бомба (`Debilitating Bomb <https://2e.aonprd.com/Feats.aspx?ID=103>`_) |д-св| / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - примесь 2
@@ -1022,7 +1022,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Directional-Bombs:
 
-Направленные бомбы (`Directional Bombs <https://2e.aonprd.com/Feats.aspx?ID=104>`_) / 6 ур.
+Направленные бомбы (`Directional Bombs <https://2e.aonprd.com/Feats.aspx?ID=104>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1034,7 +1034,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Sticky-Poison:
 
-Липкий яд (`Sticky Poison <https://2e.aonprd.com/Feats.aspx?ID=1597>`_) / 6 ур.
+Липкий яд (`Sticky Poison <https://2e.aonprd.com/Feats.aspx?ID=1597>`_) / 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1058,7 +1058,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Feral-Mutagen:
 
-Дикий мутаген (`Feral Mutagen <https://2e.aonprd.com/Feats.aspx?ID=105>`_) / 8 ур.
+Дикий мутаген (`Feral Mutagen <https://2e.aonprd.com/Feats.aspx?ID=105>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1071,7 +1071,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Powerful-Alchemy:
 
-Мощная алхимия (`Powerful Alchemy <https://2e.aonprd.com/Feats.aspx?ID=106>`_) / 8 ур.
+Мощная алхимия (`Powerful Alchemy <https://2e.aonprd.com/Feats.aspx?ID=106>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1082,7 +1082,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Sticky-Bomb:
 
-Прилипающая бомба (`Sticky Bomb <https://2e.aonprd.com/Feats.aspx?ID=107>`_) |д-св| / 8 ур.
+Прилипающая бомба (`Sticky Bomb <https://2e.aonprd.com/Feats.aspx?ID=107>`_) |д-св| / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - примесь 2
@@ -1101,7 +1101,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Perpetual-Breadth:
 
-Вечный охват (`Perpetual Breadth <https://2e.aonprd.com/Feats.aspx?ID=1598>`_) / 8 ур.
+Вечный охват (`Perpetual Breadth <https://2e.aonprd.com/Feats.aspx?ID=1598>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1120,7 +1120,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Pinpoint-Poisoner:
 
-Точный отравитель (`Pinpoint Poisoner <https://2e.aonprd.com/Feats.aspx?ID=1599>`_) / 8 ур.
+Точный отравитель (`Pinpoint Poisoner <https://2e.aonprd.com/Feats.aspx?ID=1599>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1141,7 +1141,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Elastic-Mutagen:
 
-Эластичный мутаген (`Elastic Mutagen <https://2e.aonprd.com/Feats.aspx?ID=108>`_) / 10 ур.
+Эластичный мутаген (`Elastic Mutagen <https://2e.aonprd.com/Feats.aspx?ID=108>`_) / 10
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1152,7 +1152,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Expanded-Splash:
 
-Расширенные брызги (`Expanded Splash <https://2e.aonprd.com/Feats.aspx?ID=109>`_) / 10 ур.
+Расширенные брызги (`Expanded Splash <https://2e.aonprd.com/Feats.aspx?ID=109>`_) / 10
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1167,7 +1167,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Greater-Debilitating-Bomb:
 
-Более ослабляющая бомба (`Greater Debilitating Bomb <https://2e.aonprd.com/Feats.aspx?ID=110>`_) / 10 ур.
+Более ослабляющая бомба (`Greater Debilitating Bomb <https://2e.aonprd.com/Feats.aspx?ID=110>`_) / 10
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1182,7 +1182,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Merciful-Elixir:
 
-Милосердный эликсир (`Merciful Elixir <https://2e.aonprd.com/Feats.aspx?ID=111>`_) |д-св| / 10 ур.
+Милосердный эликсир (`Merciful Elixir <https://2e.aonprd.com/Feats.aspx?ID=111>`_) |д-св| / 10
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - примесь 2
@@ -1200,7 +1200,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Potent-Poisoner:
 
-Могущественный отравитель (`Potent Poisoner <https://2e.aonprd.com/Feats.aspx?ID=112>`_) / 10 ур.
+Могущественный отравитель (`Potent Poisoner <https://2e.aonprd.com/Feats.aspx?ID=112>`_) / 10
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1215,7 +1215,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Unstable-Concoction:
 
-Нестабильная смесь (`Unstable Concoction <https://2e.aonprd.com/Feats.aspx?ID=1600>`_) / 10 ур.
+Нестабильная смесь (`Unstable Concoction <https://2e.aonprd.com/Feats.aspx?ID=1600>`_) / 10
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1240,7 +1240,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Extend-Elixir:
 
-Долгодействующий эликсир (`Extend Elixir <https://2e.aonprd.com/Feats.aspx?ID=113>`_) / 12 ур.
+Долгодействующий эликсир (`Extend Elixir <https://2e.aonprd.com/Feats.aspx?ID=113>`_) / 12
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1251,7 +1251,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Invincible-Mutagen:
 
-Неуязвимый мутаген (`Invincible Mutagen <https://2e.aonprd.com/Feats.aspx?ID=114>`_) / 12 ур.
+Неуязвимый мутаген (`Invincible Mutagen <https://2e.aonprd.com/Feats.aspx?ID=114>`_) / 12
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1262,7 +1262,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Uncanny-Bombs:
 
-Поразительные бомбы (`Uncanny Bombs <https://2e.aonprd.com/Feats.aspx?ID=115>`_) / 12 ур.
+Поразительные бомбы (`Uncanny Bombs <https://2e.aonprd.com/Feats.aspx?ID=115>`_) / 12
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1283,7 +1283,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Glib-Mutagen:
 
-Мутаген говорливости (`Glib Mutagen <https://2e.aonprd.com/Feats.aspx?ID=116>`_) / 14 ур.
+Мутаген говорливости (`Glib Mutagen <https://2e.aonprd.com/Feats.aspx?ID=116>`_) / 14
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1295,7 +1295,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Greater-Merciful-Elixir:
 
-Великий милосердный эликсир (`Greater Merciful Elixir <https://2e.aonprd.com/Feats.aspx?ID=117>`_) / 14 ур.
+Великий милосердный эликсир (`Greater Merciful Elixir <https://2e.aonprd.com/Feats.aspx?ID=117>`_) / 14
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1310,7 +1310,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--True-Debilitating-Bomb:
 
-Истинная ослабляющая бомба (`True Debilitating Bomb <https://2e.aonprd.com/Feats.aspx?ID=118>`_) / 14 ур.
+Истинная ослабляющая бомба (`True Debilitating Bomb <https://2e.aonprd.com/Feats.aspx?ID=118>`_) / 14
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1332,7 +1332,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Eternal-Elixir:
 
-Вечный эликсир (`Eternal Elixir <https://2e.aonprd.com/Feats.aspx?ID=119>`_) / 16 ур.
+Вечный эликсир (`Eternal Elixir <https://2e.aonprd.com/Feats.aspx?ID=119>`_) / 16
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1349,7 +1349,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Exploitive-Bomb:
 
-Эксплуатирующая бомба (`Exploitive Bomb <https://2e.aonprd.com/Feats.aspx?ID=120>`_) |д-св| / 16 ур.
+Эксплуатирующая бомба (`Exploitive Bomb <https://2e.aonprd.com/Feats.aspx?ID=120>`_) |д-св| / 16
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - примесь 2
@@ -1367,7 +1367,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Genius-Mutagen:
 
-Гениальный мутаген (`Genius Mutagen <https://2e.aonprd.com/Feats.aspx?ID=121>`_) / 16 ур.
+Гениальный мутаген (`Genius Mutagen <https://2e.aonprd.com/Feats.aspx?ID=121>`_) / 16
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1380,7 +1380,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Persistent-Mutagen:
 
-Постоянный мутаген (`Persistent Mutagen <https://2e.aonprd.com/Feats.aspx?ID=122>`_) / 16 ур.
+Постоянный мутаген (`Persistent Mutagen <https://2e.aonprd.com/Feats.aspx?ID=122>`_) / 16
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1395,7 +1395,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Chemical-Contagion:
 
-Химическая инфекция (`Chemical Contagion <https://2e.aonprd.com/Feats.aspx?ID=1601>`_) |д-р| / 16 ур.
+Химическая инфекция (`Chemical Contagion <https://2e.aonprd.com/Feats.aspx?ID=1601>`_) |д-р| / 16
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1418,7 +1418,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Improbable-Elixirs:
 
-Невероятные эликсиры (`Improbable Elixirs <https://2e.aonprd.com/Feats.aspx?ID=123>`_) / 18 ур.
+Невероятные эликсиры (`Improbable Elixirs <https://2e.aonprd.com/Feats.aspx?ID=123>`_) / 18
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1433,7 +1433,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Mindblank-Mutagen:
 
-Мутаген пустого разума (`Mindblank Mutagen <https://2e.aonprd.com/Feats.aspx?ID=124>`_) / 18 ур.
+Мутаген пустого разума (`Mindblank Mutagen <https://2e.aonprd.com/Feats.aspx?ID=124>`_) / 18
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1445,7 +1445,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Miracle-Worker:
 
-Чудесный работник (`Miracle Worker <https://2e.aonprd.com/Feats.aspx?ID=125>`_) / 18 ур.
+Чудесный работник (`Miracle Worker <https://2e.aonprd.com/Feats.aspx?ID=125>`_) / 18
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1461,7 +1461,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Perfect-Debilitation:
 
-Идеальное ослабление (`Perfect Debilitation <https://2e.aonprd.com/Feats.aspx?ID=126>`_) / 18 ур.
+Идеальное ослабление (`Perfect Debilitation <https://2e.aonprd.com/Feats.aspx?ID=126>`_) / 18
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1478,7 +1478,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Craft Philosophers-Stone:
 
-Создание философского камня (`Craft Philosopher's Stone <https://2e.aonprd.com/Feats.aspx?ID=127>`_) / 20 ур.
+Создание философского камня (`Craft Philosopher's Stone <https://2e.aonprd.com/Feats.aspx?ID=127>`_) / 20
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик
@@ -1489,7 +1489,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Mega-Bomb:
 
-Мега-бомба (`Mega Bomb <https://2e.aonprd.com/Feats.aspx?ID=128>`_) |д-1| / 20 ур.
+Мега-бомба (`Mega Bomb <https://2e.aonprd.com/Feats.aspx?ID=128>`_) |д-1| / 20
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - примесь 3
@@ -1512,7 +1512,7 @@ lesser bullheaded mutagen (TODO отсутствует в книге, подож
 
 .. _class-feat--Alchemist--Perfect-Mutagen:
 
-Идеальный мутаген (`Perfect Mutagen <https://2e.aonprd.com/Feats.aspx?ID=129>`_) / 20 ур.
+Идеальный мутаген (`Perfect Mutagen <https://2e.aonprd.com/Feats.aspx?ID=129>`_) / 20
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - алхимик

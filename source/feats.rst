@@ -704,7 +704,7 @@ A
 
 .. _feat--A-Home-in-Every-Port:
 
-Везде как дома (`A Home in Every Port <https://2e.aonprd.com/Feats.aspx?ID=2105>`_) / 11 ур.
+Везде как дома (`A Home in Every Port <https://2e.aonprd.com/Feats.aspx?ID=2105>`_) / 11
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -725,7 +725,7 @@ A
 
 .. _feat--Acrobatic-Performer:
 
-Акробатическое выступление (`Acrobatic Performer <https://2e.aonprd.com/Feats.aspx?ID=2106>`_) / 1 ур.
+Акробатическое выступление (`Acrobatic Performer <https://2e.aonprd.com/Feats.aspx?ID=2106>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -745,7 +745,7 @@ A
 
 .. _feat--Additional-Lore:
 
-Дополнительные знания (`Additional Lore <https://2e.aonprd.com/Feats.aspx?ID=750>`_) / 1 ур.
+Дополнительные знания (`Additional Lore <https://2e.aonprd.com/Feats.aspx?ID=750>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -767,7 +767,7 @@ A
 
 .. _feat--Adopted-Ancestry:
 
-Заимствованная родословная (`Adopted Ancestry <https://2e.aonprd.com/Feats.aspx?ID=751>`_) / 1 ур.
+Заимствованная родословная (`Adopted Ancestry <https://2e.aonprd.com/Feats.aspx?ID=751>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -780,7 +780,7 @@ A
 
 .. _feat--Advanced-First-Aid:
 
-Улучшенная первая помощь (`Advanced First Aid <https://2e.aonprd.com/Feats.aspx?ID=2107>`_) / 7 ур.
+Улучшенная первая помощь (`Advanced First Aid <https://2e.aonprd.com/Feats.aspx?ID=2107>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - исцеление
@@ -803,7 +803,7 @@ A
 
 .. _feat--Aerobatics-Mastery:
 
-Мастерство воздушной акробатики (`Aerobatics Mastery <https://2e.aonprd.com/Feats.aspx?ID=2108>`_) / 7 ур.
+Мастерство воздушной акробатики (`Aerobatics Mastery <https://2e.aonprd.com/Feats.aspx?ID=2108>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -824,7 +824,7 @@ A
 
 .. _feat--Alchemical-Crafting:
 
-Алхимическое ремесло (`Alchemical Crafting <https://2e.aonprd.com/Feats.aspx?ID=752>`_) / 1 ур.
+Алхимическое ремесло (`Alchemical Crafting <https://2e.aonprd.com/Feats.aspx?ID=752>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -841,7 +841,7 @@ A
 
 .. _feat--Ancestral-Paragon:
 
-Наследник рода (`Ancestral Paragon <https://2e.aonprd.com/Feats.aspx?ID=753>`_) / 3 ур.
+Наследник рода (`Ancestral Paragon <https://2e.aonprd.com/Feats.aspx?ID=753>`_) / 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -853,7 +853,7 @@ A
 
 .. _feat--Arcane-Sense:
 
-Арканное чутье (`Arcane Sense <https://2e.aonprd.com/Feats.aspx?ID=754>`_) / 1 ур.
+Арканное чутье (`Arcane Sense <https://2e.aonprd.com/Feats.aspx?ID=754>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -871,7 +871,7 @@ A
 
 .. _feat--Armor-Assist:
 
-Помощь с доспехом (`Armor Assist <https://2e.aonprd.com/Feats.aspx?ID=2109>`_) / 1 ур.
+Помощь с доспехом (`Armor Assist <https://2e.aonprd.com/Feats.aspx?ID=2109>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -891,7 +891,7 @@ A
 
 .. _feat--Armor-Proficiency:
 
-Ношение доспехов (`Armor Proficiency <https://2e.aonprd.com/Feats.aspx?ID=755>`_) / 1 ур.
+Ношение доспехов (`Armor Proficiency <https://2e.aonprd.com/Feats.aspx?ID=755>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -907,7 +907,7 @@ A
 
 .. _feat--Armored-Stealth:
 
-Скрытность в доспехах (`Armored Stealth <https://2e.aonprd.com/Feats.aspx?ID=2110>`_) / 2 ур.
+Скрытность в доспехах (`Armored Stealth <https://2e.aonprd.com/Feats.aspx?ID=2110>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -928,7 +928,7 @@ A
 
 .. _feat--Assurance:
 
-Уверенность (`Assurance <https://2e.aonprd.com/Feats.aspx?ID=756>`_) / 1 ур.
+Уверенность (`Assurance <https://2e.aonprd.com/Feats.aspx?ID=756>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -950,7 +950,7 @@ A
 
 .. _feat--Assured-Identification:
 
-Уверенная идентификация (`Assured Identification <https://2e.aonprd.com/Feats.aspx?ID=2111>`_) / 2 ур.
+Уверенная идентификация (`Assured Identification <https://2e.aonprd.com/Feats.aspx?ID=2111>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -970,7 +970,7 @@ A
 
 .. _feat--Automatic-Knowledge:
 
-Автоматическое знание (`Automatic Knowledge <https://2e.aonprd.com/Feats.aspx?ID=757>`_) / 2 ур.
+Автоматическое знание (`Automatic Knowledge <https://2e.aonprd.com/Feats.aspx?ID=757>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -997,7 +997,7 @@ B
 
 .. _feat--Backup-Disguise:
 
-Запасная маскировка (`Backup Disguise <https://2e.aonprd.com/Feats.aspx?ID=1064>`_) / 2 ур.
+Запасная маскировка (`Backup Disguise <https://2e.aonprd.com/Feats.aspx?ID=1064>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычное`
@@ -1021,7 +1021,7 @@ B
 
 .. _feat--Bargain-Hunter:
 
-Искатель выгодных сделок (`Bargain Hunter <https://2e.aonprd.com/Feats.aspx?ID=758>`_) / 1 ур.
+Искатель выгодных сделок (`Bargain Hunter <https://2e.aonprd.com/Feats.aspx?ID=758>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1039,7 +1039,7 @@ B
 
 .. _feat--Battle-Cry:
 
-Боевой клич (`Battle Cry <https://2e.aonprd.com/Feats.aspx?ID=759>`_) / 7 ур.
+Боевой клич (`Battle Cry <https://2e.aonprd.com/Feats.aspx?ID=759>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1056,7 +1056,7 @@ B
 
 .. _feat--Battle-Medicine:
 
-Боевая медицина (`Battle Medicine <https://2e.aonprd.com/Feats.aspx?ID=760>`_) |д-1| / 1 ур.
+Боевая медицина (`Battle Medicine <https://2e.aonprd.com/Feats.aspx?ID=760>`_) |д-1| / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1080,7 +1080,7 @@ B
 
 .. _feat--Biographical-Eye:
 
-Наблюдательный биограф (`Biographical Eye <https://2e.aonprd.com/Feats.aspx?ID=2113>`_) / 7 ур.
+Наблюдательный биограф (`Biographical Eye <https://2e.aonprd.com/Feats.aspx?ID=2113>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - тайна
@@ -1110,7 +1110,7 @@ B
 
 .. _feat--Bizarre-Magic:
 
-Странная магия (`Bizarre Magic <https://2e.aonprd.com/Feats.aspx?ID=761>`_) / 7 ур.
+Странная магия (`Bizarre Magic <https://2e.aonprd.com/Feats.aspx?ID=761>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1127,7 +1127,7 @@ B
 
 .. _feat--Bon-Mot:
 
-Острóта (`Bon Mot <https://2e.aonprd.com/Feats.aspx?ID=2114>`_) |д-1| / 1 ур.
+Острóта (`Bon Mot <https://2e.aonprd.com/Feats.aspx?ID=2114>`_) |д-1| / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - эмоция
@@ -1156,7 +1156,7 @@ B
 
 .. _feat--Bonded-Animal:
 
-Прирученное животное (`Bonded Animal <https://2e.aonprd.com/Feats.aspx?ID=762>`_) / 2 ур.
+Прирученное животное (`Bonded Animal <https://2e.aonprd.com/Feats.aspx?ID=762>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - отдых
@@ -1181,7 +1181,7 @@ B
 
 .. _feat--Breath-Control:
 
-Задержка дыхания (`Breath Control <https://2e.aonprd.com/Feats.aspx?ID=763>`_) / 1 ур.
+Задержка дыхания (`Breath Control <https://2e.aonprd.com/Feats.aspx?ID=763>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1194,7 +1194,7 @@ B
 
 .. _feat--Battle-Planner:
 
-Боевой планировщик (`Battle Planner <https://2e.aonprd.com/Feats.aspx?ID=2112>`_) / 2 ур.
+Боевой планировщик (`Battle Planner <https://2e.aonprd.com/Feats.aspx?ID=2112>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1215,7 +1215,7 @@ B
 
 .. _feat--Battle-Prayer:
 
-Боевая молитва (`Battle Prayer <https://2e.aonprd.com/Feats.aspx?ID=1174>`_) |д-1| / 7 ур.
+Боевая молитва (`Battle Prayer <https://2e.aonprd.com/Feats.aspx?ID=1174>`_) |д-1| / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - сакральная
@@ -1245,7 +1245,7 @@ B
 
 .. _feat--Bless-Tonic:
 
-Освященный тоник (`Bless Tonic <https://2e.aonprd.com/Feats.aspx?ID=1175>`_) / 7 ур.
+Освященный тоник (`Bless Tonic <https://2e.aonprd.com/Feats.aspx?ID=1175>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - позитивная
@@ -1267,7 +1267,7 @@ B
 
 .. _feat--Bless-Toxin:
 
-Освященный токсин (`Bless Toxin <https://2e.aonprd.com/Feats.aspx?ID=1176>`_) / 7 ур.
+Освященный токсин (`Bless Toxin <https://2e.aonprd.com/Feats.aspx?ID=1176>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - негативная
@@ -1293,7 +1293,7 @@ C
 
 .. _feat--Canny-Acumen:
 
-Проницательность (`Canny Acumen <https://2e.aonprd.com/Feats.aspx?ID=764>`_) / 1 ур.
+Проницательность (`Canny Acumen <https://2e.aonprd.com/Feats.aspx?ID=764>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1307,7 +1307,7 @@ C
 
 .. _feat--Caravan-Leader:
 
-Лидер каравана (`Caravan Leader <https://2e.aonprd.com/Feats.aspx?ID=2115>`_) / 11 ур.
+Лидер каравана (`Caravan Leader <https://2e.aonprd.com/Feats.aspx?ID=2115>`_) / 11
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1325,7 +1325,7 @@ C
 
 .. _feat--Cat-Fall:
 
-Кошачье падение (`Cat Fall <https://2e.aonprd.com/Feats.aspx?ID=765>`_) / 1 ур.
+Кошачье падение (`Cat Fall <https://2e.aonprd.com/Feats.aspx?ID=765>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1343,7 +1343,7 @@ C
 
 .. _feat--Charming-Liar:
 
-Очаровательный лжец (`Charming Liar <https://2e.aonprd.com/Feats.aspx?ID=766>`_) / 1 ур.
+Очаровательный лжец (`Charming Liar <https://2e.aonprd.com/Feats.aspx?ID=766>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1362,7 +1362,7 @@ C
 
 .. _feat--Cloud-Jump:
 
-Облачный прыжок (`Cloud Jump <https://2e.aonprd.com/Feats.aspx?ID=767>`_) / 15 ур.
+Облачный прыжок (`Cloud Jump <https://2e.aonprd.com/Feats.aspx?ID=767>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1383,7 +1383,7 @@ C
 
 .. _feat--Combat-Climber:
 
-Боевой альпинист (`Combat Climber <https://2e.aonprd.com/Feats.aspx?ID=768>`_) / 1 ур.
+Боевой альпинист (`Combat Climber <https://2e.aonprd.com/Feats.aspx?ID=768>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1401,7 +1401,7 @@ C
 
 .. _feat--Concealing-Legerdemain:
 
-Скрывающее жонглирование (`Concealing Legerdemain <https://2e.aonprd.com/Feats.aspx?ID=2116>`_) / 1 ур.
+Скрывающее жонглирование (`Concealing Legerdemain <https://2e.aonprd.com/Feats.aspx?ID=2116>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1421,7 +1421,7 @@ C
 
 .. _feat--Confabulator:
 
-Патологический лжец (`Confabulator <https://2e.aonprd.com/Feats.aspx?ID=769>`_) / 2 ур.
+Патологический лжец (`Confabulator <https://2e.aonprd.com/Feats.aspx?ID=769>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1439,7 +1439,7 @@ C
 
 .. _feat--Connections:
 
-Связи (`Connections <https://2e.aonprd.com/Feats.aspx?ID=770>`_) / 2 ур.
+Связи (`Connections <https://2e.aonprd.com/Feats.aspx?ID=770>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1457,7 +1457,7 @@ C
 
 .. _feat--Consult-the-Spirits:
 
-Посоветоваться с духами (`Consult the Spirits <https://2e.aonprd.com/Feats.aspx?ID=2117>`_) / 7 ур.
+Посоветоваться с духами (`Consult the Spirits <https://2e.aonprd.com/Feats.aspx?ID=2117>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - тайна
@@ -1493,7 +1493,7 @@ C
 
 .. _feat--Continual-Recovery:
 
-Непрерывное выздоровление (`Continual Recovery <https://2e.aonprd.com/Feats.aspx?ID=771>`_) / 2 ур.
+Непрерывное выздоровление (`Continual Recovery <https://2e.aonprd.com/Feats.aspx?ID=771>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1511,7 +1511,7 @@ C
 
 .. _feat--Courtly-Graces:
 
-Аристократическое изящество (`Courtly Graces <https://2e.aonprd.com/Feats.aspx?ID=772>`_) / 1 ур.
+Аристократическое изящество (`Courtly Graces <https://2e.aonprd.com/Feats.aspx?ID=772>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1529,7 +1529,7 @@ C
 
 .. _feat--Craft-Anything:
 
-Создание чего угодно (`Craft Anything <https://2e.aonprd.com/Feats.aspx?ID=773>`_) / 15 ур.
+Создание чего угодно (`Craft Anything <https://2e.aonprd.com/Feats.aspx?ID=773>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1547,7 +1547,7 @@ C
 
 .. _feat--Crafters-Appraisal:
 
-Оценка ремесленником (`Crafter's Appraisal <https://2e.aonprd.com/Feats.aspx?ID=2118>`_) / 1 ур.
+Оценка ремесленником (`Crafter's Appraisal <https://2e.aonprd.com/Feats.aspx?ID=2118>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1566,7 +1566,7 @@ C
 
 .. _feat--Criminal-Connections:
 
-Криминальные связи (`Criminal Connections <https://2e.aonprd.com/Feats.aspx?ID=2119>`_) / 2 ур.
+Криминальные связи (`Criminal Connections <https://2e.aonprd.com/Feats.aspx?ID=2119>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычное`
@@ -1587,7 +1587,7 @@ C
 
 .. _feat--Charlatan:
 
-Шарлатан (`Charlatan <https://2e.aonprd.com/Feats.aspx?ID=1178>`_) / 1 ур.
+Шарлатан (`Charlatan <https://2e.aonprd.com/Feats.aspx?ID=1178>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1614,7 +1614,7 @@ D
 
 .. _feat--Deceptive-Worship:
 
-Обманчивое поклонение (`Deceptive Worship <https://2e.aonprd.com/Feats.aspx?ID=2120>`_) / 1 ур.
+Обманчивое поклонение (`Deceptive Worship <https://2e.aonprd.com/Feats.aspx?ID=2120>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1634,7 +1634,7 @@ D
 
 .. _feat--Diehard:
 
-Несгибаемый (`Diehard <https://2e.aonprd.com/Feats.aspx?ID=774>`_) / 1 ур.
+Несгибаемый (`Diehard <https://2e.aonprd.com/Feats.aspx?ID=774>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1646,7 +1646,7 @@ D
 
 .. _feat--Discreet-Inquiry:
 
-Осторожно распрашивать (`Discreet Inquiry <https://2e.aonprd.com/Feats.aspx?ID=2121>`_) / 2 ур.
+Осторожно распрашивать (`Discreet Inquiry <https://2e.aonprd.com/Feats.aspx?ID=2121>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1666,7 +1666,7 @@ D
 
 .. _feat--Disturbing-Knowledge:
 
-Тревожные знания (`Disturbing Knowledge <https://2e.aonprd.com/Feats.aspx?ID=2123>`_) |д-2| / 7 ур.
+Тревожные знания (`Disturbing Knowledge <https://2e.aonprd.com/Feats.aspx?ID=2123>`_) |д-2| / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - эмоция
@@ -1695,7 +1695,7 @@ D
 
 .. _feat--Distracting-Performance:
 
-Отвлекающее выступление (`Distracting Performance <https://2e.aonprd.com/Feats.aspx?ID=2122>`_) / 2 ур.
+Отвлекающее выступление (`Distracting Performance <https://2e.aonprd.com/Feats.aspx?ID=2122>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1714,7 +1714,7 @@ D
 
 .. _feat--Divine-Guidance:
 
-Божественное наставление (`Divine Guidance <https://2e.aonprd.com/Feats.aspx?ID=775>`_) / 15 ур.
+Божественное наставление (`Divine Guidance <https://2e.aonprd.com/Feats.aspx?ID=775>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1733,7 +1733,7 @@ D
 
 .. _feat--Doublespeak:
 
-Двойной смысл (`Doublespeak <https://2e.aonprd.com/Feats.aspx?ID=2124>`_) / 7 ур.
+Двойной смысл (`Doublespeak <https://2e.aonprd.com/Feats.aspx?ID=2124>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1754,7 +1754,7 @@ D
 
 .. _feat--Dubious-Knowledge:
 
-Сомнительные знания (`Dubious Knowledge <https://2e.aonprd.com/Feats.aspx?ID=776>`_) / 1 ур.
+Сомнительные знания (`Dubious Knowledge <https://2e.aonprd.com/Feats.aspx?ID=776>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1776,7 +1776,7 @@ E
 
 .. _feat--Exhort-the-Faithful:
 
-Убеждение верующего (`Exhort the Faithful <https://2e.aonprd.com/Feats.aspx?ID=2125>`_) / 2 ур.
+Убеждение верующего (`Exhort the Faithful <https://2e.aonprd.com/Feats.aspx?ID=2125>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1796,7 +1796,7 @@ E
 
 .. _feat--Expeditious-Search:
 
-Оперативный поиск (`Expeditious Search <https://2e.aonprd.com/Feats.aspx?ID=777>`_) / 7 ур.
+Оперативный поиск (`Expeditious Search <https://2e.aonprd.com/Feats.aspx?ID=777>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1814,7 +1814,7 @@ E
 
 .. _feat--Experienced-Professional:
 
-Опытный профессионал (`Experienced Professional <https://2e.aonprd.com/Feats.aspx?ID=778>`_) / 1 ур.
+Опытный профессионал (`Experienced Professional <https://2e.aonprd.com/Feats.aspx?ID=778>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1832,7 +1832,7 @@ E
 
 .. _feat--Experienced-Smuggler:
 
-Опытный контрабандист (`Experienced Smuggler <https://2e.aonprd.com/Feats.aspx?ID=779>`_) / 1 ур.
+Опытный контрабандист (`Experienced Smuggler <https://2e.aonprd.com/Feats.aspx?ID=779>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1852,7 +1852,7 @@ E
 
 .. _feat--Experienced-Tracker:
 
-Опытный следопыт (`Experienced Tracker <https://2e.aonprd.com/Feats.aspx?ID=780>`_) / 1 ур.
+Опытный следопыт (`Experienced Tracker <https://2e.aonprd.com/Feats.aspx?ID=780>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1871,7 +1871,7 @@ E
 
 .. _feat--Express-Rider:
 
-Скоростной ездок (`Express Rider <https://2e.aonprd.com/Feats.aspx?ID=2126>`_) / 1 ур.
+Скоростной ездок (`Express Rider <https://2e.aonprd.com/Feats.aspx?ID=2126>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - исследование
@@ -1895,7 +1895,7 @@ E
 
 .. _feat--Entourage:
 
-Свита (`Entourage <https://2e.aonprd.com/Feats.aspx?ID=1066>`_) / 7 ур.
+Свита (`Entourage <https://2e.aonprd.com/Feats.aspx?ID=1066>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :rare:`редкая`
@@ -1919,7 +1919,7 @@ E
 
 .. _feat--Environmental-Grace:
 
-Благоволение окружающей среды (`Environmental Grace <https://2e.aonprd.com/Feats.aspx?ID=1179>`_) / 7 ур.
+Благоволение окружающей среды (`Environmental Grace <https://2e.aonprd.com/Feats.aspx?ID=1179>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1939,7 +1939,7 @@ E
 
 .. _feat--Evangelize:
 
-Проповедование (`Evangelize <https://2e.aonprd.com/Feats.aspx?ID=1180>`_) |д-1| / 7 ур.
+Проповедование (`Evangelize <https://2e.aonprd.com/Feats.aspx?ID=1180>`_) |д-1| / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - слуховая
@@ -1966,7 +1966,7 @@ E
 
 .. _feat--Eye-for-Numbers:
 
-Человек дождя (`Eye for Numbers <https://2e.aonprd.com/Feats.aspx?ID=2127>`_) |д-1| / 1 ур.
+Человек дождя (`Eye for Numbers <https://2e.aonprd.com/Feats.aspx?ID=2127>`_) |д-1| / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -1990,7 +1990,7 @@ E
 
 .. _feat--Eye-of-the-Arclords:
 
-Око верховных лордов (`Eye of the Arclords <https://2e.aonprd.com/Feats.aspx?ID=870>`_) |д-1| / 2 ур.
+Око верховных лордов (`Eye of the Arclords <https://2e.aonprd.com/Feats.aspx?ID=870>`_) |д-1| / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычная`
@@ -2027,7 +2027,7 @@ F
 
 .. _feat--Fascinating-Performance:
 
-Завораживающее выступление (`Fascinating Performance <https://2e.aonprd.com/Feats.aspx?ID=781>`_) / 1 ур.
+Завораживающее выступление (`Fascinating Performance <https://2e.aonprd.com/Feats.aspx?ID=781>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2048,7 +2048,7 @@ F
 
 .. _feat--Fast-Recovery:
 
-Быстрое восстановление (`Fast Recovery <https://2e.aonprd.com/Feats.aspx?ID=782>`_) / 1 ур.
+Быстрое восстановление (`Fast Recovery <https://2e.aonprd.com/Feats.aspx?ID=782>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2067,7 +2067,7 @@ F
 
 .. _feat--Feather-Step:
 
-Легкий шаг (`Feather Step <https://2e.aonprd.com/Feats.aspx?ID=783>`_) / 1 ур.
+Легкий шаг (`Feather Step <https://2e.aonprd.com/Feats.aspx?ID=783>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2083,7 +2083,7 @@ F
 
 .. _feat--Fleet:
 
-Быстроногий (`Fleet <https://2e.aonprd.com/Feats.aspx?ID=784>`_) / 1 ур.
+Быстроногий (`Fleet <https://2e.aonprd.com/Feats.aspx?ID=784>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2095,7 +2095,7 @@ F
 
 .. _feat--Foil-Senses:
 
-Одурачить чувства (`Foil Senses <https://2e.aonprd.com/Feats.aspx?ID=785>`_) / 7 ур.
+Одурачить чувства (`Foil Senses <https://2e.aonprd.com/Feats.aspx?ID=785>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2112,7 +2112,7 @@ F
 
 .. _feat--Forager:
 
-Добытчик еды (`Forager <https://2e.aonprd.com/Feats.aspx?ID=786>`_) / 1 ур.
+Добытчик еды (`Forager <https://2e.aonprd.com/Feats.aspx?ID=786>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2135,7 +2135,7 @@ F
 
 .. _feat--Forensic-Acumen:
 
-Судебно-медицинская проницательность (`Forensic Acumen <https://2e.aonprd.com/Feats.aspx?ID=2128>`_) / 1 ур.
+Судебно-медицинская проницательность (`Forensic Acumen <https://2e.aonprd.com/Feats.aspx?ID=2128>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2164,7 +2164,7 @@ G
 
 .. _feat--Glad-Hand:
 
-Радушный приём (`Glad-Hand <https://2e.aonprd.com/Feats.aspx?ID=787>`_) / 2 ур.
+Радушный приём (`Glad-Hand <https://2e.aonprd.com/Feats.aspx?ID=787>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2183,7 +2183,7 @@ G
 
 .. _feat--Glean-Contents:
 
-Обрывочное содержимое (`Glean Contents <https://2e.aonprd.com/Feats.aspx?ID=2129>`_) / 1 ур.
+Обрывочное содержимое (`Glean Contents <https://2e.aonprd.com/Feats.aspx?ID=2129>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2205,7 +2205,7 @@ G
 
 .. _feat--Group-Coercion:
 
-Групповое принуждение (`Group Coercion <https://2e.aonprd.com/Feats.aspx?ID=788>`_) / 1 ур.
+Групповое принуждение (`Group Coercion <https://2e.aonprd.com/Feats.aspx?ID=788>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2223,7 +2223,7 @@ G
 
 .. _feat--Group-Impression:
 
-Впечатлить группу (`Group Impression <https://2e.aonprd.com/Feats.aspx?ID=789>`_) / 1 ур.
+Впечатлить группу (`Group Impression <https://2e.aonprd.com/Feats.aspx?ID=789>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2241,7 +2241,7 @@ G
 
 .. _feat--Godless-Healing:
 
-Безбожное исцеление (`Godless Healing <https://2e.aonprd.com/Feats.aspx?ID=869>`_) / 2 ур.
+Безбожное исцеление (`Godless Healing <https://2e.aonprd.com/Feats.aspx?ID=869>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2264,7 +2264,7 @@ H
 
 .. _feat--Hefty-Hauler:
 
-Сильный носильщик (`Hefty Hauler <https://2e.aonprd.com/Feats.aspx?ID=790>`_) / 1 ур.
+Сильный носильщик (`Hefty Hauler <https://2e.aonprd.com/Feats.aspx?ID=790>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2281,7 +2281,7 @@ H
 
 .. _feat--Hireling-Manager:
 
-Менеджер наемных рабочих (`Hireling Manager <https://2e.aonprd.com/Feats.aspx?ID=2130>`_) / 3 ур.
+Менеджер наемных рабочих (`Hireling Manager <https://2e.aonprd.com/Feats.aspx?ID=2130>`_) / 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2302,7 +2302,7 @@ H
 
 .. _feat--Hobnobber:
 
-Общительный (`Hobnobber <https://2e.aonprd.com/Feats.aspx?ID=791>`_) / 1 ур.
+Общительный (`Hobnobber <https://2e.aonprd.com/Feats.aspx?ID=791>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2326,7 +2326,7 @@ I
 
 .. _feat--Impeccable-Crafting:
 
-Безукоризненное ремесло (`Impeccable Crafting <https://2e.aonprd.com/Feats.aspx?ID=792>`_) / 7 ур.
+Безукоризненное ремесло (`Impeccable Crafting <https://2e.aonprd.com/Feats.aspx?ID=792>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2343,7 +2343,7 @@ I
 
 .. _feat--Impressive-Performance:
 
-Впечатляющее выступление (`Impressive Performance <https://2e.aonprd.com/Feats.aspx?ID=793>`_) / 1 ур.
+Впечатляющее выступление (`Impressive Performance <https://2e.aonprd.com/Feats.aspx?ID=793>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2360,7 +2360,7 @@ I
 
 .. _feat--Improvise-Tool:
 
-Импровизированный инструмент (`Improvise Tool <https://2e.aonprd.com/Feats.aspx?ID=2131>`_) / 1 ур.
+Импровизированный инструмент (`Improvise Tool <https://2e.aonprd.com/Feats.aspx?ID=2131>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2381,7 +2381,7 @@ I
 
 .. _feat--Improvised-Repair:
 
-Импровизированный ремонт (`Improvised Repair <https://2e.aonprd.com/Feats.aspx?ID=2132>`_) |д-3| / 3 ур.
+Импровизированный ремонт (`Improvised Repair <https://2e.aonprd.com/Feats.aspx?ID=2132>`_) |д-3| / 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2400,7 +2400,7 @@ I
 
 .. _feat--Incredible-Initiative:
 
-Невероятная инициатива (`Incredible Initiative <https://2e.aonprd.com/Feats.aspx?ID=794>`_) / 1 ур.
+Невероятная инициатива (`Incredible Initiative <https://2e.aonprd.com/Feats.aspx?ID=794>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2412,7 +2412,7 @@ I
 
 .. _feat--Incredible-Investiture:
 
-Невероятное облачение (`Incredible Investiture <https://2e.aonprd.com/Feats.aspx?ID=795>`_) / 11 ур.
+Невероятное облачение (`Incredible Investiture <https://2e.aonprd.com/Feats.aspx?ID=795>`_) / 11
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2428,7 +2428,7 @@ I
 
 .. _feat--Incredible-Scout:
 
-Невероятный разведчик (`Incredible Scout <https://2e.aonprd.com/Feats.aspx?ID=2133>`_) / 11 ур.
+Невероятный разведчик (`Incredible Scout <https://2e.aonprd.com/Feats.aspx?ID=2133>`_) / 11
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2446,7 +2446,7 @@ I
 
 .. _feat--Influence-Nature:
 
-Повлиять на природу (`Influence Nature <https://2e.aonprd.com/Feats.aspx?ID=2134>`_) / 7 ур.
+Повлиять на природу (`Influence Nature <https://2e.aonprd.com/Feats.aspx?ID=2134>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - отдых
@@ -2468,7 +2468,7 @@ I
 
 .. _feat--Inoculation:
 
-Прививка (`Inoculation <https://2e.aonprd.com/Feats.aspx?ID=2135>`_) / 1 ур.
+Прививка (`Inoculation <https://2e.aonprd.com/Feats.aspx?ID=2135>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - исцеление
@@ -2488,7 +2488,7 @@ I
 
 .. _feat--Intimidating-Glare:
 
-Запугивающий взгляд (`Intimidating Glare <https://2e.aonprd.com/Feats.aspx?ID=796>`_) / 1 ур.
+Запугивающий взгляд (`Intimidating Glare <https://2e.aonprd.com/Feats.aspx?ID=796>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2505,7 +2505,7 @@ I
 
 .. _feat--Intimidating-Prowess:
 
-Выдающееся запугивание (`Intimidating Prowess <https://2e.aonprd.com/Feats.aspx?ID=797>`_) / 2 ур.
+Выдающееся запугивание (`Intimidating Prowess <https://2e.aonprd.com/Feats.aspx?ID=797>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2522,7 +2522,7 @@ I
 
 .. _feat--Inventor:
 
-Изобретатель (`Inventor <https://2e.aonprd.com/Feats.aspx?ID=798>`_) / 7 ур.
+Изобретатель (`Inventor <https://2e.aonprd.com/Feats.aspx?ID=798>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - отдых
@@ -2548,7 +2548,7 @@ K
 
 .. _feat--Keen-Follower:
 
-Проницательный последователь (`Keen Follower <https://2e.aonprd.com/Feats.aspx?ID=2136>`_) / 3 ур.
+Проницательный последователь (`Keen Follower <https://2e.aonprd.com/Feats.aspx?ID=2136>`_) / 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2564,7 +2564,7 @@ K
 
 .. _feat--Kip-Up:
 
-Подъем разгибом (`Kip Up <https://2e.aonprd.com/Feats.aspx?ID=799>`_) |д-св| / 7 ур.
+Подъем разгибом (`Kip Up <https://2e.aonprd.com/Feats.aspx?ID=799>`_) |д-св| / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2586,7 +2586,7 @@ L
 
 .. _feat--Lasting-Coercion:
 
-Длительное принуждение (`Lasting Coercion <https://2e.aonprd.com/Feats.aspx?ID=800>`_) / 2 ур.
+Длительное принуждение (`Lasting Coercion <https://2e.aonprd.com/Feats.aspx?ID=800>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2603,7 +2603,7 @@ L
 
 .. _feat--Lead-Climber:
 
-Ведущий альпинист (`Lead Climber <https://2e.aonprd.com/Feats.aspx?ID=2137>`_) / 2 ур.
+Ведущий альпинист (`Lead Climber <https://2e.aonprd.com/Feats.aspx?ID=2137>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2624,7 +2624,7 @@ L
 
 .. _feat--Legendary-Codebreaker:
 
-Легендарный шифровальщик (`Legendary Codebreaker <https://2e.aonprd.com/Feats.aspx?ID=801>`_) / 15 ур.
+Легендарный шифровальщик (`Legendary Codebreaker <https://2e.aonprd.com/Feats.aspx?ID=801>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2642,7 +2642,7 @@ L
 
 .. _feat--Legendary-Guide:
 
-Легендарный проводник (`Legendary Guide <https://2e.aonprd.com/Feats.aspx?ID=2138>`_) / 15 ур.
+Легендарный проводник (`Legendary Guide <https://2e.aonprd.com/Feats.aspx?ID=2138>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2662,7 +2662,7 @@ L
 
 .. _feat--Legendary-Linguist:
 
-Легендарный лингвист (`Legendary Linguist <https://2e.aonprd.com/Feats.aspx?ID=802>`_) / 15 ур.
+Легендарный лингвист (`Legendary Linguist <https://2e.aonprd.com/Feats.aspx?ID=802>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2680,7 +2680,7 @@ L
 
 .. _feat--Legendary-Medic:
 
-Легендарный врач (`Legendary Medic <https://2e.aonprd.com/Feats.aspx?ID=803>`_) / 15 ур.
+Легендарный врач (`Legendary Medic <https://2e.aonprd.com/Feats.aspx?ID=803>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2691,15 +2691,15 @@ L
 ----------
 
 Вы совершили медицинские открытия или придумали методы, которые достигают чудесных результатов.
-Раз в день для каждой цели, вы можете потратить 1 час на лечение и совершить проверку Медицины чтобы убрать болезнь, слепоту, глухоту, обреченность или истощение.
-Используйте КС болезни, заклинания или эффекта, который вызвал состояния.
-Если источник эффекта - артефакт выше 20-го уровня, или подобной силы, увеличьте КС на 10.
+Раз в день для каждой цели, вы можете потратить 1 час на лечение и совершить проверку Медицины, чтобы убрать болезнь, или состояния "слепой", "глухота", "обречен" или "истощен".
+Используйте КС болезни, заклинания или эффекта, который вызвал это состояние.
+Если источник эффекта - артефакт, выше 20-го уровня, или подобной силы, увеличьте КС на 10.
 
 
 
 .. _feat--Legendary-Negotiation:
 
-Легендарные переговоры (`Legendary Negotiation <https://2e.aonprd.com/Feats.aspx?ID=804>`_) |д-3| / 15 ур.
+Легендарные переговоры (`Legendary Negotiation <https://2e.aonprd.com/Feats.aspx?ID=804>`_) |д-3| / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2719,7 +2719,7 @@ L
 
 .. _feat--Legendary-Performer:
 
-Легендарный исполнитель (`Legendary Performer <https://2e.aonprd.com/Feats.aspx?ID=805>`_) / 15 ур.
+Легендарный исполнитель (`Legendary Performer <https://2e.aonprd.com/Feats.aspx?ID=805>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2740,7 +2740,7 @@ L
 
 .. _feat--Legendary-Professional:
 
-Легендарный профессионал (`Legendary Professional <https://2e.aonprd.com/Feats.aspx?ID=806>`_) / 15 ур.
+Легендарный профессионал (`Legendary Professional <https://2e.aonprd.com/Feats.aspx?ID=806>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2757,7 +2757,7 @@ L
 
 .. _feat--Legendary-Sneak:
 
-Легендарно красться (`Legendary Sneak <https://2e.aonprd.com/Feats.aspx?ID=807>`_) / 15 ур.
+Легендарно красться (`Legendary Sneak <https://2e.aonprd.com/Feats.aspx?ID=807>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2776,7 +2776,7 @@ L
 
 .. _feat--Legendary-Survivalist:
 
-Легендарный выживальщик (`Legendary Survivalist <https://2e.aonprd.com/Feats.aspx?ID=808>`_) / 15 ур.
+Легендарный выживальщик (`Legendary Survivalist <https://2e.aonprd.com/Feats.aspx?ID=808>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2792,7 +2792,7 @@ L
 
 .. _feat--Legendary-Thief:
 
-Легендарный вор (`Legendary Thief <https://2e.aonprd.com/Feats.aspx?ID=809>`_) / 15 ур.
+Легендарный вор (`Legendary Thief <https://2e.aonprd.com/Feats.aspx?ID=809>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2813,7 +2813,7 @@ L
 
 .. _feat--Lengthy-Diversion:
 
-Надолго отвлечь (`Lengthy Diversion <https://2e.aonprd.com/Feats.aspx?ID=810>`_) / 1 ур.
+Надолго отвлечь (`Lengthy Diversion <https://2e.aonprd.com/Feats.aspx?ID=810>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2830,7 +2830,7 @@ L
 
 .. _feat--Lie-to-Me:
 
-Обмани меня (`Lie to Me <https://2e.aonprd.com/Feats.aspx?ID=811>`_) / 1 ур.
+Обмани меня (`Lie to Me <https://2e.aonprd.com/Feats.aspx?ID=811>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2853,7 +2853,7 @@ M
 
 .. _feat--Magical-Crafting:
 
-Магическое ремесло (`Magical Crafting <https://2e.aonprd.com/Feats.aspx?ID=812>`_) / 2 ур.
+Магическое ремесло (`Magical Crafting <https://2e.aonprd.com/Feats.aspx?ID=812>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2870,7 +2870,7 @@ M
 
 .. _feat--Magical-Shorthand:
 
-Магическая скоропись (`Magical Shorthand <https://2e.aonprd.com/Feats.aspx?ID=813>`_) / 2 ур.
+Магическая скоропись (`Magical Shorthand <https://2e.aonprd.com/Feats.aspx?ID=813>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2891,7 +2891,7 @@ M
 
 .. _feat--Multilingual:
 
-Многоязычный (`Multilingual <https://2e.aonprd.com/Feats.aspx?ID=814>`_) / 1 ур.
+Многоязычный (`Multilingual <https://2e.aonprd.com/Feats.aspx?ID=814>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2902,8 +2902,8 @@ M
 ----------
 
 Вы легко изучаете новые языки.
-Вы изучаете два новых языка, выберите из распространенных, необычных и любых языков, к которым у вас есть доступ.
-Вы изучаете дополнительный язык, если вы являетесь, или становитесь мастером в Обществе, и снова, если вы являетесь или становитесь Легендой.
+Вы изучаете 2 новых языка, выберите из распространенных, необычных и любых языков, к которым у вас есть доступ.
+Вы изучаете дополнительный язык, если вы являетесь, или становитесь мастером Общества, и снова, если вы являетесь или становитесь легендой.
 
 **Особенность**: Вы можете выбрать эту способность несколько раз.
 Каждый раз изучаете новые языки.
@@ -2912,7 +2912,7 @@ M
 
 .. _feat--Mortal-Healing:
 
-Смертное исцеление (`Mortal Healing <https://2e.aonprd.com/Feats.aspx?ID=1181>`_) / 2 ур.
+Смертное исцеление (`Mortal Healing <https://2e.aonprd.com/Feats.aspx?ID=1181>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2936,7 +2936,7 @@ N
 
 .. _feat--Natural-Medicine:
 
-Природная медицина (`Natural Medicine <https://2e.aonprd.com/Feats.aspx?ID=815>`_) / 1 ур.
+Природная медицина (`Natural Medicine <https://2e.aonprd.com/Feats.aspx?ID=815>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2954,7 +2954,7 @@ N
 
 .. _feat--Nimble-Crawl:
 
-Шустро ползать (`Nimble Crawl <https://2e.aonprd.com/Feats.aspx?ID=816>`_) / 2 ур.
+Шустро ползать (`Nimble Crawl <https://2e.aonprd.com/Feats.aspx?ID=816>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -2971,7 +2971,7 @@ N
 
 .. _feat--No-Cause-for-Alarm:
 
-Не надо пугаться (`No Cause for Alarm <https://2e.aonprd.com/Feats.aspx?ID=2139>`_) |д-3| / 1 ур.
+Не надо пугаться (`No Cause for Alarm <https://2e.aonprd.com/Feats.aspx?ID=2139>`_) |д-3| / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - эмоция
@@ -2999,7 +2999,7 @@ N
 
 .. _feat--Numb-to-Death:
 
-Безразличие к смерти (`Numb to Death <https://2e.aonprd.com/Feats.aspx?ID=1182>`_) / 7 ур.
+Безразличие к смерти (`Numb to Death <https://2e.aonprd.com/Feats.aspx?ID=1182>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3024,7 +3024,7 @@ O
 
 .. _feat--Oddity-Identification:
 
-Определение странностей (`Oddity Identification <https://2e.aonprd.com/Feats.aspx?ID=817>`_) / 1 ур.
+Определение странностей (`Oddity Identification <https://2e.aonprd.com/Feats.aspx?ID=817>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3046,7 +3046,7 @@ P
 
 .. _feat--Pick-Up-the-Pace:
 
-Подхватывать ритм (`Pick up the Pace <https://2e.aonprd.com/Feats.aspx?ID=2140>`_) / 3 ур.
+Подхватывать ритм (`Pick up the Pace <https://2e.aonprd.com/Feats.aspx?ID=2140>`_) / 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3064,7 +3064,7 @@ P
 
 .. _feat--Pickpocket:
 
-Карманник (`Pickpocket <https://2e.aonprd.com/Feats.aspx?ID=818>`_) / 1 ур.
+Карманник (`Pickpocket <https://2e.aonprd.com/Feats.aspx?ID=818>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3083,7 +3083,7 @@ P
 
 .. _feat--Pilgrims-Token:
 
-Символ паломника (`Pilgrim's Token <https://2e.aonprd.com/Feats.aspx?ID=2141>`_) / 1 ур.
+Символ паломника (`Pilgrim's Token <https://2e.aonprd.com/Feats.aspx?ID=2141>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3109,7 +3109,7 @@ P
 
 .. _feat--Planar-Survival:
 
-Планарное выживание (`Planar Survival <https://2e.aonprd.com/Feats.aspx?ID=819>`_) / 7 ур.
+Планарное выживание (`Planar Survival <https://2e.aonprd.com/Feats.aspx?ID=819>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3127,7 +3127,7 @@ P
 
 .. _feat--Powerful-Leap:
 
-Мощный прыжок (`Powerful Leap <https://2e.aonprd.com/Feats.aspx?ID=820>`_) / 2 ур.
+Мощный прыжок (`Powerful Leap <https://2e.aonprd.com/Feats.aspx?ID=820>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3143,7 +3143,7 @@ P
 
 .. _feat--Prescient-Planner:
 
-Дальновидный планировщик (`Prescient Planner <https://2e.aonprd.com/Feats.aspx?ID=2143>`_) / 3 ур.
+Дальновидный планировщик (`Prescient Planner <https://2e.aonprd.com/Feats.aspx?ID=2143>`_) / 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3165,7 +3165,7 @@ P
 
 .. _feat--Prescient-Consumable:
 
-Предусмотрительный расходник (`Prescient Consumable <https://2e.aonprd.com/Feats.aspx?ID=2142>`_) / 7 ур.
+Предусмотрительный расходник (`Prescient Consumable <https://2e.aonprd.com/Feats.aspx?ID=2142>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3189,7 +3189,7 @@ Q
 
 .. _feat--Quick-Climb:
 
-Быстро карабкаться (`Quick Climb <https://2e.aonprd.com/Feats.aspx?ID=821>`_) / 7 ур.
+Быстро карабкаться (`Quick Climb <https://2e.aonprd.com/Feats.aspx?ID=821>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3207,7 +3207,7 @@ Q
 
 .. _feat--Quick-Coercion:
 
-Быстрое принуждение (`Quick Coercion <https://2e.aonprd.com/Feats.aspx?ID=822>`_) / 1 ур.
+Быстрое принуждение (`Quick Coercion <https://2e.aonprd.com/Feats.aspx?ID=822>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3225,7 +3225,7 @@ Q
 
 .. _feat--Quick-Contacts:
 
-Быстрые контакты (`Quick Contacts <https://2e.aonprd.com/Feats.aspx?ID=2144>`_) / 2 ур.
+Быстрые контакты (`Quick Contacts <https://2e.aonprd.com/Feats.aspx?ID=2144>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3245,7 +3245,7 @@ Q
 
 .. _feat--Quick-Disguise:
 
-Быстрая маскировка (`Quick Disguise <https://2e.aonprd.com/Feats.aspx?ID=823>`_) / 2 ур.
+Быстрая маскировка (`Quick Disguise <https://2e.aonprd.com/Feats.aspx?ID=823>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3263,7 +3263,7 @@ Q
 
 .. _feat--Quick-Identification:
  
-Быстрое определение (`Quick Identification <https://2e.aonprd.com/Feats.aspx?ID=824>`_) / 1 ур.
+Быстрое определение (`Quick Identification <https://2e.aonprd.com/Feats.aspx?ID=824>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3281,7 +3281,7 @@ Q
 
 .. _feat--Quick-Jump:
 
-Быстрый прыжок (`Quick Jump <https://2e.aonprd.com/Feats.aspx?ID=825>`_) / 1 ур.
+Быстрый прыжок (`Quick Jump <https://2e.aonprd.com/Feats.aspx?ID=825>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3298,7 +3298,7 @@ Q
 
 .. _feat--Quick-Recognition:
 
-Быстрое распознавание (`Quick Recognition <https://2e.aonprd.com/Feats.aspx?ID=826>`_) / 7 ур.
+Быстрое распознавание (`Quick Recognition <https://2e.aonprd.com/Feats.aspx?ID=826>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3315,7 +3315,7 @@ Q
 
 .. _feat--Quick-Repair:
 
-Быстрый ремонт (`Quick Repair <https://2e.aonprd.com/Feats.aspx?ID=827>`_) / 1 ур.
+Быстрый ремонт (`Quick Repair <https://2e.aonprd.com/Feats.aspx?ID=827>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3332,7 +3332,7 @@ Q
 
 .. _feat--Quick-Squeeze:
 
-Быстро протиснуться (`Quick Squeeze <https://2e.aonprd.com/Feats.aspx?ID=828>`_) / 1 ур.
+Быстро протиснуться (`Quick Squeeze <https://2e.aonprd.com/Feats.aspx?ID=828>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3349,7 +3349,7 @@ Q
 
 .. _feat--Quick-Swim:
 
-Быстро плавать (`Quick Swim <https://2e.aonprd.com/Feats.aspx?ID=829>`_) / 7 ур.
+Быстро плавать (`Quick Swim <https://2e.aonprd.com/Feats.aspx?ID=829>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3366,7 +3366,7 @@ Q
 
 .. _feat--Quick-Unlock:
 
-Быстрое вскрытие (`Quick Unlock <https://2e.aonprd.com/Feats.aspx?ID=830>`_) / 7 ур.
+Быстрое вскрытие (`Quick Unlock <https://2e.aonprd.com/Feats.aspx?ID=830>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3382,7 +3382,7 @@ Q
 
 .. _feat--Quiet-Allies:
 
-Тихие союзники (`Quiet Allies <https://2e.aonprd.com/Feats.aspx?ID=831>`_) / 2 ур.
+Тихие союзники (`Quiet Allies <https://2e.aonprd.com/Feats.aspx?ID=831>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3405,7 +3405,7 @@ R
 
 .. _feat--Rapid-Affixture:
 
-Название (`Rapid Affixture <https://2e.aonprd.com/Feats.aspx?ID=2145>`_) / 7 ур.
+Быстрое прикрепление (`Rapid Affixture <https://2e.aonprd.com/Feats.aspx?ID=2145>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3417,14 +3417,14 @@ R
 
 ----------
 
-Вам нужно только 1 минуту, чтобы :ref:`activity--Affix-a-Talisman`.
-Если вы легенда Ремесла, то можете Прикрепить талисман за активность в 3 действия (|д-3|).
+Вам нужна только 1 минута, чтобы :ref:`activity--Affix-a-Talisman`.
+Если вы легенда Ремесла, то можете "Прикрепить талисман" за активность в 3 действия (|д-3|).
 
 
 
 .. _feat--Rapid-Mantel:
 
-Быстро подтянуться (`Rapid Mantel <https://2e.aonprd.com/Feats.aspx?ID=832>`_) / 2 ур.
+Быстро подтянуться (`Rapid Mantel <https://2e.aonprd.com/Feats.aspx?ID=832>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3442,7 +3442,7 @@ R
 
 .. _feat--Read-Lips:
 
-Читать по губам (`Read Lips <https://2e.aonprd.com/Feats.aspx?ID=833>`_) / 1 ур.
+Читать по губам (`Read Lips <https://2e.aonprd.com/Feats.aspx?ID=833>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3464,7 +3464,7 @@ R
 
 .. _feat--Recognize-Spell:
 
-Распознание заклинания (`Recognize Spell <https://2e.aonprd.com/Feats.aspx?ID=834>`_) |д-р| / 1 ур.
+Распознание заклинания (`Recognize Spell <https://2e.aonprd.com/Feats.aspx?ID=834>`_) |д-р| / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3492,7 +3492,7 @@ R
 
 .. _feat--Ride:
 
-Езда верхом (`Ride <https://2e.aonprd.com/Feats.aspx?ID=835>`_) / 1 ур.
+Езда верхом (`Ride <https://2e.aonprd.com/Feats.aspx?ID=835>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3505,7 +3505,7 @@ R
 
 .. _feat--Risky-Surgery:
 
-Рискованная операция (`Risky Surgery <https://2e.aonprd.com/Feats.aspx?ID=2146>`_) / 1 ур.
+Рискованная операция (`Risky Surgery <https://2e.aonprd.com/Feats.aspx?ID=2146>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3525,7 +3525,7 @@ R
 
 .. _feat--Robust-Recovery:
 
-Надежное выздоровление (`Robust Recovery <https://2e.aonprd.com/Feats.aspx?ID=836>`_) / 2 ур.
+Надежное выздоровление (`Robust Recovery <https://2e.aonprd.com/Feats.aspx?ID=836>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3542,7 +3542,7 @@ R
 
 .. _feat--Root-Magic:
 
-Коренная магия (`Root Magic <https://2e.aonprd.com/Feats.aspx?ID=2147>`_) / 1 ур.
+Коренная магия (`Root Magic <https://2e.aonprd.com/Feats.aspx?ID=2147>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3568,7 +3568,7 @@ S
 
 .. _feat--Scare-to-Death:
 
-Напугать до смерти (`Scare To Death <https://2e.aonprd.com/Feats.aspx?ID=837>`_) |д-1| / 15 ур.
+Напугать до смерти (`Scare To Death <https://2e.aonprd.com/Feats.aspx?ID=837>`_) |д-1| / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - смерть
@@ -3596,7 +3596,7 @@ S
 
 .. _feat--Schooled-in-Secrets:
 
-Посвященный секретам (`Schooled in Secrets <https://2e.aonprd.com/Feats.aspx?ID=2148>`_) / 1 ур.
+Посвященный секретам (`Schooled in Secrets <https://2e.aonprd.com/Feats.aspx?ID=2148>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3616,7 +3616,7 @@ S
 
 .. _feat--Seasoned:
 
-Опытный повар (`Seasoned <https://2e.aonprd.com/Feats.aspx?ID=2149>`_) / 1 ур.
+Опытный повар (`Seasoned <https://2e.aonprd.com/Feats.aspx?ID=2149>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3636,7 +3636,7 @@ S
 
 .. _feat--Shadow-Mark:
 
-Теневая метка (`Shadow Mark <https://2e.aonprd.com/Feats.aspx?ID=2150>`_) / 2 ур.
+Теневая метка (`Shadow Mark <https://2e.aonprd.com/Feats.aspx?ID=2150>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3658,7 +3658,7 @@ S
 
 .. _feat--Shameless-Request:
 
-Наглая просьба (`Shameless Request <https://2e.aonprd.com/Feats.aspx?ID=838>`_) / 7 ур.
+Наглая просьба (`Shameless Request <https://2e.aonprd.com/Feats.aspx?ID=838>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3676,24 +3676,24 @@ S
 
 .. _feat--Shield-Block:
 
-Блок щитом (`Shield Block <https://2e.aonprd.com/Feats.aspx?ID=839>`_) |д-р| / 1 ур.
+Блок щитом (`Shield Block <https://2e.aonprd.com/Feats.aspx?ID=839>`_) |д-р| / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
 
-**Триггер**: Когда у вас поднят щит, вы получаете урон от физической атаки.
+**Триггер**: Вы получите урон от физической атаки когда у вас поднят щит
 
 ----------
 
 Вы выставляете свой щит, чтобы отразить удар.
-Ваш щит защищает вас от части урона и поглощает урон равный своей Твердости.
-Щит и вы получаете весь оставшийся непоглощенный урон, и возможно щит ломается или уничтожается из-за этого.
+Ваш щит защищает вас от части урона, вплоть до величины, равной своей Твердости.
+Щит и вы, вместе получаете весь оставшийся непоглощенный урон, и возможно из-за этого щит ломается или уничтожается.
 
 
 
 .. _feat--Sign-Language:
 
-Язык жестов (`Sign Language <https://2e.aonprd.com/Feats.aspx?ID=840>`_) / 1 ур.
+Язык жестов (`Sign Language <https://2e.aonprd.com/Feats.aspx?ID=840>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3713,7 +3713,7 @@ S
 
 .. _feat--Skill-Training:
 
-Обучение навыку (`Skill Training <https://2e.aonprd.com/Feats.aspx?ID=841>`_) / 1 ур.
+Обучение навыку (`Skill Training <https://2e.aonprd.com/Feats.aspx?ID=841>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3731,7 +3731,7 @@ S
 
 .. _feat--Skitter:
 
-Быстро ползать (`Skitter <https://2e.aonprd.com/Feats.aspx?ID=2151>`_) / 3 ур.
+Быстро ползать (`Skitter <https://2e.aonprd.com/Feats.aspx?ID=2151>`_) / 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3749,7 +3749,7 @@ S
 
 .. _feat--Slippery-Secrets:
 
-Скользкие тайны (`Slippery Secrets <https://2e.aonprd.com/Feats.aspx?ID=842>`_) / 7 ур.
+Скользкие тайны (`Slippery Secrets <https://2e.aonprd.com/Feats.aspx?ID=842>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3767,7 +3767,7 @@ S
 
 .. _feat--Snare-Crafting:
 
-Создание силков (`Snare Crafting <https://2e.aonprd.com/Feats.aspx?ID=843>`_) / 1 ур.
+Создание силков (`Snare Crafting <https://2e.aonprd.com/Feats.aspx?ID=843>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3784,7 +3784,7 @@ S
 
 .. _feat--Sow-Rumor:
 
-Посеять слух (`Sow Rumor <https://2e.aonprd.com/Feats.aspx?ID=1065>`_) / 2 ур.
+Посеять слух (`Sow Rumor <https://2e.aonprd.com/Feats.aspx?ID=1065>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычное`
@@ -3812,7 +3812,7 @@ S
 
 .. _feat--Specialty-Crafting:
 
-Специализация в ремесле (`Specialty Crafting <https://2e.aonprd.com/Feats.aspx?ID=844>`_) / 1 ур.
+Специализация в ремесле (`Specialty Crafting <https://2e.aonprd.com/Feats.aspx?ID=844>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3863,7 +3863,7 @@ S
 
 .. _feat--Steady-Balance:
 
-Твердое равновесие (`Steady Balance <https://2e.aonprd.com/Feats.aspx?ID=845>`_) / 1 ур.
+Твердое равновесие (`Steady Balance <https://2e.aonprd.com/Feats.aspx?ID=845>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3882,7 +3882,7 @@ S
 
 .. _feat--Streetwise:
 
-Уличная жизнь (`Streetwise <https://2e.aonprd.com/Feats.aspx?ID=846>`_) / 1 ур.
+Уличная жизнь (`Streetwise <https://2e.aonprd.com/Feats.aspx?ID=846>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3902,7 +3902,7 @@ S
 
 .. _feat--Student-of-the-Canon:
 
-Ученик канона (`Student of the Canon <https://2e.aonprd.com/Feats.aspx?ID=847>`_) / 1 ур.
+Ученик канона (`Student of the Canon <https://2e.aonprd.com/Feats.aspx?ID=847>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3920,7 +3920,7 @@ S
 
 .. _feat--Subtle-Theft:
 
-Незаметное воровство (`Subtle Theft <https://2e.aonprd.com/Feats.aspx?ID=848>`_) / 1 ур.
+Незаметное воровство (`Subtle Theft <https://2e.aonprd.com/Feats.aspx?ID=848>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3938,7 +3938,7 @@ S
 
 .. _feat--Supertaster:
 
-Супердегустатор (`Supertaster <https://2e.aonprd.com/Feats.aspx?ID=2152>`_) / 7 ур.
+Супердегустатор (`Supertaster <https://2e.aonprd.com/Feats.aspx?ID=2152>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3959,7 +3959,7 @@ S
 
 .. _feat--Survey-Wildlife:
 
-Изучение дикой природы (`Survey Wildlife <https://2e.aonprd.com/Feats.aspx?ID=849>`_) / 1 ур.
+Изучение дикой природы (`Survey Wildlife <https://2e.aonprd.com/Feats.aspx?ID=849>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3979,7 +3979,7 @@ S
 
 .. _feat--Swift-Sneak:
 
-Быстро красться (`Swift Sneak <https://2e.aonprd.com/Feats.aspx?ID=850>`_) / 7 ур.
+Быстро красться (`Swift Sneak <https://2e.aonprd.com/Feats.aspx?ID=850>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -3996,7 +3996,7 @@ S
 
 .. _feat--Sacred-Defense:
 
-Священная защита (`Sacred Defense <https://2e.aonprd.com/Feats.aspx?ID=1183>`_) |д-1| / 7 ур.
+Священная защита (`Sacred Defense <https://2e.aonprd.com/Feats.aspx?ID=1183>`_) |д-1| / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - сакральная
@@ -4023,7 +4023,7 @@ S
 
 .. _feat--Sanctify-Water:
 
-Освятить воду (`Sanctify Water <https://2e.aonprd.com/Feats.aspx?ID=1185>`_) |д-1| / 7 ур.
+Освятить воду (`Sanctify Water <https://2e.aonprd.com/Feats.aspx?ID=1185>`_) |д-1| / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4050,7 +4050,7 @@ T
 
 .. _feat--Terrain-Expertise:
 
-Опыт местности (`Terrain Expertise <https://2e.aonprd.com/Feats.aspx?ID=851>`_) / 1 ур.
+Опыт местности (`Terrain Expertise <https://2e.aonprd.com/Feats.aspx?ID=851>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4069,7 +4069,7 @@ T
 
 .. _feat--Terrain-Stalker:
 
-Лазутчик местности (`Terrain Stalker <https://2e.aonprd.com/Feats.aspx?ID=852>`_) / 1 ур.
+Лазутчик местности (`Terrain Stalker <https://2e.aonprd.com/Feats.aspx?ID=852>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4090,7 +4090,7 @@ T
 
 .. _feat--Terrified-Retreat:
 
-Отступление в ужасе (`Terrified Retreat <https://2e.aonprd.com/Feats.aspx?ID=853>`_) / 7 ур.
+Отступление в ужасе (`Terrified Retreat <https://2e.aonprd.com/Feats.aspx?ID=853>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4106,7 +4106,7 @@ T
 
 .. _feat--Terrifying-Resistance:
 
-Ужасающее сопротивление (`Terrifying Resistance <https://2e.aonprd.com/Feats.aspx?ID=2153>`_) / 2 ур.
+Ужасающее сопротивление (`Terrifying Resistance <https://2e.aonprd.com/Feats.aspx?ID=2153>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4125,7 +4125,7 @@ T
 
 .. _feat--Thorough-Search:
 
-Тщательный поиск (`Thorough Search <https://2e.aonprd.com/Feats.aspx?ID=2154>`_) / 3 ур.
+Тщательный поиск (`Thorough Search <https://2e.aonprd.com/Feats.aspx?ID=2154>`_) / 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4145,7 +4145,7 @@ T
 
 .. _feat--Titan-Wrestler:
 
-Борец с титанами (`Titan Wrestler <https://2e.aonprd.com/Feats.aspx?ID=854>`_) / 1 ур.
+Борец с титанами (`Titan Wrestler <https://2e.aonprd.com/Feats.aspx?ID=854>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4161,7 +4161,7 @@ T
 
 .. _feat--Toughness:
 
-Живучесть (`Toughness <https://2e.aonprd.com/Feats.aspx?ID=855>`_) / 1 ур.
+Живучесть (`Toughness <https://2e.aonprd.com/Feats.aspx?ID=855>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4177,7 +4177,7 @@ T
 
 .. _feat--Train-Animal:
 
-Обучать животное (`Train Animal <https://2e.aonprd.com/Feats.aspx?ID=856>`_) / 1 ур.
+Обучать животное (`Train Animal <https://2e.aonprd.com/Feats.aspx?ID=856>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - отдых
@@ -4202,7 +4202,7 @@ T
 
 .. _feat--Trick-Magic-Item:
 
-Обмануть магический предмет (`Trick Magic Item <https://2e.aonprd.com/Feats.aspx?ID=857>`_) |д-1| / 1 ур.
+Обмануть магический предмет (`Trick Magic Item <https://2e.aonprd.com/Feats.aspx?ID=857>`_) |д-1| / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4214,24 +4214,24 @@ T
 ----------
 
 Вы изучаете магический предмет, который обычно не можете использовать, чтобы обмануть его и временно активировать.
-Например, это может позволять войну использовать заклинание из волшебной палочки или позволять волшебнику колдовать заклинание со свитка, которое не из списка арканных.
-Вы должны знать, что делает делает активация предмета, иначе вы не сможете обмануть его.
+Например, это может позволять воину использовать заклинание из волшебной палочки или позволять волшебнику колдовать заклинание со свитка, которое не из списка арканных.
+Вы должны знать, что делает активация предмета, иначе вы не сможете обмануть его.
 
 Совершите проверку, используя навык соответствующий магическому обычаю предмета, или, если вы пытаетесь колдовать заклинание с помощью предмета, то проверку соответствующую обычаю, который имеет это заклинание в своем списке.
-Соответствующие навыки это Аркана для арканного, Природа для природного, Оккультизм для оккультного, Религия для божественного, или любой из четырех для предмета, который имеет признак "магический" и не имеет признака магического обычая.
+Соответствующие навыки это Аркана для арканного, Природа для природного, Оккультизм для оккультного, Религия для сакрального, или любой из четырех для предмета, который имеет признак "магический" и не имеет признака магического обычая.
 Мастер определяет КС на основе уровня предмета (возможно изменяя в зависимости от предмета и ситуации).
 
-Если вы активируете магический предмет, который требует совершить атаку заклинанием или необходим КС заклинаний, а вы не обладаете особенностью колдовства заклинаний соответствующего обычая, используйте свой уровень как бонус мастерства и наибольший из модификаторов Интеллекта, Мудрости или Харизмы.
-Если вы мастер в навыке соответствующем обычаю предмета, вы используете бонус мастерства обученного (2 + уровень), а если вы легенда, вы используете бонус мастерства эксперта (4 + уровень).
+Если вы активируете магический предмет, для которого требуется атака заклинанием или КС заклинания, а вы не обладаете возможностью сотворять заклинания соответствующего обычая, используйте свой уровень как бонус мастерства и наибольший из модификаторов Интеллекта, Мудрости или Харизмы.
+Если вы мастер в навыке соответствующему обычаю предмета, то вместо этого вы используете бонус мастерства обученного (2 + уровень), а если вы легенда, то используете бонус мастерства эксперта (4 + уровень).
 
-| **Успех**: До конца текущего хода, вы можете потратить действия, чтобы активировать предмет, как если бы вы могли это сделать по нормальному.
-| **Провал**: Вы не можете использовать предмет или попытаться обмануть его на этом ходу, но вы можете попытаться снова на последующих ходах.
-| **Критический провал**: Вы не можете использовать предмет, и вы не можете попытаться обмануть его снова до следующих дневных приготовлений.
+| **Успех**: До конца текущего хода, вы можете потратить действия, чтобы активировать предмет, как если бы вы могли это сделать по нормальному
+| **Провал**: Вы не можете использовать предмет или попытаться обмануть его на этом ходу, но вы можете попытаться снова в последующих ходах
+| **Критический провал**: Вы не можете использовать предмет, и вы не можете пытаться обмануть его снова до своих следующих ежедневных приготовлений
 
 
 .. _feat--True-Perception:
 
-Истинное восприятие (`True Perception <https://2e.aonprd.com/Feats.aspx?ID=2155>`_) / 19 ур.
+Истинное восприятие (`True Perception <https://2e.aonprd.com/Feats.aspx?ID=2155>`_) / 19
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - откровение
@@ -4255,7 +4255,7 @@ U
 
 .. _feat--Underwater-Marauder:
 
-Подводный мародер (`Underwater Marauder <https://2e.aonprd.com/Feats.aspx?ID=858>`_) / 1 ур.
+Подводный мародер (`Underwater Marauder <https://2e.aonprd.com/Feats.aspx?ID=858>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4272,7 +4272,7 @@ U
 
 .. _feat--Underground-Network:
 
-Преступная сеть (`Underground Network <https://2e.aonprd.com/Feats.aspx?ID=2156>`_) / 2 ур.
+Преступная сеть (`Underground Network <https://2e.aonprd.com/Feats.aspx?ID=2156>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычное`
@@ -4297,7 +4297,7 @@ U
 
 .. _feat--Unified-Theory:
 
-Единая теория (`Unified Theory <https://2e.aonprd.com/Feats.aspx?ID=859>`_) / 15 ур.
+Единая теория (`Unified Theory <https://2e.aonprd.com/Feats.aspx?ID=859>`_) / 15
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4315,7 +4315,7 @@ U
 
 .. _feat--Unmistakable-Lore:
 
-Безошибочные знания (`Unmistakable Lore <https://2e.aonprd.com/Feats.aspx?ID=860>`_) / 2 ур.
+Безошибочные знания (`Unmistakable Lore <https://2e.aonprd.com/Feats.aspx?ID=860>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4333,7 +4333,7 @@ U
 
 .. _feat--Untrained-Improvisation:
 
-Импровизация без тренировки (`Untrained Improvisation <https://2e.aonprd.com/Feats.aspx?ID=861>`_) / 3 ур.
+Импровизация без тренировки (`Untrained Improvisation <https://2e.aonprd.com/Feats.aspx?ID=861>`_) / 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4352,7 +4352,7 @@ V
 
 .. _feat--Virtuosic-Performer:
 
-Виртуозный исполнитель (`Virtuosic Performer <https://2e.aonprd.com/Feats.aspx?ID=862>`_) / 1 ур.
+Виртуозный исполнитель (`Virtuosic Performer <https://2e.aonprd.com/Feats.aspx?ID=862>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4400,7 +4400,7 @@ W
 
 .. _feat--Wall-Jump:
 
-Прыжок от стены (`Wall Jump <https://2e.aonprd.com/Feats.aspx?ID=863>`_) / 7 ур.
+Прыжок от стены (`Wall Jump <https://2e.aonprd.com/Feats.aspx?ID=863>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4420,7 +4420,7 @@ W
 
 .. _feat--Ward-Medic:
 
-Врач отделения (`Ward Medic <https://2e.aonprd.com/Feats.aspx?ID=864>`_) / 2 ур.
+Врач отделения (`Ward Medic <https://2e.aonprd.com/Feats.aspx?ID=864>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4438,7 +4438,7 @@ W
 
 .. _feat--Wary-Disarmament:
 
-Осторожное отключение (`Wary Disarmament <https://2e.aonprd.com/Feats.aspx?ID=865>`_) / 2 ур.
+Осторожное отключение (`Wary Disarmament <https://2e.aonprd.com/Feats.aspx?ID=865>`_) / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4455,7 +4455,7 @@ W
 
 .. _feat--Water-Sprint:
 
-Бег по воде (`Water Sprint <https://2e.aonprd.com/Feats.aspx?ID=2157>`_) / 7 ур.
+Бег по воде (`Water Sprint <https://2e.aonprd.com/Feats.aspx?ID=2157>`_) / 7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
@@ -4477,7 +4477,7 @@ W
 
 .. _feat--Weapon-Proficiency:
 
-Владение оружием (`Weapon Proficiency <https://2e.aonprd.com/Feats.aspx?ID=866>`_) / 1 ур.
+Владение оружием (`Weapon Proficiency <https://2e.aonprd.com/Feats.aspx?ID=866>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - общая
