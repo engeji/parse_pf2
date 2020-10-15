@@ -223,10 +223,10 @@
 
 
 
-   dlc/aldori_duelist
+   dlc/aldori-duelist
    dlc/runescarred
-   dlc/student_of_perfection
-   dlc/living_monolith
-   dlc/lion_blade
-   dlc/red_mantis_assassin
-   dlc/magic_warrior
+   dlc/student-of-perfection
+   dlc/living-monolith
+   dlc/lion-blade
+   dlc/red-mantis-assassin
+   dlc/magic-warrior
