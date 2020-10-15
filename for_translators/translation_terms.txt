@@ -625,6 +625,7 @@ Titles:
 	Bellflower: Беллфлауэ
 	Westcrown: Вэсткраун
 	Azaersi: Азэрси
+	Pathfinder Society: Общество Pathfinder
 trait: признак / особенность
 	оружие:
 		agile: быстрое

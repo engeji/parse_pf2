@@ -230,3 +230,4 @@
    dlc/lion-blade
    dlc/red-mantis-assassin
    dlc/magic-warrior
+   dlc/pathfinder-agent
