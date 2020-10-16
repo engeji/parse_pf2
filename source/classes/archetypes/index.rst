@@ -245,3 +245,4 @@
    dlc/magic-warrior
    dlc/pathfinder-agent
    dlc/scrollmaster
+   dlc/spellmaster
