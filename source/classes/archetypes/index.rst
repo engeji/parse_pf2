@@ -154,6 +154,19 @@
 
 
 
+.. _arhc--Pathfinder-Society-Archetypes:
+
+Архетипы Общества Pathfinder (Pathfinder Society Archetypes)
+--------------------------------------------------------------------------------------------------------
+
+**Источник**: Lost Omens: Character Guide pg. 112
+
+Эти архетипы являются необычными, но доступны членам "Общества Pathfinder"
+Квалифицированные персонажи с архетипом :ref:`archetype--Pathfinder-Agent` могут выбрать одну из этих способностей посвящения, даже если не получили нужное количество способностей из архетипа "Агент Pathfinder", и каждая из способностей этих архетипов удовлетворяет особые требования :ref:`arch-feat--Pathfinder-Agent--Dedication`, несмотря на то, что они не принадлежат архетипу "Агент Pathfinder".
+
+
+
+
 
 
 Список архетипов 
@@ -231,3 +244,4 @@
    dlc/red-mantis-assassin
    dlc/magic-warrior
    dlc/pathfinder-agent
+   dlc/scrollmaster
