@@ -246,3 +246,4 @@
    dlc/pathfinder-agent
    dlc/scrollmaster
    dlc/spellmaster
+   dlc/swordmaster
