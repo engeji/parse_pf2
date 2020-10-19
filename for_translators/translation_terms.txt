@@ -409,8 +409,6 @@ magic school: школа магии
 	Illusion: иллюзии
 	Necromancy: некромантия
 	Transmutation: превращение
-Magic Missile: Волшебная стрела
-Maker of Miracles: Чудотворец
 martial: воинский
 materials:
 	adamantine: адамантин, адамантиновый

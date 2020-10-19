@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--g--Glyph-of-Warding:
 
-Охранный символ (`Glyph of Warding <http://2e.aonprd.com/Spells.aspx?ID=138>`_) / Закл. 3
+Охранный глиф (`Glyph of Warding <http://2e.aonprd.com/Spells.aspx?ID=138>`_) / Закл. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - преграждение

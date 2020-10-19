@@ -154,7 +154,7 @@
 
 
 
-.. _arhc--Pathfinder-Society-Archetypes:
+.. _arch--Pathfinder-Society-Archetypes:
 
 Архетипы Общества Pathfinder (Pathfinder Society Archetypes)
 --------------------------------------------------------------------------------------------------------
