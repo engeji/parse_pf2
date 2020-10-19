@@ -409,8 +409,6 @@ magic school: школа магии
 	Illusion: иллюзии
 	Necromancy: некромантия
 	Transmutation: превращение
-Magic Missile: Волшебная стрела
-Maker of Miracles: Чудотворец
 martial: воинский
 materials:
 	adamantine: адамантин, адамантиновый
@@ -625,6 +623,8 @@ Titles:
 	Bellflower: Беллфлауэ
 	Westcrown: Вэсткраун
 	Azaersi: Азэрси
+	Pathfinder Society: Общество Pathfinder
+	Aspis Consortium: Консорциум Асписов
 trait: признак / особенность
 	оружие:
 		agile: быстрое
