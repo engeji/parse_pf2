@@ -38,7 +38,7 @@
 
 .. _arch-feat--Swordmaster--Improvised-Crafting:
 
-Импровизированный ремонт (`Improvised Crafting <https>`_) / 8
+Импровизированный ремонт (`Improvised Crafting <https://2e.aonprd.com/Feats.aspx?ID=2250>`_) / 8
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - навык
@@ -61,7 +61,7 @@
 
 .. _arch-feat--Swordmaster--Physical-Training:
 
-Физическая подготовка (`Physical Training <https>`_) / 8
+Физическая подготовка (`Physical Training <https://2e.aonprd.com/Feats.aspx?ID=2251>`_) / 8
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -78,7 +78,7 @@
 
 .. _arch-feat--Swordmaster--Protect-Ally:
 
-Защищать союзника (`Protect Ally <https>`_) |д-1| / 8
+Защищать союзника (`Protect Ally <https://2e.aonprd.com/Feats.aspx?ID=2252>`_) |д-1| / 8
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -98,7 +98,7 @@
 
 .. _arch-feat--Swordmaster--Quick-Stow:
 
-Быстро убрать (`Quick Stow <https>`_) |д-1| / 8
+Быстро убрать (`Quick Stow <https://2e.aonprd.com/Feats.aspx?ID=2253>`_) |д-1| / 8
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - воздействие
@@ -117,7 +117,7 @@
 
 .. _arch-feat--Swordmaster--Reflexive-Grip:
 
-Рефлекторная хватка (`Reflexive Grip <https>`_) / 8
+Рефлекторная хватка (`Reflexive Grip <https://2e.aonprd.com/Feats.aspx?ID=2254>`_) / 8
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -158,7 +158,7 @@
 
 .. _arch-feat--Swordmaster--Armored-Rest:
 
-Отдых в доспехе (`Armored Rest <https>`_) / 10
+Отдых в доспехе (`Armored Rest <https://2e.aonprd.com/Feats.aspx?ID=2255>`_) / 10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -177,7 +177,7 @@
 
 .. _arch-feat--Swordmaster--Martial-Exercise:
 
-Боевые упражнения (`Martial Exercise <https>`_) / 10
+Боевые упражнения (`Martial Exercise <https://2e.aonprd.com/Feats.aspx?ID=2256>`_) / 10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -195,7 +195,7 @@
 
 .. _arch-feat--Swordmaster--Practiced-Defender:
 
-Опытный защитник (`Practiced Defender <https>`_) / 10
+Опытный защитник (`Practiced Defender <https://2e.aonprd.com/Feats.aspx?ID=2257>`_) / 10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -232,8 +232,8 @@
 
 .. _arch-feat--Swordmaster--Emergency-Medical-Assistance:
 
-Срочная медицинская помощь (`Emergency Medical Assistance <https>`_) |д-2| / 12
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Срочная медицинская помощь (`Emergency Medical Assistance <https://2e.aonprd.com/Feats.aspx?ID=2258>`_) |д-2| / 12
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - навык
 - воздействие
@@ -253,7 +253,7 @@
 
 .. _arch-feat--Swordmaster--Recollect-Studies:
 
-Вспомнить учебу (`Recollect Studies <https>`_) |д-1| / 12
+Вспомнить учебу (`Recollect Studies <https://2e.aonprd.com/Feats.aspx?ID=2259>`_) |д-1| / 12
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - навык
@@ -275,7 +275,7 @@
 
 .. _arch-feat--Swordmaster--Rugged-Survivalist:
 
-Суровый выживальщик (`Rugged Survivalist <https>`_) / 12
+Суровый выживальщик (`Rugged Survivalist <https://2e.aonprd.com/Feats.aspx?ID=2260>`_) / 12
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - навык
@@ -294,7 +294,7 @@
 
 .. _arch-feat--Swordmaster--Tense-Negotiator:
 
-Напряженные переговоры (`Tense Negotiator <https>`_) / 12
+Напряженные переговоры (`Tense Negotiator <https://2e.aonprd.com/Feats.aspx?ID=2261>`_) / 12
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -336,7 +336,7 @@
 
 .. _arch-feat--Swordmaster--Armored-Exercise:
 
-Упражнения в доспехах (`Armored Exercise <https>`_) / 14
+Упражнения в доспехах (`Armored Exercise <https://2e.aonprd.com/Feats.aspx?ID=2262>`_) / 14
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -354,7 +354,7 @@
 
 .. _arch-feat--Swordmaster--Forceful-Shot:
 
-Усиленный выстрел (`Forceful Shot <https>`_) |д-1| / 14
+Усиленный выстрел (`Forceful Shot <https://2e.aonprd.com/Feats.aspx?ID=2263>`_) |д-1| / 14
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - натиск
@@ -377,7 +377,7 @@
 
 .. _arch-feat--Swordmaster--Focus-Ally:
 
-Сосредоточить союзника (`Focus Ally <https>`_) |д-р| / 16
+Сосредоточить союзника (`Focus Ally <https://2e.aonprd.com/Feats.aspx?ID=2264>`_) |д-р| / 16
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - удача
@@ -398,7 +398,7 @@
 
 .. _arch-feat--Swordmaster--Stave-Off-Catastrophe:
 
-Предотвращение катастрофы (`Stave Off Catastrophe <https>`_) / 18
+Предотвращение катастрофы (`Stave Off Catastrophe <https://2e.aonprd.com/Feats.aspx?ID=2265>`_) / 18
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип

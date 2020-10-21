@@ -78,7 +78,7 @@
 
 .. _arch-feat--Scrollmaster--Foolproof-Instructions:
 
-Понятные указания (`Foolproof Instructions <https>`_) / 8
+Понятные указания (`Foolproof Instructions <https://2e.aonprd.com/Feats.aspx?ID=2232>`_) / 8
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -103,8 +103,8 @@
 
 .. _arch-feat--Scrollmaster--Innate-Magic-Intuition:
 
-Интуиция на врожденную магию  (`Innate Magic Intuition <https>`_) / 8
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Интуиция на врожденную магию  (`Innate Magic Intuition <https://2e.aonprd.com/Feats.aspx?ID=2233>`_) / 8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
 
@@ -120,7 +120,7 @@
 
 .. _arch-feat--Scrollmaster--Magic-Finder:
 
-Искатель магии (`Magic Finder <https>`_) / 8
+Искатель магии (`Magic Finder <https://2e.aonprd.com/Feats.aspx?ID=2234>`_) / 8
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -142,7 +142,7 @@
 
 .. _arch-feat--Scrollmaster--Transcribe-Moment:
 
-Запечатлеть момент (`Transcribe Moment <https>`_) / 8
+Запечатлеть момент (`Transcribe Moment <https://2e.aonprd.com/Feats.aspx?ID=2235>`_) / 8
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -178,7 +178,7 @@
 
 .. _arch-feat--Scrollmaster--Bestiary-Scholar:
 
-Ученый по бестиарию (`Bestiary Scholar <https>`_) / 10
+Ученый по бестиарию (`Bestiary Scholar <https://2e.aonprd.com/Feats.aspx?ID=2236>`_) / 10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -198,7 +198,7 @@
 
 .. _arch-feat--Scrollmaster--Cautious-Delver:
 
-Осторожный искатель (`Cautious Delver <https>`_) / 10
+Осторожный искатель (`Cautious Delver <https://2e.aonprd.com/Feats.aspx?ID=2237>`_) / 10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
@@ -217,7 +217,7 @@
 
 .. _arch-feat--Scrollmaster--Masterful-Obfuscation:
 
-Мастерски запутать (`Masterful Obfuscation <https>`_) / 10
+Мастерски запутать (`Masterful Obfuscation <https://2e.aonprd.com/Feats.aspx?ID=2238>`_) / 10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - навык
@@ -243,8 +243,8 @@
 
 .. _arch-feat--Scrollmaster--Determined-Lore-Seeker:
 
-Решительный искатель знаний (`Determined Lore Seeker <https>`_) / 12
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Решительный искатель знаний (`Determined Lore Seeker <https://2e.aonprd.com/Feats.aspx?ID=2239>`_) / 12
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип
 
@@ -269,7 +269,7 @@
 
 .. _arch-feat--Scrollmaster--Ward-Mind:
 
-Защитить разум (`Ward Mind <https>`_) |д-р| / 16
+Защитить разум (`Ward Mind <https://2e.aonprd.com/Feats.aspx?ID=2240>`_) |д-р| / 16
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - архетип

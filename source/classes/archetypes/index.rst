@@ -166,6 +166,20 @@
 
 
 
+.. _arch--Hellknight-Archetypes:
+
+Архетипы Хеллнайтов (Hellknight Archetypes)
+--------------------------------------------------------------------------------------------------------
+
+**Источник**: Lost Omens: Character Guide pg. 84
+
+Следующие архетипы представляют полностью посвященных членов ордена Хеллнайтов.
+Вы можете выбрать способности посвящения для этих архетипов, даже если вы еще не получили нужное количество способностей из архетипа "Оруженосец Хеллнайт".
+Персонаж не может иметь одновременно архетипы :ref:`archetype--Hellknight` и :ref:`archetype--Hellknight-Signifer`.
+
+Возможности орденов Хеллнайтов описаны в разделе :ref:`archetype--Hellknight-Order-Abilities`.
+
+
 
 
 
@@ -243,7 +257,13 @@
    dlc/lion-blade
    dlc/red-mantis-assassin
    dlc/magic-warrior
+
    dlc/pathfinder-agent
-   dlc/scrollmaster
-   dlc/spellmaster
-   dlc/swordmaster
+   ├ Мастер свитков (Scrollmaster) <dlc/scrollmaster>
+   ├ Мастер заклинаний (Spellmaster) <dlc/spellmaster>
+   └ Мастер меча (Swordmaster) <dlc/swordmaster>
+   
+   dlc/hellknight-armiger
+   ├ Хеллнайт (Hellknight) <dlc/hellknight>
+   ├ Хеллнайт сигнифер (Hellknight Signifer) <dlc/hellknight-signifer>
+   └ Возможности орденов Хеллнайтов (Hellknight Order Abilities) <dlc/hellknight-order-abilities>
