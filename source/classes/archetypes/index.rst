@@ -259,11 +259,11 @@
    dlc/magic-warrior
 
    dlc/pathfinder-agent
-   dlc/scrollmaster
-   dlc/spellmaster
-   dlc/swordmaster
+   ├ Мастер свитков (Scrollmaster) <dlc/scrollmaster>
+   ├ Мастер заклинаний (Spellmaster) <dlc/spellmaster>
+   └ Мастер меча (Swordmaster) <dlc/swordmaster>
    
    dlc/hellknight-armiger
-   dlc/hellknight
-   dlc/hellknight-signifer
-   dlc/hellknight-order-abilities
+   ├ Хеллнайт (Hellknight) <dlc/hellknight>
+   ├ Хеллнайт сигнифер (Hellknight Signifer) <dlc/hellknight-signifer>
+   └ Возможности орденов Хеллнайтов (Hellknight Order Abilities) <dlc/hellknight-order-abilities>
