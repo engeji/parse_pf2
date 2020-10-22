@@ -267,3 +267,5 @@
    ├ Хеллнайт (Hellknight) <dlc/hellknight>
    ├ Хеллнайт сигнифер (Hellknight Signifer) <dlc/hellknight-signifer>
    └ Возможности орденов Хеллнайтов (Hellknight Order Abilities) <dlc/hellknight-order-abilities>
+
+   dlc/lastwall-sentry
