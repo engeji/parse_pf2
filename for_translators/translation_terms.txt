@@ -629,6 +629,7 @@ Titles:
 	Gravelands: Могильные земли
 	Everstand: Эверстэнд
 	Ozem: Озэм
+	Shining Crusade: Сияющий поход
 trait: признак / особенность
 	оружие:
 		agile: быстрое
