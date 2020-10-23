@@ -625,6 +625,11 @@ Titles:
 	Azaersi: Азэрси
 	Pathfinder Society: Общество Pathfinder
 	Aspis Consortium: Консорциум Асписов
+	Eye of Dread: Око ужаса
+	Gravelands: Могильные земли
+	Everstand: Эверстэнд
+	Ozem: Озэм
+	Shining Crusade: Сияющий поход
 trait: признак / особенность
 	оружие:
 		agile: быстрое

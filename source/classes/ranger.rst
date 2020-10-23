@@ -711,7 +711,7 @@
 
 .. _class-feat--ranger--Monster-Warden:
 
-Наблюдатель за чудовищами (`Monster Warden <http://2e.aonprd.com/Feats.aspx?ID=497>`_) / 2
+Защитник от чудовищ (`Monster Warden <http://2e.aonprd.com/Feats.aspx?ID=497>`_) / 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - рейнджер
@@ -1193,7 +1193,7 @@
 
 .. _class-feat--ranger--Wardens-Boon:
 
-Преимущество наблюдателя (`Warden's Boon <http://2e.aonprd.com/Feats.aspx?ID=518>`_) |д-1| / 8
+Преимущество стража (`Warden's Boon <http://2e.aonprd.com/Feats.aspx?ID=518>`_) |д-1| / 8
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - рейнджер
@@ -1311,7 +1311,7 @@
 
 .. _class-feat--ranger--Wardens-Step:
 
-Поступь наблюдателя (`Warden's Step <http://2e.aonprd.com/Feats.aspx?ID=524>`_) / 10
+Поступь стража (`Warden's Step <http://2e.aonprd.com/Feats.aspx?ID=524>`_) / 10
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - рейнджер
@@ -1440,7 +1440,7 @@
 
 .. _class-feat--ranger--Wardens-Focus:
 
-Сосредоточение смотрителя (`Warden's Focus <https://2e.aonprd.com/Feats.aspx?ID=1776>`_) / 12
+Сосредоточение стража (`Warden's Focus <https://2e.aonprd.com/Feats.aspx?ID=1776>`_) / 12
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - рейнджер
@@ -1530,7 +1530,7 @@
 
 .. _class-feat--ranger--Wardens-Guidance:
 
-Наставление наблюдателя (`Warden's Guidance <https://2e.aonprd.com/Feats.aspx?ID=534>`_) / 14
+Наставление стража (`Warden's Guidance <https://2e.aonprd.com/Feats.aspx?ID=534>`_) / 14
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - рейнджер
@@ -1731,7 +1731,7 @@
 
 .. _class-feat--ranger--Wardens-Wellspring:
 
-Источник смотрителя (`Warden's Wellspring <https://2e.aonprd.com/Feats.aspx?ID=1777>`_) / 18
+Источник стража (`Warden's Wellspring <https://2e.aonprd.com/Feats.aspx?ID=1777>`_) / 18
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - рейнджер
