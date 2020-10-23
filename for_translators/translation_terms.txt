@@ -630,6 +630,7 @@ Titles:
 	Everstand: Эверстэнд
 	Ozem: Озэм
 	Shining Crusade: Сияющий поход
+	Firebrands: Смутьяны
 trait: признак / особенность
 	оружие:
 		agile: быстрое

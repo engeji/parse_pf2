@@ -269,6 +269,7 @@
    dlc/lion-blade
    dlc/red-mantis-assassin
    dlc/magic-warrior
+   dlc/firebrand-braggart
 
    dlc/pathfinder-agent
    ├ Мастер свитков (Scrollmaster) <dlc/scrollmaster>
