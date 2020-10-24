@@ -304,8 +304,11 @@
    dlc/living-monolith
    dlc/lion-blade
    dlc/red-mantis-assassin
-   dlc/magic-warrior
    dlc/firebrand-braggart
+   dlc/magic-warrior
+
+   dlc/magaambyan-attendant
+   └ Глас безмятежности (Halcyon Speaker) <dlc/halcyon-speaker>
 
    dlc/pathfinder-agent
    ├ Мастер свитков (Scrollmaster) <dlc/scrollmaster>
@@ -320,6 +323,3 @@
    dlc/lastwall-sentry
    ├ Рыцарь Виджиланта (Knight Vigilant) <dlc/knight-vigilant>
    └ Рыцарь-освободитель (Knight Reclaimant) <dlc/knight-reclaimant>
-   
-   dlc/magaambyan-attendant
-   └ Глас безмятежности (Halcyon Speaker) <dlc/halcyon-speaker>
