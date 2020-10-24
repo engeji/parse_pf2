@@ -600,7 +600,7 @@ Titles:
 	Jalmeray: Джалмерэй
 	Golden Road: Золотой путь
 	Mediogalti Island: остров Медиогальти
-	Old-Mage Jatembe: Старый Маг Джатембэ
+	Old-Mage Jatembe: Старый Маг Джатембе
 	Mihrini: Мирини
 	Jaric: Джарик
 	Uhlam: Улам
@@ -630,6 +630,8 @@ Titles:
 	Everstand: Эверстэнд
 	Ozem: Озэм
 	Shining Crusade: Сияющий поход
+	Firebrands: Смутьяны
+	Magaambyan: Магаамбия
 trait: признак / особенность
 	оружие:
 		agile: быстрое
