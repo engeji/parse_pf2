@@ -700,13 +700,13 @@
 
 ----------
 
-**Вид**: *большой посох некромантии (greater staff of necromancy)*
+**Вид**: *отличный посох некромантии (greater staff of necromancy)*
 
 **Уровень**: 10
 **Цена**: 900 зм
 
 * **3-й**: :ref:`spell--b--Blindness`, :ref:`spell--v--Vampiric-Touch`
-* **4-й**: :ref:`spell--g--Grim-Tendrils`, :ref:`spell--e--Enervation`
+* **4-й**: :ref:`spell--g--Grim-Tendrils`, :ref:`spell--v--Vampiric-Touch`
 
 ----------
 
@@ -721,6 +721,10 @@
 ----------
 
 **Требования для создания**: Предоставить одно сотворение всех указанных уровней всех перечисленных заклинаний.
+
+.. versionchanged:: /errata-r1
+	У *отличного посоха некромантии* заменено заклинание *Enervation* на *Vampiric Touch*.
+	(примечение) *Enervation* было добавлено позднее в Advanced Player's Guide.
 
 
 .. _item--Staff-of-Transmutation:

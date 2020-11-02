@@ -174,6 +174,7 @@ darkvision: ночное зрение
 DC / difficulty class: класс сложности
 Deity: Божество
 	Elemental lord: повелитель стихии
+	Empyreal Lords: Небесные владыки
 	Irori: Ирори
 	Nethys: Нэфис
 	Shelyn: Шелин
@@ -613,7 +614,6 @@ Titles:
 	Vahird: Вахирд
 	Xulgath: Зулгат
 	Arclords of Nex: Верховные лорды Некса
-	Empyreal Lords: Небесные владыки
 	janni: джанни
 	djinni: джинн
 	efreeti: ифрит
