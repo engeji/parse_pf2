@@ -270,7 +270,9 @@ infused: насыщенный (о реагентах)
 initiative order: порядок инициативы
 intelligent (о существе): разумный
 items: предметы
-	garment: одежда
+	места на которые одеваются:
+		garment: одежда
+		collar: шея
 	Adventurer's Pack: Набор авантюриста
 	Alchemist's Lab: Лаборатория алхимика
 		Expanded Alch.Lab: Расширенная лаборатория алхимика
@@ -352,7 +354,7 @@ items: предметы
 	mail of luck: пластинчатый доспех удачи
 	everburning torch: вечный факел
 	winged boots: крылатые сапоги
-	aeon stone: камень вечности
+	aeon stone: камень эонов
 	wondrous figurine: чудесная статуэтка
 	runestone: рунный камень
 	snare: силок
