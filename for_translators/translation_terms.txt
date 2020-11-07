@@ -161,7 +161,7 @@ Creature: существо
 	psychopomp: психопомп
 		sahkil: сахкил (злые экс-психопомпы)
 
-counteract: Противодействие :ref:`ch9--Counteracting`
+counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
 	pp: пм / платиновая монета
 	gp: зм / золотая монета
