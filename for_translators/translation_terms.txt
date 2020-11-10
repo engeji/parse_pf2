@@ -161,7 +161,7 @@ Creature: существо
 	psychopomp: психопомп
 		sahkil: сахкил (злые экс-психопомпы)
 
-counteract: Противодействие :ref:`ch9--Counteracting`
+counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
 	pp: пм / платиновая монета
 	gp: зм / золотая монета
@@ -270,9 +270,14 @@ infused: насыщенный (о реагентах)
 initiative order: порядок инициативы
 intelligent (о существе): разумный
 items: предметы
-	места на которые одеваются:
-		garment: одежда
+	worn: одеваемый
+		armbands: нарукавники
+		belt: ремень
+		circlet: ободок
+		eyepiece: окуляр
+		garment: одеяние
 		collar: шея
+
 	Adventurer's Pack: Набор авантюриста
 	Alchemist's Lab: Лаборатория алхимика
 		Expanded Alch.Lab: Расширенная лаборатория алхимика
@@ -364,11 +369,10 @@ items: предметы
 	low-grade: низкопробный
 	standard-grade: стандартный
 	high-grade: высококачественный
-	held item: удерживаемый предмет
-	apex item: наивысший предмет
 	shoddy: низкокачественный
-	armbands: нарукавники
-	circlet: венец
+	apex item: наивысший предмет
+	held item: удерживаемый предмет
+	
 	действия с предметами:
 		draw: достать
 		stow: сложить (куда-либо)
