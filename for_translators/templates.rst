@@ -690,3 +690,11 @@
 
 .. versionchanged:: /errata-r1
 	изменено
+
+
+
+.. versionadded:: /errata-r2
+	добавленно
+
+.. versionchanged:: /errata-r2
+	изменено
