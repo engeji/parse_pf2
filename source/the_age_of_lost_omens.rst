@@ -222,6 +222,8 @@
 | **4-й**: :ref:`spell--f--Fly`
 | **5-й**: :ref:`spell--d--Dreaming-Potential`
 
+.. versionchanged:: /errata-r1
+	Заменено заклинание 3-го уровня :ref:`spell--d--Dream-Message` на 4-го уровня :ref:`spell--f--Fly`.
 
 
 .. _Deity--Erastil:
@@ -373,6 +375,9 @@
 | **1-й**: :ref:`spell--t--True-Strike`
 | **2-й**: :ref:`spell--e--Enlarge`
 | **4-й**: :ref:`spell--f--Fire-Shield`
+
+.. versionchanged:: /errata-r1
+	Заменено заклинание 2-го уровня :ref:`spell--s--See-Invisibility` на 2-го уровня :ref:`spell--e--Enlarge`.
 
 
 
@@ -869,6 +874,8 @@
 
 **Мировоззрение последователей**: ПЗ, НЗ, ХЗ (LE, NE, CE)
 
+.. versionchanged:: /errata-r1
+	Исправлено мировоззрение последователей.
 
 
 

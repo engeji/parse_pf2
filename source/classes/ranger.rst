@@ -1677,8 +1677,8 @@
 ----------
 
 Вы научились использовать против своих врагов все возможные преимущества.
-Когда вы используете :ref:`class-feature--ranger--Hunt-Prey`, то получаете преимущество :ref:`class-feature--ranger--Hunters-Edge` отличное от того, что вы выбирали на 1-м уровне.
-Если вы это делаете, то не получаете дополнительное преимущество от :ref:`class-feature--ranger--Masterful-Hunter`.
+Когда вы используете :ref:`class-feature--ranger--Hunt-Prey`, то можете получать преимущество :ref:`class-feature--ranger--Hunters-Edge` отличное от того, что вы выбирали на 1-м уровне.
+Если вы так делаете, то не получаете дополнительное преимущество от :ref:`class-feature--ranger--Masterful-Hunter`.
 
 
 .. _class-feat--ranger--Masterful-Companion:
