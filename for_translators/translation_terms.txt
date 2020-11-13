@@ -35,7 +35,7 @@ actions:
 	Learn A Spell: Выучить заклинание :ref:`expl-activity--Learn-a-Spell`
 	Raise a Shield: Поднять щит :ref:`action--Raise-a-Shield`
 	Release: Отпустить :ref:`action--Release`
-	Drop Prone: Упасть на землю :ref:`action--Drop-Prone`
+	Drop Prone: Упасть ничком :ref:`action--Drop-Prone`
 	Fly: Лететь :ref:`action--Fly`
 	Arrest a Fall: Остановить Падение :ref:`action--Arrest-a-Fall`
 	Maneuver in Flight: Маневрирование в полете :ref:`skill--Acrobatics--Maneuver-in-Flight`
