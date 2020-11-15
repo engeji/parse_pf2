@@ -426,6 +426,7 @@ magic school: школа магии
 	Transmutation: превращение
 martial: воинский
 materials:
+	grade: сорт
 	adamantine: адамантин, адамантиновый
 	Mithral: мифрил, мифрильный
 	orichalcum: орихалк
