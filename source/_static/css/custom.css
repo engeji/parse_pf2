@@ -110,8 +110,10 @@ div.section > p {
 .rst-content div.sidebar {
 	background-color: #cec1ab;
 	margin-bottom: 0.6em;
-	margin-left: 0.6em
+	margin-left: 0.6em;
 	padding-bottom: 0.6em;
+	padding-left: 0.6em;
+	padding-right: 0.6em;
 }
 
 .rst-content div.sidebar > p {
@@ -126,6 +128,8 @@ div.section > p {
 .rst-content div.sidebar .sidebar-title {
 	background-color: #afa492;
 	text-transform: uppercase;
+	margin-left: -0.6em;
+	margin-right: -0.6em;
 }
 
 .rst-content div.sidebar p.sidebar-title {

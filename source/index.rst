@@ -18,7 +18,7 @@ Pathfinder 2e
    spells/index
    the_age_of_lost_omens
    playing_the_game
-   game_mastering
+   game_mastering/index
    crafting_and_treasure/index
    appendix
 
