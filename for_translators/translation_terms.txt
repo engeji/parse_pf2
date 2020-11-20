@@ -424,6 +424,7 @@ magic school: школа магии
 	Illusion: иллюзии
 	Necromancy: некромантия
 	Transmutation: превращение
+make a call: принять решение
 martial: воинский
 materials:
 	grade: сорт
