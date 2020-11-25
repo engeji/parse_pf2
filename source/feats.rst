@@ -4199,7 +4199,7 @@ T
 
 .. _feat--Train-Animal:
 
-Обучать животное (`Train Animal <https://2e.aonprd.com/Feats.aspx?ID=856>`_) / 1
+Обучение животного (`Train Animal <https://2e.aonprd.com/Feats.aspx?ID=856>`_) / 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - отдых
