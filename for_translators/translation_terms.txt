@@ -424,6 +424,7 @@ magic school: школа магии
 	Illusion: иллюзии
 	Necromancy: некромантия
 	Transmutation: превращение
+make a call: принять решение
 martial: воинский
 materials:
 	grade: сорт
@@ -495,10 +496,10 @@ Skill: Навык
 		Squeeze: Протиснуться :ref:`skill--Acrobatics--Squeeze`
 	Athletics: Атлетика
 		Climb: Карабкаться :ref:`skill--Athletics--Climb`
-		Force Open: Открыть Силой :ref:`skill--Athletics--Force-Open`
+		Force Open: Открыть силой :ref:`skill--Athletics--Force-Open`
 		Grapple: Захватить :ref:`skill--Athletics--Grapple`
-		High Jump: Прыжок в Высоту :ref:`skill--Athletics--HJump`
-		Long Jump: Прыжок в Длину :ref:`skill--Athletics--LJump`
+		High Jump: Прыжок в высоту :ref:`skill--Athletics--HJump`
+		Long Jump: Прыжок в длину :ref:`skill--Athletics--LJump`
 		Shove: Толкнуть :ref:`skill--Athletics--Shove`
 		Swim: Плыть :ref:`skill--Athletics--Swim`
 		Trip: Опрокидывание :ref:`skill--Athletics--Trip`
@@ -509,7 +510,7 @@ Skill: Навык
 		formula: рецепт
 			common: обычный
 	Deception: Обман
-		Create a Diversion: Отвлечь Внимание :ref:`skill--Deception--Create-a-Diversion`
+		Create a Diversion: Отвлечь внимание :ref:`skill--Deception--Create-a-Diversion`
 		Feint: Финт :ref:`skill--Deception--Feint`
 		Lie: Лгать :ref:`skill--Deception--Lie`
 		Impersonate: Перевоплотиться :ref:`skill--Deception--Impersonate`

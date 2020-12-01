@@ -110,8 +110,10 @@ div.section > p {
 .rst-content div.sidebar {
 	background-color: #cec1ab;
 	margin-bottom: 0.6em;
-	margin-left: 0.6em
+	margin-left: 0.6em;
 	padding-bottom: 0.6em;
+	padding-left: 0.6em;
+	padding-right: 0.6em;
 }
 
 .rst-content div.sidebar > p {
@@ -126,6 +128,8 @@ div.section > p {
 .rst-content div.sidebar .sidebar-title {
 	background-color: #afa492;
 	text-transform: uppercase;
+	margin-left: -0.6em;
+	margin-right: -0.6em;
 }
 
 .rst-content div.sidebar p.sidebar-title {
@@ -522,6 +526,7 @@ div.craft-treasure-armor h1,
 div.craft-treasure-structures h1,
 div.craft-treasure-materials h1,
 div.gm-subchap h3,
+div.hazards h2,
 div.conditions h3,
 div.glossary h3,
 div.game-mode h3 {
@@ -561,6 +566,7 @@ div.craft-treasure-wands h2,
 div.craft-treasure-armor h2,
 div.craft-treasure-materials h2,
 div.gm-subchap h4,
+div.hazards h3,
 div.conditions h4,
 div.glossary h4,
 div.game-mode h4 {
@@ -710,7 +716,7 @@ div.hellknight-order-abilities div.section > h3,
 div.expl-activities div.section > h4,
 div.spells-focus div.section > h3,
 div.rituals-list div.section > h3,
-div.gm-hazards div.section > h4,
+div.gm-hazards div.section > h3,
 div.craft-treasure-bombs div.section > h4,
 div.craft-treasure-elixirs div.section > h4,
 div.craft-treasure-poisons div.section > h4,
@@ -758,7 +764,7 @@ div.hellknight-order-abilities div.section > h3 + ul ,
 div.expl-activities div.section > h4 + ul,
 div.spells-focus div.section > h3 + ul,
 div.rituals-list div.section > h3 + ul,
-div.gm-hazards div.section > h4 + ul,
+div.gm-hazards div.section > h3 + ul,
 div.craft-treasure-bombs div.section > h4 + ul,
 div.craft-treasure-elixirs div.section > h4 + ul,
 div.craft-treasure-poisons div.section > h4 + ul,
@@ -802,7 +808,7 @@ div.hellknight-order-abilities div.section > h3 + ul li,
 div.expl-activities div.section > h4 + ul li,
 div.spells-focus div.section > h3 + ul li,
 div.rituals-list div.section > h3 + ul li,
-div.gm-hazards div.section > h4 + ul li,
+div.gm-hazards div.section > h3 + ul li,
 div.craft-treasure-bombs div.section > h4 + ul li,
 div.craft-treasure-elixirs div.section > h4 + ul li,
 div.craft-treasure-poisons div.section > h4 + ul li,
@@ -844,7 +850,7 @@ div.hellknight-order-abilities div.section > h3 + ul li p,
 div.expl-activities div.section > h4 + ul li p,
 div.spells-focus div.section > h3 + ul li p,
 div.rituals-list div.section > h3 + ul li p,
-div.gm-hazards div.section > h4 + ul li p,
+div.gm-hazards div.section > h3 + ul li p,
 div.craft-treasure-bombs div.section > h4 + ul li p,
 div.craft-treasure-elixirs div.section > h4 + ul li p,
 div.craft-treasure-poisons div.section > h4 + ul li p,
@@ -1015,7 +1021,7 @@ div.spells-descr div.section > h4 + ul li p.uncommon,
 div.spell.section > h1 + ul li p.uncommon,
 div.spells-focus div.section > h3 + ul li p.uncommon,
 div.rituals-list div.section > h3 + ul li p.uncommon,
-div.gm-hazards div.section > h4 + ul li p.uncommon,
+div.gm-hazards div.section > h3 + ul li p.uncommon,
 div.craft-treasure-bombs div.section > h4 + ul li p.uncommon,
 div.craft-treasure-elixirs div.section > h4 + ul li p.uncommon,
 div.craft-treasure-poisons div.section > h4 + ul li p.uncommon,
@@ -1055,7 +1061,7 @@ div.spells-descr div.section > h4 + ul li p.rare,
 div.spell.section > h1 + ul li p.rare,
 div.spells-focus div.section > h3 + ul li p.rare,
 div.rituals-list div.section > h3 + ul li p.rare,
-div.gm-hazards div.section > h4 + ul li p.rare,
+div.gm-hazards div.section > h3 + ul li p.rare,
 div.craft-treasure-bombs div.section > h4 + ul li p.rare,
 div.craft-treasure-elixirs div.section > h4 + ul li p.rare,
 div.craft-treasure-poisons div.section > h4 + ul li p.rare,
