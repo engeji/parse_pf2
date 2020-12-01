@@ -4092,7 +4092,7 @@
 
 .. _spell--focus--Gluttons-Jaw:
 
-Челюсть росомахи (`Glutton's Jaw <https://2e.aonprd.com/Spells.aspx?ID=511>`_) / Фокус. 1
+Челюсть обжорства (`Glutton's Jaw <https://2e.aonprd.com/Spells.aspx?ID=511>`_) / Фокус. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
