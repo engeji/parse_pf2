@@ -3,3 +3,5 @@
 .. role:: rare
 
 .. role:: alignment
+
+.. role:: eop-comment
