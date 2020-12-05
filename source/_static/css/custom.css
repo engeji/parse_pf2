@@ -1001,6 +1001,14 @@ div.section > h6 + ul li p {
 }
 
 
+span.eop-comment {
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+	color: #5e0000;
+	font-style: italic;
+}
+
+
 /*
 	С помощью JS мы ищем p у которых внутри есть span.uncommon (или span.rare)
 	и добавляем родителю (p) класс 'uncommon' или 'rare'
