@@ -399,12 +399,16 @@ div.versionadded {
 
 div.versionchanged p,
 div.versionadded p {
+	font-size: 0.9em;
+	line-height: 1.5em;
 	margin-bottom: 0em;
 }
 
 div.versionchanged span.versionmodified,
 div.versionadded span.versionmodified {
+	font-size: 0.9em;
 	font-weight: bolder;
+	line-height: 1.5em;
 }
 
 
