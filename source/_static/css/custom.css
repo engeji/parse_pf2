@@ -183,10 +183,15 @@ div.section > p {
 	Таблицы
 */
 
+.wy-table-responsive {
+	margin-bottom: 1em;
+}
+
 .rst-content table.docutils caption {
 	font: inherit;
 	text-align: left;
 	text-transform: uppercase;
+	padding-bottom: 0.25em;
 }
 
 .rst-content table.docutils thead {
