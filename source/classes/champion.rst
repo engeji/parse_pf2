@@ -897,7 +897,6 @@
 
 
 
-.. rst-class:: ancestry-class-feats
 .. _Champion--examples:
 
 Примеры чемпионов (`Champion Sample Builds <https://2e.aonprd.com/ClassSamples.aspx?Class=4>`_)
