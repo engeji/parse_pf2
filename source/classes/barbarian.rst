@@ -768,7 +768,6 @@
 
 
 
-.. rst-class:: ancestry-class-feats
 .. _Barbarian--examples:
 
 Примеры варваров (`Barbarian Sample Builds <https://2e.aonprd.com/ClassSamples.aspx?Class=2>`_)

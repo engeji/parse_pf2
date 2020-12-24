@@ -617,7 +617,6 @@
 
 
 
-.. rst-class:: ancestry-class-feats
 .. _Bard--examples:
 
 Примеры бардов (`Bard Sample Builds <https://2e.aonprd.com/ClassSamples.aspx?Class=3>`_)
