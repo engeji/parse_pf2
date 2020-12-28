@@ -486,6 +486,7 @@ rune: руна
 saving throw: испытание
 senses: чувства, сенсорные чувства
 	tremorsense: виброчувствительность
+	spiritsense: духовное чувство
 	lifesense: жизнечувствительность
 Skill: Навык
 	Arcana: Мистика

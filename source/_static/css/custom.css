@@ -1,6 +1,6 @@
 /* Всякое */
 
-h1, .h1 {
+h1, p.h1.rubric {
 	box-sizing: border-box;
 	color: #5e0000;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -9,7 +9,7 @@ h1, .h1 {
 	margin-top: 0;
 }
 
-h2, .h2 {
+h2, p.h2.rubric {
 	box-sizing: border-box;
 	color: #002664;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -19,7 +19,7 @@ h2, .h2 {
 	margin-top: 2em;
 }
 
-h3, .h3 {
+h3, p.h3.rubric {
 	box-sizing: border-box;
 	color: #5e0000;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -30,7 +30,7 @@ h3, .h3 {
 	text-transform: uppercase;
 }
 
-h4, .h4 {
+h4, p.h4.rubric {
 	box-sizing: border-box;
 	color: #a86753;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -40,7 +40,7 @@ h4, .h4 {
 	margin-top: 0;
 }
 
-h5, .h5 {
+h5, p.h5.rubric {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -183,10 +183,15 @@ div.section > p {
 	Таблицы
 */
 
+.wy-table-responsive {
+	margin-bottom: 1em;
+}
+
 .rst-content table.docutils caption {
 	font: inherit;
 	text-align: left;
 	text-transform: uppercase;
+	padding-bottom: 0.25em;
 }
 
 .rst-content table.docutils thead {
@@ -349,12 +354,26 @@ div.admonition p {
 	line-height: 1.4em;
 }
 
+
 div.admonition.tip {
 	background-color: #d1d3d4;
 }
 
 div.admonition.tip p.admonition-title {
 	background-color: #002664;
+}
+
+
+div.admonition.hint p:nth-child(odd) {
+	margin-bottom: 0.8em;
+}
+
+div.admonition.hint p:nth-child(even) {
+	margin-bottom: 0.1em;
+}
+
+div.admonition.hint p strong {
+	text-transform: uppercase;
 }
 
 
@@ -385,12 +404,16 @@ div.versionadded {
 
 div.versionchanged p,
 div.versionadded p {
+	font-size: 0.9em;
+	line-height: 1.5em;
 	margin-bottom: 0em;
 }
 
 div.versionchanged span.versionmodified,
 div.versionadded span.versionmodified {
+	font-size: 0.9em;
 	font-weight: bolder;
+	line-height: 1.5em;
 }
 
 
