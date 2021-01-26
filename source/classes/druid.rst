@@ -1170,7 +1170,7 @@
 
 .. _class-feat--Druid--Incredible-Companion:
 
-Невероятный компаньон (`Incredible Companion (Druid) <http://2e.aonprd.com/Feats.aspx?ID=520>`_) / 8
+Невероятный компаньон (`Incredible Companion (Druid) <https://2e.aonprd.com/Feats.aspx?ID=520>`_) / 8
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - друид

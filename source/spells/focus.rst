@@ -5884,7 +5884,7 @@
 
 .. _spell--focus--Rangers-Bramble:
 
-Колючая лоза (`Ranger's Bramble <https://2e.aonprd.com/Spells.aspx?ID=775>`_) / Фокус. 3
+Лоза рейнджера (`Ranger's Bramble <https://2e.aonprd.com/Spells.aspx?ID=775>`_) / Фокус. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычное`
