@@ -273,6 +273,8 @@ immunity: иммунитет
 infused: насыщенный (о реагентах)
 initiative order: порядок инициативы
 intelligent (о существе): разумный
+Investigator: Сыщик
+	lead: дело, зацепка
 items: предметы
 	worn: одеваемый
 		armbands: нарукавники
@@ -410,6 +412,7 @@ Languages: языки
 	Osiriani: осириани; Ancient Osiriani: древний осириани
 	Sphinx: сфинский
 	Terran: земляной
+location: локация, место (в зависимости от контекста)
 Locations:
 	Irrisen: Иррисен
 lesser cover: небольшое укрытие
