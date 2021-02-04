@@ -657,6 +657,7 @@ Titles:
 	Shining Crusade: Сияющий поход
 	Firebrands: Смутьяны
 	Magaambyan: Магаамбия
+	Akashic Record: Акашийская хроника; Хроника Акаши
 trait: признак / особенность
 	оружие:
 		agile: быстрое
