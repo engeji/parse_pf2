@@ -582,6 +582,9 @@ spellcasting: колдовство / сотворение заклинания
 		occult: оккультный
 		primal: природный
 Subordinate Actions: Вспомогательные Действия
+Swashbuckler
+	panache: кураж, самоуверенность
+	flair: талант, стиль (про совершение ударов)
 
 tap into: погрузиться в, подключиться к
 Titles:

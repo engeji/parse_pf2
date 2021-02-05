@@ -871,7 +871,7 @@
 
 .. _class-feat--Investigator--Trap-Finder:
 
-Искатель ловушек (`Trap Finder (Investigator) <http://2e.aonprd.com/Feats.aspx?ID=551>`_) / 1
+Искатель ловушек (`Trap Finder (Investigator) <https://2e.aonprd.com/Feats.aspx?ID=551>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - сыщик
@@ -1170,7 +1170,7 @@
 
 .. _class-feat--Investigator--Blind-Fight:
 
-Бой вслепую (`Blind-Fight (Investigator) <http://2e.aonprd.com/Feats.aspx?ID=388>`_) / 8
+Бой вслепую (`Blind-Fight (Investigator) <https://2e.aonprd.com/Feats.aspx?ID=388>`_) / 8
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - сыщик
