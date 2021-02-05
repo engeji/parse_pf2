@@ -3,7 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Pathfinder 2e
+| `Telegram канал <https://t.me/PF2e_RU_channel>`_ - обновления и изменения
+| `Telegram чат <https://t.me/PF2e_RU>`_ - для обратной связи, обсуждения правил и т.п.
+
+
+Pathfinder 2E
 ======================================================
 
 .. toctree::

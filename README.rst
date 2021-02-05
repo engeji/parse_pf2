@@ -1,8 +1,9 @@
-`Перевод на Read the Docs <http://pf2e-ru-translation.rtfd.io/>`_
+| `Telegram канал <https://t.me/PF2e_RU_channel>`_ - обновления и изменения
+| `Telegram чат <https://t.me/PF2e_RU>`_ - для обратной связи, обсуждения правил и т.п.
+| `Перевод на Read the Docs <http://pf2e-ru-translation.rtfd.io/>`_
 
 .. image:: https://readthedocs.org/projects/pf2e-ru-translation/badge/?version=latest
-:target: https://pf2e-ru-translation.readthedocs.io/ru/latest/?badge=latest
-:alt: Documentation Status
+
 
 
 
