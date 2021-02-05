@@ -495,7 +495,7 @@ senses: чувства, сенсорные чувства
 	spiritsense: духовное чувство
 	lifesense: жизнечувствительность
 Skill: Навык
-	Arcana: Мистика
+	Arcana: Аркана
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
 	Acrobatics: Акробатика
 		Balance: Балансировать :ref:`skill--Acrobatics--Balance`
@@ -576,8 +576,8 @@ component: компонент
 	envision: вообразить
 spellcasting: колдовство / сотворение заклинания
 	spellcasting ability modifier: модификатор характеристики колдовства (TODO перевод)
-	tradition: обычай
-		arcane: мистический
+	tradition: обычай, колдовской обычай, магический обычай
+		arcane: арканный
 		divine: сакральный
 		occult: оккультный
 		primal: природный
