@@ -273,6 +273,8 @@ immunity: иммунитет
 infused: насыщенный (о реагентах)
 initiative order: порядок инициативы
 intelligent (о существе): разумный
+Investigator: Сыщик
+	lead: дело, зацепка
 items: предметы
 	worn: одеваемый
 		armbands: нарукавники
@@ -410,6 +412,7 @@ Languages: языки
 	Osiriani: осириани; Ancient Osiriani: древний осириани
 	Sphinx: сфинский
 	Terran: земляной
+location: локация, место (в зависимости от контекста)
 Locations:
 	Irrisen: Иррисен
 lesser cover: небольшое укрытие
@@ -492,7 +495,7 @@ senses: чувства, сенсорные чувства
 	spiritsense: духовное чувство
 	lifesense: жизнечувствительность
 Skill: Навык
-	Arcana: Мистика
+	Arcana: Аркана
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
 	Acrobatics: Акробатика
 		Balance: Балансировать :ref:`skill--Acrobatics--Balance`
@@ -573,12 +576,15 @@ component: компонент
 	envision: вообразить
 spellcasting: колдовство / сотворение заклинания
 	spellcasting ability modifier: модификатор характеристики колдовства (TODO перевод)
-	tradition: обычай
-		arcane: мистический
+	tradition: обычай, колдовской обычай, магический обычай
+		arcane: арканный
 		divine: сакральный
 		occult: оккультный
 		primal: природный
 Subordinate Actions: Вспомогательные Действия
+Swashbuckler
+	panache: кураж, самоуверенность
+	flair: талант, стиль (про совершение ударов)
 
 tap into: погрузиться в, подключиться к
 Titles:
@@ -654,6 +660,7 @@ Titles:
 	Shining Crusade: Сияющий поход
 	Firebrands: Смутьяны
 	Magaambyan: Магаамбия
+	Akashic Record: Акашийская хроника; Хроника Акаши
 trait: признак / особенность
 	оружие:
 		agile: быстрое
