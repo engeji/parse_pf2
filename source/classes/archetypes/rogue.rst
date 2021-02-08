@@ -3,7 +3,7 @@
 .. rst-class:: archetype multiclass
 .. _archetype--Rogue:
 
-Плут (`Rogue (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=9>`_)
+Плут (`Rogue (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=10>`_)
 -------------------------------------------------------------------------------------------------------------
 
 Вы научились обезвреживать ловушки, красться и воровать.
