@@ -661,6 +661,8 @@ Titles:
 	Firebrands: Смутьяны
 	Magaambyan: Магаамбия
 	Akashic Record: Акашийская хроника; Хроника Акаши
+	Fleshwarp: Искажение плоти
+	Fleshforges of Nex: Формирующие плоть Некса
 trait: признак / особенность
 	оружие:
 		agile: быстрое
