@@ -1690,6 +1690,8 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 :ref:`Ремонтирование (Repairing) <skill--Crafting--Repair>` предмета обычно использует КС по уровню предмета без корректировок, однако вы можете скорректировать КС, усложнив его для предмета более высокого уровня, чем те, что ремесленник может Создавать.
 
 
+.. _ch10--DCs--Earn-Income:
+
 Заработок денег (`Earn Income <https://2e.aonprd.com/Rules.aspx?ID=560>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1724,7 +1726,7 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 
 
 
-Вспомнить изученное (`Recall Knowledge <https://2e.aonprd.com/Rules.aspx?ID=563>`_)
+Вспомнить информацию (`Recall Knowledge <https://2e.aonprd.com/Rules.aspx?ID=563>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Для большинства тем, вы можете использовать простые КС с проверками :ref:`skill--Recall-Knowledge`.
@@ -1812,7 +1814,7 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
    +------------------------+-----------------+
 
 
-Понять направление (`Sense Direction <https://2e.aonprd.com/Rules.aspx?ID=567>`_)
+Определить направление (`Sense Direction <https://2e.aonprd.com/Rules.aspx?ID=567>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Когда кто-то использует Выживание чтобы :ref:`skill--Survival--Sense-Direction`, выберите наиболее подходящий простой КС.
