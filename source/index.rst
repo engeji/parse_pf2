@@ -25,6 +25,7 @@ Pathfinder 2E
    game_mastering/index
    crafting_and_treasure/index
    appendix
+   licenses
 
 
 
