@@ -12,8 +12,8 @@ Community Use Policy
 This project uses trademarks and/or copyrights owned by Paizo Publishing, LLC, which are used under Paizo's Community Use Policy.
 We are expressly prohibited from charging you to use or access this content.
 This project is not published, endorsed, or specifically approved by Paizo Publishing.
-For more information about Paizo's Community Use Policy, please visit `paizo.com/communityuse <paizo.com/communityuse>`_.
-For more information about Paizo Publishing and Paizo products, please visit `paizo.com <paizo.com>`_.
+For more information about Paizo's Community Use Policy, please visit `paizo.com/communityuse <https://paizo.com/communityuse>`_.
+For more information about Paizo Publishing and Paizo products, please visit `paizo.com <https://paizo.com>`_.
 
 
 
