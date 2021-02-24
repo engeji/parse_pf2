@@ -323,3 +323,5 @@
    dlc/lastwall-sentry
    ├ Рыцарь Виджиланта (Knight Vigilant) <dlc/knight-vigilant>
    └ Рыцарь-освободитель (Knight Reclaimant) <dlc/knight-reclaimant>
+   
+   dlc/ghost-hunter

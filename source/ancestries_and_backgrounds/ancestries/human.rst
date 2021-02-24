@@ -422,10 +422,10 @@
 | преграждение - :ref:`spell--s--Shield`,
 | воплощение - :ref:`spell--t--Tanglefoot`,
 | очарование - :ref:`spell--d--Daze`,
-| разрушение - :ref:`spell--e--Electric-Arc`,
+| эвокация - :ref:`spell--e--Electric-Arc`,
 | иллюзия - :ref:`spell--g--Ghost-Sound`,
 | некромантия - :ref:`spell--c--Chill-Touch`,
-| превращение - :ref:`spell--s--Sigil`.
+| трансмутация - :ref:`spell--s--Sigil`.
 
 Вы можете по желанию колдовать соответствующие чары (перечислены после школы), как врожденное арканное заклинание.
 
