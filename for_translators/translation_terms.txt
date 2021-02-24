@@ -459,6 +459,7 @@ plane: план
 	Abaddon: Абаддон
 	Astral: Астральный
 	Heaven: Небесный
+	Elysium: Элизиум
 	Elemental: Стихийный
 	Material: Материальный
 	Shadow: Теневой
@@ -496,7 +497,7 @@ senses: чувства, сенсорные чувства
 	lifesense: жизнечувствительность
 Skill: Навык
 	Arcana: Аркана
-		Borrow an Arcane Spell: Одолжить мистическое заклинание
+		Borrow an Arcane Spell: Одолжить арканное заклинание :ref:`skill--Arcana--Borrow-an-Arcane-Spell`
 	Acrobatics: Акробатика
 		Balance: Балансировать :ref:`skill--Acrobatics--Balance`
 		Tumble Through: Проскочить :ref:`skill--Acrobatics--Tumble-Through`
