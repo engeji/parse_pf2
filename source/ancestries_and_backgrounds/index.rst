@@ -142,6 +142,7 @@
    ancestries/orc
    ancestries/ratfolk
    ancestries/tengu
+   ancestries/fetchling
 
 
 

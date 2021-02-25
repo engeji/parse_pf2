@@ -267,6 +267,26 @@ Pathfinder Society Guide
 
 **Pathfinder Lost Omens Pathfinder Society Guide** © 2020, Paizo Inc.; Authors: Kate Baker, James Case, John Compton, Vanessa Hoskins, Mike Kimmel, Ron Lundeen, Dennis Muldoon, kieran t. newton, Michael Sayre, Clark Valentine, Tonya Woldridge, and Linda Zayas-Palmer
 
+Ancestry Guide
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**The Book of Fiends** © 2003, Green Ronin Publishing; Authors: Aaron Loeb, Erik Mona, Chris Pramas, and Robert J. Schwalb. Armies of the Abyss © 2002, Green Ronin Publishing; Authors: Erik Mona and Chris Pramas.
+
+**The Avatar's Handbook** © 2003, Green Ronin Publishing; Authors: Jesse Decker and Chris Thomasson.
+
+**Book of the Righteous** © 2002, Aaron Loeb. Legions of Hell © 2001, Green Ronin Publishing; Author: Chris Pramas.
+
+**The Unholy Warrior's Handbook** © 2003, Green Ronin Publishing; Author: Robert J. Schwalb.
+Dragon, Faerie from the Tome of Horrors Complete © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
+
+**Genie, Marid from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
+
+**Grippli from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Lost Omens Ancestry Guide (Second Edition)** © 2021, Paizo Inc.; Authors: Calder CaDavid, James Case, Jessica Catalan, Eleanor Ferron, Lyz Liddell, Luis Loza, Ron Lundeen, Patchen Mortimer, Andrew Mullen, Samantha Phelan, Jessica Redekop, Mikhail Rekun, David N. Ross, Mark Seifter, Owen K.C. Stephens, Isabelle Thorne, and Linda Zayas-Palmer.
+
 
 
 
