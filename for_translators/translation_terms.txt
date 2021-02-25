@@ -388,7 +388,7 @@ items: предметы
 	действия с предметами:
 		состояния переноски
 			held: держа, удерживая
-			worn: надев, одев
+			worn: надев, надет
 			stowed: сложив, убрав
 
 		draw: достать
@@ -409,7 +409,7 @@ Languages: языки
 	Goblin: Гоблинский
 	Halfling: полуросличий
 	Orcish: Орочий
-	Jotun: Йотун
+	Jotun: Джотун
 	Sylvan: Сильван
 	Undercommon: подземный
 	Draconic: Драконий
@@ -418,6 +418,7 @@ Languages: языки
 	Osiriani: осириани; Ancient Osiriani: древний осириани
 	Sphinx: сфинский
 	Terran: земляной
+	D'ziriak: дзириакский
 location: локация, место (в зависимости от контекста)
 Locations:
 	Irrisen: Иррисен
@@ -543,7 +544,7 @@ Skill: Навык
 		Subsist: Проживание :ref:`downtime--Subsist`
 	Stealth: скрытность
 		Avoid Notice: Избегать обнаружения :ref:`expl-activity--Avoid-Notice`
-		Conceal an Object: Скрыть предмет :ref:`skill--Stealth--Conceal-an-Object`
+		Conceal an Object: Скрыть объект :ref:`skill--Stealth--Conceal-an-Object`
 		Hide: Спрятаться :ref:`skill--Stealth--Hide`
 		Sneak: Красться :ref:`skill--Stealth--Sneak`
 	Medicine: Медицина
@@ -595,6 +596,7 @@ Swashbuckler
 
 tap into: погрузиться в, подключиться к
 Titles:
+	Earthfall: Землепад
 	Jadwiga: Ядвига
 	Erutaki: Эрутаки
 	Varisia: Варисия
@@ -671,6 +673,8 @@ Titles:
 	Fleshwarp: Искажение плоти
 	Fleshforges of Nex: Формирующие плоть Некса
 	Ravounel: Равунел
+	Estlaris: Эстралы
+	Sharedars: Шедары
 trait: признак / особенность
 	оружие:
 		agile: быстрое
