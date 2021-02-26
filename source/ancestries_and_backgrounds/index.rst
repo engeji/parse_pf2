@@ -143,6 +143,7 @@
    ancestries/ratfolk
    ancestries/tengu
    ancestries/fetchling
+   ancestries/kitsune
 
 
 
