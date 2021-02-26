@@ -197,6 +197,7 @@ Deity: Божество
 	Achaekek: Ачакек
 	Shizuru: Шицуру
 	Tsukiyo: Цукио
+	Daikitsu: Дайкицу
 	Lady Nanbyo: Леди Наньбо
 	Ymeri: Имери
 	Qi Zhong: Ци Чжун
@@ -612,6 +613,7 @@ Titles:
 	Bonuwat: Бонуватец
 	Garundi: Гарундиец
 	Mauxi: Маушиец
+	Tian Xia: Тянь Ся
 	Tian-Dan: Тянь-Дань
 	Tian-Yae: Тянь-Йэ
 	Mualijae: Муалижэец
