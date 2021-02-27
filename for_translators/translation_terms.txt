@@ -677,6 +677,9 @@ Titles:
 	Ravounel: Равунел
 	Estlaris: Эстралы
 	Sharedars: Шедары
+	Qlippoth: клиппот, клиппоты
+	agathion: агатион, агатионы
+	Peri: пери (ед.число и мн.число)
 trait: признак / особенность
 	оружие:
 		agile: быстрое
