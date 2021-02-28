@@ -1881,6 +1881,7 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 
 -----------------------------------------------------------------------------
 
+.. _ch10--Rewards--Hero-Points:
 
 Очки Геройства (`Hero Points <https://2e.aonprd.com/Rules.aspx?ID=573>`_)
 -----------------------------------------------------------------------------------------------------
