@@ -164,6 +164,7 @@ Creature: существо
 		Balisse: баллис
 	psychopomp: психопомп
 		sahkil: сахкил (злые экс-психопомпы)
+	clockwork: заводной
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -680,6 +681,11 @@ Titles:
 	Qlippoth: клиппот, клиппоты
 	agathion: агатион, агатионы
 	Peri: пери (ед.число и мн.число)
+	Chitterhome: Читтерхом
+	Mana Wastes: Мустоши Маны
+	Ular Kel: Улар Кел
+	Deepmarket: Дипмаркет
+	Diguo-Dashu: Диго-Дашу
 trait: признак / особенность
 	оружие:
 		agile: быстрое
