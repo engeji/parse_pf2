@@ -61,7 +61,7 @@ advanced alchemy: продвинутая алхимия
 Affliction: недуг
 alignment: мировоззрение
 ancestry: родословная
-animal companion: животное компаньон
+animal companion: зверь-компаньон
 atone ritual: ритуал искупления
 attack roll: атака
 Attack of Opportunity: Возможность для Атаки :ref:`class-feature--fighter--Attack-Of-Opportunity`
