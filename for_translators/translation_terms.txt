@@ -166,9 +166,19 @@ Creature: существо
 		sahkil: сахкил (злые экс-психопомпы)
 	clockwork: заводной
 	vetalaran: веталаран, веталараны
+	Qlippoth: клиппот, клиппоты
+	agathion: агатион, агатионы
+	Peri: пери (ед.число и мн.число)
 	Adhyabhau: Адъябау
 	Cel Rau: Сэл Ру
 	jiang-shi (jiangshi): цзянши
+	Nosoi: носой
+	shoki: шоки (ед.число и мн.число)
+	Morrigna: морринья
+	vanth: ванф (вант)
+	calaca: калака, калаки
+	olethros: олифрос, олифросы (ударение на и)
+	yamaraj: ямарадж
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -682,9 +692,6 @@ Titles:
 	Ravounel: Равунел
 	Estlaris: Эстралы
 	Sharedars: Шедары
-	Qlippoth: клиппот, клиппоты
-	agathion: агатион, агатионы
-	Peri: пери (ед.число и мн.число)
 	Chitterhome: Читтерхом
 	Mana Wastes: Мустоши Маны
 	Ular Kel: Улар Кел
