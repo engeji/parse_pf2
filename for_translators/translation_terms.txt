@@ -12,7 +12,7 @@ activity: активность
 actions:
 	Interact: Взаимодействовать :ref:`action--Interact`
 	Strike: Удар :ref:`action--Strike` / :ref:`Выстрел (Strike) <action--Strike>`
-	Stride: Перемещение :ref:`action--Stride`
+	Stride: Перемещение :ref:`action--Stride` / :ref:`Переместиться (Stride) <action--Stride>`
 	Step: Шаг :ref:`action--Step`
 	Cast a Spell: Сотворение заклинания :ref:`action--Cast-a-Spell`
 	Sustain a Spell: Поддержание заклинания :ref:`action--Sustain-a-Spell`
@@ -165,6 +165,10 @@ Creature: существо
 	psychopomp: психопомп
 		sahkil: сахкил (злые экс-психопомпы)
 	clockwork: заводной
+	vetalaran: веталаран, веталараны
+	Adhyabhau: Адъябау
+	Cel Rau: Сэл Ру
+	jiang-shi (jiangshi): цзянши
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги

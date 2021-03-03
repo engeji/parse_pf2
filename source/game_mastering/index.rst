@@ -686,6 +686,7 @@ Pathfinder это приключенческая игра в жанре фэнт
 
 
 
+.. _ch10--Pathfinder-Society:
 
 Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510>`_)
 ==========================================================================================================
