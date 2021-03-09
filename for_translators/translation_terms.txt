@@ -155,8 +155,11 @@ Creature: существо
 	monitor: наблюдатель
 	lizardfolk: людоящер
 	dragon
+		chromatic: цветной
+		metallic: металлический
 		brass: латунный
 		copper: медный
+		imperial: величественный дракон
 	alghollthu: альголлус
 	protean: протей
 	celestial
@@ -438,6 +441,7 @@ Languages: языки
 location: локация, место (в зависимости от контекста)
 Locations:
 	Irrisen: Иррисен
+	Impossible Lands: Невозможные земли
 lesser cover: небольшое укрытие
 light: свет
 	bright: яркий

@@ -492,7 +492,7 @@
 
 .. _ancestry-feat--Duskwalker--Vanths-Weapon-Expertise:
 
-Опыт с оружие ванфа (`Vanth's Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=2364>`_) / 13
+Эксперт оружия ванфа (`Vanth's Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=2364>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - сумеречный

@@ -689,7 +689,7 @@
 
 .. _ancestry-feat--Tengu--Weapon-Expertise:
 
-Опыт с оружием тэнгу (`Tengu Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=1321>`_) / 13
+Эксперт оружия тэнгу (`Tengu Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=1321>`_) / 13
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - тэнгу
