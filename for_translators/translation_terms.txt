@@ -704,6 +704,9 @@ Titles:
 	Molthune: Молтун
 	Kaoling: Каолин
 	Rakh Lo: Рак Ло
+	Belkzen: Белкзэн
+	Urgir: Ургир
+	orc hold: орочье владение
 trait: признак / особенность
 	оружие:
 		agile: быстрое

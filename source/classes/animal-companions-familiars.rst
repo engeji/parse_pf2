@@ -760,6 +760,7 @@
 
 
 .. rst-class:: animal
+.. _animal-companion--Riding-Drake:
 
 Ездовой дрейк (`Riding Drake <https://2e.aonprd.com/AnimalCompanions.aspx?ID=21>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
