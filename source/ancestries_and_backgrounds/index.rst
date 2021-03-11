@@ -144,6 +144,7 @@
    ancestries/tengu
    ancestries/fetchling
    ancestries/kitsune
+   ancestries/azarketi
 
 
 
