@@ -707,6 +707,8 @@ Titles:
 	Belkzen: Белкзэн
 	Urgir: Ургир
 	orc hold: орочье владение
+	azarketi: азаркет, мн.число: azarketis: азаркеты
+
 trait: признак / особенность
 	оружие:
 		agile: быстрое
