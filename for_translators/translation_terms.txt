@@ -34,7 +34,7 @@ actions:
 	Identify Alchemy: Идентификация алхимии :ref:`expl-activity--Identify-Alchemy`
 	Decipher Writing: Расшифровка текста :ref:`activity--gen--Decipher-Writing`
 	Earn Income: Заработать деньги :ref:`expl-activity--Earn-Income`
-	Leap: Прыжок :ref:`action--Leap`
+	Leap: Прыжок :ref:`action--Leap` / :ref:`Прыгать (Leap) <action--Leap>`
 	Recall Knowledge: Вспомнить информацию :ref:`skill--Recall-Knowledge`
 	Learn A Spell: Выучить заклинание :ref:`expl-activity--Learn-a-Spell`
 	Raise a Shield: Поднять щит :ref:`action--Raise-a-Shield`
@@ -138,6 +138,7 @@ condition: состояние
 	Unfriendly: Недружественный
 	Unnoticed: Незамеченный
 	Wounded: Ранен
+
 Creature: существо
 	animal: зверь, животное
 	beast: чудовище
@@ -160,7 +161,7 @@ Creature: существо
 		brass: латунный
 		copper: медный
 		imperial: величественный дракон
-	alghollthu: альголлус
+	alghollthu: алголлус
 	protean: протей
 	celestial
 		Cassisian: кассисиан
@@ -182,6 +183,9 @@ Creature: существо
 	calaca: калака, калаки
 	olethros: олифрос, олифросы (ударение на и)
 	yamaraj: ямарадж
+	locathahs: локаты
+	merfolk: мерфолк
+	sahuagin: сауагин (ударение на 2ю 'а')
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -438,6 +442,8 @@ Languages: языки
 	Sphinx: сфинский
 	Terran: земляной
 	D'ziriak: дзириакский
+	alghollthu: алголлуский
+
 location: локация, место (в зависимости от контекста)
 Locations:
 	Irrisen: Иррисен
@@ -521,6 +527,7 @@ senses: чувства, сенсорные чувства
 	tremorsense: виброчувствительность
 	spiritsense: духовное чувство
 	lifesense: жизнечувствительность
+	wavesense: волночувствительность
 Skill: Навык
 	Arcana: Аркана
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
@@ -707,6 +714,8 @@ Titles:
 	Belkzen: Белкзэн
 	Urgir: Ургир
 	orc hold: орочье владение
+	azarketi: азаркет, мн.число: azarketis: азаркеты
+
 trait: признак / особенность
 	оружие:
 		agile: быстрое
@@ -764,6 +773,8 @@ trait: признак / особенность
 		haunt: призрак (вид опасности)
 		cursebound: проклятое (фокусные оракула)
 		focused: фокусирующий (предмет)
+	существа
+		amphibious: земноводный
 trigger: триггер (в описании способностей), провоцировать (о срабатывании триггера)
 the Pit: Преисподняя
 

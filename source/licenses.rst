@@ -267,6 +267,8 @@ Pathfinder Society Guide
 
 **Pathfinder Lost Omens Pathfinder Society Guide** © 2020, Paizo Inc.; Authors: Kate Baker, James Case, John Compton, Vanessa Hoskins, Mike Kimmel, Ron Lundeen, Dennis Muldoon, kieran t. newton, Michael Sayre, Clark Valentine, Tonya Woldridge, and Linda Zayas-Palmer
 
+
+
 Ancestry Guide
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -286,6 +288,21 @@ Dragon, Faerie from the Tome of Horrors Complete © 2011, Necromancer Games, Inc
 **Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
 
 **Pathfinder Lost Omens Ancestry Guide (Second Edition)** © 2021, Paizo Inc.; Authors: Calder CaDavid, James Case, Jessica Catalan, Eleanor Ferron, Lyz Liddell, Luis Loza, Ron Lundeen, Patchen Mortimer, Andrew Mullen, Samantha Phelan, Jessica Redekop, Mikhail Rekun, David N. Ross, Mark Seifter, Owen K.C. Stephens, Isabelle Thorne, and Linda Zayas-Palmer.
+
+
+
+
+
+Web Supplement
+==========================================================================================================
+
+
+Azarketi Ancestry Web Supplement
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Lost Omens Azarketi Ancestry Web Supplement** © 2021, Paizo Inc.; Author: Samantha Phelan.
 
 
 
