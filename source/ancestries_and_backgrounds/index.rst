@@ -145,6 +145,7 @@
    ancestries/fetchling
    ancestries/kitsune
    ancestries/azarketi
+   ancestries/sprite
 
 
 

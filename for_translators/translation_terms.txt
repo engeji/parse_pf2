@@ -232,6 +232,7 @@ Deity: Божество
 	Findeladlara: Финделадлара
 	Pulura: Полура
 	Nhimbaloth: Нимбалот
+	Lantern King: Король фонарей
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -559,7 +560,7 @@ Skill: Навык
 	Diplomacy: Дипломатия
 		Gather Information: Собрать информацию :ref:`skill--Diplomacy--Gather-Info`
 		Make an Impression: Произвести впечатление :ref:`skill--Diplomacy--Make-an-Impression`
-		Request: Просьба :ref:`skill--Diplomacy--Request`
+		Request: Просьба :ref:`skill--Diplomacy--Request` / :ref:`Попросить (Request) <skill--Diplomacy--Request>`
 	Intimidation: Запугивание
 		Coerce: Принуждение :ref:`skill--Intimidation--Coerce`
 		Demoralize: Деморализовать :ref:`skill--Intimidation--Demoralize`
