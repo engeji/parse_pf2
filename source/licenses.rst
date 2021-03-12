@@ -224,15 +224,6 @@ Gods & Magic
 
 
 
-Gods & Magic - Web Supplement
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Genie, Marid from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
-
-**Pathfinder Lost Omens Gods & Magic Web Supplement** © 2020, Paizo Inc.; Authors: James Case, Adam Daigle, Leo Glass, James Jacobs, Virginia Jordan, Jason Keeley, Jacky Leung, Lyz Liddell, Luis Loza, Ron Lundeen, Matt Morris, Nathan Reinecke, Simone D. Sallé, Michael Sayre, Shahreena Shahrani, Isabelle Thorne, and Diego Valdez.
-
-
-
 Legends
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -295,6 +286,14 @@ Dragon, Faerie from the Tome of Horrors Complete © 2011, Necromancer Games, Inc
 
 Web Supplement
 ==========================================================================================================
+
+Gods & Magic - Web Supplement
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Genie, Marid from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
+
+**Pathfinder Lost Omens Gods & Magic Web Supplement** © 2020, Paizo Inc.; Authors: James Case, Adam Daigle, Leo Glass, James Jacobs, Virginia Jordan, Jason Keeley, Jacky Leung, Lyz Liddell, Luis Loza, Ron Lundeen, Matt Morris, Nathan Reinecke, Simone D. Sallé, Michael Sayre, Shahreena Shahrani, Isabelle Thorne, and Diego Valdez.
+
 
 
 Azarketi Ancestry Web Supplement
