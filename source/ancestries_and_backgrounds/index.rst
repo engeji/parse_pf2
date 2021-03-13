@@ -146,6 +146,7 @@
    ancestries/kitsune
    ancestries/azarketi
    ancestries/sprite
+   ancestries/strix
 
 
 

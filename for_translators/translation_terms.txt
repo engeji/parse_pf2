@@ -716,6 +716,10 @@ Titles:
 	Urgir: Ургир
 	orc hold: орочье владение
 	azarketi: азаркет, мн.число: azarketis: азаркеты
+	Devil's Perch: Насест дьявола
+	Ciricskree: Сирикскрии
+	Shrieking Spire: Визжащий шпиль
+	Blackcove: Черная бухта
 
 trait: признак / особенность
 	оружие:
