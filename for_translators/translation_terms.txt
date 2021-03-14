@@ -233,6 +233,7 @@ Deity: Божество
 	Pulura: Полура
 	Nhimbaloth: Нимбалот
 	Lantern King: Король фонарей
+	Brigh: Бри
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -444,6 +445,8 @@ Languages: языки
 	Terran: земляной
 	D'ziriak: дзириакский
 	alghollthu: алголлуский
+	Androffan: андроффанский
+	Utopian: утопийский
 
 location: локация, место (в зависимости от контекста)
 Locations:
@@ -720,6 +723,12 @@ Titles:
 	Ciricskree: Сирикскрии
 	Shrieking Spire: Визжащий шпиль
 	Blackcove: Черная бухта
+	Renewal: Возобновление (процедура инициализации тела андроида новой душой)
+	Starfall: Звездопад (столица Нумерии)
+	Silver Mount: Серебряная гора
+	Enseffa: Энсеффа
+	Szamrak's Haven: Убежище Самрака
+	foundry: литейная (капсула в которой создается андроид)
 
 trait: признак / особенность
 	оружие:
