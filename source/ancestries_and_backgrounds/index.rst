@@ -147,6 +147,7 @@
    ancestries/azarketi
    ancestries/sprite
    ancestries/strix
+   ancestries/android
 
 
 
