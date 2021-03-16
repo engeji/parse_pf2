@@ -308,7 +308,7 @@
 Универсальные наследия (Versatile Heritages)
 -----------------------------------------------------------------------------------------------------------
 
-.. include:: /helpers/versatile_heretages.rst
+.. include:: /helpers/versatile_heritages.rst
 
 
 
