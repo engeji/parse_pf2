@@ -3,7 +3,7 @@
 .. rst-class:: ancestry
 .. _ancestry--Fleshwarp:
 
-Флэшворп (Искажение плоти) (`Fleshwarp <https://2e.aonprd.com/Ancestries.aspx?ID=31>`_)
+Флэшворп (`Fleshwarp <https://2e.aonprd.com/Ancestries.aspx?ID=31>`_)
 =============================================================================================================
 
 .. epigraph::
