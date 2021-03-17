@@ -186,6 +186,9 @@ Creature: существо
 	locathahs: локаты
 	merfolk: мерфолк
 	sahuagin: сауагин (ударение на 2ю 'а')
+	werecreature: оборотень
+	werewolf: волколак
+	werebear: медведолак
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -234,6 +237,7 @@ Deity: Божество
 	Nhimbaloth: Нимбалот
 	Lantern King: Король фонарей
 	Brigh: Бри
+	Yrmidar the Old Bear: Ирмидар Старый Медведь
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
