@@ -303,6 +303,7 @@
    versatile_heritages/aasimar
    versatile_heritages/duskwalker
    versatile_heritages/tiefling
+   versatile_heritages/beastkin
 
 
 
