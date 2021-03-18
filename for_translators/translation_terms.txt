@@ -238,6 +238,7 @@ Deity: Божество
 	Lantern King: Король фонарей
 	Brigh: Бри
 	Yrmidar the Old Bear: Ирмидар Старый Медведь
+	Godmind: Божественный Разум
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -733,6 +734,10 @@ Titles:
 	Enseffa: Энсеффа
 	Szamrak's Haven: Убежище Самрака
 	foundry: литейная (капсула в которой создается андроид)
+	Egorian: Эгориан
+	City of Thorns: Терновый Город
+	Song-Wind City: город Поющего Ветра
+	Encarthan: Энкартан
 
 trait: признак / особенность
 	оружие:
