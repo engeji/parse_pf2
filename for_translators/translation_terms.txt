@@ -189,6 +189,7 @@ Creature: существо
 	werecreature: оборотень
 	werewolf: волколак
 	werebear: медведолак
+	einherji: эйнхерии
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -506,6 +507,7 @@ plane: план
 	Shadow: Теневой
 	Ethereal: Эфирный
 	Boneyard: Могильник
+	Maelstrom: Мальстрем
 
 rage: ярость
 range: дистанция
@@ -738,6 +740,7 @@ Titles:
 	City of Thorns: Терновый Город
 	Song-Wind City: город Поющего Ветра
 	Encarthan: Энкартан
+	Worldwound: Мировая Рана
 
 trait: признак / особенность
 	оружие:

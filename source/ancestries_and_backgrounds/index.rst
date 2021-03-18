@@ -305,6 +305,7 @@
    versatile_heritages/tiefling
    versatile_heritages/beastkin
    versatile_heritages/aphorite
+   versatile_heritages/ganzi
 
 
 
