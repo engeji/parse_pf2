@@ -648,7 +648,7 @@
 
 .. _ancestry-feat--Halfling--Irrepressible:
 
-Неугомонный (`Irrepressible <https://2e.aonprd.com/Feats.aspx?ID=63>`_) / 9
+Неугомонный (`Irrepressible (Halfling) <https://2e.aonprd.com/Feats.aspx?ID=63>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - полурослик

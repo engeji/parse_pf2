@@ -7,3 +7,5 @@
    /ancestries_and_backgrounds/versatile_heritages/duskwalker
    /ancestries_and_backgrounds/versatile_heritages/tiefling
    /ancestries_and_backgrounds/versatile_heritages/beastkin
+   /ancestries_and_backgrounds/versatile_heritages/aphorite
+   /ancestries_and_backgrounds/versatile_heritages/ganzi
