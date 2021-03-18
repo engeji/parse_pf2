@@ -21,10 +21,12 @@
 
 * 
 
+
 .. rst-class:: h3
 .. rubric:: Другие возможно ...
 
 * 
+
 
 
 .. rst-class:: h3
