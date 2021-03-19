@@ -688,8 +688,8 @@ Titles:
 	Vahird: Вахирд
 	Xulgath: Зулгат
 	Arclords of Nex: Верховные лорды Некса
-	janni: джанни
-	djinni: джинн
+	janni: джанн
+	djinni: джинни
 	efreeti: ифрит
 	marid: марид
 	shaitan: шайтан
