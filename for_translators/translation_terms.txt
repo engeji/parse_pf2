@@ -190,6 +190,7 @@ Creature: существо
 	werewolf: волколак
 	werebear: медведолак
 	einherji: эйнхерии
+	conrasu: конрас
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -768,6 +769,8 @@ trait: признак / особенность
 		tethered: привязанное
 		grapple: захват
 		concealable: скрываемое
+		hampering: мешающее
+		resonant: резонирующее
 	остальные:
 		visual: визуальный
 		auditory: слуховой
