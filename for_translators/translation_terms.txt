@@ -161,6 +161,8 @@ Creature: существо
 		brass: латунный
 		copper: медный
 		imperial: величественный дракон
+		magma: магматический
+		crystal: кристаллический
 	alghollthu: алголлус
 	protean: протей
 	celestial
@@ -191,6 +193,7 @@ Creature: существо
 	werebear: медведолак
 	einherji: эйнхерии
 	conrasu: конрас
+	xorn: зорн
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -241,6 +244,9 @@ Deity: Божество
 	Brigh: Бри
 	Yrmidar the Old Bear: Ирмидар Старый Медведь
 	Godmind: Божественный Разум
+	Ashukharma: Ашухарма 
+	Sairazul: Сайразул 
+	Ayrzul: Айрзул 
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -742,6 +748,9 @@ Titles:
 	Song-Wind City: город Поющего Ветра
 	Encarthan: Энкартан
 	Worldwound: Мировая Рана
+	Sky Citadel Janderhof: Небесная Цитадель Джандерхофф
+	Crystalrock: Кристальной Скале
+	Mindspin Mountains: Головокружительные Горы
 
 trait: признак / особенность
 	оружие:
