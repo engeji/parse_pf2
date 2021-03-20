@@ -77,9 +77,9 @@
 
 **Земля**
 
-* dustsoul (soil oread)
-* gemsoul (crystal oread)
-* miresoul (mud oread)
+* :ref:`ancestry-feat--Oread--Dustsoul` (ореад почвы)
+* :ref:`ancestry-feat--Oread--Gemsoul` (кристаллический ореад)
+* :ref:`ancestry-feat--Oread--Miresoul` (грязевой ореад)
 
 
 **Огонь**
