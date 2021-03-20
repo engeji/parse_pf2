@@ -15,7 +15,7 @@
 Джинникин не является отдельным наследием, и его нельзя выбрать само по себе, так как это общая категория элементальных наследий.
 Вы получаете доступ к его способностям, если персонаж имеет одно из наследий гениев:
 
-* Ifrit (TODO ссылка)
+* :ref:`heritage--Ifrit`
 * Oread (TODO ссылка)
 * Suli (TODO ссылка)
 * Sylph (TODO ссылка)
@@ -84,9 +84,9 @@
 
 **Огонь**
 
-* brightsoul (radiant ifrit)
-* cindersoul (ash ifrit)
-* lavasoul (magma ifrit)
+* :ref:`ancestry-feat--Ifrit--Brightsoul` (сияющий ифрит)
+* :ref:`ancestry-feat--Ifrit--Cindersoul` (тлеющий ифрит)
+* :ref:`ancestry-feat--Ifrit--Lavasoul` (магматический ифрит)
 
 
 **Вода**
@@ -105,6 +105,7 @@
 
 
 .. rst-class:: ancestry-class-feats
+.. _heritage-feats--Ifrit:
 
 Способности джинникина (Geniekin Feats)
 -----------------------------------------------------------------------------------------------------------

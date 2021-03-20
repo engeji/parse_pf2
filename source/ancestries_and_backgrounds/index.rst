@@ -307,6 +307,7 @@
    versatile_heritages/aphorite
    versatile_heritages/ganzi
    versatile_heritages/geniekin
+   versatile_heritages/ifrit
 
 
 
