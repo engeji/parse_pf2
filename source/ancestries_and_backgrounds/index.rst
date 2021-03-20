@@ -308,6 +308,7 @@
    versatile_heritages/ganzi
    versatile_heritages/geniekin
    versatile_heritages/ifrit
+   versatile_heritages/oread
 
 
 

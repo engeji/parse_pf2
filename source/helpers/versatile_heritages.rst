@@ -11,3 +11,4 @@
    /ancestries_and_backgrounds/versatile_heritages/ganzi
    /ancestries_and_backgrounds/versatile_heritages/geniekin
    /ancestries_and_backgrounds/versatile_heritages/ifrit
+   /ancestries_and_backgrounds/versatile_heritages/oread
