@@ -14,3 +14,4 @@
    /ancestries_and_backgrounds/versatile_heritages/oread
    /ancestries_and_backgrounds/versatile_heritages/suli
    /ancestries_and_backgrounds/versatile_heritages/sylph
+   /ancestries_and_backgrounds/versatile_heritages/undine

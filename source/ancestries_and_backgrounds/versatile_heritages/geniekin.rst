@@ -19,7 +19,7 @@
 * :ref:`heritage--Oread`
 * :ref:`heritage--Suli`
 * :ref:`heritage--Sylph`
-* Undine (TODO ссылка)
+* :ref:`heritage--Undine`
 
 -----------------------------------------------------------------------------
 
@@ -91,9 +91,9 @@
 
 **Вода**
 
-* brinesoul (saltwater undine)
-* mistsoul (vapor undine)
-* rimesoul (frost undine)
+* :ref:`ancestry-feat--Undine--Brinesoul` (ундина соленой воды)
+* :ref:`ancestry-feat--Undine--Mistsoul` (ундина пара)
+* :ref:`ancestry-feat--Undine--Rimesoul` (ундина мороза)
 
 
 

@@ -163,6 +163,8 @@ Creature: существо
 		imperial: величественный дракон
 		magma: магматический
 		crystal: кристаллический
+		cloud: облачный
+		brine: морской
 	alghollthu: алголлус
 	protean: протей
 	celestial
@@ -253,6 +255,7 @@ Deity: Божество
 	Ranginori: Рангинори
 	Zohls: Золсу
 	Tanagaar: Танагаару
+	Lysianassa: Лисианассе
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -761,6 +764,9 @@ Titles:
 	Eye of Abendego: Око Абендего
 	Ilizmagorti: Илизмагорти
 	Terwa Uplands: Возвышенности Тэрва
+	shahzada: шахиншах
+	Wanshou: Ваньшоу
+	Outsea: Наморье
 
 trait: признак / особенность
 	оружие:
