@@ -194,6 +194,7 @@ Creature: существо
 	einherji: эйнхерии
 	conrasu: конрас
 	xorn: зорн
+	belker: белкер
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -248,6 +249,10 @@ Deity: Божество
 	Sairazul: Сайразул 
 	Ayrzul: Айрзул 
 	Alseta: Альсета
+	Hshurha: Шурха
+	Ranginori: Рангинори
+	Zohls: Золсу
+	Tanagaar: Танагаару
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -753,6 +758,9 @@ Titles:
 	Crystalrock: Кристальной Скале
 	Mindspin Mountains: Головокружительные Горы
 	Windswept Wastes: Ветровые Просторы
+	Eye of Abendego: Око Абендего
+	Ilizmagorti: Илизмагорти
+	Terwa Uplands: Возвышенности Тэрва
 
 trait: признак / особенность
 	оружие:

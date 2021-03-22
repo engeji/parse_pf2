@@ -18,7 +18,7 @@
 * :ref:`heritage--Ifrit`
 * :ref:`heritage--Oread`
 * :ref:`heritage--Suli`
-* Sylph (TODO ссылка)
+* :ref:`heritage--Sylph`
 * Undine (TODO ссылка)
 
 -----------------------------------------------------------------------------
@@ -70,9 +70,9 @@
 
 **Воздух**
 
-* fumesoul (miasma sylph)
-* smokesoul (haze sylph)
-* stormsoul (lightning sylph)
+* :ref:`ancestry-feat--Sylph--Fumesoul` (миазматический сильф)
+* :ref:`ancestry-feat--Sylph--Smokesoul` (сильф дымки)
+* :ref:`ancestry-feat--Sylph--Stormsoul` (сильф молнии)
 
 
 **Земля**
