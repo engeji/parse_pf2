@@ -766,6 +766,7 @@ Titles:
 	Terwa Uplands: Возвышенности Тэрва
 	shahzada: шахиншах
 	Wanshou: Ваньшоу
+	Outsea: Наморье
 
 trait: признак / особенность
 	оружие:
