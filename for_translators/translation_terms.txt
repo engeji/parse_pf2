@@ -247,6 +247,7 @@ Deity: Божество
 	Ashukharma: Ашухарма 
 	Sairazul: Сайразул 
 	Ayrzul: Айрзул 
+	Alseta: Альсета
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -751,6 +752,7 @@ Titles:
 	Sky Citadel Janderhof: Небесная Цитадель Джандерхофф
 	Crystalrock: Кристальной Скале
 	Mindspin Mountains: Головокружительные Горы
+	Windswept Wastes: Ветровые Просторы
 
 trait: признак / особенность
 	оружие:

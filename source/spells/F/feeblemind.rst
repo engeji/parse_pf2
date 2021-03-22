@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--f--Feeblemind:
 
-Слабоумие (`Feeblemind <https://2e.aonprd.com/Spells.aspx?ID=88>`_) / Закл. 6
+Слабоумие (`Feeblemind <https://2e.aonprd.com/Spells.aspx?ID=112>`_) / Закл. 6
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - очарование

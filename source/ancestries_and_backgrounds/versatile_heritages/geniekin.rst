@@ -17,7 +17,7 @@
 
 * :ref:`heritage--Ifrit`
 * :ref:`heritage--Oread`
-* Suli (TODO ссылка)
+* :ref:`heritage--Suli`
 * Sylph (TODO ссылка)
 * Undine (TODO ссылка)
 

@@ -12,3 +12,4 @@
    /ancestries_and_backgrounds/versatile_heritages/geniekin
    /ancestries_and_backgrounds/versatile_heritages/ifrit
    /ancestries_and_backgrounds/versatile_heritages/oread
+   /ancestries_and_backgrounds/versatile_heritages/suli
