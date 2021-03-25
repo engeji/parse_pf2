@@ -19,7 +19,9 @@
 
 	.. rubric:: Редкость
 
-	Редкая
+	.. rst-class:: traits
+
+	- :rare:`Редкая`
 
 
 	.. rubric:: Очки здоровья
