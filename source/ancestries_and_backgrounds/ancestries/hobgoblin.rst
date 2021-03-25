@@ -18,7 +18,9 @@
 
 	.. rubric:: Редкость
 
-	Необычный
+	.. rst-class:: traits
+
+	- :uncommon:`Необычная`
 
 
 	.. rubric:: Очки здоровья
