@@ -861,6 +861,8 @@
 
 **Вид**: *большая разрушающая (greater disrupting)*
 
+.. rst-class:: traits
+
 - :uncommon:`необычный`
 
 **Уровень**: 14

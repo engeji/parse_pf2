@@ -545,6 +545,8 @@
 
 **Вид**: *сильный посох очарования (major staff of enchantment)*
 
+.. rst-class:: traits
+
 - :uncommon:`необычный`
 
 **Уровень**: 14
