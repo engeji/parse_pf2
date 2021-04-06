@@ -15,6 +15,8 @@
 
 .. include:: /appendix/equipment_description.rst
 
+.. include:: /appendix/weapon_description.rst
+
 
 
 .. include:: /helpers/actions.rst
