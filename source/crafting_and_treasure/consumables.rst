@@ -1612,7 +1612,7 @@
 
 .. _item--Potion-of-Swimming:
 
-Зелья плаванья (`Potion of Swimming <https://2e.aonprd.com/Equipment.aspx?ID=193>`_) / Предмет 6+
+Зелье плаванья (`Potion of Swimming <https://2e.aonprd.com/Equipment.aspx?ID=193>`_) / Предмет 6+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - зелье
@@ -1632,14 +1632,14 @@
 
 ----------
 
-**Вид**: *зелья плаванья (potion of swimming)*
+**Вид**: *зелье плаванья (potion of swimming)*
 
 **Уровень**: 6
 **Цена**: 50 зм
 
 ----------
 
-**Вид**: *большое зелья плаванья (greater potion of swimming)*
+**Вид**: *большое зелье плаванья (greater potion of swimming)*
 
 **Уровень**: 11
 **Цена**: 250 зм

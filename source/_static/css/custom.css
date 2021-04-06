@@ -200,8 +200,13 @@ div.section > p {
 	text-align: inherit;
 }
 
+.rst-content table.docutils thead div.line-block {
+	line-height: 1.25em;
+	margin: 0;
+}
+
 .rst-content table.docutils th {
-	padding: 0.5em;
+	padding: 0.25em 0.5em;
 }
 
 .rst-content table.docutils th p {
@@ -224,7 +229,8 @@ div.section > p {
 	margin-bottom: 0.1em;
 }
 
-.rst-content table.docutils td:nth-child(1) p:not(:first-child) {
+.rst-content table.docutils td:nth-child(1) p:not(:first-child),
+.rst-content table.docutils td:nth-child(1) div.line-block:not(:first-child) {
 	text-indent: 1em;
 }
 
@@ -431,13 +437,13 @@ div.char-class h2,
 div.animal-companions h2,
 div.class-archetypes h2,
 div.equip-subchap h2,
-div.gear-description h2,
+/*div.gear-description h2,*/
 div.religion h2,
 /*div.spells-focus h2,*/
 /*div.spells-rituals h2,*/
 div.gm-subchap h2,
-div.conditions h2,
-div.glossary h2,
+/*div.conditions h2,*/
+/*div.glossary h2,*/
 div.game-mode h2 {
 	box-sizing: border-box;
 	color: #5e0000;
@@ -479,8 +485,8 @@ div.craft-treasure-structures h1,
 div.craft-treasure-materials h1,
 div.gm-subchap h3,
 div.hazards h2,
-div.conditions h3,
-div.glossary h3,
+/*div.conditions h3,*/
+/*div.glossary h3,*/
 div.game-mode h3 {
 	box-sizing: border-box;
 	color: #002664;
@@ -503,7 +509,7 @@ div.archetype.multiclass h2,
 div.archetype h4,
 div.hellknight-order-abilities h2,
 div.equip-subchap h4,
-div.gear-description h3,
+div.gear-description h2,
 div.religion h4,
 /*div.spells-rituals h4,*/
 div.craft-treasure-alchemicalitems h2,
@@ -519,8 +525,8 @@ div.craft-treasure-armor h2,
 div.craft-treasure-materials h2,
 div.gm-subchap h4,
 div.hazards h3,
-div.conditions h4,
-div.glossary h4,
+/*div.conditions h2,*/
+/*div.glossary h4,*/
 div.game-mode h4 {
 	box-sizing: border-box;
 	color: #5e0000;
