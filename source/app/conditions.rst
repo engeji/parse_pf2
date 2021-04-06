@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: conditions
 .. _conditions:
 
@@ -631,3 +633,9 @@
 
 .. versionadded:: /errata-r1
 	О наложении статусов на игровых персонажей.
+
+
+
+
+
+.. include:: /helpers/actions.rst
