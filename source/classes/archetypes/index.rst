@@ -325,3 +325,4 @@
    └ Рыцарь-освободитель (Knight Reclaimant) <dlc/knight-reclaimant>
    
    dlc/ghost-hunter
+   dlc/eldritch-researcher
