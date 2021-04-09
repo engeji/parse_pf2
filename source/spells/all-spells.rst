@@ -409,7 +409,7 @@
    S/summon-fiend
    S/summon-giant
    S/summon-plant-or-fungus
-   S/summon-summon-instrument
+   S/summon-instrument
    S/sunburst
    S/synaptic-pulse
    S/synesthesia
