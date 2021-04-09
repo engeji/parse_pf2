@@ -326,3 +326,4 @@
    
    dlc/ghost-hunter
    dlc/eldritch-researcher
+   dlc/drow-shootist
