@@ -52,6 +52,7 @@
    B/brand-the-impenitent
    B/breath-of-life
    B/burning-hands
+   C/call-the-blood
    C/calm-emotions
    C/cataclysm
    C/chain-lightning
@@ -91,6 +92,7 @@
    D/dancing-lights
    D/darkness
    D/darkvision
+   D/daydreamers-curse
    D/daze
    D/deafness
    D/death-knell
@@ -130,6 +132,7 @@
    E/earthbind
    E/earthquake
    E/eclipse-burst
+   E/ectoplasmic-expulsion
    E/electric-arc
    E/elemental-form
    E/endure
@@ -336,6 +339,7 @@
    S/safe-passage
    S/sanctified-ground
    S/sanctuary
+   S/savants-curse
    S/scintillating-pattern
    S/scintillating-safeguard
    S/scrying
