@@ -1,3 +1,5 @@
+.. include:: /helpers/roles.rst
+
 .. rst-class:: glossary
 .. _glossary:
 
@@ -154,3 +156,9 @@
 .. versionadded:: /errata-r2
 	Последнее предложение про снятие проклятий.
 	Чтобы было ясно, что вам требуется использовать заклинания как :ref:`spell--r--Remove-Curse`, даже если оно было наложено заклинанием и :ref:`spell--d--Dispel-Magic` не будет на него работать.
+
+
+
+
+
+.. include:: /helpers/actions.rst

@@ -1,8 +1,10 @@
 Перевод терминов
 ======================
 
-CRB: Основная книга правил
-APG: Продвинутое руководство игрока
+CRB: "Основная книга правил (Core Rulebook)"
+APG: "Продвинутое руководство игрока (Advanced Player's Guide)"
+LOWG: "Утраченные пророчества: Руководство о мире (Lost Omens: World Guide)"
+LOCG: "Утраченные пророчества: Руководство по персонажам (Lost Omens: Character Guide)"
 
 Ability (об основных статах): характеристика
 	ability: умение (о какой-то классовой особенности); возможность/способность (о возможности сделать что-либо)
@@ -12,8 +14,8 @@ activity: активность
 actions:
 	Interact: Взаимодействовать :ref:`action--Interact`
 	Strike: Удар :ref:`action--Strike` / :ref:`Выстрел (Strike) <action--Strike>`
-	Stride: Перемещение :ref:`action--Stride`
-	Step: Шаг :ref:`action--Step`
+	Stride: Перемещение :ref:`action--Stride` / :ref:`Переместиться (Stride) <action--Stride>`
+	Step: Шаг :ref:`action--Step` / :ref:`Шагнуть (Step) <action--Step>`
 	Cast a Spell: Сотворение заклинания :ref:`action--Cast-a-Spell`
 	Sustain a Spell: Поддержание заклинания :ref:`action--Sustain-a-Spell`
 	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
@@ -30,12 +32,12 @@ actions:
 	Grab an Edge: Схватиться за уступ :ref:`action--Grab-an-Edge`
 	Crawl: Ползти :ref:`action--Crawl`
 	Mount: Оседлать :ref:`action--Mount`
-	Identify Magic: Определение магии :ref:`expl-activity--Identify-Magic`
-	Identify Alchemy: Определение алхимии :ref:`expl-activity--Identify-Alchemy`
+	Identify Magic: Идентификация магии :ref:`expl-activity--Identify-Magic`
+	Identify Alchemy: Идентификация алхимии :ref:`expl-activity--Identify-Alchemy`
 	Decipher Writing: Расшифровка текста :ref:`activity--gen--Decipher-Writing`
 	Earn Income: Заработать деньги :ref:`expl-activity--Earn-Income`
-	Leap: Прыжок :ref:`action--Leap`
-	Recall Knowledge: Вспомнить изученное :ref:`skill--Recall-Knowledge`
+	Leap: Прыжок :ref:`action--Leap` / :ref:`Прыгать (Leap) <action--Leap>`
+	Recall Knowledge: Вспомнить информацию :ref:`skill--Recall-Knowledge`
 	Learn A Spell: Выучить заклинание :ref:`expl-activity--Learn-a-Spell`
 	Raise a Shield: Поднять щит :ref:`action--Raise-a-Shield`
 	Release: Отпустить :ref:`action--Release`
@@ -61,7 +63,7 @@ advanced alchemy: продвинутая алхимия
 Affliction: недуг
 alignment: мировоззрение
 ancestry: родословная
-animal companion: животное компаньон
+animal companion: зверь-компаньон
 atone ritual: ритуал искупления
 attack roll: атака
 Attack of Opportunity: Возможность для Атаки :ref:`class-feature--fighter--Attack-Of-Opportunity`
@@ -138,6 +140,7 @@ condition: состояние
 	Unfriendly: Недружественный
 	Unnoticed: Незамеченный
 	Wounded: Ранен
+
 Creature: существо
 	animal: зверь, животное
 	beast: чудовище
@@ -151,19 +154,51 @@ Creature: существо
 	spirit: дух
 	hag: карга
 		annis: эннис
-	extraplanar: экстрапланарный
+	extraplanar: межпланарный
 	monitor: наблюдатель
 	lizardfolk: людоящер
 	dragon
+		chromatic: цветной
+		metallic: металлический
 		brass: латунный
 		copper: медный
-	alghollthu: альголлус
+		imperial: величественный дракон
+		magma: магматический
+		crystal: кристаллический
+		cloud: облачный
+		brine: морской
+	alghollthu: алголлус
 	protean: протей
 	celestial
 		Cassisian: кассисиан
 		Balisse: баллис
 	psychopomp: психопомп
 		sahkil: сахкил (злые экс-психопомпы)
+	clockwork: заводной
+	vetalaran: веталаран, веталараны
+	Qlippoth: клиппот, клиппоты
+	agathion: агатион, агатионы
+	Peri: пери (ед.число и мн.число)
+	Adhyabhau: Адъябау
+	Cel Rau: Сэл Ру
+	jiang-shi (jiangshi): цзянши
+	Nosoi: носой
+	shoki: шоки (ед.число и мн.число)
+	Morrigna: морринья
+	vanth: ванф (вант)
+	calaca: калака, калаки
+	olethros: олифрос, олифросы (ударение на и)
+	yamaraj: ямарадж
+	locathahs: локаты
+	merfolk: мерфолк
+	sahuagin: сауагин (ударение на 2ю 'а')
+	werecreature: оборотень
+	werewolf: волколак
+	werebear: медведолак
+	einherji: эйнхерии
+	conrasu: конрас
+	xorn: зорн
+	belker: белкер
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -197,6 +232,7 @@ Deity: Божество
 	Achaekek: Ачакек
 	Shizuru: Шицуру
 	Tsukiyo: Цукио
+	Daikitsu: Дайкицу
 	Lady Nanbyo: Леди Наньбо
 	Ymeri: Имери
 	Qi Zhong: Ци Чжун
@@ -209,6 +245,19 @@ Deity: Божество
 	Findeladlara: Финделадлара
 	Pulura: Полура
 	Nhimbaloth: Нимбалот
+	Lantern King: Король фонарей
+	Brigh: Бри
+	Yrmidar the Old Bear: Ирмидар Старый Медведь
+	Godmind: Божественный Разум
+	Ashukharma: Ашухарма 
+	Sairazul: Сайразул 
+	Ayrzul: Айрзул 
+	Alseta: Альсета
+	Hshurha: Шурха
+	Ranginori: Рангинори
+	Zohls: Золсу
+	Tanagaar: Танагаару
+	Lysianassa: Лисианассе
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -282,7 +331,7 @@ intelligent (о существе): разумный
 Investigator: Сыщик
 	lead: дело, зацепка
 items: предметы
-	worn: одеваемый
+	worn: надеваемый
 		armbands: нарукавники
 		belt: ремень
 		circlet: ободок
@@ -388,7 +437,7 @@ items: предметы
 	действия с предметами:
 		состояния переноски
 			held: держа, удерживая
-			worn: надев, одев
+			worn: надев, надет
 			stowed: сложив, убрав
 
 		draw: достать
@@ -396,8 +445,8 @@ items: предметы
 		strapped: пристегнутый
 		retrieve: извлечь (рюкзак, мешок)
 		wield: владение; экипировать; использовать что-либо; носить доспех/кольцо; предмет готов к использованию.
-		wearing: ношение; носить (одетым)
-		donning: одевание (доспеха)
+		wearing: ношение; носить (надетым)
+		donning: надевание (доспеха)
 		affix: прикрепить (талисман)
 		etched: гравирован(а) (о рунах)
 		invest: инвестировать :ref:`activity--Invest-An-Item`
@@ -409,7 +458,7 @@ Languages: языки
 	Goblin: Гоблинский
 	Halfling: полуросличий
 	Orcish: Орочий
-	Jotun: Йотун
+	Jotun: Джотун
 	Sylvan: Сильван
 	Undercommon: подземный
 	Draconic: Драконий
@@ -418,9 +467,15 @@ Languages: языки
 	Osiriani: осириани; Ancient Osiriani: древний осириани
 	Sphinx: сфинский
 	Terran: земляной
+	D'ziriak: дзириакский
+	alghollthu: алголлуский
+	Androffan: андроффанский
+	Utopian: утопийский
+
 location: локация, место (в зависимости от контекста)
 Locations:
 	Irrisen: Иррисен
+	Impossible Lands: Невозможные земли
 lesser cover: небольшое укрытие
 light: свет
 	bright: яркий
@@ -470,6 +525,7 @@ plane: план
 	Shadow: Теневой
 	Ethereal: Эфирный
 	Boneyard: Могильник
+	Maelstrom: Мальстрем
 
 rage: ярость
 range: дистанция
@@ -500,6 +556,7 @@ senses: чувства, сенсорные чувства
 	tremorsense: виброчувствительность
 	spiritsense: духовное чувство
 	lifesense: жизнечувствительность
+	wavesense: волночувствительность
 Skill: Навык
 	Arcana: Аркана
 		Borrow an Arcane Spell: Одолжить мистическое заклинание
@@ -531,7 +588,7 @@ Skill: Навык
 	Diplomacy: Дипломатия
 		Gather Information: Собрать информацию :ref:`skill--Diplomacy--Gather-Info`
 		Make an Impression: Произвести впечатление :ref:`skill--Diplomacy--Make-an-Impression`
-		Request: Просьба :ref:`skill--Diplomacy--Request`
+		Request: Просьба :ref:`skill--Diplomacy--Request` / :ref:`Попросить (Request) <skill--Diplomacy--Request>`
 	Intimidation: Запугивание
 		Coerce: Принуждение :ref:`skill--Intimidation--Coerce`
 		Demoralize: Деморализовать :ref:`skill--Intimidation--Demoralize`
@@ -543,7 +600,7 @@ Skill: Навык
 		Subsist: Проживание :ref:`downtime--Subsist`
 	Stealth: скрытность
 		Avoid Notice: Избегать обнаружения :ref:`expl-activity--Avoid-Notice`
-		Conceal an Object: Скрыть предмет :ref:`skill--Stealth--Conceal-an-Object`
+		Conceal an Object: Скрыть объект :ref:`skill--Stealth--Conceal-an-Object`
 		Hide: Спрятаться :ref:`skill--Stealth--Hide`
 		Sneak: Красться :ref:`skill--Stealth--Sneak`
 	Medicine: Медицина
@@ -552,11 +609,11 @@ Skill: Навык
 		Treat Disease: Лечение болезни :ref:`skill--Medicine--Treat-Disease`
 		Treat Poison: Лечение от яда :ref:`skill--Medicine--Treat-Poison`
 	Nature: Природа
-		Command an Animal: Приказать Животному :ref:`skill--Nature--Command-an-Animal`
+		Command an Animal: Команда животному :ref:`skill--Nature--Command-an-Animal`
 	Survival: Выживание
-		Cover Tracks: Заметать Следы :ref:`skill--Survival--Cover-Tracks`
+		Cover Tracks: Заметать cледы :ref:`skill--Survival--Cover-Tracks`
 		Track: Выслеживание :ref:`skill--Survival--Track`
-		Sense Direction: Понять Направление :ref:`skill--Survival--Sense-Direction`
+		Sense Direction: Определить направление :ref:`skill--Survival--Sense-Direction`
 	Thievery: Воровство
 		Palm an Object: Ловкость рук :ref:`skill--Thievery--Palm-an-Object`
 		Steal: Украсть :ref:`skill--Thievery--Steal`
@@ -582,6 +639,7 @@ component: компонент
 	envision: вообразить
 spellcasting: колдовство / сотворение заклинания
 	spellcasting ability modifier: модификатор характеристики колдовства (TODO перевод)
+	spellcasting class feature: особенность заклинательского класса
 	tradition: обычай, колдовской обычай, магический обычай
 		arcane: арканный
 		divine: сакральный
@@ -594,6 +652,7 @@ Swashbuckler
 
 tap into: погрузиться в, подключиться к
 Titles:
+	Earthfall: Землепад
 	Jadwiga: Ядвига
 	Erutaki: Эрутаки
 	Varisia: Варисия
@@ -609,6 +668,7 @@ Titles:
 	Bonuwat: Бонуватец
 	Garundi: Гарундиец
 	Mauxi: Маушиец
+	Tian Xia: Тянь Ся
 	Tian-Dan: Тянь-Дань
 	Tian-Yae: Тянь-Йэ
 	Mualijae: Муалижэец
@@ -646,8 +706,8 @@ Titles:
 	Vahird: Вахирд
 	Xulgath: Зулгат
 	Arclords of Nex: Верховные лорды Некса
-	janni: джанни
-	djinni: джинн
+	janni: джанн
+	djinni: джинни
 	efreeti: ифрит
 	marid: марид
 	shaitan: шайтан
@@ -670,9 +730,50 @@ Titles:
 	Fleshwarp: Искажение плоти
 	Fleshforges of Nex: Формирующие плоть Некса
 	Ravounel: Равунел
+	Estlaris: Эстралы
+	Sharedars: Шедары
+	Chitterhome: Читтерхом
+	Mana Wastes: Мустоши Маны
+	Ular Kel: Улар Кел
+	Deepmarket: Дипмаркет
+	Diguo-Dashu: Диго-Дашу
+	Molthune: Молтун
+	Kaoling: Каолин
+	Rakh Lo: Рак Ло
+	Belkzen: Белкзэн
+	Urgir: Ургир
+	orc hold: орочье владение
+	azarketi: азаркет, мн.число: azarketis: азаркеты
+	Devil's Perch: Насест дьявола
+	Ciricskree: Сирикскрии
+	Shrieking Spire: Визжащий шпиль
+	Blackcove: Черная бухта
+	Renewal: Возобновление (процедура инициализации тела андроида новой душой)
+	Starfall: Звездопад (столица Нумерии)
+	Silver Mount: Серебряная гора
+	Enseffa: Энсеффа
+	Szamrak's Haven: Убежище Самрака
+	foundry: литейная (капсула в которой создается андроид)
+	Egorian: Эгориан
+	City of Thorns: Терновый Город
+	Song-Wind City: город Поющего Ветра
+	Encarthan: Энкартан
+	Worldwound: Мировая Рана
+	Sky Citadel Janderhof: Небесная Цитадель Джандерхофф
+	Crystalrock: Кристальной Скале
+	Mindspin Mountains: Головокружительные Горы
+	Windswept Wastes: Ветровые Просторы
+	Eye of Abendego: Око Абендего
+	Ilizmagorti: Илизмагорти
+	Terwa Uplands: Возвышенности Тэрва
+	shahzada: шахиншах
+	Wanshou: Ваньшоу
+	Outsea: Наморье
+
 trait: признак / особенность
 	оружие:
 		agile: быстрое
+		attached: прикрепляемое
 		finesse: точное
 		backswing: обратный замах
 		backstabber: предательское
@@ -696,6 +797,8 @@ trait: признак / особенность
 		tethered: привязанное
 		grapple: захват
 		concealable: скрываемое
+		hampering: мешающее
+		resonant: резонирующее
 	остальные:
 		visual: визуальный
 		auditory: слуховой
@@ -727,6 +830,8 @@ trait: признак / особенность
 		haunt: призрак (вид опасности)
 		cursebound: проклятое (фокусные оракула)
 		focused: фокусирующий (предмет)
+	существа
+		amphibious: земноводный
 trigger: триггер (в описании способностей), провоцировать (о срабатывании триггера)
 the Pit: Преисподняя
 
