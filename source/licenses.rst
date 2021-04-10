@@ -371,3 +371,29 @@ Pathfinder #163: Ruins of Gauntlight
 **Soul Eater from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by David Cook.
 
 **Pathfinder Adventure Path #163: Ruins of Gauntlight** © 2021, Paizo Inc.; Author: James Jacobs.
+
+
+
+Pathfinder #164: Hands of the Devil
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Skulk from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Simon Muth.
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Adventure Path #164: Hands of the Devil** © 2021, Paizo Inc.; Authors: Vanessa Hoskins, with Ron Lundeen, Quinn Murphy, and Amber Stewart.
+
+
+
+Pathfinder #165: Eyes of Empty Death
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Daemon, Guardian from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Ian McDowall.
+
+**Daemon, Derghodaemon from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
+
+**Froghemoth from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
+
+**Pathfinder Adventure Path #165: Eyes of Empty Death** © 2021, Paizo Inc.; Authors: Stephen Radney- MacFarland, with James Jacobs and Mikhail Rekun.
