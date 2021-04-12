@@ -4,4 +4,6 @@
 
 .. role:: alignment
 
+.. role:: size
+
 .. role:: eop-comment
