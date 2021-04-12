@@ -625,7 +625,7 @@
 
 .. _ancestry-feat--Tengu--Eclectic-Sword-Training:
 
-Эклектическая тренировка с мечем (`Eclectic Sword Training <https://2e.aonprd.com/Feats.aspx?ID=1319>`_) / 9
+Эклектическая тренировка с мечом (`Eclectic Sword Training <https://2e.aonprd.com/Feats.aspx?ID=1319>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - тэнгу

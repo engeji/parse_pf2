@@ -946,6 +946,21 @@ section > h6 + ul li p span.alignment {
 	width: 100%;
 }
 
+ul.traits li p span.size,
+section > h1 + ul li p span.size,
+section > h2 + ul li p span.size,
+section > h3 + ul li p span.size,
+section > h4 + ul li p span.size,
+section > h5 + ul li p span.size,
+section > h6 + ul li p span.size {
+	background-color: #3b7b59;
+	box-sizing: content-box;
+	display: inline-block;
+	margin-left: -0.25em;
+	padding: 0 0.25em;
+	width: 100%;
+}
+
 
 span.eop-comment {
 	margin-top: 0.2em;
