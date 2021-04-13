@@ -804,7 +804,6 @@ trait: признак / особенность
 		auditory: слуховой
 		linguistic: языковой
 		move: движение
-			move action: перемещение/движение
 		manipulate: воздействие
 		secret: тайна / тайная проверка
 		emotion: эмоция
