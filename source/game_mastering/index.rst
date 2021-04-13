@@ -1252,6 +1252,8 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 
 
 
+.. _ch10--Starvation-and-Thirst:
+
 Голод и жажда (Starvation and Thirst)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
