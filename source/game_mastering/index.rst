@@ -2392,6 +2392,8 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 
 
 
+.. _ch10--Environmental-Damage:
+
 Урон от окружения (`Environmental Damage <https://2e.aonprd.com/Rules.aspx?ID=591>`_)
 -----------------------------------------------------------------------------------------------------
 
