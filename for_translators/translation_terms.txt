@@ -286,7 +286,7 @@ duration: продолжительность
 Emblazon Armament: Освящение Оружия (TODO перевод)
 encounter: столкновение
 Experience Points: Очки Опыта
-extradimensional space: внепространственное пространство (facepalm)/ межпространственный карман
+extradimensional space: межпространственный карман
 
 feat: способность
 	general feat: общая способность
