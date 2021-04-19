@@ -51,7 +51,7 @@ smartquotes = False
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = [
 	'helpers',
-	'appendix',
+	# 'appendix',
 	'Thumbs.db', '.DS_Store'
 ]
 

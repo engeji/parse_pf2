@@ -68,7 +68,24 @@ h5, p.h5.rubric {
 	margin-bottom: 0.3em;
 }
 
-.rst-content .section > .line-block {
+.rst-content ul.simple {
+	/*list-style-position: initial;*/
+	/*list-style-image: initial;*/
+	list-style-type: disc;
+}
+
+.rst-content ul.simple li {
+	/*list-style-position: initial;*/
+	/*list-style-image: initial;*/
+	list-style-type: inherit;
+	margin-left: 1.5em;
+}
+
+.rst-content ul.simple li p {
+	margin-bottom: 0;
+}
+
+.rst-content section > .line-block {
 	border-left: 0.25em solid #cec1ac;
 	padding-left: 0.4em;
 }
@@ -91,11 +108,15 @@ h2 + blockquote.epigraph + hr.docutils {
 	margin-bottom: 1em;
 }
 
-div.section {
+section {
 	margin-top: 0.9em;
 }
 
-div.section > p {
+section.wy-nav-content-wrap {
+	margin-top: 0;
+}
+
+section > p {
 	margin-bottom: 0.2em;
 }
 
@@ -107,7 +128,7 @@ div.section > p {
 	Сайдбары
 */
 
-.rst-content div.sidebar {
+.rst-content aside.sidebar {
 	background-color: #cec1ab;
 	margin-bottom: 0.6em;
 	margin-left: 0.6em;
@@ -116,33 +137,33 @@ div.section > p {
 	padding-right: 0.6em;
 }
 
-.rst-content div.sidebar > p {
+.rst-content aside.sidebar > p {
 	margin-bottom: 0.2em;
-	text-indent: 1em;
+	/*text-indent: 1em;*/
 }
 
-.rst-content div.sidebar ul {
+.rst-content aside.sidebar ul {
 	font-size: initial;
 }
 
-.rst-content div.sidebar .sidebar-title {
+.rst-content aside.sidebar .sidebar-title {
 	background-color: #afa492;
 	text-transform: uppercase;
 	margin-left: -0.6em;
 	margin-right: -0.6em;
 }
 
-.rst-content div.sidebar p.sidebar-title {
+.rst-content aside.sidebar p.sidebar-title {
 	margin-bottom: 0.5em;
 }
 
-.rst-content div.sidebar p.rubric {
+.rst-content aside.sidebar p.rubric {
 	margin-bottom: 0.1em;
 	margin-top: 0.8em;
 	text-indent: initial;
 }
 
-.rst-content div.sidebar-char-ancestry-class {
+.rst-content aside.sidebar-char-ancestry-class {
 	background-color: #efede9;
 	border: solid #5e0000;
 	border-width: 0 0 0 1px;
@@ -151,18 +172,18 @@ div.section > p {
 	width: 30%;
 }
 
-.rst-content div.sidebar-char-ancestry-class p.sidebar-title {
+.rst-content aside.sidebar-char-ancestry-class p.sidebar-title {
 	display: none;
 }
 
-.rst-content div.sidebar-char-ancestry-class > p {
+.rst-content aside.sidebar-char-ancestry-class > p {
 	color: #5e0000;
 	margin-bottom: 0;
 	text-indent: initial;
 	line-height: 1.4em;
 }
 
-.rst-content div.sidebar-char-ancestry-class p.rubric {
+.rst-content aside.sidebar-char-ancestry-class p.rubric {
 	color: #5e0000;
 	margin-bottom: 0.3em;
 	margin-top: 0.8em;
@@ -170,7 +191,7 @@ div.section > p {
 	text-transform: uppercase;
 }
 
-.rst-content div.sidebar-wide {
+.rst-content aside.sidebar-wide {
 	float: initial;
 	width: 85%;
 }
@@ -200,8 +221,13 @@ div.section > p {
 	text-align: inherit;
 }
 
+.rst-content table.docutils thead div.line-block {
+	line-height: 1.25em;
+	margin: 0;
+}
+
 .rst-content table.docutils th {
-	padding: 0.5em;
+	padding: 0.25em 0.5em;
 }
 
 .rst-content table.docutils th p {
@@ -224,7 +250,8 @@ div.section > p {
 	margin-bottom: 0.1em;
 }
 
-.rst-content table.docutils td:nth-child(1) p:not(:first-child) {
+.rst-content table.docutils td:nth-child(1) p:not(:first-child),
+.rst-content table.docutils td:nth-child(1) div.line-block:not(:first-child) {
 	text-indent: 1em;
 }
 
@@ -240,12 +267,11 @@ div.section > p {
 	Изображения
 */
 
-.rst-content div.figure > p.caption,
-.rst-content div.figure > div.legend {
+.rst-content figure > figcaption {
 	background-color: #ede3c8;
 }
 
-.rst-content div.figure > p.caption {
+.rst-content figure > figcaption > p {
 	color: #5e0000;
 	font-style: normal;
 	font-weight: bolder;
@@ -255,11 +281,11 @@ div.section > p {
 	text-transform: uppercase;
 }
 
-.rst-content div.figure > div.legend {
+.rst-content figure > figcaption div.legend {
 	padding: 0 1.5em 0.5em 0.3em;
 }
 
-.rst-content div.figure > div.legend p {
+.rst-content figure > figcaption div.legend p {
 	margin: 0;
 }
 
@@ -417,99 +443,28 @@ div.versionadded span.versionmodified {
 }
 
 
-/*
-	Описание
-	Если надо по жесткому назначить какому-то разделу стиль описания
-*/
-
-div.description.section {
-	margin-top: 1.2em;
-}
-
-div.description.section > p {
-	margin-bottom: 0.1em;
-	text-indent: inherit;
-}
-
-div.description.section > h2,
-div.description.section > h3,
-div.description.section > h4,
-div.description.section > h5,
-div.description.section > h6 {
-	box-sizing: border-box;
-	color: #404040;
-	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
-	font-size: 100%;
-	font-weight: 700;
-	margin-bottom: 0.3em;
-	margin-top: 0;
-	text-transform: uppercase;
-}
-
-div.description.section > h2 + ul,
-div.description.section > h3 + ul,
-div.description.section > h4 + ul,
-div.description.section > h5 + ul,
-div.description.section > h6 + ul {
-	background-color: #d9c484;
-	display: inline-block;
-	margin-bottom: 0.2em;
-	padding: 0.15em 0.2em;
-}
-
-div.description.section > h2 + ul li,
-div.description.section > h3 + ul li,
-div.description.section > h4 + ul li,
-div.description.section > h5 + ul li,
-div.description.section > h6 + ul li {
-	display: inline;
-	margin: 0 0.025em;
-	margin-left: 0;
-}
-
-div.description.section > h1 + ul li p,
-div.description.section > h2 + ul li p,
-div.description.section > h3 + ul li p,
-div.description.section > h4 + ul li p,
-div.description.section > h5 + ul li p,
-div.description.section > h6 + ul li p {
-	background-color: #5e0000;
-	color: #fff;
-	display: inline;
-	font-weight: bolder;
-	padding: 0.3em;
-}
-
-div.description hr {
-	border-top: 1px solid #404040;
-	margin: 1px 0;
-}
-
-
-
-
 
 /*
 	Классы, родословные, предыстории
 */
 
 /* as h1*/
-div.ancestry h2,
-div.versatile-heritages h2,
-/*div.backgrounds h2,*/
-div.languages h2,
-div.char-class h2,
-div.animal-companions h2,
-div.class-archetypes h2,
-div.equip-subchap h2,
-div.gear-description h2,
-div.religion h2,
-/*div.spells-focus h2,*/
-/*div.spells-rituals h2,*/
-div.gm-subchap h2,
-div.conditions h2,
-div.glossary h2,
-div.game-mode h2 {
+section.ancestry h2,
+section.versatile-heritages h2,
+/*section.backgrounds h2,*/
+section.languages h2,
+section.char-class h2,
+section.animal-companions h2,
+section.class-archetypes h2,
+section.equip-subchap h2,
+/*section.gear-description h2,*/
+section.religion h2,
+/*section.spells-focus h2,*/
+/*section.spells-rituals h2,*/
+section.gm-subchap h2,
+/*section.conditions h2,*/
+/*section.glossary h2,*/
+section.game-mode h2 {
 	box-sizing: border-box;
 	color: #5e0000;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -520,39 +475,39 @@ div.game-mode h2 {
 }
 
 /* as h2*/
-div.char-creation-step h3,
-div.ancestry h2,
-div.versatile-heritages h3,
-/*div.backgrounds h3,*/
-div.languages h3,
-div.char-class h2,
-div.animal-companions h2,
-/*div.class-archetypes h3,*/
-div.archetype.multiclass h1,
-div.archetype h1,
-div.hellknight-order-abilities h1,
-div.equip-subchap h3,
-div.religion h3,
-div.spells-focus h2,
-/*div.spells-rituals h3,*/
-div.craft-treasure-alchemicalitems h1,
-div.craft-treasure-consumables h1,
-div.craft-treasure-snares h1,
-div.craft-treasure-held h1,
-div.craft-treasure-worn h1,
-div.craft-treasure-runes h1,
-div.craft-treasure-shields h1,
-div.craft-treasure-weapons h1,
-div.craft-treasure-staves h1,
-div.craft-treasure-wands h1,
-div.craft-treasure-armor h1,
-div.craft-treasure-structures h1,
-div.craft-treasure-materials h1,
-div.gm-subchap h3,
-div.hazards h2,
-div.conditions h3,
-div.glossary h3,
-div.game-mode h3 {
+section.char-creation-step h3,
+section.ancestry h2,
+section.versatile-heritages h3,
+/*section.backgrounds h3,*/
+section.languages h3,
+section.char-class h2,
+section.animal-companions h2,
+/*section.class-archetypes h3,*/
+section.archetype.multiclass h1,
+section.archetype h1,
+section.hellknight-order-abilities h1,
+section.equip-subchap h3,
+section.religion h3,
+section.spells-focus h2,
+/*section.spells-rituals h3,*/
+section.craft-treasure-alchemicalitems h1,
+section.craft-treasure-consumables h1,
+section.craft-treasure-snares h1,
+section.craft-treasure-held h1,
+section.craft-treasure-worn h1,
+section.craft-treasure-runes h1,
+section.craft-treasure-shields h1,
+section.craft-treasure-weapons h1,
+section.craft-treasure-staves h1,
+section.craft-treasure-wands h1,
+section.craft-treasure-armor h1,
+section.craft-treasure-structures h1,
+section.craft-treasure-materials h1,
+section.gm-subchap h3,
+section.hazards h2,
+/*section.conditions h3,*/
+/*section.glossary h3,*/
+section.game-mode h3 {
 	box-sizing: border-box;
 	color: #002664;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -564,35 +519,35 @@ div.game-mode h3 {
 }
 
 /* as h3*/
-div.char-creation-step h4,
-/*div.ancestry h4,*/
-div.versatile-heritages h4,
-div.char-class h3,
-div.animal-companions h3,
-div.class-archetypes h2,
-div.archetype.multiclass h2,
-div.archetype h4,
-div.hellknight-order-abilities h2,
-div.equip-subchap h4,
-div.gear-description h3,
-div.religion h4,
-/*div.spells-rituals h4,*/
-div.craft-treasure-alchemicalitems h2,
-div.craft-treasure-consumables h2,
-div.craft-treasure-snares h2,
-div.craft-treasure-worn h2,
-div.craft-treasure-runes h2,
-div.craft-treasure-shields h2,
-div.craft-treasure-weapons h2,
-div.craft-treasure-staves h2,
-div.craft-treasure-wands h2,
-div.craft-treasure-armor h2,
-div.craft-treasure-materials h2,
-div.gm-subchap h4,
-div.hazards h3,
-div.conditions h4,
-div.glossary h4,
-div.game-mode h4 {
+section.char-creation-step h4,
+/*section.ancestry h4,*/
+section.versatile-heritages h4,
+section.char-class h3,
+section.animal-companions h3,
+section.class-archetypes h2,
+section.archetype.multiclass h2,
+section.archetype h4,
+section.hellknight-order-abilities h2,
+section.equip-subchap h4,
+section.gear-description h2,
+section.religion h4,
+/*section.spells-rituals h4,*/
+section.craft-treasure-alchemicalitems h2,
+section.craft-treasure-consumables h2,
+section.craft-treasure-snares h2,
+section.craft-treasure-worn h2,
+section.craft-treasure-runes h2,
+section.craft-treasure-shields h2,
+section.craft-treasure-weapons h2,
+section.craft-treasure-staves h2,
+section.craft-treasure-wands h2,
+section.craft-treasure-armor h2,
+section.craft-treasure-materials h2,
+section.gm-subchap h4,
+section.hazards h3,
+/*section.conditions h2,*/
+/*section.glossary h4,*/
+section.game-mode h4 {
 	box-sizing: border-box;
 	color: #5e0000;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -604,26 +559,26 @@ div.game-mode h4 {
 }
 
 /* as h4*/
-div.char-creation-step h5,
-div.ancestry h5,
-div.versatile-heritages h5,
-div.char-class h4,
-div.animal-companions h4,
-div.class-archetypes h3,
-div.equip-subchap h5,
-div.religion h5,
-div.spells-rituals h5,
-div.craft-treasure-alchemicalitems h3,
-div.craft-treasure-consumables h3,
-div.craft-treasure-snares h3,
-div.craft-treasure-worn h3,
-div.craft-treasure-worn div.section div.craft-treasure-worn-companion-invest h3,
-div.craft-treasure-runes h3,
-div.craft-treasure-staves h3,
-div.craft-treasure-wands h3,
-div.craft-treasure-materials h3,
-div.gm-subchap h5,
-div.game-mode h5 {
+section.char-creation-step h5,
+section.ancestry h5,
+section.versatile-heritages h5,
+section.char-class h4,
+section.animal-companions h4,
+section.class-archetypes h3,
+section.equip-subchap h5,
+section.religion h5,
+section.spells-rituals h5,
+section.craft-treasure-alchemicalitems h3,
+section.craft-treasure-consumables h3,
+section.craft-treasure-snares h3,
+section.craft-treasure-worn h3,
+section.craft-treasure-worn section section.craft-treasure-worn-companion-invest h3,
+section.craft-treasure-runes h3,
+section.craft-treasure-staves h3,
+section.craft-treasure-wands h3,
+section.craft-treasure-materials h3,
+section.gm-subchap h5,
+section.game-mode h5 {
 	box-sizing: border-box;
 	color: #a86753;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -634,7 +589,7 @@ div.game-mode h5 {
 	text-transform: initial;
 }
 
-div.backgrounds h3 { /* в этом разделе нет вложенностей, h3 это уже описание предысторий */
+section.backgrounds h3 { /* в этом разделе нет вложенностей, h3 это уже описание предысторий */
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -653,115 +608,115 @@ div.backgrounds h3 { /* в этом разделе нет вложенносте
 	Описания действий, навыков, способностей, заклинаний, опасностей, предметов
 */
 
-div.ancestry-class-feats div.section,
-div.spells-descr div.section,
-div.spell.section,
-div.gen-skill-actions div.section,
-div.skill-descr div.section,
-div.feats-descr div.section,
-div.animal.section,
-div.expl-activities div.section,
-div.spells-focus div.section,
-div.rituals-list div.section,
-div.gm-hazards div.section,
-div.craft-treasure-bombs div.section,
-div.craft-treasure-elixirs div.section,
-div.craft-treasure-poisons div.section,
-div.craft-treasure-alchtools div.section,
-div.craft-treasure-armor div.section,
-div.craft-treasure-ammunition div.section,
-div.craft-treasure-oils div.section,
-div.craft-treasure-potions div.section,
-div.craft-treasure-scrolls div.section,
-div.craft-treasure-talismans div.section,
-div.craft-treasure-other div.section,
-div.craft-treasure-held div.section,
-div.craft-treasure-materials div.section,
-div.craft-treasure-runes div.section,
-div.craft-treasure-shields div.section,
-div.craft-treasure-snares div.section,
-div.craft-treasure-staves-list div.section,
-div.craft-treasure-structures div.section,
-div.craft-treasure-wands div.section,
-div.craft-treasure-weapons div.section,
-div.craft-treasure-worn div.section,
-div.actions-descr div.section {
+section.ancestry-class-feats section,
+section.spells-descr section,
+section.spell,
+section.gen-skill-actions section,
+section.skill-descr section,
+section.feats-descr section,
+section.section,
+section.expl-activities section,
+section.spells-focus section,
+section.rituals-list section,
+section.gm-hazards section,
+section.craft-treasure-bombs section,
+section.craft-treasure-elixirs section,
+section.craft-treasure-poisons section,
+section.craft-treasure-alchtools section,
+section.craft-treasure-armor section,
+section.craft-treasure-ammunition section,
+section.craft-treasure-oils section,
+section.craft-treasure-potions section,
+section.craft-treasure-scrolls section,
+section.craft-treasure-talismans section,
+section.craft-treasure-other section,
+section.craft-treasure-held section,
+section.craft-treasure-materials section,
+section.craft-treasure-runes section,
+section.craft-treasure-shields section,
+section.craft-treasure-snares section,
+section.craft-treasure-staves-list section,
+section.craft-treasure-structures section,
+section.craft-treasure-wands section,
+section.craft-treasure-weapons section,
+section.craft-treasure-worn section,
+section.actions-descr section {
 	margin-top: 1.2em;
 }
 
-div.ancestry-class-feats div.section > p,
-div.spells-descr div.section > p,
-div.spell.section > p,
-div.gen-skill-actions div.section > p,
-div.skill-descr div.section > p,
-div.feats-descr div.section > p,
-div.animal.section > p,
-div.expl-activities div.section > p,
-div.spells-focus div.section > p,
-div.rituals-list div.section > p,
-div.gm-hazards div.section > p,
-div.craft-treasure-bombs div.section > p,
-div.craft-treasure-elixirs div.section, > p,
-div.craft-treasure-poisons div.section, > p,
-div.craft-treasure-alchtools div.section, > p,
-div.craft-treasure-armor div.section > p,
-div.craft-treasure-ammunition div.section > p,
-div.craft-treasure-oils div.section > p,
-div.craft-treasure-potions div.section > p,
-div.craft-treasure-scrolls div.section > p,
-div.craft-treasure-talismans div.section > p,
-div.craft-treasure-other div.section > p,
-div.craft-treasure-held div.section > p,
-div.craft-treasure-materials div.section > p,
-div.craft-treasure-runes div.section > p,
-div.craft-treasure-shields div.section > p,
-div.craft-treasure-snares div.section > p,
-div.craft-treasure-staves-list div.section > p,
-div.craft-treasure-structures div.section > p,
-div.craft-treasure-wands div.section > p,
-div.craft-treasure-weapons div.section > p,
-div.craft-treasure-worn div.section > p,
-div.actions-descr div.section div.section > p {
+section.ancestry-class-feats section > p,
+section.spells-descr section > p,
+section.spell > p,
+section.gen-skill-actions section > p,
+section.skill-descr section > p,
+section.feats-descr section > p,
+section.animal > p,
+section.expl-activities section > p,
+section.spells-focus section > p,
+section.rituals-list section > p,
+section.gm-hazards section > p,
+section.craft-treasure-bombs section > p,
+section.craft-treasure-elixirs section, > p,
+section.craft-treasure-poisons section, > p,
+section.craft-treasure-alchtools section, > p,
+section.craft-treasure-armor section > p,
+section.craft-treasure-ammunition section > p,
+section.craft-treasure-oils section > p,
+section.craft-treasure-potions section > p,
+section.craft-treasure-scrolls section > p,
+section.craft-treasure-talismans section > p,
+section.craft-treasure-other section > p,
+section.craft-treasure-held section > p,
+section.craft-treasure-materials section > p,
+section.craft-treasure-runes section > p,
+section.craft-treasure-shields section > p,
+section.craft-treasure-snares section > p,
+section.craft-treasure-staves-list section > p,
+section.craft-treasure-structures section > p,
+section.craft-treasure-wands section > p,
+section.craft-treasure-weapons section > p,
+section.craft-treasure-worn section > p,
+section.actions-descr section section > p {
 	margin-bottom: 0.1em;
 	text-indent: inherit;
 }
 
-div.ancestry-class-feats div.section > h4,
-div.spells-descr div.section > h4,
-div.spell.section > h1,
-div.gen-skill-actions div.section > h4,
-div.skill-descr div.section > h4,
-div.feats-descr div.section > h3,
-div.animal.section > h4,
-div.archetype.multiclass div.section > h3,
-div.archetype div.section > h2,
-div.hellknight-order-abilities div.section > h3,
-div.expl-activities div.section > h4,
-div.spells-focus div.section > h3,
-div.rituals-list div.section > h3,
-div.gm-hazards div.section > h3,
-div.craft-treasure-bombs div.section > h4,
-div.craft-treasure-elixirs div.section > h4,
-div.craft-treasure-poisons div.section > h4,
-div.craft-treasure-alchtools div.section > h3,
-div.craft-treasure-armor div.section > h3,
-div.craft-treasure-ammunition div.section > h4,
-div.craft-treasure-oils div.section > h3,
-div.craft-treasure-potions div.section > h3,
-div.craft-treasure-scrolls div.section > h4,
-div.craft-treasure-talismans div.section > h4,
-div.craft-treasure-other div.section > h3,
-div.craft-treasure-held div.section > h2,
-div.craft-treasure-materials div.section > h4,
-div.craft-treasure-runes div.section > h4,
-div.craft-treasure-shields div.section > h3,
-div.craft-treasure-snares div.section > h3,
-div.craft-treasure-staves-list div.section > h4,
-div.craft-treasure-structures div.section > h2,
-div.craft-treasure-wands div.section > h4,
-div.craft-treasure-weapons div.section > h3,
-div.craft-treasure-worn div.section > h3,
-div.actions-descr div.section div.section > h5 {
+section.ancestry-class-feats section > h4,
+section.spells-descr section > h4,
+section.spell > h1,
+section.gen-skill-actions section > h4,
+section.skill-descr section > h4,
+section.feats-descr section > h3,
+section.animal > h4,
+section.archetype.multiclass section > h3,
+section.archetype section > h2,
+section.hellknight-order-abilities section > h3,
+section.expl-activities section > h4,
+section.spells-focus section > h3,
+section.rituals-list section > h3,
+section.gm-hazards section > h3,
+section.craft-treasure-bombs section > h4,
+section.craft-treasure-elixirs section > h4,
+section.craft-treasure-poisons section > h4,
+section.craft-treasure-alchtools section > h3,
+section.craft-treasure-armor section > h3,
+section.craft-treasure-ammunition section > h4,
+section.craft-treasure-oils section > h3,
+section.craft-treasure-potions section > h3,
+section.craft-treasure-scrolls section > h4,
+section.craft-treasure-talismans section > h4,
+section.craft-treasure-other section > h3,
+section.craft-treasure-held section > h2,
+section.craft-treasure-materials section > h4,
+section.craft-treasure-runes section > h4,
+section.craft-treasure-shields section > h3,
+section.craft-treasure-snares section > h3,
+section.craft-treasure-staves-list section > h4,
+section.craft-treasure-structures section > h2,
+section.craft-treasure-wands section > h4,
+section.craft-treasure-weapons section > h3,
+section.craft-treasure-worn section > h3,
+section.actions-descr section section > h5 {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -772,178 +727,53 @@ div.actions-descr div.section div.section > h5 {
 	text-transform: uppercase;
 }
 
-div.item-type-rarity.section ul:has(p.uncommon),
-div.item-type-rarity.section ul:has(p.rare),
-div.ancestry-class-feats div.section > h4 + ul,
-div.spells-descr div.section > h4 + ul,
-div.spell.section > h1 + ul,
-div.gen-skill-actions div.section > h4 + ul,
-div.skill-descr div.section > h4 + ul,
-div.feats-descr div.section > h3 + ul,
-div.animal.section > h4 + ul,
-div.archetype.multiclass div.section > h3 + ul ,
-div.archetype div.section > h2 + ul ,
-div.hellknight-order-abilities div.section > h3 + ul ,
-div.expl-activities div.section > h4 + ul,
-div.spells-focus div.section > h3 + ul,
-div.rituals-list div.section > h3 + ul,
-div.gm-hazards div.section > h3 + ul,
-div.craft-treasure-bombs div.section > h4 + ul,
-div.craft-treasure-elixirs div.section > h4 + ul,
-div.craft-treasure-poisons div.section > h4 + ul,
-div.craft-treasure-alchtools div.section > h3 + ul,
-div.craft-treasure-armor div.section > h3 + ul,
-div.craft-treasure-ammunition div.section > h4 + ul,
-div.craft-treasure-oils div.section > h3 + ul,
-div.craft-treasure-potions div.section > h3 + ul,
-div.craft-treasure-scrolls div.section > h4 + ul,
-div.craft-treasure-talismans div.section > h4 + ul,
-div.craft-treasure-other div.section > h3 + ul,
-div.craft-treasure-held div.section > h2 + ul,
-div.craft-treasure-materials div.section > h4 + ul,
-div.craft-treasure-runes div.section > h4 + ul,
-div.craft-treasure-shields div.section > h3 + ul,
-div.craft-treasure-snares div.section > h3 + ul,
-div.craft-treasure-staves-list div.section > h4 + ul,
-div.craft-treasure-structures div.section > h2 + ul,
-div.craft-treasure-wands div.section > h4 + ul,
-div.craft-treasure-weapons div.section > h3 + ul,
-div.craft-treasure-worn div.section > h3 + ul,
-div.actions-descr div.section div.section > h5 + ul {
-	background-color: #d9c484;
-	display: inline-block;
-	margin-bottom: 0.2em;
-	padding: 0.15em 0.2em;
-}
 
-div.item-type-rarity.section ul li:has(p.uncommon),
-div.item-type-rarity.section ul li:has(p.rare),
-div.ancestry-class-feats div.section > h4 + ul li,
-div.spells-descr div.section > h4 + ul li,
-div.spell.section > h1 + ul li,
-div.gen-skill-actions div.section > h4 + ul li,
-div.skill-descr div.section > h4 + ul li,
-div.feats-descr div.section > h3 + ul li,
-div.animal.section > h4 + ul li,
-div.archetype.multiclass div.section > h3 + ul li,
-div.archetype div.section > h2 + ul li,
-div.hellknight-order-abilities div.section > h3 + ul li,
-div.expl-activities div.section > h4 + ul li,
-div.spells-focus div.section > h3 + ul li,
-div.rituals-list div.section > h3 + ul li,
-div.gm-hazards div.section > h3 + ul li,
-div.craft-treasure-bombs div.section > h4 + ul li,
-div.craft-treasure-elixirs div.section > h4 + ul li,
-div.craft-treasure-poisons div.section > h4 + ul li,
-div.craft-treasure-alchtools div.section > h3 + ul li,
-div.craft-treasure-armor div.section > h3 + ul li,
-div.craft-treasure-ammunition div.section > h4 + ul li,
-div.craft-treasure-oils div.section > h3 + ul li,
-div.craft-treasure-potions div.section > h3 + ul li,
-div.craft-treasure-scrolls div.section > h4 + ul li,
-div.craft-treasure-talismans div.section > h4 + ul li,
-div.craft-treasure-other div.section > h3 + ul li,
-div.craft-treasure-held div.section > h2 + ul li,
-div.craft-treasure-materials div.section > h4 + ul li,
-div.craft-treasure-runes div.section > h4 + ul li,
-div.craft-treasure-shields div.section > h3 + ul li,
-div.craft-treasure-snares div.section > h3 + ul li,
-div.craft-treasure-staves-list div.section > h4 + ul li,
-div.craft-treasure-structures div.section > h2 + ul li,
-div.craft-treasure-wands div.section > h4 + ul li,
-div.craft-treasure-weapons div.section > h3 + ul li,
-div.craft-treasure-worn div.section > h3 + ul li,
-div.actions-descr div.section div.section > h5 + ul li {
-	display: inline;
-	margin: 0 0.025em;
-}
 
-div.item-type-rarity.section ul li p.uncommon,
-div.item-type-rarity.section ul li p.rare,
-div.ancestry-class-feats div.section > h4 + ul li p,
-div.spells-descr div.section > h4 + ul li p,
-div.spell.section > h1 + ul li p,
-div.gen-skill-actions div.section > h4 + ul li p,
-div.skill-descr div.section > h4 + ul li p,
-div.feats-descr div.section > h3 + ul li p,
-div.animal.section > h4 + ul li p,
-div.archetype.multiclass div.section > h3 + ul li p,
-div.archetype div.section > h2 + ul li p,
-div.hellknight-order-abilities div.section > h3 + ul li p,
-div.expl-activities div.section > h4 + ul li p,
-div.spells-focus div.section > h3 + ul li p,
-div.rituals-list div.section > h3 + ul li p,
-div.gm-hazards div.section > h3 + ul li p,
-div.craft-treasure-bombs div.section > h4 + ul li p,
-div.craft-treasure-elixirs div.section > h4 + ul li p,
-div.craft-treasure-poisons div.section > h4 + ul li p,
-div.craft-treasure-alchtools div.section > h3 + ul li p,
-div.craft-treasure-armor div.section > h3 + ul li p,
-div.craft-treasure-ammunition div.section > h4 + ul li p,
-div.craft-treasure-oils div.section > h3 + ul li p,
-div.craft-treasure-potions div.section > h3 + ul li p,
-div.craft-treasure-scrolls div.section > h4 + ul li p,
-div.craft-treasure-talismans div.section > h4 + ul li p,
-div.craft-treasure-other div.section > h3 + ul li p,
-div.craft-treasure-held div.section > h2 + ul li p,
-div.craft-treasure-materials div.section > h4 + ul li p,
-div.craft-treasure-runes div.section > h4 + ul li p,
-div.craft-treasure-shields div.section > h3 + ul li p,
-div.craft-treasure-snares div.section > h3 + ul li p,
-div.craft-treasure-staves-list div.section > h4 + ul li p,
-div.craft-treasure-structures div.section > h2 + ul li p,
-div.craft-treasure-wands div.section > h4 + ul li p,
-div.craft-treasure-weapons div.section > h3 + ul li p,
-div.craft-treasure-worn div.section > h3 + ul li p,
-div.actions-descr div.section div.section > h5 + ul li p {
-	background-color: #5e0000;
-	color: #fff;
-	display: inline;
-	font-weight: bolder;
-	padding: 0.3em;
-}
-
-div.ancestry-class-feats div.section hr,
-div.spells-descr div.section hr,
-div.spell.section hr,
-div.gen-skill-actions div.section hr,
-div.skill-descr div.section hr,
-div.feats-descr div.section hr,
-div.animal.section hr,
-div.archetype.multiclass div.section hr,
-div.archetype div.section hr,
-div.hellknight-order-abilities div.section hr,
-div.expl-activities div.section hr,
-div.spells-focus div.section hr,
-div.rituals-list div.section hr,
-div.gm-hazards div.section hr,
-div.craft-treasure-bombs div.section hr,
-div.craft-treasure-elixirs div.section hr,
-div.craft-treasure-poisons div.section hr,
-div.craft-treasure-alchtools div.section hr,
-div.craft-treasure-armor div.section hr,
-div.craft-treasure-ammunition div.section hr,
-div.craft-treasure-oils div.section hr,
-div.craft-treasure-potions div.section hr,
-div.craft-treasure-scrolls div.section hr,
-div.craft-treasure-talismans div.section hr,
-div.craft-treasure-other div.section hr,
-div.craft-treasure-held div.section hr,
-div.craft-treasure-materials div.section hr,
-div.craft-treasure-runes div.section hr,
-div.craft-treasure-shields div.section hr,
-div.craft-treasure-snares div.section hr,
-div.craft-treasure-staves-list div.section hr,
-div.craft-treasure-structures div.section hr,
-div.craft-treasure-wands div.section hr,
-div.craft-treasure-weapons div.section hr,
-div.craft-treasure-worn div.section hr,
-div.actions-descr div.section hr {
+section.ancestry-class-feats section hr,
+section.spells-descr section hr,
+section.spell hr,
+section.gen-skill-actions section hr,
+section.skill-descr section hr,
+section.feats-descr section hr,
+section.animal hr,
+section.archetype.multiclass section hr,
+section.archetype section hr,
+section.hellknight-order-abilities section hr,
+section.expl-activities section hr,
+section.spells-focus section hr,
+section.rituals-list section hr,
+section.gm-hazards section hr,
+section.craft-treasure-bombs section hr,
+section.craft-treasure-elixirs section hr,
+section.craft-treasure-poisons section hr,
+section.craft-treasure-alchtools section hr,
+section.craft-treasure-armor section hr,
+section.craft-treasure-ammunition section hr,
+section.craft-treasure-oils section hr,
+section.craft-treasure-potions section hr,
+section.craft-treasure-scrolls section hr,
+section.craft-treasure-talismans section hr,
+section.craft-treasure-other section hr,
+section.craft-treasure-held section hr,
+section.craft-treasure-materials section hr,
+section.craft-treasure-runes section hr,
+section.craft-treasure-shields section hr,
+section.craft-treasure-snares section hr,
+section.craft-treasure-staves-list section hr,
+section.craft-treasure-structures section hr,
+section.craft-treasure-wands section hr,
+section.craft-treasure-weapons section hr,
+section.craft-treasure-worn section hr,
+section.actions-descr section hr {
 	border-top: 1px solid #404040;
 	margin: 1px 0;
 }
 
-div.animal.section h4 {
+section.animal {
+	margin-top: 1.5em;
+}
+
+section.animal h4 {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -954,7 +784,7 @@ div.animal.section h4 {
 	text-transform: uppercase;
 }
 
-div.gen-skill-actions div.section > h5 { /* некоторые подробности по действиям скиллов */
+section.gen-skill-actions section > h5 { /* некоторые подробности по действиям скиллов */
 	box-sizing: border-box;
 	color: #a86753;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -965,10 +795,10 @@ div.gen-skill-actions div.section > h5 { /* некоторые подробно�
 	text-transform: inherit;
 }
 
-div.ancestry-class-feats h3,
-/*div.spells-focus h3,*/
-/*div.feats-descr h2,*/
-div.spells-descr h3 { /* Выделение алфавитного заголовка */
+section.ancestry-class-feats h3,
+/*section.spells-focus h3,*/
+/*section.feats-descr h2,*/
+section.spells-descr h3 { /* Выделение алфавитного заголовка */
 	background-color: #002664;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
@@ -985,42 +815,150 @@ div.spells-descr h3 { /* Выделение алфавитного заголо�
 
 
 /*
+	Описание фита/умения
+	Если надо по жесткому назначить какому-либо разделу стиль описания
+	когда он идет отдельно в тексте
+*/
+
+section.description {
+	margin-top: 1.2em;
+}
+
+section.description > p {
+	margin-bottom: 0.1em;
+	text-indent: inherit;
+}
+
+section.description > h2,
+section.description > h3,
+section.description > h4,
+section.description > h5,
+section.description > h6 {
+	box-sizing: border-box;
+	color: #404040;
+	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+	font-size: 100%;
+	font-weight: 700;
+	margin-bottom: 0.3em;
+	margin-top: 0;
+	text-transform: uppercase;
+}
+
+section.description hr {
+	border-top: 1px solid #404040;
+	margin: 1px 0;
+}
+
+
+
+/*
 	Универсальные стили списка признаков
 */
 
-div.section > h1 + ul,
-div.section > h2 + ul,
-div.section > h3 + ul,
-div.section > h4 + ul,
-div.section > h5 + ul,
-div.section > h6 + ul {
+ul.traits,
+section > h1 + ul,
+section > h2 + ul,
+section > h3 + ul,
+section > h4 + ul,
+section > h5 + ul,
+section > h6 + ul {
+	display: inline-block;
+	margin-bottom: 0;
+	padding-inline-start: 0.2em;
+}
+
+ul.traits li,
+section > h1 + ul li,
+section > h2 + ul li,
+section > h3 + ul li,
+section > h4 + ul li,
+section > h5 + ul li,
+section > h6 + ul li {
 	background-color: #d9c484;
 	display: inline-block;
-	margin-bottom: 0.2em;
-	padding: 0.15em 0.2em;
+	margin: 0.1em -0.05em !important;
+	padding: 0.1em 0.25em;
+	list-style-type: none !important;
 }
 
-div.section > h1 + ul li,
-div.section > h2 + ul li,
-div.section > h3 + ul li,
-div.section > h4 + ul li,
-div.section > h5 + ul li,
-div.section > h6 + ul li {
-	display: inline;
-	margin: 0 0.025em !important;
-}
-
-div.section > h1 + ul li p,
-div.section > h2 + ul li p,
-div.section > h3 + ul li p,
-div.section > h4 + ul li p,
-div.section > h5 + ul li p,
-div.section > h6 + ul li p {
+ul.traits li p,
+section > h1 + ul li p,
+section > h2 + ul li p,
+section > h3 + ul li p,
+section > h4 + ul li p,
+section > h5 + ul li p,
+section > h6 + ul li p {
 	background-color: #5e0000;
 	color: #fff;
-	display: inline;
+	display: inline-block;
 	font-weight: bolder;
-	padding: 0.3em;
+	margin: 0;
+	padding: 0 0.25em;
+}
+
+
+/*
+	Окрашенные признаки, редкости и т.п.
+*/
+
+ul.traits li p span.uncommon,
+section > h1 + ul li p span.uncommon,
+section > h2 + ul li p span.uncommon,
+section > h3 + ul li p span.uncommon,
+section > h4 + ul li p span.uncommon,
+section > h5 + ul li p span.uncommon,
+section > h6 + ul li p span.uncommon {
+	background-color: #98513d;
+	box-sizing: content-box;
+	display: inline-block;
+	margin-left: -0.25em;
+	padding: 0 0.25em;
+	width: 100%;
+}
+
+ul.traits li p span.rare,
+section > h1 + ul li p span.rare,
+section > h2 + ul li p span.rare,
+section > h3 + ul li p span.rare,
+section > h4 + ul li p span.rare,
+section > h5 + ul li p span.rare,
+section > h6 + ul li p span.rare {
+	background-color: #002664;
+	box-sizing: content-box;
+	display: inline-block;
+	margin-left: -0.25em;
+	padding: 0 0.25em;
+	width: 100%;
+}
+
+ul.traits li p span.alignment,
+section > h1 + ul li p span.alignment,
+section > h2 + ul li p span.alignment,
+section > h3 + ul li p span.alignment,
+section > h4 + ul li p span.alignment,
+section > h5 + ul li p span.alignment,
+section > h6 + ul li p span.alignment {
+	background-color: #576293;
+	box-sizing: content-box;
+	display: inline-block;
+	margin-left: -0.25em;
+	padding: 0 0.25em;
+	width: 100%;
+}
+
+ul.traits li p span.size,
+section > h1 + ul li p span.size,
+section > h2 + ul li p span.size,
+section > h3 + ul li p span.size,
+section > h4 + ul li p span.size,
+section > h5 + ul li p span.size,
+section > h6 + ul li p span.size {
+	background-color: #3b7b59;
+	box-sizing: content-box;
+	display: inline-block;
+	margin-left: -0.25em;
+	padding: 0 0.25em;
+	width: 100%;
 }
 
 
@@ -1029,99 +967,4 @@ span.eop-comment {
 	margin-bottom: 0.2em;
 	color: #5e0000;
 	font-style: italic;
-}
-
-
-/*
-	С помощью JS мы ищем p у которых внутри есть span.uncommon (или span.rare)
-	и добавляем родителю (p) класс 'uncommon' или 'rare'
-*/
-
-div.section > h1 + ul li p.uncommon,
-div.section > h2 + ul li p.uncommon,
-div.section > h3 + ul li p.uncommon,
-div.section > h4 + ul li p.uncommon,
-div.section > h5 + ul li p.uncommon,
-div.section > h6 + ul li p.uncommon,
-div.item-type-rarity.section ul li p.uncommon,
-div.ancestry-class-feats div.section > h4 + ul li p.uncommon,
-div.archetype.multiclass div.section > h3 + ul li p.uncommon,
-div.archetype div.section > h2 + ul li p.uncommon,
-div.feats-descr div.section > h3 + ul li p.uncommon,
-div.spells-descr div.section > h4 + ul li p.uncommon,
-div.spell.section > h1 + ul li p.uncommon,
-div.spells-focus div.section > h3 + ul li p.uncommon,
-div.rituals-list div.section > h3 + ul li p.uncommon,
-div.gm-hazards div.section > h3 + ul li p.uncommon,
-div.craft-treasure-bombs div.section > h4 + ul li p.uncommon,
-div.craft-treasure-elixirs div.section > h4 + ul li p.uncommon,
-div.craft-treasure-poisons div.section > h4 + ul li p.uncommon,
-div.craft-treasure-alchtools div.section > h3 + ul li p.uncommon,
-div.craft-treasure-armor div.section > h3 + ul li p.uncommon,
-div.craft-treasure-ammunition div.section > h4 + ul li p.uncommon,
-div.craft-treasure-oils div.section > h3 + ul li p.uncommon,
-div.craft-treasure-potions div.section > h3 + ul li p.uncommon,
-div.craft-treasure-scrolls div.section > h4 + ul li p.uncommon,
-div.craft-treasure-talismans div.section > h4 + ul li p.uncommon,
-div.craft-treasure-other div.section > h3 + ul li p.uncommon,
-div.craft-treasure-held div.section > h2 + ul li p.uncommon,
-div.craft-treasure-materials div.section > h4 + ul li p.uncommon,
-div.craft-treasure-runes div.section > h4 + ul li p.uncommon,
-div.craft-treasure-shields div.section > h3 + ul li p.uncommon,
-div.craft-treasure-snares div.section > h3 + ul li p.uncommon,
-div.craft-treasure-staves-list div.section > h4 + ul li p.uncommon,
-div.craft-treasure-structures div.section > h2 + ul li p.uncommon,
-div.craft-treasure-wands div.section > h4 + ul li p.uncommon,
-div.craft-treasure-weapons div.section > h3 + ul li p.uncommon,
-div.craft-treasure-worn div.section > h3 + ul li p.uncommon {
-	background-color: #98513d;
-}
-
-div.section > h1 + ul li p.rare,
-div.section > h2 + ul li p.rare,
-div.section > h3 + ul li p.rare,
-div.section > h4 + ul li p.rare,
-div.section > h5 + ul li p.rare,
-div.section > h6 + ul li p.rare,
-div.item-type-rarity.section ul li p.rare,
-div.ancestry-class-feats div.section > h4 + ul li p.rare,
-div.archetype.multiclass div.section > h3 + ul li p.rare,
-div.archetype div.section > h2 + ul li p.rare,
-div.feats-descr div.section > h3 + ul li p.rare,
-div.spells-descr div.section > h4 + ul li p.rare,
-div.spell.section > h1 + ul li p.rare,
-div.spells-focus div.section > h3 + ul li p.rare,
-div.rituals-list div.section > h3 + ul li p.rare,
-div.gm-hazards div.section > h3 + ul li p.rare,
-div.craft-treasure-bombs div.section > h4 + ul li p.rare,
-div.craft-treasure-elixirs div.section > h4 + ul li p.rare,
-div.craft-treasure-poisons div.section > h4 + ul li p.rare,
-div.craft-treasure-alchtools div.section > h3 + ul li p.rare,
-div.craft-treasure-armor div.section > h3 + ul li p.rare,
-div.craft-treasure-ammunition div.section > h4 + ul li p.rare,
-div.craft-treasure-oils div.section > h3 + ul li p.rare,
-div.craft-treasure-potions div.section > h3 + ul li p.rare,
-div.craft-treasure-scrolls div.section > h4 + ul li p.rare,
-div.craft-treasure-talismans div.section > h4 + ul li p.rare,
-div.craft-treasure-other div.section > h3 + ul li p.rare,
-div.craft-treasure-held div.section > h2 + ul li p.rare,
-div.craft-treasure-materials div.section > h4 + ul li p.rare,
-div.craft-treasure-runes div.section > h4 + ul li p.rare,
-div.craft-treasure-shields div.section > h3 + ul li p.rare,
-div.craft-treasure-snares div.section > h3 + ul li p.rare,
-div.craft-treasure-staves-list div.section > h4 + ul li p.rare,
-div.craft-treasure-structures div.section > h2 + ul li p.rare,
-div.craft-treasure-wands div.section > h4 + ul li p.rare,
-div.craft-treasure-weapons div.section > h3 + ul li p.rare,
-div.craft-treasure-worn div.section > h3 + ul li p.rare {
-	background-color: #002664;
-}
-
-div.section > h1 + ul li p.alignment,
-div.section > h2 + ul li p.alignment,
-div.section > h3 + ul li p.alignment,
-div.section > h4 + ul li p.alignment,
-div.section > h5 + ul li p.alignment,
-div.section > h6 + ul li p.alignment {
-	background-color: #576293;
 }

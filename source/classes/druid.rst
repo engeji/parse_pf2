@@ -581,7 +581,7 @@
 
 .. _Druid--examples:
 
-Примеры жрецов (`Druid Sample Builds <https://2e.aonprd.com/ClassSamples.aspx?Class=6>`_)
+Примеры друидов (`Druid Sample Builds <https://2e.aonprd.com/ClassSamples.aspx?Class=6>`_)
 -----------------------------------------------------------------------------------------------------------
 
 .. Hint::
@@ -627,6 +627,7 @@
 	| :ref:`spell--h--Heal`
 	| :ref:`spell--m--Magic-Fang`
 
+
 .. Hint::
 	**Друид бури**
 
@@ -670,6 +671,7 @@
 	| **1-й уровень**:
 	| :ref:`spell--b--Burning-Hands`
 	| :ref:`spell--g--Gust-of-Wind`
+
 
 .. Hint::
 	**Друид листвы**
