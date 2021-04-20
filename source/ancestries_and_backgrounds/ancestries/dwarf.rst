@@ -377,7 +377,7 @@
 
 .. _ancestry-feat--Dwarf--Unburdened-Iron:
 
-Необремененяющее железо (`Unburdened Iron <https://2e.aonprd.com/Feats.aspx?ID=5>`_) / 1
+Необременяющее железо (`Unburdened Iron <https://2e.aonprd.com/Feats.aspx?ID=5>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - дварф
