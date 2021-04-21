@@ -751,6 +751,7 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 
 
 .. rst-class:: gm-subchap
+.. _ch10--Running-Modes-of-Play:
 
 Ведение режимов игры (Running Modes of Play)
 ==========================================================================================================
@@ -1745,7 +1746,7 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 Знание имени лидера каравана поверхностно, поэтому узнать его - может быть КС 15 (простой КС для обученного из :ref:`table--10-4`).
 Однако выяснение личности его нанимателей может быть КС 20, если они малоизвестны.
 
-.. _ch10--DCs--GIdentifyMagic-LearnSpell:
+.. _ch10--DCs--IdentifyMagic-LearnSpell:
 
 Идентификация магии или Выучить заклинание (`Identify Magic or Learn a Spell <https://2e.aonprd.com/Rules.aspx?ID=562>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
