@@ -574,7 +574,7 @@ Skill: Навык
 		Long Jump: Прыжок в длину :ref:`skill--Athletics--LJump`
 		Shove: Толкнуть :ref:`skill--Athletics--Shove`
 		Swim: Плыть :ref:`skill--Athletics--Swim`
-		Trip: Опрокидывание :ref:`skill--Athletics--Trip`
+		Trip: Опрокинуть :ref:`skill--Athletics--Trip`
 		Disarm: Разоружить :ref:`skill--Athletics--Disarm`
 	Crafting: Ремесло
 		Craft: Создать :ref:`skill--Crafting--Craft`
