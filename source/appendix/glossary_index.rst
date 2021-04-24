@@ -1883,7 +1883,7 @@
 | :ref:`ancestry--Android`
 
 
-Афорит (признак) (`aphorite <https://2e.aonprd.com/Traits.aspx?ID=335>`_)
+Афорит (признак) (`aphorite (trait) <https://2e.aonprd.com/Traits.aspx?ID=335>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -1893,7 +1893,7 @@
 | :ref:`heritage--Aphorite`
 
 
-Азаркет (`azarketi <https://2e.aonprd.com/Traits.aspx?ID=336>`_)
+Азаркет (признак) (`azarketi (trait) <https://2e.aonprd.com/Traits.aspx?ID=336>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -1904,7 +1904,7 @@
 | :ref:`ancestry--Azarketi`
 
 
-Зверолюд (`beastkin <https://2e.aonprd.com/Traits.aspx?ID=337>`_)
+Зверолюд (признак) (`beastkin (trait) <https://2e.aonprd.com/Traits.aspx?ID=337>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -1914,7 +1914,7 @@
 | :ref:`heritage--Beastkin`
 
 
-Фечлин (`fetchling <https://2e.aonprd.com/Traits.aspx?ID=300>`_)
+Фечлин (признак) (`fetchling (trait) <https://2e.aonprd.com/Traits.aspx?ID=300>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -1925,7 +1925,7 @@
 | :ref:`ancestry--Fetchling`
 
 
-Флэшворп (`fleshwarp <https://2e.aonprd.com/Traits.aspx?ID=338>`_)
+Флэшворп (признак) (`fleshwarp (trait) <https://2e.aonprd.com/Traits.aspx?ID=338>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -1935,7 +1935,7 @@
 | :ref:`ancestry--Fleshwarp`
 
 
-Ганзи (`ganzi <https>`_)
+Ганзи (признак) (`ganzi (trait) <https://2e.aonprd.com/Traits.aspx?ID=339>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -1945,7 +1945,7 @@
 | :ref:`heritage--Ganzi`
 
 
-Джинникин / гениеподобный (`geniekin <https://2e.aonprd.com/Traits.aspx?ID=340>`_)
+Джинникин (признак) / гениеподобный (`geniekin (trait) <https://2e.aonprd.com/Traits.aspx?ID=340>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -1955,7 +1955,7 @@
 | :ref:`heritage--Geniekin`
 
 
-Хобгоблин (`hobgoblin <https://2e.aonprd.com/Traits.aspx?ID=268>`_)
+Хобгоблин (признак) (`hobgoblin (trait) <https://2e.aonprd.com/Traits.aspx?ID=268>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Character Guide
@@ -1965,7 +1965,7 @@
 | :ref:`ancestry--Hobgoblin`
 
 
-Ифрит (`ifrit <https://2e.aonprd.com/Traits.aspx?ID=301>`_)
+Ифрит (признак) (`ifrit (trait) <https://2e.aonprd.com/Traits.aspx?ID=301>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -1975,7 +1975,7 @@
 | :ref:`heritage--Ifrit`
 
 
-Кицунэ (`kitsune <https://2e.aonprd.com/Traits.aspx?ID=341>`_)
+Кицунэ (признак) (`kitsune (trait) <https://2e.aonprd.com/Traits.aspx?ID=341>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -1985,7 +1985,7 @@
 | :ref:`ancestry--Kitsune`
 
 
-Леший (`leshy <https://2e.aonprd.com/Traits.aspx?ID=225>`_)
+Леший (признак) (`leshy (trait) <https://2e.aonprd.com/Traits.aspx?ID=225>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Character Guide
@@ -1995,15 +1995,15 @@
 | :ref:`ch2--ancestry--leshy`
 
 
-Людоящер (`lizardfolk <https://2e.aonprd.com/Traits.aspx?ID=226>`_)
+Людоящер (признак) (`lizardfolk (trait) <https://2e.aonprd.com/Traits.aspx?ID=226>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Источник**: Lost Omens: Ancestry Guide
+**Источник**: Lost Omens: Character Guide
 
 | :ref:`ancestry--Lizardfolk`
 
 
-Ореад (`oread <https://2e.aonprd.com/Traits.aspx?ID=304>`_)
+Ореад (признак) (`oread (trait) <https://2e.aonprd.com/Traits.aspx?ID=304>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -2013,7 +2013,7 @@
 | :ref:`heritage--Oread`
 
 
-Спрайт (`sprite <https://2e.aonprd.com/Traits.aspx?ID=238>`_)
+Спрайт (признак) (`sprite (trait) <https://2e.aonprd.com/Traits.aspx?ID=238>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -2023,7 +2023,7 @@
 | :ref:`ancestry--Sprite`
 
 
-Стрикс (`strix <https://2e.aonprd.com/Traits.aspx?ID=342>`_)
+Стрикс (признак) (`strix (trait) <https://2e.aonprd.com/Traits.aspx?ID=342>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -2033,7 +2033,7 @@
 | :ref:`ancestry--Strix`
 
 
-Сули (`suli <https://2e.aonprd.com/Traits.aspx?ID=310>`_)
+Сули (признак) (`suli (trait) <https://2e.aonprd.com/Traits.aspx?ID=310>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -2043,7 +2043,7 @@
 | :ref:`heritage--Suli`
 
 
-Сильф (`sylph <https://2e.aonprd.com/Traits.aspx?ID=311>`_)
+Сильф (признак) (`sylph (trait) <https://2e.aonprd.com/Traits.aspx?ID=311>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
@@ -2053,7 +2053,7 @@
 | :ref:`heritage--Sylph`
 
 
-Ундина (`undine <https://2e.aonprd.com/Traits.aspx?ID=314>`_)
+Ундина (признак) (`undine (trait) <https://2e.aonprd.com/Traits.aspx?ID=314>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: Ancestry Guide
