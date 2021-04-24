@@ -149,6 +149,7 @@ Creature: существо
 		daemon: дэймон
 		demon: демон
 		urdefhan: урдефан
+	fungus: грибковый
 	ooze: слизь
 	aberration: аберрация
 	spirit: дух
