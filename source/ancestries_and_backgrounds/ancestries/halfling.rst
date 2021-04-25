@@ -551,7 +551,7 @@
 
 .. _ancestry-feat--Halfling--Easily-Dismissed:
 
-Легко на заметить (`Easily Dismissed <https://2e.aonprd.com/Feats.aspx?ID=1016>`_) / 5
+Легко не заметить (`Easily Dismissed <https://2e.aonprd.com/Feats.aspx?ID=1016>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычный`

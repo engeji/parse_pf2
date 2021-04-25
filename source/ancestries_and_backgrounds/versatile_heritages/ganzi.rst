@@ -158,7 +158,7 @@
 
 .. _ancestry-feat--Ganzi--Creative-Prodigy:
 
-Творческое вундеркинд (`Creative Prodigy <https://2e.aonprd.com/Feats.aspx?ID=2532>`_) / 1
+Творческий вундеркинд (`Creative Prodigy <https://2e.aonprd.com/Feats.aspx?ID=2532>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - ганзи

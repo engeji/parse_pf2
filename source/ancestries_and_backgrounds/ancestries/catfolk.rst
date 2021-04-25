@@ -679,7 +679,7 @@
 
 .. _ancestry-feat--Catfolk--Wary Skulker:
 
-Острожно крадущийся (`Wary Skulker <https://2e.aonprd.com/Feats.aspx?ID=1264>`_) / 9
+Осторожно крадущийся (`Wary Skulker <https://2e.aonprd.com/Feats.aspx?ID=1264>`_) / 9
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - коточеловек

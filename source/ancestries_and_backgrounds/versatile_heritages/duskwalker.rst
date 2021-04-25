@@ -329,7 +329,7 @@
 
 .. _ancestry-feat--Duskwalker--Ward-Against-Corruption:
 
-Защите от порчи (`Ward Against Corruption <https://2e.aonprd.com/Feats.aspx?ID=1372>`_) / 5
+Защита от порчи (`Ward Against Corruption <https://2e.aonprd.com/Feats.aspx?ID=1372>`_) / 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - сумеречный
