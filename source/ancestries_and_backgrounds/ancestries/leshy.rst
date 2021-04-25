@@ -20,7 +20,7 @@
 
 	.. rst-class:: traits
 
-	- :uncommon:`Необычная`
+	- :uncommon:`необычный`
 
 
 	.. rubric:: Очки здоровья

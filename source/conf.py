@@ -51,7 +51,6 @@ smartquotes = False
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = [
 	'helpers',
-	# 'appendix',
 	'Thumbs.db', '.DS_Store'
 ]
 
@@ -72,11 +71,14 @@ html_static_path = ['_static']
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
 html_css_files = [
+	'https://cdnjs.cloudflare.com/ajax/libs/tooltipster/4.2.8/css/tooltipster.bundle.min.css',
     'css/custom.css',
 ]
 
 html_js_files = [
+	'https://cdnjs.cloudflare.com/ajax/libs/tooltipster/4.2.8/js/tooltipster.bundle.min.js',
 	'js/custom.js',
+	'js/traits_tooltips.js',
 ]
 
 html_scaled_image_link = False

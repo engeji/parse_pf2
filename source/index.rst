@@ -3,6 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ**
+| 1. При клике (или тапе) на признаке в заклинании/способности появляется его описание.
+| 2. В "Приложениях" наполнился :ref:`Glossary`. Если не уверены где найти какой-либо элемент правил, можно заглянуть туда.
+
 | `Telegram канал <https://t.me/PF2e_RU_channel>`_ - обновления и изменения
 | `Telegram чат <https://t.me/PF2e_RU>`_ - для обратной связи, обсуждения правил и т.п.
 

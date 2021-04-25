@@ -901,7 +901,7 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 Страдающий амнезией (`Amnesiac <https://2e.aonprd.com/Backgrounds.aspx?ID=182>`_) / Предыстория
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- :rare:`редкая`
+- :rare:`редкий`
 
 **Источник**: Advanced Player's Guide pg. 50
 
@@ -921,7 +921,7 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 Благословленный (`Blessed <https://2e.aonprd.com/Backgrounds.aspx?ID=183>`_) / Предыстория
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- :rare:`редкая`
+- :rare:`редкий`
 
 **Источник**: Advanced Player's Guide pg. 50
 
@@ -942,7 +942,7 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 Проклятый (`Cursed <https://2e.aonprd.com/Backgrounds.aspx?ID=184>`_) / Предыстория
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- :rare:`редкая`
+- :rare:`редкий`
 
 **Источник**: Advanced Player's Guide pg. 50
 
@@ -975,7 +975,7 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 Дикий ребенок (`Feral Child <https://2e.aonprd.com/Backgrounds.aspx?ID=185>`_) / Предыстория
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- :rare:`редкая`
+- :rare:`редкий`
 
 **Источник**: Advanced Player's Guide pg. 50
 
@@ -994,7 +994,7 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 Связанный с феями (`Feybound <https://2e.aonprd.com/Backgrounds.aspx?ID=186>`_) / Предыстория
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- :rare:`редкая`
+- :rare:`редкий`
 
 **Источник**: Advanced Player's Guide pg. 50
 
@@ -1026,7 +1026,7 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 Одержимый призраком (`Haunted <https://2e.aonprd.com/Backgrounds.aspx?ID=187>`_) / Предыстория
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- :rare:`редкая`
+- :rare:`редкий`
 
 **Источник**: Advanced Player's Guide pg. 51
 
@@ -1052,7 +1052,7 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 Возвращенный (`Returned <https://2e.aonprd.com/Backgrounds.aspx?ID=188>`_) / Предыстория
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- :rare:`редкая`
+- :rare:`редкий`
 
 **Источник**: Advanced Player's Guide pg. 51
 
@@ -1070,7 +1070,7 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 Королевская особа (`Royalty <https://2e.aonprd.com/Backgrounds.aspx?ID=189>`_) / Предыстория
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- :rare:`редкая`
+- :rare:`редкий`
 
 **Источник**: Advanced Player's Guide pg. 51
 
