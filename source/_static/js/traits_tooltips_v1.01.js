@@ -38,7 +38,7 @@ $(document).ready( function() {
 	});
 
 	$('ul.traits li p:contains("алхимик")').tooltipster({
-		content: 'Им обозначаются умения класса алхимика.'
+		content: 'Обозначает умения класса алхимика.'
 	});
 
 	$('ul.traits li p:contains("ангел")').tooltipster({
@@ -546,7 +546,7 @@ $(document).ready( function() {
 	});
 
 	$('ul.traits li p:contains("ярость")').tooltipster({
-		content: ''
+		content: 'Чтобы использовать умения с признаком "ярость", вы должны быть в ярости, и они автоматически заканчиваются, когда заканчивается ваша ярость.'
 	});
 
 	$('ul.traits li p:contains("рейнджер")').tooltipster({
