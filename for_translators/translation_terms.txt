@@ -16,11 +16,11 @@ actions:
 	Strike: Удар :ref:`action--Strike` / :ref:`Выстрел (Strike) <action--Strike>`
 	Stride: Перемещение :ref:`action--Stride` / :ref:`Переместиться (Stride) <action--Stride>`
 	Step: Шаг :ref:`action--Step` / :ref:`Шагнуть (Step) <action--Step>`
-	Cast a Spell: Сотворение заклинания :ref:`action--Cast-a-Spell`
-	Sustain a Spell: Поддержание заклинания :ref:`action--Sustain-a-Spell`
+	Cast a Spell: Сотворение заклинания :ref:`action--Cast-a-Spell` / :ref:`Сотворяете (Cast) <action--Cast-a-Spell>` это заклинание
+	Sustain a Spell: Поддержание заклинания :ref:`action--Sustain-a-Spell` / :ref:`Поддерживаете (Sustain) <action--Sustain-a-Spell>` это заклинание
 	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
 	Refocus: Сфокусироваться :ref:`action--Refocus`
-	Aid: Помощь :ref:`action--Aid`
+	Aid: Помощь :ref:`action--Aid` / :ref:`Помогать (Aid) <action--Aid>`
 	Delay: Выждать :ref:`action--Delay`
 	Ready: Приготовиться :ref:`action--Ready`
 	Seek: Поиск :ref:`action--Seek`
