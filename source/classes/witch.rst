@@ -756,6 +756,7 @@
 
 Вы можете выбрать из этих уроков, когда способность или другой эффект дает вам основной урок.
 
+.. _class-feature--Witch--Lesson--Dreams:
 
 Урок снов (`Lesson of Dreams <https://2e.aonprd.com/Lessons.aspx?ID=1>`_)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -764,6 +765,7 @@
 
 Вы получаете сглаз :ref:`spell--focus--Veil-of-Dreams`, а ваш фамильяр изучает заклинание :ref:`spell--s--Sleep`.
 
+.. _class-feature--Witch--Lesson--Elements:
 
 Урок стихий (`Lesson of the Elements <https://2e.aonprd.com/Lessons.aspx?ID=2>`_)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -773,6 +775,7 @@
 Вы получаете сглаз :ref:`spell--focus--Elemental-Betrayal`.
 Ваш фамильяр изучает на ваш выбор заклинание :ref:`spell--b--Burning-Hands`, :ref:`spell--a--Air-Bubble`, :ref:`spell--h--Hydraulic-Push` или :ref:`spell--p--Pummeling-Rubble`.
 
+.. _class-feature--Witch--Lesson--Life:
 
 Урок жизни (`Lesson of Life <https://2e.aonprd.com/Lessons.aspx?ID=3>`_)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -790,6 +793,7 @@
 
 Вы получаете сглаз :ref:`spell--focus--Blood-Ward`, а ваш фамильяр изучает заклинание :ref:`spell--m--Mage-Armor`.
 
+.. _class-feature--Witch--Lesson--Vengeance:
 
 Урок мести (`Lesson of Vengeance <https://2e.aonprd.com/Lessons.aspx?ID=5>`_)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -817,6 +821,7 @@
 
 Вы получаете сглаз :ref:`spell--focus--Deceivers-Cloak`, а ваш фамильяр изучает заклинание :ref:`spell--m--Mad-Monkeys`.
 
+.. _class-feature--Witch--Lessons-Greater--Shadow:
 
 Урок тени (`Lesson of Shadow <https://2e.aonprd.com/Lessons.aspx?ID=7>`_)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -825,6 +830,7 @@
 
 Вы получаете сглаз :ref:`spell--focus--Malicious-Shadow`, а ваш фамильяр изучает заклинание :ref:`spell--c--Chilling-Darkness`.
 
+.. _class-feature--Witch--Lessons-Greater--Snow:
 
 Урок снега (`Lesson of Snow <https://2e.aonprd.com/Lessons.aspx?ID=8>`_)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -843,6 +849,7 @@
 
 Вы можете выбрать из этих уроков, когда способность или другой эффект дает вам главный урок.
 
+.. _class-feature--Witch--Lessons-Major--Death:
 
 Урон смерти (`Lesson of Death <https://2e.aonprd.com/Lessons.aspx?ID=9>`_)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -860,6 +867,7 @@
 
 Вы получаете сглаз :ref:`spell--focus--Restorative-Moment`, а ваш фамильяр изучает заклинание :ref:`spell--f--Field-of-Life`.
 
+.. _class-feature--Witch--Lessons-Major--Frozen-Queen:
 
 Урок Ледяной королевы (`Lesson of the Frozen Queen <https://2e.aonprd.com/Lessons.aspx?ID=11>`_)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
