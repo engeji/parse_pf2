@@ -514,7 +514,7 @@ prerequisites: предварительные условия
 proficiency bonus: бонус мастерства
 plane: план
 	Great Beyond: Великое запределье
-	Demiplane: полуплан
+	Demiplane: демиплан
 	Outer Sphere: Внешняя Сфера
 	Hell: Ад
 	Abyss: Бездна
