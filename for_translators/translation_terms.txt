@@ -673,7 +673,7 @@ Titles:
 	Tian Xia: Тянь Ся
 	Tian-Dan: Тянь-Дань
 	Tian-Yae: Тянь-Йэ
-	Mualijae: Муалижэец
+	Mualijae: Муалижеец
 	Ilverani: Илверанец
 	Vourinoi: Вуринуа
 	Quah: куа
@@ -689,6 +689,7 @@ Titles:
 	Nuldrig: Налдриг
 	Darklands: Темноземье
 	Kyonin: Кьонин
+	Tanglebriar: Тэнлбрайар
 	Mwangi Expanse: Просторы Муанги
 	Nirmathas: Нирмафас
 	archon: архон
@@ -701,6 +702,7 @@ Titles:
 	Mihrini: Мирини
 	Jaric: Джарик
 	Uhlam: Улам
+	Song'o: Сон'о
 	Mbe'ke: Мбе'ке
 	Taralu: Таралу
 	Ouat: Уат
@@ -735,14 +737,14 @@ Titles:
 	Estlaris: Эстралы
 	Sharedars: Шедары
 	Chitterhome: Читтерхом
-	Mana Wastes: Мустоши Маны
+	Mana Wastes: Пустоши Маны
 	Ular Kel: Улар Кел
 	Deepmarket: Дипмаркет
 	Diguo-Dashu: Диго-Дашу
 	Molthune: Молтун
 	Kaoling: Каолин
 	Rakh Lo: Рак Ло
-	Belkzen: Белкзэн
+	Belkzen: Белкзен
 	Urgir: Ургир
 	orc hold: орочье владение
 	azarketi: азаркет, мн.число: azarketis: азаркеты
@@ -771,6 +773,12 @@ Titles:
 	shahzada: шахиншах
 	Wanshou: Ваньшоу
 	Outsea: Наморье
+	Quest for Sky: "Поиски неба"
+	Aucturn: Октюрн
+	Rasp: Расп
+	Vidrian: Видриан
+	Sczarni: Скарни
+	Dominion of the Black: "Доминиона черноты"
 
 trait: признак / особенность
 	оружие:
@@ -883,4 +891,5 @@ weapons:
 	Nine-ring sword: меч девяти колец
 	polytool: мультитул
 	Tekko-kagi: сюко
+
 worshipper: верующий

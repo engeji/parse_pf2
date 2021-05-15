@@ -3,11 +3,11 @@
 .. rst-class:: hellknight-order-abilities
 .. _archetype--Hellknight-Order-Abilities:
 
-Возможности орденов Хеллнайтов (`Hellknight Order Abilities <https://2e.aonprd.com/HellknightOrders.aspx>`_)
+Умения орденов Хеллнайтов (`Hellknight Order Abilities <https://2e.aonprd.com/HellknightOrders.aspx>`_)
 ------------------------------------------------------------------------------------------------------------
 
 В следующих записях перечислены малые и большие выгоды для каждого из основных орденов Хеллнайтов.
-Эти возможности можно получить, выбрав способности архетипа :ref:`arch-feat--Hellknight-Armiger--Order-Training`, :ref:`arch-feat--Hellknight-Armiger--Advanced-Order-Training` и :ref:`arch-feat--Hellknight-Armiger--Hellknight-Order-Cross-Training`.
+Эти умения можно получить, выбрав способности архетипа :ref:`arch-feat--Hellknight-Armiger--Order-Training`, :ref:`arch-feat--Hellknight-Armiger--Advanced-Order-Training` и :ref:`arch-feat--Hellknight-Armiger--Hellknight-Order-Cross-Training`.
 
 
 
