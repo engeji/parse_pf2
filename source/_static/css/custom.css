@@ -643,7 +643,8 @@ section.craft-treasure-structures section,
 section.craft-treasure-wands section,
 section.craft-treasure-weapons section,
 section.craft-treasure-worn section,
-section.actions-descr section {
+section.actions-descr section,
+section.creature-abilities section {
 	margin-top: 1.2em;
 }
 
@@ -679,7 +680,8 @@ section.craft-treasure-structures section > p,
 section.craft-treasure-wands section > p,
 section.craft-treasure-weapons section > p,
 section.craft-treasure-worn section > p,
-section.actions-descr section section > p {
+section.actions-descr section section > p,
+section.creature-abilities section > p {
 	margin-bottom: 0.1em;
 	text-indent: inherit;
 }
@@ -719,7 +721,8 @@ section.craft-treasure-structures section > h2,
 section.craft-treasure-wands section > h4,
 section.craft-treasure-weapons section > h3,
 section.craft-treasure-worn section > h3,
-section.actions-descr section section > h5 {
+section.actions-descr section section > h5,
+section.creature-abilities section > h2 {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -767,7 +770,8 @@ section.craft-treasure-structures section hr,
 section.craft-treasure-wands section hr,
 section.craft-treasure-weapons section hr,
 section.craft-treasure-worn section hr,
-section.actions-descr section hr {
+section.actions-descr section hr,
+section.creature-abilities section hr {
 	border-top: 1px solid #404040;
 	margin: 1px 0;
 }

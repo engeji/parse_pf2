@@ -28,14 +28,6 @@ Pathfinder 2E
    playing_the_game
    game_mastering/index
    crafting_and_treasure/index
+   creatures/index
    appendix/index
    licenses
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
