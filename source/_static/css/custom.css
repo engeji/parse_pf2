@@ -134,7 +134,7 @@ section > p {
 	margin-left: 0.6em;
 	padding-bottom: 0.6em;
 	padding-left: 0.6em;
-	padding-right: 0.6em;
+	padding-right: 0;
 }
 
 .rst-content aside.sidebar > p {
@@ -190,6 +190,7 @@ section > p {
 	text-indent: initial;
 	text-transform: uppercase;
 }
+
 
 .rst-content aside.sidebar-wide {
 	float: initial;
@@ -416,6 +417,11 @@ div.admonition.intro-class p.admonition-title {
 }
 
 
+img.game-icon {
+	height: 3em;
+}
+
+
 /*
 	versionchanged, versionadded
 */
@@ -510,7 +516,8 @@ section.gm-subchap h3,
 section.hazards h2,
 /*section.conditions h3,*/
 /*section.glossary h3,*/
-section.game-mode h3 {
+section.game-mode h3,
+section.creature-details h1 {
 	box-sizing: border-box;
 	color: #002664;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -857,6 +864,77 @@ section.description hr {
 }
 
 
+/*
+	Существо
+*/
+
+section.creature {
+	margin-top: 1.2em;
+}
+
+section.creature > p {
+	margin-bottom: 0.1em;
+	text-indent: inherit;
+}
+
+section.creature > h1,
+section.creature > h2,
+section.creature > h3,
+section.creature > h4,
+section.creature > h5 {
+	box-sizing: border-box;
+	color: #404040;
+	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+	font-size: 100%;
+	font-weight: 700;
+	margin-bottom: 0.3em;
+	margin-top: 0;
+	text-transform: uppercase;
+}
+
+section.creature hr {
+	border-top: 1px solid #404040;
+	margin: 1px 0;
+}
+
+
+section.creature-details aside.sidebar {
+	background-color: #efede9;
+	border: solid #5e0000;
+	border-width: 0 0 0 1px;
+	padding-top: 0em;
+	padding-bottom: 0.6em;
+	width: 33%;
+}
+
+section.creature-details aside.sidebar p.sidebar-title {
+	background-color: #efede9;
+	margin-left: -0.6em;
+	margin-right: -0.6em;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding-bottom: 0;
+	padding-top: 0;
+}
+
+section.creature-details aside.sidebar > p {
+	color: #5e0000;
+	margin-bottom: 0;
+	text-indent: initial;
+	line-height: 1.4em;
+}
+
+section.creature-details aside.sidebar p.rubric {
+	color: #5e0000;
+	margin-bottom: 0.3em;
+	margin-top: 0.8em;
+	text-indent: initial;
+	text-transform: uppercase;
+}
+
+
+
+
 
 /*
 	Универсальные стили списка признаков
@@ -931,6 +1009,21 @@ section > h4 + ul li p span.rare,
 section > h5 + ul li p span.rare,
 section > h6 + ul li p span.rare {
 	background-color: #002664;
+	box-sizing: content-box;
+	display: inline-block;
+	margin-left: -0.25em;
+	padding: 0 0.25em;
+	width: 100%;
+}
+
+ul.traits li p span.unique,
+section > h1 + ul li p span.unique,
+section > h2 + ul li p span.unique,
+section > h3 + ul li p span.unique,
+section > h4 + ul li p span.unique,
+section > h5 + ul li p span.unique,
+section > h6 + ul li p span.unique {
+	background-color: #53156d;
 	box-sizing: content-box;
 	display: inline-block;
 	margin-left: -0.25em;

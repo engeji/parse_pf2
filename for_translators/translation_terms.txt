@@ -150,6 +150,7 @@ Creature: существо
 		demon: демон
 		urdefhan: урдефан
 	fungus: грибковый
+	fungi: гриб
 	ooze: слизь
 	aberration: аберрация
 	spirit: дух
@@ -200,6 +201,11 @@ Creature: существо
 	conrasu: конрас
 	xorn: зорн
 	belker: белкер
+	arboreal: древень
+	inevitable: неминуемый
+	Destrachan: дестрачан
+	Xulgath: Зулгат
+	Velstrac: Вельстрак
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -259,6 +265,7 @@ Deity: Божество
 	Zohls: Золсу
 	Tanagaar: Танагаару
 	Lysianassa: Лисианассе
+	Eldest of the First World: Старейшие из Первого мира
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -708,11 +715,10 @@ Titles:
 	Ouat: Уат
 	Pahmet: Памэт
 	Vahird: Вахирд
-	Xulgath: Зулгат
 	Arclords of Nex: Верховные лорды Некса
 	janni: джанн
 	djinni: джинни
-	efreeti: ифрит
+	efreeti: эфрит
 	marid: марид
 	shaitan: шайтан
 	Rivethun: Риватун
@@ -778,7 +784,9 @@ Titles:
 	Rasp: Расп
 	Vidrian: Видриан
 	Sczarni: Скарни
-	Dominion of the Black: "Доминиона черноты"
+	Dominion of the Black: "Доминион черноты"
+	Leng: Лэнг
+	Dimension of Dreams: Измерение снов
 
 trait: признак / особенность
 	оружие:

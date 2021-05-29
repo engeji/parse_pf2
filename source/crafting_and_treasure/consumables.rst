@@ -2154,7 +2154,7 @@
 
 .. _activity--Affix-a-Talisman:
 
-Прикрепить талисман (`Affix a Talisman <http://2e.aonprd.com/Activities.aspx?ID=10>`_)
+Прикрепить талисман (`Affix a Talisman <https://2e.aonprd.com/Activities.aspx?ID=10>`_)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - исследование

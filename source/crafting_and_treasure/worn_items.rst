@@ -385,7 +385,7 @@
 
 .. _item--Aeon-Stone:
 
-Камень эонов (`Aeon Stone <http://2e.aonprd.com/Equipment.aspx?ID=407>`_) / Предмет 1+
+Камень эонов (`Aeon Stone <https://2e.aonprd.com/Equipment.aspx?ID=407>`_) / Предмет 1+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычный`
