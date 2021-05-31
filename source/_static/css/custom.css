@@ -473,6 +473,8 @@ section.religion h2,
 section.gm-subchap h2,
 /*section.conditions h2,*/
 /*section.glossary h2,*/
+section.appendix-traits h2,
+section.appendix-index h2,
 section.game-mode h2 {
 	box-sizing: border-box;
 	color: #5e0000;
@@ -516,6 +518,7 @@ section.gm-subchap h3,
 section.hazards h2,
 /*section.conditions h3,*/
 /*section.glossary h3,*/
+section.appendix-traits h3,
 section.game-mode h3,
 section.creature-details h1 {
 	box-sizing: border-box;
@@ -557,6 +560,7 @@ section.gm-subchap h4,
 section.hazards h3,
 /*section.conditions h2,*/
 /*section.glossary h4,*/
+section.appendix-traits h4,
 section.game-mode h4 {
 	box-sizing: border-box;
 	color: #5e0000;
