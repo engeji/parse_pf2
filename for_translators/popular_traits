@@ -1,3 +1,6 @@
+:w_nonlethal:`несмертельное`
+
+
 :t_humanoid:`гуманоид`
 :t_minion:`миньон`
 :t_plant:`растение`
@@ -13,7 +16,7 @@
 :t_skill:`навык`
 :t_lineage:`род`
 
-:w_nonlethal:`несмертельное`
+:t_consumable:`расходуемый`
 
 :t_attack:`атака`
 :t_incapacitation:`недееспособность`
@@ -42,6 +45,8 @@
 :t_fear:`страх`
 :t_mental:`ментальный`
 
+:t_secret:`тайна`
+
 :t_fortune:`удача`
 :t_misfortune:`неудача`
 
@@ -57,12 +62,15 @@
 :t_divination:`прорицание`
 :t_enchantment:`очарование`
 
-
 :t_metamagic:`метамагия`
 :t_healing:`исцеление`
 :t_morph:`трансформация`
 :t_polymorph:`полиморф`
 :t_death:`смерть`
+:t_possession:`одержимость`
+ 
+:t_prediction:`предсказание`
+:t_scrying:`видение`
 
 :t_darkness:`тьма`
 :t_light:`свет`
@@ -86,18 +94,26 @@
 :t_chaotic:`хаотичный`
 
 
+:t_exploration:`исследование`
+:t_downtime:`отдых`
 
 
 
-
-
-
-
-
-
-
-
-
-
+::``
+::``
+::``
+::``
+::``
+::``
+::``
+::``
+::``
+::``
+::``
+::``
+::``
+::``
+::``
+::``
 ::``
 ::``
