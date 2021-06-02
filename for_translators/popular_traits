@@ -1,7 +1,10 @@
 :t_humanoid:`гуманоид`
+:t_minion:`миньон`
 :t_plant:`растение`
 :t_animal:`животное`
 :t_fungus:`грибковый`
+:t_undead:`нежить`
+:t_dragon:`дракон`
 :t_aberration:`аберрация`
 :t_angel:`ангел`
 :t_psychopomp:`психопомп`
@@ -35,6 +38,9 @@
 :t_auditory:`слуховой`
 :t_visual:`визуальный`
 :t_linguistic:`языковой`
+:t_emotion:`эмоция`
+:t_fear:`страх`
+:t_mental:`ментальный`
 
 :t_fortune:`удача`
 :t_misfortune:`неудача`
@@ -48,6 +54,8 @@
 :t_evocation:`эвокация`
 :t_necromancy:`некромантия`
 :t_illusion:`иллюзия`
+:t_divination:`прорицание`
+:t_enchantment:`очарование`
 
 
 :t_metamagic:`метамагия`
@@ -60,7 +68,6 @@
 :t_light:`свет`
 :t_shadow:`тень`
 
-:t_emotion:`эмоция`
 
 :t_electricity:`электричество`
 :t_fire:`огонь`
@@ -78,9 +85,7 @@
 :t_lawful:`принципиальный`
 :t_chaotic:`хаотичный`
 
-:t_minion:`миньон`
-:t_undead:`нежить`
-:t_dragon:`дракон`
+
 
 
 
