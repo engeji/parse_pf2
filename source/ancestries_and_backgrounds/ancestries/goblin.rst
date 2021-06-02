@@ -3,7 +3,7 @@
 .. rst-class:: ancestry
 .. _ch2--ancestry--goblin:
 
-Гоблин (Goblin)
+Гоблин (`Goblin <https://2e.aonprd.com/Ancestries.aspx?ID=4>`_)
 =============================================================================================================
 
 .. epigraph::
@@ -63,9 +63,9 @@
 
 	.. rubric:: Признаки
 
-	Гоблин
+	:t_goblin:`Гоблин`
 
-	Гуманоид
+	:t_humanoid:`Гуманоид`
 
 
 	.. rubric:: Ночное зрение
