@@ -675,7 +675,7 @@ Titles:
 	Chelaxian: Челиец
 	Nidalese: Нидалец (произносится Ньидолец)
 	Taldan: Талданец
-	Vudrani: Вудронец
+	Vudrani: Вудранец
 	Shoanti: Шоантиец
 	Lirgeni: Лиргиец
 	Ulfen: Улфэн
