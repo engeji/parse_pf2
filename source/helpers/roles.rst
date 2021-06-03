@@ -86,6 +86,9 @@
 
 .. Остальные признаки
 
+.. role:: t_aura
+
+
 .. role:: t_attack
 
 .. role:: t_incapacitation
