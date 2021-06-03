@@ -13,6 +13,95 @@
 .. role:: eop-comment
 
 
+
+.. Состояния
+
+.. role:: c_dazzled
+
+.. role:: c_blinded
+
+.. role:: c_deafened
+
+.. role:: c_confused
+
+.. role:: c_fascinated
+
+.. role:: c_controlled
+
+.. role:: c_flat_footed
+
+.. role:: c_prone
+
+.. role:: c_encumbered
+
+.. role:: c_fatigued
+
+.. role:: c_sickened
+
+.. role:: c_frightened
+
+.. role:: c_fleeing
+
+.. role:: c_persistent_damage
+
+.. role:: c_restrained
+
+.. role:: c_grabbed
+
+.. role:: c_immobilized
+
+.. role:: c_paralyzed
+
+.. role:: c_petrified
+
+.. role:: c_broken
+
+.. role:: c_stunned
+
+.. role:: c_slowed
+
+.. role:: c_quickened
+
+.. role:: c_dying
+
+.. role:: c_wounded
+
+.. role:: c_doomed
+
+.. role:: c_unconscious
+
+.. role:: c_enfeebled
+
+.. role:: c_clumsy
+
+.. role:: c_drained
+
+.. role:: c_stupefied
+
+.. role:: c_unnoticed
+
+.. role:: c_undetected
+
+.. role:: c_hidden
+
+.. role:: c_observed
+
+.. role:: c_concealed
+
+.. role:: c_invisible
+
+.. role:: c_helpful
+
+.. role:: c_friendly
+
+.. role:: c_indifferent
+
+.. role:: c_unfriendly
+
+.. role:: c_hostile
+
+
+
 .. Признаки оружия
 
 .. role:: w_resonant
@@ -82,6 +171,7 @@
 .. role:: w_brutal
 
 .. role:: w_repeating
+
 
 
 .. Остальные признаки

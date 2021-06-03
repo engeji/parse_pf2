@@ -938,15 +938,24 @@ section.creature-details aside.sidebar p.rubric {
 
 
 /*
-	Признаки оружия
+	Признаки, состояния
 */
 
-span[class^="w-"],
 span[class^="t-"] {
 	color: #5d0100;
 	text-decoration: underline;
 }
 
+span[class^="w-"] {
+	/*color: #0F3057;*/
+	color: #0F6177;
+	text-decoration: underline;
+}
+
+span[class^="c-"] {
+	color: #483d8b;
+	text-decoration: underline;
+}
 
 
 /*
