@@ -30,6 +30,8 @@
 :t_skill:`навык`
 :t_lineage:`род`
 
+
+:t_invested:`инвестируемый`
 :t_consumable:`расходуемый`
 :t_flourish:`размах`
 :t_press:`натиск`
@@ -40,10 +42,13 @@
 :t_splash:`брызги`
 :t_bomb:`бомба`
 :t_elixir:`эликсир`
+:t_potion:`зелье`
 :t_poison:`яд`
 :t_mutagen:`мутаген`
 :t_cursebound:`проклятое`
 :t_curse:`проклятие`
+:t_alchemical:`алхимический`
+
 
 :t_attack:`атака`
 :t_incapacitation:`недееспособность`
@@ -123,7 +128,7 @@
 
 
 
-::``
+
 ::``
 ::``
 ::``
