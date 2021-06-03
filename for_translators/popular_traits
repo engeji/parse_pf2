@@ -11,6 +11,7 @@
 :t_summoned:`призванный`
 :t_plant:`растение`
 :t_animal:`животное`
+:t_beast:`чудовище`
 :t_fungus:`грибковый`
 :t_undead:`нежить`
 :t_dragon:`дракон`
@@ -24,6 +25,7 @@
 :t_haunt:`призрак`
 :t_fey:`фея`
 :t_elemental:`элементаль`
+:t_ooze:`слизь`
 
 :t_skill:`навык`
 :t_lineage:`род`
@@ -58,11 +60,6 @@
 :t_mental:`ментальный`
 :t_olfactory:`обонятельный`
 
-
-:t_secret:`тайна`
-
-:t_fortune:`удача`
-:t_misfortune:`неудача`
 
 :t_magical:`магический`
 :t_arcana:`аркана`
@@ -111,6 +108,12 @@
 :t_evil:`зло`
 :t_lawful:`принципиальный`
 :t_chaotic:`хаотичный`
+
+
+:t_secret:`тайна`
+
+:t_fortune:`удача`
+:t_misfortune:`неудача`
 
 
 :t_exploration:`исследование`
