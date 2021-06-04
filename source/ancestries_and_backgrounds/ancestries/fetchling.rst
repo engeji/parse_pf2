@@ -16,6 +16,11 @@
 
 .. sidebar:: hidden
 
+	.. rubric:: Источник
+
+	Lost Omens: Ancestry Guide pg. 83
+
+
 	.. rubric:: Редкость
 
 	.. rst-class:: traits

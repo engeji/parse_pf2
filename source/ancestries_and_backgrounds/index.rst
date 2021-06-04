@@ -415,14 +415,14 @@
 .. toctree::
    :maxdepth: 2
    
-   versatile_heritages/changeling
-   versatile_heritages/dhampir
    versatile_heritages/aasimar
-   versatile_heritages/duskwalker
    versatile_heritages/tiefling
-   versatile_heritages/beastkin
    versatile_heritages/aphorite
    versatile_heritages/ganzi
+   versatile_heritages/changeling
+   versatile_heritages/dhampir
+   versatile_heritages/duskwalker
+   versatile_heritages/beastkin
    versatile_heritages/geniekin
    versatile_heritages/ifrit
    versatile_heritages/oread

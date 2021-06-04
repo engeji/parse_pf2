@@ -18,6 +18,11 @@
 
 .. sidebar:: hidden
 
+	.. rubric:: Источник
+
+	Advanced Player's Guide pg. 9
+
+
 	.. rubric:: Редкость
 
 	.. rst-class:: traits
