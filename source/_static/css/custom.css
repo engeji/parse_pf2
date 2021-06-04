@@ -146,16 +146,14 @@ section > p {
 	font-size: initial;
 }
 
-.rst-content aside.sidebar .sidebar-title {
+.rst-content aside.sidebar p.sidebar-title {
 	background-color: #afa492;
 	text-transform: uppercase;
 	margin-left: -0.6em;
-	margin-right: -0.6em;
-}
-
-.rst-content aside.sidebar p.sidebar-title {
+	margin-right: 0;
 	margin-bottom: 0.5em;
 }
+
 
 .rst-content aside.sidebar p.rubric {
 	margin-bottom: 0.1em;
@@ -390,6 +388,11 @@ div.admonition.tip p.admonition-title {
 	background-color: #002664;
 }
 
+@media screen and (max-width: 1024px) {
+	div.admonition.hint {
+		width: auto;
+	}
+}
 
 div.admonition.hint p:nth-child(odd) {
 	margin-bottom: 0.8em;
