@@ -8,7 +8,7 @@ $(document).ready( function() {
 
     // Добавляет иконкам действий заголовок всплывающий при наведение.
     // Невозможно реализовать в Sphinx, так как изображения не имеют нужного аттрибута.
-    $("img.action").each(function() {
+    $("img.action, img.game-icon").each(function() {
     	$( this ).attr("title", $( this ).attr("alt"));
     });
 });

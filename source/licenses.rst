@@ -64,6 +64,27 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 
 
+Icons
+==========================================================================================================
+
+
+Game-Icons
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Game-icons.net <https://game-icons.net/>`_ is a source of icons used in "Bestiary".
+
+These icons provided under the `Creative Commons 3.0 BY <https://creativecommons.org/licenses/by/3.0/>`_ or `CC0 <https://creativecommons.org/share-your-work/public-domain/cc0/>`_ if mentioned below.
+
+Used icons are made by:
+
+* Lorc, http://lorcblog.blogspot.com
+* Delapouite, http://delapouite.com
+* Skoll, https://game-icons.net/
+
+
+
+
+
 Rulebooks
 ==========================================================================================================
 

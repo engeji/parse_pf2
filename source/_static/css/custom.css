@@ -134,7 +134,7 @@ section > p {
 	margin-left: 0.6em;
 	padding-bottom: 0.6em;
 	padding-left: 0.6em;
-	padding-right: 0.6em;
+	padding-right: 0;
 }
 
 .rst-content aside.sidebar > p {
@@ -146,16 +146,14 @@ section > p {
 	font-size: initial;
 }
 
-.rst-content aside.sidebar .sidebar-title {
+.rst-content aside.sidebar p.sidebar-title {
 	background-color: #afa492;
 	text-transform: uppercase;
 	margin-left: -0.6em;
-	margin-right: -0.6em;
-}
-
-.rst-content aside.sidebar p.sidebar-title {
+	margin-right: 0;
 	margin-bottom: 0.5em;
 }
+
 
 .rst-content aside.sidebar p.rubric {
 	margin-bottom: 0.1em;
@@ -190,6 +188,7 @@ section > p {
 	text-indent: initial;
 	text-transform: uppercase;
 }
+
 
 .rst-content aside.sidebar-wide {
 	float: initial;
@@ -389,6 +388,11 @@ div.admonition.tip p.admonition-title {
 	background-color: #002664;
 }
 
+@media screen and (max-width: 1024px) {
+	div.admonition.hint {
+		width: auto;
+	}
+}
 
 div.admonition.hint p:nth-child(odd) {
 	margin-bottom: 0.8em;
@@ -413,6 +417,11 @@ div.admonition.intro-class p.admonition-title {
 	font-weight: bolder;
 	font-size: initial;
 	background-color: #002664;
+}
+
+
+img.game-icon {
+	height: 3em;
 }
 
 
@@ -467,6 +476,8 @@ section.religion h2,
 section.gm-subchap h2,
 /*section.conditions h2,*/
 /*section.glossary h2,*/
+section.appendix-traits h2,
+section.appendix-index h2,
 section.game-mode h2 {
 	box-sizing: border-box;
 	color: #5e0000;
@@ -510,7 +521,9 @@ section.gm-subchap h3,
 section.hazards h2,
 /*section.conditions h3,*/
 /*section.glossary h3,*/
-section.game-mode h3 {
+section.appendix-traits h3,
+section.game-mode h3,
+section.creature-details h1 {
 	box-sizing: border-box;
 	color: #002664;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -550,6 +563,7 @@ section.gm-subchap h4,
 section.hazards h3,
 /*section.conditions h2,*/
 /*section.glossary h4,*/
+section.appendix-traits h4,
 section.game-mode h4 {
 	box-sizing: border-box;
 	color: #5e0000;
@@ -643,7 +657,8 @@ section.craft-treasure-structures section,
 section.craft-treasure-wands section,
 section.craft-treasure-weapons section,
 section.craft-treasure-worn section,
-section.actions-descr section {
+section.actions-descr section,
+section.creature-abilities section {
 	margin-top: 1.2em;
 }
 
@@ -679,7 +694,8 @@ section.craft-treasure-structures section > p,
 section.craft-treasure-wands section > p,
 section.craft-treasure-weapons section > p,
 section.craft-treasure-worn section > p,
-section.actions-descr section section > p {
+section.actions-descr section section > p,
+section.creature-abilities section > p {
 	margin-bottom: 0.1em;
 	text-indent: inherit;
 }
@@ -719,7 +735,8 @@ section.craft-treasure-structures section > h2,
 section.craft-treasure-wands section > h4,
 section.craft-treasure-weapons section > h3,
 section.craft-treasure-worn section > h3,
-section.actions-descr section section > h5 {
+section.actions-descr section section > h5,
+section.creature-abilities section > h2 {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -767,7 +784,8 @@ section.craft-treasure-structures section hr,
 section.craft-treasure-wands section hr,
 section.craft-treasure-weapons section hr,
 section.craft-treasure-worn section hr,
-section.actions-descr section hr {
+section.actions-descr section hr,
+section.creature-abilities section hr {
 	border-top: 1px solid #404040;
 	margin: 1px 0;
 }
@@ -853,6 +871,95 @@ section.description hr {
 }
 
 
+/*
+	Существо
+*/
+
+section.creature {
+	margin-top: 1.2em;
+}
+
+section.creature > p {
+	margin-bottom: 0.1em;
+	text-indent: inherit;
+}
+
+section.creature > h1,
+section.creature > h2,
+section.creature > h3,
+section.creature > h4,
+section.creature > h5 {
+	box-sizing: border-box;
+	color: #404040;
+	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+	font-size: 100%;
+	font-weight: 700;
+	margin-bottom: 0.3em;
+	margin-top: 0;
+	text-transform: uppercase;
+}
+
+section.creature hr {
+	border-top: 1px solid #404040;
+	margin: 1px 0;
+}
+
+
+section.creature-details aside.sidebar {
+	background-color: #efede9;
+	border: solid #5e0000;
+	border-width: 0 0 0 1px;
+	padding-top: 0em;
+	padding-bottom: 0.6em;
+	width: 33%;
+}
+
+section.creature-details aside.sidebar p.sidebar-title {
+	background-color: #efede9;
+	margin-left: -0.6em;
+	margin-right: -0.6em;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding-bottom: 0;
+	padding-top: 0;
+}
+
+section.creature-details aside.sidebar > p {
+	color: #5e0000;
+	margin-bottom: 0;
+	text-indent: initial;
+	line-height: 1.4em;
+}
+
+section.creature-details aside.sidebar p.rubric {
+	color: #5e0000;
+	margin-bottom: 0.3em;
+	margin-top: 0.8em;
+	text-indent: initial;
+	text-transform: uppercase;
+}
+
+
+/*
+	Признаки, состояния
+*/
+
+span[class^="t-"] {
+	color: #5d0100;
+	text-decoration: underline;
+}
+
+span[class^="w-"] {
+	/*color: #0F3057;*/
+	color: #0F6177;
+	text-decoration: underline;
+}
+
+span[class^="c-"] {
+	color: #483d8b;
+	text-decoration: underline;
+}
+
 
 /*
 	Универсальные стили списка признаков
@@ -927,6 +1034,21 @@ section > h4 + ul li p span.rare,
 section > h5 + ul li p span.rare,
 section > h6 + ul li p span.rare {
 	background-color: #002664;
+	box-sizing: content-box;
+	display: inline-block;
+	margin-left: -0.25em;
+	padding: 0 0.25em;
+	width: 100%;
+}
+
+ul.traits li p span.unique,
+section > h1 + ul li p span.unique,
+section > h2 + ul li p span.unique,
+section > h3 + ul li p span.unique,
+section > h4 + ul li p span.unique,
+section > h5 + ul li p span.unique,
+section > h6 + ul li p span.unique {
+	background-color: #53156d;
 	box-sizing: content-box;
 	display: inline-block;
 	margin-left: -0.25em;
