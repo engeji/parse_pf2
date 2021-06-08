@@ -369,18 +369,6 @@
 
 
 
-Глоссарий умений (Ability Glossary)
-============================================================================================================
-
-.. toctree::
-   :maxdepth: 2
-   
-   ability_glossary
-
-
-
-
-
 .. _Creatures--Bestiary:
 
 Бестиарий (Bestiary)
@@ -388,10 +376,27 @@
 
 .. toctree::
    :glob:
+   :maxdepth: 3
+   
+   bestiary/*/index
+
+.. toctree::
+   :glob:
    :maxdepth: 2
    
    bestiary/*
 
+
+
+
+
+Глоссарий умений (Ability Glossary)
+============================================================================================================
+
+.. toctree::
+   :maxdepth: 2
+   
+   ability_glossary
 
 
 

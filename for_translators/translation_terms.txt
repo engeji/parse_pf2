@@ -206,6 +206,9 @@ Creature: существо
 	Destrachan: дестрачан
 	Xulgath: Зулгат
 	Velstrac: Вельстрак
+	lemure: ле́мур
+	pit fiend: исчадие преисподней
+	froghemoth: лягумот
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -266,6 +269,14 @@ Deity: Божество
 	Tanagaar: Танагаару
 	Lysianassa: Лисианассе
 	Eldest of the First World: Старейшие из Первого мира
+	Barbatos: Барбатос
+	Dispater: Диспатер
+	Mammon: Маммон
+	Belial: Белиал
+	Geryon: Герион
+	Moloch: Молох
+	Baalzebul: Вельзевул
+	Mephistopheles: Мефистофель
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -587,7 +598,7 @@ Skill: Навык
 		Long Jump: Прыжок в длину :ref:`skill--Athletics--LJump`
 		Shove: Толкнуть :ref:`skill--Athletics--Shove`
 		Swim: Плыть :ref:`skill--Athletics--Swim`
-		Trip: Опрокинуть :ref:`skill--Athletics--Trip`
+		Trip: Опрокинуть :ref:`skill--Athletics--Trip`; :ref:`Опрокидывание (Trip) <skill--Athletics--Trip>`
 		Disarm: Разоружить :ref:`skill--Athletics--Disarm`
 	Crafting: Ремесло
 		Craft: Создать :ref:`skill--Crafting--Craft`
