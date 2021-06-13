@@ -18,12 +18,12 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Pathfinder 2e'
+project = 'Pathfinder 2E'
 copyright = '2021, Balt'
 author = 'Balt'
 
 # The full version, including alpha/beta/rc tags
-release = '1.3.1'
+release = '1.3.2'
 
 
 # -- General configuration ---------------------------------------------------
