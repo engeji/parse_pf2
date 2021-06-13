@@ -1,6 +1,7 @@
 :w_finesse:`точное`
 :w_agile:`быстрое`
 :w_reach:`длинное`
+:w_thrown:`метательное`
 :w_deadly:`смертельное`
 :w_disarm:`разоружение`
 :w_versatile:`универсальное`

@@ -139,6 +139,7 @@ section > p {
 
 .rst-content aside.sidebar > p {
 	margin-bottom: 0.2em;
+	line-height: 1.4em;
 	/*text-indent: 1em;*/
 }
 
@@ -275,13 +276,13 @@ section > p {
 	font-style: normal;
 	font-weight: bolder;
 	margin-bottom: 0;
-	padding: 1em 0 0.3em 3em;
+	padding: 0.6em 0 0.3em 2em;
 	/*text-indent: 1em;*/
 	text-transform: uppercase;
 }
 
 .rst-content figure > figcaption div.legend {
-	padding: 0 1.5em 0.5em 0.3em;
+	padding: 0 1.5em 0.6em 0.6em;
 }
 
 .rst-content figure > figcaption div.legend p {
@@ -440,7 +441,7 @@ div.versionadded {
 div.versionchanged p,
 div.versionadded p {
 	font-size: 0.9em;
-	line-height: 1.5em;
+	line-height: 1.4em;
 	margin-bottom: 0em;
 }
 
@@ -448,7 +449,7 @@ div.versionchanged span.versionmodified,
 div.versionadded span.versionmodified {
 	font-size: 0.9em;
 	font-weight: bolder;
-	line-height: 1.5em;
+	line-height: 1.4em;
 }
 
 
@@ -972,7 +973,7 @@ section > h3 + ul,
 section > h4 + ul,
 section > h5 + ul,
 section > h6 + ul {
-	display: inline-block;
+	display: inherit;
 	margin-bottom: 0;
 	padding-inline-start: 0.2em;
 }
