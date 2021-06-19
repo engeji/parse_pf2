@@ -467,6 +467,7 @@
    wands
    weapons
    worn_items
+   artifact
 
 
 

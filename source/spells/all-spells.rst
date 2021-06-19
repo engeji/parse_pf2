@@ -373,6 +373,7 @@
    S/sleep
    S/slough-skin
    S/slow
+   S/snowball
    S/solid-fog
    S/soothe
    S/sound-burst

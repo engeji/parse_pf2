@@ -324,7 +324,6 @@ Focus Point: Очко Фокусировки
 focus pool: запас очков фокусировки
 
 GM: Мастер
-Goblin Pox: Гоблинская оспа
 
 Hardness: Твердость
 harm (spell/font): нанесение ран
@@ -483,7 +482,7 @@ Languages: языки
 	Draconic: Драконий
 	Celestial: Небесный (небожитель)
 	Gnoll: гнолльский
-	Osiriani: осириани; Ancient Osiriani: древний осириани
+	Osiriani: осирийский; Ancient Osiriani: древний осирийский
 	Sphinx: сфинский
 	Terran: земляной
 	D'ziriak: дзириакский
@@ -802,6 +801,20 @@ Titles:
 	Dominion of the Black: "Доминион черноты"
 	Leng: Лэнг
 	Dimension of Dreams: Измерение снов
+	Stone Roads: "Каменные дороги"
+	Onyx Vault: "Ониксовое убежище"
+	Artokus Kirran: Арток Кирран
+	Path of Salt: Соляной путь
+	Aspenthar: Аспентар
+	Hermea: Эрмея
+	Oenopion: Энопион
+	Bekyar: Бекьяр
+	Senghor: Сенгор
+	Walkena: Уокена
+	Bright Lions: "Светлые львы"
+	Umbral Court: Теневой Королевский двор
+	Goblinblood Wars: Войны Гоблинской крови
+	Galt: Голт
 
 trait: признак / особенность
 	оружие:
