@@ -281,7 +281,7 @@
 
 **Выполнение**: 1 день
 
-**Первичная проверка**: Религия (эксперт; вы должны быть `демоном <https://2e.aonprd.com/MonsterFamilies.aspx?ID=28>`_ или `урдефаном <https://2e.aonprd.com/MonsterFamilies.aspx?ID=158>`_)
+**Первичная проверка**: Религия (эксперт; вы должны быть `дэймоном <https://2e.aonprd.com/MonsterFamilies.aspx?ID=26>`_ или `урдефаном <https://2e.aonprd.com/MonsterFamilies.aspx?ID=158>`_)
 
 **Источник**: Bestiary 2 pg. 311
 
