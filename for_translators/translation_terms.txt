@@ -678,7 +678,7 @@ tap into: погрузиться в, подключиться к
 Titles:
 	Earthfall: Землепад
 	Jadwiga: Ядвига
-	Erutaki: Эрутаки
+	Erutaki: Эрутакец
 	Varisia: Варисия
 	Varisian: Варисиец
 	Keleshite: Келешиец

@@ -433,9 +433,9 @@ Pathfinder-ов часто просят изучить тонкости древ
 
 ----------
 
-Вы пытаетесь :ref:`skill--Recall-Knowledge` о существе, и Мастер использует этот же результат тайного броска против КС Обмана или Скрытности существа, давая вам информацию из :ref:`class-feat--rogue--Battle-Assessment`.
+Вы пытаетесь :ref:`skill--Recall-Knowledge` о существе, и Мастер использует этот же результат :t_secret:`тайного` броска против КС Обмана или Скрытности существа, давая вам информацию из :ref:`class-feat--rogue--Battle-Assessment`.
 Ваша степень успеха проверки :ref:`skill--Recall-Knowledge` и :ref:`class-feat--rogue--Battle-Assessment` может отличаться.
-Если у вас есть способность :ref:`class-feat--rogue--Battle-Assessment`, то вы получаете эффекты "Квалифицированного анализа" всякий раз когда делаете :ref:`skill--Recall-Knowledge` (например со способностью навыка :ref:`feat--Automatic-Knowledge`).
+Если у вас есть способность :ref:`class-feat--rogue--Battle-Assessment`, то вы получаете эффекты "Квалифицированного анализа" всякий раз когда применяете :ref:`skill--Recall-Knowledge` (например со способностью навыка :ref:`feat--Automatic-Knowledge`).
 
 
 .. _arch-feat--Pathfinder-Agent--Swap-Investment:
