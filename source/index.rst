@@ -24,7 +24,7 @@ Pathfinder 2E
    feats
    equipment
    spells/index
-   the_age_of_lost_omens
+   lost_omens/index
    playing_the_game
    game_mastering/index
    crafting_and_treasure/index

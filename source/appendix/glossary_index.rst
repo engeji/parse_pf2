@@ -6399,7 +6399,7 @@ d4, d6, d8, d10, d12, d20, и d%
 * противодействие / :ref:`ch7--Counteracting--spells`
 * прерывание / см. последнюю запись "Прерванные и потерянные заклинания" в :ref:`action--Cast-a-Spell`
 * продолжительности / * :ref:`ch7--Durations`; см. сноску "Отслеживание продолжительности заклинаний (Monitoring Spell Durations)" в :ref:`ch10--Exploration--Rolling-Initiative`
-* заклинания фокусировки (заклинания наследия крови, заклинания-композиции, заклинания преданности, доменные заклинания, ки заклинания, заклинания ордена, заклинания школы) / :ref:`spells--info--Focus-Spells`; :ref:`ch7--spells-focus`
+* заклинания фокусировки (заклинания наследия крови, заклинания-композиции, заклинания преданности, доменные заклинания, заклинания ки, заклинания ордена, заклинания школы) / :ref:`spells--info--Focus-Spells`; :ref:`ch7--spells-focus`
 * усиление / :ref:`ch7--Heightened-Spells`
 * идентификация / :ref:`ch4--General--Identify-Magic`; * :ref:`ch7--Identifying-Spells`
 * врожденное / :ref:`ch7--Innate-Spells`

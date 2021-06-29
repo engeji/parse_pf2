@@ -222,6 +222,7 @@ darkvision: ночное зрение
 	Greater Darkvision: Сильное ночное зрение
 DC / difficulty class: класс сложности
 Deity: Божество
+	Ascended: Вознесшиеся
 	Elemental lord: повелитель стихии
 	Empyreal Lords: Небесные владыки
 	Irori: Ирори
@@ -277,12 +278,19 @@ Deity: Божество
 	Moloch: Молох
 	Baalzebul: Вельзевул
 	Mephistopheles: Мефистофель
+	Cernunnos: Кернунн
+	Halcamora: Халкамора
+	Jaidi: Джайди
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
 divine (о заклинаниях): сакральный
 	divine font: божественная сила
 	divine focus: сакральное сосредоточение/фокус
+	Intercession: вмешательство
+		Minor: небольшое
+		Moderate: умеренное
+		Major: серьезное
 domains: домены
 	glyph: символ
 	secrecy: тайна
@@ -815,6 +823,12 @@ Titles:
 	Umbral Court: Теневой Королевский двор
 	Goblinblood Wars: Войны Гоблинской крови
 	Galt: Голт
+	Aktun: Актун
+	Nessus: Несс
+	Clashing Shore: Грохочущий Берег
+	Forgeheart: Сердце Кузни
+	Bloodrot: Бладрот
+	Xovaikain: Зовайкейн
 
 trait: признак / особенность
 	оружие:
