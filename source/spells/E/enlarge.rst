@@ -19,6 +19,11 @@
 
 **Продолжительность**: 5 минут
 
+**Божества**:
+:doc:`/lost_omens/Deity/Core/Gorum`,
+:doc:`/lost_omens/Deity/Core/Iomedae`,
+:doc:`/lost_omens/Deity/Core/Rovagug`
+
 ----------
 
 Усиленная магической силой, цель вырастает до большого размера.

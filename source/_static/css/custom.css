@@ -468,10 +468,11 @@ section.animal-companions h2,
 section.class-archetypes h2,
 section.equip-subchap h2,
 /*section.gear-description h2,*/
-section.cultures h2,
-section.ch8-creatures h2,
-section.ch8-factions h2,
-section.religion h2,
+section.lo-index-subchap h2,
+section.spells-index-subchap h2,
+/*section.ch8-creatures h2,*/
+/*section.ch8-factions h2,*/
+/*section.religion h2,*/
 /*section.spells-focus h2,*/
 /*section.spells-rituals h2,*/
 section.gm-subchap h2,
@@ -502,9 +503,13 @@ section.archetype.multiclass h1,
 section.archetype h1,
 section.hellknight-order-abilities h1,
 section.equip-subchap h3,
-section.religion h3,
-section.spells-focus h2,
-/*section.spells-rituals h3,*/
+section.lo-culture h1,
+section.lo-creatures h1,
+section.lo-faction h1,
+section.lo-religion h1,
+section.spells-focus h1,
+section.rituals-list h1,
+section.spells-rituals-subchap h1,
 section.craft-treasure-alchemicalitems h1,
 section.craft-treasure-consumables h1,
 section.craft-treasure-snares h1,
@@ -547,8 +552,10 @@ section.archetype h4,
 section.hellknight-order-abilities h2,
 section.equip-subchap h4,
 section.gear-description h2,
-section.religion h4,
-/*section.spells-rituals h4,*/
+section.lo-culture h2,
+section.lo-religion h2,
+section.deity h2,
+section.spells-rituals-subchap h2,
 section.craft-treasure-alchemicalitems h2,
 section.craft-treasure-consumables h2,
 section.craft-treasure-snares h2,
@@ -584,8 +591,9 @@ section.char-class h4,
 section.animal-companions h4,
 section.class-archetypes h3,
 section.equip-subchap h5,
-section.religion h5,
-section.spells-rituals h5,
+/*section.religion h5,*/
+section.deity h3,
+section.spells-rituals-subchap h3,
 section.craft-treasure-alchemicalitems h3,
 section.craft-treasure-consumables h3,
 section.craft-treasure-snares h3,
@@ -714,8 +722,8 @@ section.archetype.multiclass section > h3,
 section.archetype section > h2,
 section.hellknight-order-abilities section > h3,
 section.expl-activities section > h4,
-section.spells-focus section > h3,
-section.rituals-list section > h3,
+section.spells-focus section > h2,
+section.rituals-list section > h2,
 section.gm-hazards section > h3,
 section.craft-treasure-bombs section > h4,
 section.craft-treasure-elixirs section > h4,
@@ -943,6 +951,26 @@ section.creature-details aside.sidebar p.rubric {
 	text-indent: initial;
 	text-transform: uppercase;
 }
+
+
+
+section.deity h1 {
+	box-sizing: border-box;
+	color: #5e0000;
+	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+	font-size: 200%;
+	font-weight: bold;
+	margin-bottom: 0.2em;
+	margin-top: 0;
+	text-transform: initial;
+}
+
+p.rubric.deity-title {
+	font-size: 110%;
+	margin-bottom: 0.2em;
+}
+
+
 
 
 /*

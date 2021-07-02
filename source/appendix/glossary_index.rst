@@ -3577,7 +3577,7 @@
 
 | :ref:`ch3--classes--champion`
 
-* :ref:`ch8--Deities`
+* :ref:`Божества <ch8--Deities>`
 * заклинания преданности / :ref:`class-feature--Champion--Devotion-Spells`; * :ref:`focus-spells--Champion`
 * мультиклассовый архетип / :ref:`archetype--Champion`
 
@@ -3679,7 +3679,7 @@
 
 | :ref:`ch3--classes--cleric`
 
-* божества и домены / :ref:`class-feature--Cleric--Deity`; :ref:`ch8--Deities`
+* божества и домены / :ref:`class-feature--Cleric--Deity`; :ref:`Божества <ch8--Deities>`
 * список сакральных заклинаний / :ref:`spells-list--Divine`
 * доменные заклинания / :ref:`focus-spells--Cleric`
 * мультиклассовый архетип / :ref:`archetype--Cleric`
@@ -4082,7 +4082,7 @@ d4, d6, d8, d10, d12, d20, и d%
 Божества это могущественные сущности, живущие за пределами мира и дающие своим истинным верующим силы в виде заклинаний.
 
 | :ref:`ch1--Step10--Deity`
-| * :ref:`ch8--Deities`
+| * :ref:`Божества <ch8--Deities>`
 
 * божество чемпиона / :ref:`class-feature--Champion--Deity-and-Cause`
 * божество жреца / :ref:`class-feature--Cleric--Deity`
@@ -4789,7 +4789,7 @@ d4, d6, d8, d10, d12, d20, и d%
 
 Также смотрите "божество".
 
-| :ref:`ch8--Deities`
+| :ref:`Божества <ch8--Deities>`
 
 
 Голарион (Golarion)
@@ -6399,7 +6399,7 @@ d4, d6, d8, d10, d12, d20, и d%
 * противодействие / :ref:`ch7--Counteracting--spells`
 * прерывание / см. последнюю запись "Прерванные и потерянные заклинания" в :ref:`action--Cast-a-Spell`
 * продолжительности / * :ref:`ch7--Durations`; см. сноску "Отслеживание продолжительности заклинаний (Monitoring Spell Durations)" в :ref:`ch10--Exploration--Rolling-Initiative`
-* заклинания фокусировки (заклинания наследия крови, заклинания-композиции, заклинания преданности, доменные заклинания, ки заклинания, заклинания ордена, заклинания школы) / :ref:`spells--info--Focus-Spells`; :ref:`ch7--spells-focus`
+* заклинания фокусировки (заклинания наследия крови, заклинания-композиции, заклинания преданности, доменные заклинания, заклинания ки, заклинания ордена, заклинания школы) / :ref:`spells--info--Focus-Spells`; :ref:`ch7--spells-focus`
 * усиление / :ref:`ch7--Heightened-Spells`
 * идентификация / :ref:`ch4--General--Identify-Magic`; * :ref:`ch7--Identifying-Spells`
 * врожденное / :ref:`ch7--Innate-Spells`
