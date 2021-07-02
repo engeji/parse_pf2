@@ -829,6 +829,8 @@ Titles:
 	Forgeheart: Сердце Кузни
 	Bloodrot: Бладрот
 	Xovaikain: Зовайкейн
+	Swordhome: Сордхоум
+	Kurnugia: Иркалла
 
 trait: признак / особенность
 	оружие:

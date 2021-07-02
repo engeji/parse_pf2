@@ -35,9 +35,9 @@
 **Союзники**: нет
 
 **Враги**:
-Ачакек (`Achaekek <https://2e.aonprd.com/Deities.aspx?ID=29>`_),
 :doc:`Norgorber`,
-:doc:`Urgathoa`
+:doc:`Urgathoa`,
+Ачакек (`Achaekek <https://2e.aonprd.com/Deities.aspx?ID=29>`_)
 
 **Храмы**: арсеналы, поля сражений, крепости
 
@@ -63,7 +63,11 @@ Lost Omens: Gods & Magic pg. 24
 
 **Предпочитаемое оружие**: двуручный меч
 
-**Домены**: уверенность, разрушение, мощь, рвение
+**Домены**:
+:doc:`/lost_omens/Domain/confidence`,
+:doc:`/lost_omens/Domain/destruction`,
+:doc:`/lost_omens/Domain/might`,
+:doc:`/lost_omens/Domain/zeal`
 
 **Заклинания жреца**: 
 

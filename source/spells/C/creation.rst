@@ -16,6 +16,12 @@
 
 **Продолжительность**: 1 час
 
+**Божества**:
+:doc:`/lost_omens/Deity/Core/Abadar`,
+:doc:`/lost_omens/Deity/Core/Shelyn`,
+:doc:`/lost_omens/Deity/Core/Torag`,
+:ref:`Pantheon--Dwarven`
+
 ----------
 
 Вы создаете временный объект из сверхъестественной энергии.

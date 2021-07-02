@@ -37,9 +37,9 @@
 **Союзники**:
 :doc:`Abadar`,
 :doc:`Gozreh`,
-Казутал (`Kazutal <https://2e.aonprd.com/Deities.aspx?ID=41>`_),
 :doc:`Shelyn`,
-:doc:`Torag`
+:doc:`Torag`,
+Казутал (`Kazutal <https://2e.aonprd.com/Deities.aspx?ID=41>`_)
 
 **Враги**: :doc:`Urgathoa`
 
@@ -72,9 +72,13 @@ Lost Omens: Gods & Magic pg. 22
 
 **Предпочитаемое оружие**: длинный лук
 
-**Домены**: земля, семья, природа, богатство
+**Домены**:
+:doc:`/lost_omens/Domain/earth`,
+:doc:`/lost_omens/Domain/family`,
+:doc:`/lost_omens/Domain/nature`,
+:doc:`/lost_omens/Domain/wealth`
 
-**Альтернативные домены**: долг
+**Альтернативные домены**: :doc:`/lost_omens/Domain/duty`
 
 **Заклинания жреца**: 
 

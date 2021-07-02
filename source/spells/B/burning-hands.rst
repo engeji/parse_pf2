@@ -17,6 +17,10 @@
 
 **Спасбросок**: простой Рефлекс
 
+**Божества**:
+:doc:`/lost_omens/Deity/Core/Rovagug`,
+:doc:`/lost_omens/Deity/Core/Sarenrae`
+
 ----------
 
 Из ваших рук вырываются языки пламени.

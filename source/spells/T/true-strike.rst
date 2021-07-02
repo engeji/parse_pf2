@@ -15,6 +15,11 @@
 
 **Продолжительность**: до конца вашего хода
 
+**Божества**:
+:doc:`/lost_omens/Deity/Core/Erastil`,
+:doc:`/lost_omens/Deity/Core/Gorum`,
+:doc:`/lost_omens/Deity/Core/Iomedae`
+
 ----------
 
 Взгляд в будущее гарантирует, что ваш следующий удар будет точным.
