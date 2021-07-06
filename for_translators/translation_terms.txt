@@ -854,7 +854,8 @@ Titles:
 	Screaming Jungle: Кричащие Джунгли
 	Matanji: Матанджи
 	Barrier Wall: Барьерная Стена (горы)
-	
+	Blood Vale: Кровавая Долина
+
 trait: признак / особенность
 	оружие:
 		agile: быстрое
