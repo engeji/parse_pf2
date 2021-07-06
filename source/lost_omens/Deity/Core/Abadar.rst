@@ -47,7 +47,7 @@
 :doc:`Lamashtu`,
 :doc:`Norgorber`,
 :doc:`Rovagug`,
-Бесмара (`Besmara <https://2e.aonprd.com/Deities.aspx?ID=32>`_)
+:doc:`/lost_omens/Deity/Other/Besmara`
 
 **Храмы**: банки, кафедральные соборы, здания суда
 

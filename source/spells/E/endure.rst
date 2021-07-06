@@ -19,6 +19,9 @@
 
 **Продолжительность**: 1 раунд
 
+**Божества**:
+:doc:`/lost_omens/Deity/Other/Arazni`
+
 **Источник**: Lost Omens: Gods & Magic pg. 107
 
 ----------

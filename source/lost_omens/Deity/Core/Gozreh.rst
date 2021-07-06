@@ -35,7 +35,7 @@
 **Союзники**:
 :doc:`Desna`,
 :doc:`Erastil`,
-Бесмара (`Besmara <https://2e.aonprd.com/Deities.aspx?ID=32>`_)
+:doc:`/lost_omens/Deity/Other/Besmara`
 
 **Враги**:
 :doc:`Nethys`,

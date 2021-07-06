@@ -30,6 +30,11 @@
 
 **Требования**: 
 
+**Божества**:
+:doc:`/lost_omens/Deity/Other/NAME`,
+:doc:`/lost_omens/Deity/CATEGORY/NAME`,
+:ref:`PANTHEON`,
+
 **Источник**: Lost Omens: 
 **Источник**: Advanced Player's Guide pg. 
 

@@ -44,7 +44,7 @@
 :doc:`Rovagug`,
 :doc:`Sarenrae`,
 :doc:`Shelyn`,
-Бесмара (`Besmara <https://2e.aonprd.com/Deities.aspx?ID=32>`_),
+:doc:`/lost_omens/Deity/Other/Besmara`,
 Бабушка Паучиха (`Grandmother Spider <https://2e.aonprd.com/Deities.aspx?ID=37>`_)
 
 **Отношения**: Ихис (Ihys) (умерший брат)

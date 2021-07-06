@@ -32,7 +32,7 @@
 **Царство**: Даскфатом (Оси)
 
 **Союзники**:
-Ачакек (`Achaekek <https://2e.aonprd.com/Deities.aspx?ID=29>`_),
+:doc:`/lost_omens/Deity/Other/Achaekek`,
 Сивана (`Sivanah <https://2e.aonprd.com/Deities.aspx?ID=46>`_)
 
 **Враги**:

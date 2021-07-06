@@ -41,7 +41,7 @@
 :doc:`Sarenrae`,
 :doc:`Shelyn`,
 :doc:`Torag`,
-Бесмара (`Besmara <https://2e.aonprd.com/Deities.aspx?ID=32>`_),
+:doc:`/lost_omens/Deity/Other/Besmara`,
 Милани (`Milani <https://2e.aonprd.com/Deities.aspx?ID=43>`_)
 
 **Враги**:

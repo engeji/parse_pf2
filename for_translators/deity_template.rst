@@ -28,14 +28,17 @@
 
 **Союзники**:
 :doc:`GOD`,
+:doc:`/lost_omens/Deity/CATEGORY/GOD`,
 ИМЯ (`NAME <https>`_),
 
 **Враги**:
 :doc:`GOD`,
+:doc:`/lost_omens/Deity/CATEGORY/GOD`,
 ИМЯ (`NAME <https>`_),
 
 **Отношения**:
 :doc:`GOD`,
+:doc:`/lost_omens/Deity/CATEGORY/GOD`,
 ИМЯ (`NAME <https>`_),
 
 **Храмы**: 
@@ -46,9 +49,7 @@
 
 **Священные цвета**: 
 
-**Источник**:
-Core Rulebook pg. 440,
-Lost Omens: Gods & Magic pg. 1111111111111111111111
+**Источник**: Lost Omens: Gods & Magic pg. 1111111111111111111111
 
 
 
