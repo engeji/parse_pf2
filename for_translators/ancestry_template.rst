@@ -16,10 +16,17 @@
 
 .. sidebar:: hidden
 
+	.. rubric:: Источник
+
+	Lost Omens: Lost Omens: Mwangi Expanse pg. 111111111111111111111111
+
+
 	.. rubric:: Редкость
 
-	Необычная
-	Редкая
+	.. rst-class:: traits
+
+	- :uncommon:`необычный`
+	- :rare:`редкий`
 
 
 	.. rubric:: Очки здоровья
@@ -83,6 +90,8 @@
 	.. rubric:: Признаки
 
 	333333333333
+
+	:t_humanoid:`Гуманоид`
 
 
 	!!!!!!!!!!!!!!!!             УБРАТЬ ЛИШНЕЕ
@@ -165,7 +174,7 @@
 .. rst-class:: h4
 .. rubric:: 11111111111111111 (2222222222222222)
 
-**Источник**: Lost Omens: Ancestry Guide pg. 
+**Источник**: Lost Omens: Mwangi Expanse pg. 
 
 ОПИСАНИЕ
 
@@ -173,7 +182,7 @@
 .. rst-class:: h4
 .. rubric:: 11111111111111111 (2222222222222222)
 
-**Источник**: Lost Omens: Ancestry Guide pg. 
+**Источник**: Lost Omens: Mwangi Expanse pg. 
 
 ОПИСАНИЕ
 
@@ -181,7 +190,7 @@
 .. rst-class:: h4
 .. rubric:: 11111111111111111 (2222222222222222)
 
-**Источник**: Lost Omens: Ancestry Guide pg. 
+**Источник**: Lost Omens: Mwangi Expanse pg. 
 
 ОПИСАНИЕ
 
@@ -202,7 +211,7 @@
 НАЗВАНИЕ (`TITLE <https>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Источник**: Lost Omens: Ancestry Guide pg. 
+**Источник**: Lost Omens: Mwangi Expanse pg. 
 
 ОПИСАНИЕ
 

@@ -207,6 +207,7 @@
    ancestries/strix
    ancestries/android
    ancestries/fleshwarp
+   ancestries/gnoll
 
 
 
