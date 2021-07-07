@@ -855,6 +855,8 @@ Titles:
 	Matanji: Матанджи
 	Barrier Wall: Барьерная Стена (горы)
 	Blood Vale: Кровавая Долина
+	Argent Gate: Серебристые Врата
+	Bzuulzeel: Бьюлзел
 
 trait: признак / особенность
 	оружие:
