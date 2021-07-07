@@ -20,7 +20,8 @@
 :doc:`/lost_omens/Deity/Core/Abadar`,
 :doc:`/lost_omens/Deity/Core/Shelyn`,
 :doc:`/lost_omens/Deity/Core/Torag`,
-:ref:`Pantheon--Dwarven`
+:ref:`Pantheon--Dwarven`,
+:doc:`/lost_omens/Deity/Other/Brigh`
 
 ----------
 

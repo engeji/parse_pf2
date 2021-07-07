@@ -20,7 +20,8 @@
 **Спасбросок**: Стойкость
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Urgathoa`
+:doc:`/lost_omens/Deity/Core/Urgathoa`,
+:doc:`/lost_omens/Deity/Other/Ghlaunder`
 
 ----------
 

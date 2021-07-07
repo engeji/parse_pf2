@@ -33,7 +33,7 @@
 
 **Союзники**:
 :doc:`Zon-Kuthon`,
-Глаундер (`Ghlaunder <https://2e.aonprd.com/Deities.aspx?ID=36>`_)
+:doc:`/lost_omens/Deity/Other/Ghlaunder`
 
 **Враги**:
 :doc:`Erastil`,

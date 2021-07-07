@@ -257,7 +257,7 @@ Deity: Божество
 	Pulura: Полура
 	Nhimbaloth: Нимбалот
 	Lantern King: Король фонарей
-	Brigh: Бри
+	Brigh: Брай
 	Yrmidar the Old Bear: Ирмидар Старый Медведь
 	Godmind: Божественный Разум
 	Ashukharma: Ашухарма 
@@ -832,6 +832,8 @@ Titles:
 	Swordhome: Сордхоум
 	Kurnugia: Иркалла
 	Blood Vale: Кровавая Долина
+	Argent Gate: Серебристые Врата
+	Bzuulzeel: Бьюлзел
 
 trait: признак / особенность
 	оружие:

@@ -29,7 +29,11 @@
 
 **Царство**: Кровавая Долина (Могильник)
 
-**Верующие**: :ref:`archetype--Red-Mantis-Assassin`
+**Верующие**: :ref:`Faction--Red-Mantis`, :ref:`archetype--Red-Mantis-Assassin`, ассасины
+
+**Священное животное**: багровый богомол
+
+**Священные цвета**: красный
 
 **Источник**: Lost Omens: Gods & Magic pg. 52
 

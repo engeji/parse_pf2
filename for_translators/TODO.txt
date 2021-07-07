@@ -1,0 +1,129 @@
+# АРХЕТИПЫ
+
+##  LO:WG
+
+	Aldori Duelist
+	Living Monolith
+	Red Mantis Assassin
+	Student of Perfection
+	Magic Warrior
+	Runescarred
+	Lion Blade
+	Hellknight Armiger (+ фиты из LOCG - Hellknight Armiger Feats)
+	Lastwall Sentry
+	Pathfinder Agent
+
+
+
+## LO:CG
+
+	### Firebrand Archetype
+	Firebrand Braggart
+
+
+	### Hellknight Archetypes
+	Hellknight
+	Hellknight Signifer
+	#### Hellknight Order Abilities
+	#### Hellknight Armiger Feats
+
+	### Knights of Lastwall Archetypes
+	Knight Vigilant
+	Knight Reclaimant
+	#### Knights of Lastwall Class Feats
+	#### Knights of Lastwall Focus Spells
+
+	### Magaambyan Archetypes
+	Magaambyan Attendant
+	Halcyon Speaker
+
+	### Pathfinder Society Archetypes
+	Pathfinder Agent Feats
+	Scrollmaster
+	Spellmaster
+	Swordmaster
+
+
+
+## LO:PfSG
+
+	Pathfinder Agent Feats
+	Scrollmaster Feats
+	Spellmaster Feats
+	Swordmaster Feats
+
+
+
+## AP
+
+Bellflower Tiller #147
+Crystal Keeper #148
+Zephyr Guard #149
+Staff Acrobat #151
+Juggler #151
+Animal Trainer #152
+Turpin Rowe Lumberjack #153
+Golem Grafter #153
+
+
+
+
+
+# LO: Gods and Magic
+
+## Божества
+
+Achaekek
+Alseta
+Arazni
+Besmara
+Brigh
+Casandalee
+Chaldira
+Ghlaunder
+Grandmother Spider
+Groetus
+Gruhastha
+Hei Feng
+Kazutal
+Kurgess
+Milani
+Nivi Rhombodazzle
+Nocticula
+Shizuru
+Sivanah
+Tsukiyo
+
+
+## Домены
+
+	Change
+	Cold
+	Decay
+	Delirium
+	Dust
+	Duty
+	Glyph
+	Lightning
+	Plague
+	Repose
+	Sorrow
+	Soul
+	Star
+	Swarm
+	Time
+Toil
+	Vigil
+	Void
+	Wyrmkin
+
+
+# ПРЕДМЕТЫ
+
+	1 Scrollstaff
+1+ Peshpine Grenade
+	2 различные Wayfinder-ы
+2 Necklace of Knives
+	3 Snapleaf
+	4 Cloak of Repute
+	4 Scroll Case of Simplicity
