@@ -834,6 +834,7 @@ Titles:
 	Blood Vale: Кровавая Долина
 	Argent Gate: Серебристые Врата
 	Bzuulzeel: Бьюлзел
+	Anthusis: Антузис
 
 trait: признак / особенность
 	оружие:
