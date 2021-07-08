@@ -832,6 +832,9 @@ Titles:
 	Swordhome: Сордхоум
 	Kurnugia: Иркалла
 	Anthusis: Антузис
+	Nurvatcha: Нурватча
+	Domithari: Домифари
+	Majabi: Маджаби
 
 trait: признак / особенность
 	оружие:

@@ -19,7 +19,7 @@
 
 	.. rubric:: Источник
 
-	Lost Omens: Lost Omens: Mwangi Expanse pg. 119
+	Lost Omens: The Mwangi Expanse pg. 119
 
 
 	.. rubric:: Редкость
@@ -164,7 +164,7 @@
 .. rst-class:: h4
 .. rubric:: Анклавы гриппли (Grippli Enclaves)
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 121
+**Источник**: Lost Omens: The Mwangi Expanse pg. 121
 
 Большинство гриппли происходит из Земель Каава в Просторах Муанги, широкого полуострова заросшего джунглями.
 После столетий колониального давления многие гриппли мигрировали в Видриан, как в его столицу Антузис, так и в менее заселенные земли.
@@ -191,7 +191,7 @@
 Ядовитошкурый (`Poisonhide <https://2e.aonprd.com/Heritages.aspx?ID=175>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 119
+**Источник**: Lost Omens: The Mwangi Expanse pg. 119
 
 Быть может вы и маленький, но ядовитые железы, спрятанные в вашем теле, таят смертельную защиту.
 Вы получаете реакцию "Токсичная кожа".
@@ -210,7 +210,7 @@
 
 **Частота**: раз в час
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 119
+**Источник**: Lost Omens: The Mwangi Expanse pg. 119
 
 ----------
 
@@ -224,7 +224,7 @@
 Хватающий языком (`Snaptongue <https://2e.aonprd.com/Heritages.aspx?ID=176>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 119
+**Источник**: Lost Omens: The Mwangi Expanse pg. 119
 
 Ваш язык особенно длинный, и вы можете выбрасывать его далеко и с необычайной точностью.
 Вы можете использовать свой язык, чтобы доставлять заклинания с дистанцией касания и выполнять чрезвычайно простые действия :ref:`action--Interact`, такие как открытие некоторых видов незапертых дверей.
@@ -236,7 +236,7 @@
 Липкопалый (`Stickytoe <https://2e.aonprd.com/Heritages.aspx?ID=177>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 119
+**Источник**: Lost Omens: The Mwangi Expanse pg. 119
 
 Ваши руки и ноги выделяют пленку, которая помогает им прилипать к поверхностям.
 Вы получаете бонус обстоятельства +2 к вашим КС Стойкости и КС Рефлекса против попыток :ref:`skill--Athletics--Disarm`, :ref:`skill--Athletics--Shove` или :ref:`skill--Athletics--Trip` вас.
@@ -248,7 +248,7 @@
 Невесомый (`Windweb <https://2e.aonprd.com/Heritages.aspx?ID=178>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 119
+**Источник**: Lost Omens: The Mwangi Expanse pg. 119
 
 Прочные перепонки на руках и ногах могут замедлить любое падение.
 Пока у вас есть одна свободная рука, вы не получаете урон от падения, независимо от расстояния которое падаете.
@@ -290,7 +290,7 @@
 
 - гриппли
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 119
+**Источник**: Lost Omens: The Mwangi Expanse pg. 119
 
 ----------
 
@@ -307,7 +307,7 @@
 
 - гриппли
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 119
+**Источник**: Lost Omens: The Mwangi Expanse pg. 119
 
 ----------
 
@@ -331,7 +331,7 @@
 
 **Частота**: раз в час
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 120
+**Источник**: Lost Omens: The Mwangi Expanse pg. 120
 
 ----------
 
@@ -348,7 +348,7 @@
 
 - гриппли
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 120
+**Источник**: Lost Omens: The Mwangi Expanse pg. 120
 
 ----------
 
@@ -364,7 +364,7 @@
 
 - гриппли
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 120
+**Источник**: Lost Omens: The Mwangi Expanse pg. 120
 
 ----------
 
@@ -392,7 +392,7 @@
 
 **Требования**: У вас должна быть свободная хотя бы 1 рука
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 120
+**Источник**: Lost Omens: The Mwangi Expanse pg. 120
 
 ----------
 
@@ -410,7 +410,7 @@
 
 **Предварительные условия**: :ref:`ancestry-feat--Grippli--Weapon-Familiarity`
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 120
+**Источник**: Lost Omens: The Mwangi Expanse pg. 120
 
 ----------
 
@@ -427,7 +427,7 @@
 
 **Предварительные условия**: наследие :ref:`ancestry-heritage--Grippli--Snaptongue`
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 120
+**Источник**: Lost Omens: The Mwangi Expanse pg. 120
 
 ----------
 
@@ -442,7 +442,7 @@
 
 - гриппли
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 121
+**Источник**: Lost Omens: The Mwangi Expanse pg. 121
 
 ----------
 
@@ -468,7 +468,7 @@
 
 **Триггер**: Вы совершаете спасбросок против эффекта :t_disease:`болезни` или :t_poison:`яда`, действующего на область
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 121
+**Источник**: Lost Omens: The Mwangi Expanse pg. 121
 
 ----------
 
@@ -488,7 +488,7 @@
 
 **Предварительные условия**: мастер Атлетики, :ref:`feat--Wall-Jump`
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 121
+**Источник**: Lost Omens: The Mwangi Expanse pg. 121
 
 ----------
 
@@ -506,7 +506,7 @@
 
 **Предварительные условия**: наследие :ref:`ancestry-heritage--Grippli--Snaptongue`
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 121
+**Источник**: Lost Omens: The Mwangi Expanse pg. 121
 
 ----------
 
@@ -528,7 +528,7 @@
 
 - гриппли
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 121
+**Источник**: Lost Omens: The Mwangi Expanse pg. 121
 
 ----------
 
@@ -545,7 +545,7 @@
 
 **Предварительные условия**: :ref:`ancestry-feat--Grippli--Weapon-Familiarity`
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 121
+**Источник**: Lost Omens: The Mwangi Expanse pg. 121
 
 ----------
 
