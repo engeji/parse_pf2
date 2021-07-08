@@ -831,6 +831,7 @@ Titles:
 	Xovaikain: Зовайкейн
 	Swordhome: Сордхоум
 	Kurnugia: Иркалла
+	Anthusis: Антузис
 
 trait: признак / особенность
 	оружие:

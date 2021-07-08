@@ -208,6 +208,7 @@
    ancestries/android
    ancestries/fleshwarp
    ancestries/gnoll
+   ancestries/grippli
 
 
 
