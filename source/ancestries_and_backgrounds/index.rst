@@ -209,6 +209,7 @@
    ancestries/fleshwarp
    ancestries/gnoll
    ancestries/grippli
+   ancestries/anadi
 
 
 

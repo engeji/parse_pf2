@@ -18,7 +18,7 @@
 
 	.. rubric:: Источник
 
-	Lost Omens: Lost Omens: Mwangi Expanse pg. 111111111111111111111111
+	Lost Omens: Lost Omens: The Mwangi Expanse pg. 111111111111111111111111
 
 
 	.. rubric:: Редкость
@@ -175,7 +175,7 @@
 .. rst-class:: h4
 .. rubric:: 11111111111111111 (2222222222222222)
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 
+**Источник**: Lost Omens: The Mwangi Expanse pg. 
 
 ОПИСАНИЕ
 
@@ -183,7 +183,7 @@
 .. rst-class:: h4
 .. rubric:: 11111111111111111 (2222222222222222)
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 
+**Источник**: Lost Omens: The Mwangi Expanse pg. 
 
 ОПИСАНИЕ
 
@@ -191,7 +191,7 @@
 .. rst-class:: h4
 .. rubric:: 11111111111111111 (2222222222222222)
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 
+**Источник**: Lost Omens: The Mwangi Expanse pg. 
 
 ОПИСАНИЕ
 
@@ -212,7 +212,7 @@
 НАЗВАНИЕ (`TITLE <https>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 
+**Источник**: Lost Omens: The Mwangi Expanse pg. 
 
 ОПИСАНИЕ
 
@@ -264,7 +264,7 @@
 
 **Доступ**: 
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 
+**Источник**: Lost Omens: The Mwangi Expanse pg. 
 
 ----------
 
@@ -297,7 +297,7 @@
 
 **Доступ**: 
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 
+**Источник**: Lost Omens: The Mwangi Expanse pg. 
 
 ----------
 
@@ -330,7 +330,7 @@
 
 **Доступ**: 
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 
+**Источник**: Lost Omens: The Mwangi Expanse pg. 
 
 ----------
 
@@ -363,7 +363,7 @@
 
 **Доступ**: 
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 
+**Источник**: Lost Omens: The Mwangi Expanse pg. 
 
 ----------
 
@@ -396,7 +396,7 @@
 
 **Доступ**: 
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 
+**Источник**: Lost Omens: The Mwangi Expanse pg. 
 
 ----------
 
