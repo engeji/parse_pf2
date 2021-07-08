@@ -726,3 +726,13 @@
 .. role:: t_wayang
 
 .. role:: t_wyrwood
+
+.. role:: t_anadi
+
+.. role:: t_grippli
+
+.. role:: t_conrasu
+
+.. role:: t_goloma
+
+.. role:: t_shisk
