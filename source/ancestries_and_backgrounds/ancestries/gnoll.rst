@@ -19,7 +19,7 @@
 
 	.. rubric:: Источник
 
-	Lost Omens: Mwangi Expanse pg. 110
+	Lost Omens: The Mwangi Expanse pg. 110
 
 
 	.. rubric:: Редкость
@@ -199,7 +199,7 @@
 .. rst-class:: h4
 .. rubric:: Анклавы гноллов (Gnoll Enclaves)
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 113
+**Источник**: Lost Omens: The Mwangi Expanse pg. 113
 
 Холо в основном живут полукочевыми кланами на равнинах к югу от Джунглей Муанги, перемещаясь между несколькими постоянными лагерями возле водопоев или хороших охотничьих угодий.
 Кланы гноллов устраивают импровизированные фестивали, когда их маршруты пересекаются, и каждые несколько лет происходят собрания двух десятков кланов или более.
@@ -221,7 +221,7 @@
 Муравьиный (`Ant <https://2e.aonprd.com/Heritages.aspx?ID=166>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 111
+**Источник**: Lost Omens: The Mwangi Expanse pg. 111
 
 Вы большеухий гнолл с острыми чертами, ростом около 3 футов.
 Многие скептически относятся к тому, что вы на самом деле гнолл.
@@ -235,7 +235,7 @@
 Большой (`Great <https://2e.aonprd.com/Heritages.aspx?ID=167>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 111
+**Источник**: Lost Omens: The Mwangi Expanse pg. 111
 
 Вы большой, мощный гнолл, с рыжевато-коричневой шерстью и коричневыми пятнами на шкуре.
 Вы получаете 10 Очков Здоровья от своей родословной, вместо стандартных 8 и получаете бонус обстоятельства +1 к проверкам Атлетики, чтобы :ref:`skill--Athletics--Shove` или :ref:`skill--Athletics--Trip` врагов.
@@ -246,7 +246,7 @@
 Свежего дыхания (`Sweetbreath <https://2e.aonprd.com/Heritages.aspx?ID=168>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 111
+**Источник**: Lost Omens: The Mwangi Expanse pg. 111
 
 Вы полосатый гнолл с бледной шерстью и странно приятным дыханием, которым вы можете восхитить свою жертву.
 Вы обучены Дипломатии (или другому навыку, если вы уже были обучены Дипломатии).
@@ -258,7 +258,7 @@
 Ведьминский (`Witch <https://2e.aonprd.com/Heritages.aspx?ID=169>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 112
+**Источник**: Lost Omens: The Mwangi Expanse pg. 112
 
 Вы лохматый гнолл с темным мехом, способный издавать поистине жуткие звуки.
 Вы можете по желанию сотворять чары :ref:`spell--g--Ghost-Sound`, как врожденное оккультное заклинание.
@@ -303,7 +303,7 @@
 
 - гнолл
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 112
+**Источник**: Lost Omens: The Mwangi Expanse pg. 112
 
 ----------
 
@@ -318,7 +318,7 @@
 
 - гнолл
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 112
+**Источник**: Lost Omens: The Mwangi Expanse pg. 112
 
 ----------
 
@@ -335,7 +335,7 @@
 
 - гнолл
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 112
+**Источник**: Lost Omens: The Mwangi Expanse pg. 112
 
 ----------
 
@@ -350,7 +350,7 @@
 
 - гнолл
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 112
+**Источник**: Lost Omens: The Mwangi Expanse pg. 112
 
 ----------
 
@@ -365,7 +365,7 @@
 
 - гнолл
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 112
+**Источник**: Lost Omens: The Mwangi Expanse pg. 112
 
 ----------
 
@@ -380,7 +380,7 @@
 
 - гнолл
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 112
+**Источник**: Lost Omens: The Mwangi Expanse pg. 112
 
 ----------
 
@@ -405,7 +405,7 @@
 
 **Предварительные условия**: наследие :ref:`ancestry-heritage--Gnoll--Witch`
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 112
+**Источник**: Lost Omens: The Mwangi Expanse pg. 112
 
 ----------
 
@@ -422,7 +422,7 @@
 
 **Предварительные условия**: :ref:`ancestry-feat--Gnoll--Weapon-Familiarity`
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 113
+**Источник**: Lost Omens: The Mwangi Expanse pg. 113
 
 ----------
 
@@ -438,7 +438,7 @@
 
 **Предварительные условия**: эксперт Скрытности, :ref:`ancestry-feat--Gnoll--Pack-Hunter`
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 113
+**Источник**: Lost Omens: The Mwangi Expanse pg. 113
 
 ----------
 
@@ -455,7 +455,7 @@
 
 - гнолл
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 113
+**Источник**: Lost Omens: The Mwangi Expanse pg. 113
 
 ----------
 
@@ -480,7 +480,7 @@
 
 **Предварительные условия**: наследие :ref:`ancestry-heritage--Gnoll--Sweetbreath`
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 113
+**Источник**: Lost Omens: The Mwangi Expanse pg. 113
 
 ----------
 
@@ -497,7 +497,7 @@
 
 - гнолл
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 113
+**Источник**: Lost Omens: The Mwangi Expanse pg. 113
 
 ----------
 
@@ -514,7 +514,7 @@
 
 **Предварительные условия**: мастер Запугивания
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 113
+**Источник**: Lost Omens: The Mwangi Expanse pg. 113
 
 ----------
 
@@ -536,7 +536,7 @@
 
 - гнолл
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 113
+**Источник**: Lost Omens: The Mwangi Expanse pg. 113
 
 ----------
 
@@ -553,7 +553,7 @@
 
 **Предварительные условия**: :ref:`ancestry-feat--Gnoll--Weapon-Practicality`
 
-**Источник**: Lost Omens: Mwangi Expanse pg. 113
+**Источник**: Lost Omens: The Mwangi Expanse pg. 113
 
 ----------
 
