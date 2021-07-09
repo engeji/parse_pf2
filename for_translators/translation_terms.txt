@@ -283,6 +283,9 @@ Deity: Божество
 	Jaidi: Джайди
 	Kalekot: Калькот
 	Mazludeh: Мазлюдэ
+	Chohar: Чохар
+	Irez: Ирез
+	Barrier Wall: Барьерная Стена (горы)
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
