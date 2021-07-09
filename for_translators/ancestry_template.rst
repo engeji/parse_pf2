@@ -18,7 +18,7 @@
 
 	.. rubric:: Источник
 
-	Lost Omens: Lost Omens: The Mwangi Expanse pg. 111111111111111111111111
+	Lost Omens: The Mwangi Expanse pg. 111111111111111111111111
 
 
 	.. rubric:: Редкость

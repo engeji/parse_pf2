@@ -835,6 +835,9 @@ Titles:
 	Nurvatcha: Нурватча
 	Domithari: Домифари
 	Majabi: Маджаби
+	Jitska Imperium: Джитский Империум
+	The Creche: Креш (Ясли)
+	The Copses: Копсы (Роща)
 
 trait: признак / особенность
 	оружие:
