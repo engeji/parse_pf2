@@ -212,6 +212,7 @@
    ancestries/anadi
    ancestries/conrasu
    ancestries/goloma
+   ancestries/shisk
 
 
 
