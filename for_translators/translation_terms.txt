@@ -281,6 +281,8 @@ Deity: Божество
 	Cernunnos: Кернунн
 	Halcamora: Халкамора
 	Jaidi: Джайди
+	Kalekot: Калькот
+	Mazludeh: Мазлюдэ
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -836,8 +838,9 @@ Titles:
 	Domithari: Домифари
 	Majabi: Маджаби
 	Jitska Imperium: Джитский Империум
-	The Creche: Креш (Ясли)
-	The Copses: Копсы (Роща)
+	The Creche: (Ясли, Креш)
+	The Copses: Роща (Копсы)
+	Screaming Jungle: Кричащие Джунгли
 
 trait: признак / особенность
 	оружие:
