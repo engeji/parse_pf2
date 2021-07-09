@@ -19,7 +19,7 @@
 
 	.. rubric:: Источник
 
-	Lost Omens: Lost Omens: The Mwangi Expanse pg. 102
+	Lost Omens: The Mwangi Expanse pg. 102
 
 
 	.. rubric:: Редкость
