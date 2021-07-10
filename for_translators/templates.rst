@@ -960,6 +960,9 @@
 	изменено
 
 
+.. versionchanged:: /errata-LOWG-2
+	изменено
+
 
 .. versionchanged:: /PFS-notes
 
