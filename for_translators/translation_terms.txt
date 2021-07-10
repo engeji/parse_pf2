@@ -168,7 +168,12 @@ Creature: существо
 		magma: магматический
 		crystal: кристаллический
 		cloud: облачный
-		brine: морской
+		brine: водный морской
+		umbral: теневой
+		sovereign: монарший
+		underworld: подземный
+		sea: морской
+		underworld: подземный
 	alghollthu: алголлус
 	protean: протей
 	celestial
@@ -285,7 +290,7 @@ Deity: Божество
 	Mazludeh: Мазлюдэ
 	Chohar: Чохар
 	Irez: Ирез
-	Barrier Wall: Барьерная Стена (горы)
+	Walkena: Уокена
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -708,6 +713,7 @@ Titles:
 	Tian Xia: Тянь Ся
 	Tian-Dan: Тянь-Дань
 	Tian-Yae: Тянь-Йэ
+	Alijae: Алижеец
 	Mualijae: Муалижеец
 	Ilverani: Илверанец
 	Vourinoi: Вуринуа
@@ -823,7 +829,6 @@ Titles:
 	Oenopion: Энопион
 	Bekyar: Бекьяр
 	Senghor: Сенгор
-	Walkena: Уокена
 	Bright Lions: "Светлые львы"
 	Umbral Court: Теневой Королевский двор
 	Goblinblood Wars: Войны Гоблинской крови
@@ -844,7 +849,9 @@ Titles:
 	The Creche: (Ясли, Креш)
 	The Copses: Роща (Копсы)
 	Screaming Jungle: Кричащие Джунгли
-
+	Matanji: Матанджи
+	Barrier Wall: Барьерная Стена (горы)
+	
 trait: признак / особенность
 	оружие:
 		agile: быстрое
