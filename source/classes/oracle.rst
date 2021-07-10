@@ -678,7 +678,7 @@
 
 **Относящиеся домены**: Это домены жреца относящиеся к вашему таинству.
 На 1-м уровне вы выбираете 1 начальное заклинание домена, из одного из этих доменов, которое вы можете колдовать как заклинание-откровение с признаком :t_cursebound:`проклятое`.
-Домены и их доменные заклинания указаны в :ref:`table--8-2`.
+Домены и их доменные заклинания указаны в разделе :ref:`ch8--Domains`.
 
 
 .. _class-feature--Oracle--Mystery--Ancestors:
@@ -708,7 +708,9 @@
 | Продвинутое: :ref:`spell--focus--Ancestral-Defense`
 | Великое: :ref:`spell--focus--Ancestral-Form`
 
-**Относящиеся домены**: смерть, семья
+**Относящиеся домены**:
+:doc:`/lost_omens/Domain/death`,
+:doc:`/lost_omens/Domain/family`
 
 
 Проклятие вмешательства предков (Curse of Ancestral Meddling)
@@ -786,7 +788,9 @@
 | Продвинутое: :ref:`spell--focus--Battlefield-Persistence`
 | Великое: :ref:`spell--focus--Heroic-Feat`
 
-**Относящиеся домены**: мощь, рвение
+**Относящиеся домены**:
+:doc:`/lost_omens/Domain/might`,
+:doc:`/lost_omens/Domain/zeal`
 
 
 Проклятие бремени героя (Curse of the Hero's Burden)
@@ -835,7 +839,9 @@
 | Продвинутое: :ref:`spell--focus--Armor-of-Bones`
 | Великое: :ref:`spell--focus--Claim-Undead`
 
-**Относящиеся домены**: смерть, нежить
+**Относящиеся домены**:
+:doc:`/lost_omens/Domain/death`,
+:doc:`/lost_omens/Domain/undeath`
 
 
 Проклятие живого мертвеца (Curse of Living Death)
@@ -884,7 +890,9 @@
 | Продвинутое: :ref:`spell--focus--Interstellar-Void`
 | Великое: :ref:`spell--focus--Moonlight-Bridge`
 
-**Относящиеся домены**: тьма, луна
+**Относящиеся домены**:
+:doc:`/lost_omens/Domain/darkness`,
+:doc:`/lost_omens/Domain/moon`
 
 
 Проклятие зова неба (Curse of the Sky's Call)
@@ -935,7 +943,9 @@
 | Продвинутое: :ref:`spell--focus--Whirling-Flames`
 | Великое: :ref:`spell--focus--Flaming-Fusillade`
 
-**Относящиеся домены**: огонь, солнце
+**Относящиеся домены**:
+:doc:`/lost_omens/Domain/fire`,
+:doc:`/lost_omens/Domain/sun`
 
 
 Проклятие всепоглощающего пламени (Curse of Engulfing Flames)
@@ -989,7 +999,9 @@
 | Продвинутое: :ref:`spell--focus--Delay-Affliction`
 | Великое: :ref:`spell--focus--Life-Giving-Form`
 
-**Относящиеся домены**: смерть, исцеление
+**Относящиеся домены**:
+:doc:`/lost_omens/Domain/death`,
+:doc:`/lost_omens/Domain/healing`
 
 
 Проклятие излияния жизни (Curse of Outpouring Life)
@@ -1044,7 +1056,9 @@
 | Продвинутое: :ref:`spell--focus--Access-Lore`
 | Великое: :ref:`spell--focus--Dread-Secret`
 
-**Относящиеся домены**: знания, правда
+**Относящиеся домены**:
+:doc:`/lost_omens/Domain/knowledge`,
+:doc:`/lost_omens/Domain/truth`
 
 
 Проклятие необузданных знаний (Curse of Torrential Knowledge)
@@ -1091,7 +1105,9 @@
 | Продвинутое: :ref:`spell--focus--Thunderburst`
 | Великое: :ref:`spell--focus--Tempest-Form`
 
-**Относящиеся домены**: воздух, вода
+**Относящиеся домены**:
+:doc:`/lost_omens/Domain/air`,
+:doc:`/lost_omens/Domain/water`
 
 
 Проклятие вечного шторма (Curse of the Perpetual Storm)
