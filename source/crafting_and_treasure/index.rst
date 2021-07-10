@@ -454,19 +454,20 @@
    :maxdepth: 2
 
    treasure_table
-   alchemical_items
    armor
-   consumables
-   held_items
-   materials
-   runes
-   shields
-   snares
-   staves
-   structures
-   wands
    weapons
+   shields
+   runes
    worn_items
+   held_items
+   alchemical_items
+   consumables
+   staves
+   wands
+   snares
+   adjustments
+   materials
+   structures
    artifact
 
 
