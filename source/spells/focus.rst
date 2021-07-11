@@ -684,8 +684,8 @@
 
 **Усиление (+1)**: Урон увеличивается на 1d4 огнем, 1d4 добром, и 1d4 позитивный (или 1d6 каждого типа урона на ярком естественном солнечном свете).
 
-.. versionchanged:: /paizo-forums
-	Изначально при промахе был эффект попадания (опечатка) (`подтверждение от Марка Сейфтера <https://paizo.com/threads/rzs42t39?Sun-Blade-Confusion#2>`_)
+.. versionchanged:: /errata-LOCG-2
+	Эффект "Успеха" был назван "Провалом" (+ `подтверждение от Марка Сейфтера <https://paizo.com/threads/rzs42t39?Sun-Blade-Confusion#2>`_)
 
 
 .. _spell--focus--Litany-against-Wrath:
