@@ -960,6 +960,9 @@
 	изменено
 
 
+.. versionchanged:: /errata-LOGM-2
+	изменено
+
 
 .. versionchanged:: /PFS-notes
 

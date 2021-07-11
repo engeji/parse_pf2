@@ -425,6 +425,12 @@
 
 .. role:: t_vigilante
 
+.. role:: t_tattoo
+
+.. role:: t_artifact
+
+.. role:: t_adjustment
+
 .. role:: t_alchemist
 
 .. role:: t_barbarian
