@@ -960,7 +960,7 @@
 	изменено
 
 
-.. versionchanged:: /errata-LOCG-2
+.. versionchanged:: /errata-LOGM-2
 	изменено
 
 

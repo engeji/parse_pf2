@@ -75,6 +75,7 @@ Lost Omens: Gods & Magic pg. 48
 
 **Альтернативные домены**:
 :doc:`/lost_omens/Domain/decay`,
+:doc:`/lost_omens/Domain/plague`,
 :doc:`/lost_omens/Domain/swarm`
 
 **Заклинания жреца**: 
