@@ -18,7 +18,8 @@
 **Цели**: 1 магический предмет
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Nethys`
+:doc:`/lost_omens/Deity/Core/Nethys`,
+:doc:`/lost_omens/Deity/Other/Groetus`
 
 ----------
 

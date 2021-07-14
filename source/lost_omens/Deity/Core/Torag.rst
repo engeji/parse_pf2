@@ -42,11 +42,11 @@
 :doc:`Cayden-Cailean`,
 :doc:`Erastil`,
 :doc:`Iomedae`,
-Ниви Ромбодазл (`Nivi Rhombodazzle <https://2e.aonprd.com/Deities.aspx?ID=44>`_)
+:doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
 
 **Враги**: :doc:`Rovagug`
 
-**Отношения**: Ниви Ромбодазл (`Nivi Rhombodazzle <https://2e.aonprd.com/Deities.aspx?ID=44>`_) (божественный протеже)
+**Отношения**: :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle` (божественный протеже)
 
 **Храмы**: поля сражений, замки, соборы, пещеры, кузницы, крепости, склады
 

@@ -16,7 +16,9 @@
 **Продолжительность**: 1 час
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Norgorber`
+:doc:`/lost_omens/Deity/Core/Norgorber`,
+:doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`,
+:doc:`/lost_omens/Deity/Other/Sivanah`
 
 ----------
 

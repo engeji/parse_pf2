@@ -39,7 +39,7 @@
 :doc:`Gozreh`,
 :doc:`Shelyn`,
 :doc:`Torag`,
-Казутал (`Kazutal <https://2e.aonprd.com/Deities.aspx?ID=41>`_)
+:doc:`/lost_omens/Deity/Other/Kazutal`
 
 **Враги**: :doc:`Urgathoa`
 

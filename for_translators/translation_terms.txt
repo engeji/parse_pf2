@@ -255,7 +255,8 @@ Deity: Божество
 	Gruhastha: Грухаста
 	Magdh: Магд
 	Monad: Монада
-	Hei Feng: Хей Фэн
+	Hei Feng: Хэй Фэн
+	Lady Jingxi: Госпожа Цзинси
 	Ketephys: Кетефис
 	Yuelral: Юльрал
 	Findeladlara: Финделадлара
@@ -291,6 +292,8 @@ Deity: Божество
 	Chohar: Чохар
 	Irez: Ирез
 	Walkena: Уокена
+	Kurgess: Курджесс
+	Milani: Мелони
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий

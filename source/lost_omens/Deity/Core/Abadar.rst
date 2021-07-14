@@ -41,7 +41,7 @@
 :doc:`Shelyn`,
 :doc:`Torag`,
 :doc:`/lost_omens/Deity/Other/Brigh`,
-Шицуру (`Shizuru <https://2e.aonprd.com/Deities.aspx?ID=47>`_)
+:doc:`/lost_omens/Deity/Other/Shizuru`
 
 **Враги**:
 :doc:`Lamashtu`,

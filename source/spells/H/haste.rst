@@ -19,7 +19,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Irori`
+:doc:`/lost_omens/Deity/Core/Irori`,
+:doc:`/lost_omens/Deity/Other/Kurgess`
 
 ----------
 

@@ -37,7 +37,7 @@
 
 **Союзники**:
 :doc:`/lost_omens/Deity/Other/Alseta`,
-Цукио (`Tsukiyo <https://2e.aonprd.com/Deities.aspx?ID=48>`_)
+:doc:`/lost_omens/Deity/Other/Tsukiyo`
 
 **Враги**: :doc:`Urgathoa`
 

@@ -42,7 +42,7 @@
 :doc:`Shelyn`,
 :doc:`Torag`,
 :doc:`/lost_omens/Deity/Other/Besmara`,
-Милани (`Milani <https://2e.aonprd.com/Deities.aspx?ID=43>`_)
+:doc:`/lost_omens/Deity/Other/Milani`
 
 **Враги**:
 :doc:`Asmodeus`,
@@ -52,7 +52,7 @@
 :doc:`Calistria` (непостоянный любовник),
 :doc:`Iomedae` (сестра по вознесению),
 :doc:`Norgorber` (брат по вознесению),
-Кургесс (`Kurgess <https://2e.aonprd.com/Deities.aspx?ID=42>`_) (божественный протеже)
+:doc:`/lost_omens/Deity/Other/Kurgess` (божественный протеже)
 
 **Храмы**: гостиницы, таверны и детские дома
 

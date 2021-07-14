@@ -14,6 +14,9 @@
 
 **Продолжительность**: 1 минута
 
+**Божества**:
+:doc:`/lost_omens/Deity/Other/Shizuru`
+
 **Источник**: Lost Omens: Gods & Magic pg. 109
 
 ----------

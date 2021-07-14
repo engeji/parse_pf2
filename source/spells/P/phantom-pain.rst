@@ -24,7 +24,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Zon-Kuthon`,
-:ref:`Pantheon--The-Godclaw`
+:ref:`Pantheon--The-Godclaw`,
+:doc:`/lost_omens/Deity/Other/Groetus`
 
 ----------
 

@@ -20,7 +20,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Norgorber`,
-:doc:`/lost_omens/Deity/Other/Achaekek`
+:doc:`/lost_omens/Deity/Other/Achaekek`,
+:doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
 
 ----------
 

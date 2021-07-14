@@ -40,7 +40,7 @@
 :doc:`Desna`,
 :doc:`Rovagug`,
 :doc:`Shelyn`,
-Сивана (`Sivanah <https://2e.aonprd.com/Deities.aspx?ID=46>`_)
+:doc:`/lost_omens/Deity/Other/Sivanah`
 
 **Отношения**: :doc:`Shelyn` (сестра)
 

@@ -21,7 +21,8 @@
 **Продолжительность**: 1 час
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Cayden-Cailean`
+:doc:`/lost_omens/Deity/Core/Cayden-Cailean`,
+:doc:`/lost_omens/Deity/Other/Tsukiyo`
 
 ----------
 

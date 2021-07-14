@@ -20,7 +20,8 @@
 **Продолжительность**: до начала вашего следующего хода
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Gozreh`
+:doc:`/lost_omens/Deity/Core/Gozreh`,
+:doc:`/lost_omens/Deity/Other/Hei-Feng`
 
 ----------
 

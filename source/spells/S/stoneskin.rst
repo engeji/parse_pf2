@@ -20,7 +20,8 @@
 **Продолжительность**: 20 минут
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Irori`
+:doc:`/lost_omens/Deity/Core/Irori`,
+:doc:`/lost_omens/Deity/Other/Kazutal`
 
 ----------
 

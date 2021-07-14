@@ -19,6 +19,9 @@
 
 **Продолжительность**: 10 минут
 
+**Божества**:
+:doc:`/lost_omens/Deity/Other/Gruhastha`
+
 **Источник**: Lost Omens: Gods & Magic pg. 109
 
 ----------
