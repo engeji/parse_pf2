@@ -860,6 +860,7 @@ Titles:
 	Blood Vale: Кровавая Долина
 	Argent Gate: Серебристые Врата
 	Bzuulzeel: Бьюлзел
+	Razatlani Empire: Разатланская Империя
 
 trait: признак / особенность
 	оружие:
