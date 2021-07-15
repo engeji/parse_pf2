@@ -17,6 +17,9 @@
 
 **Продолжительность**: 1 час
 
+**Божества**:
+:doc:`/lost_omens/Deity/Other/Arazni`
+
 **Источник**: Lost Omens: Gods & Magic pg. 106
 
 ----------

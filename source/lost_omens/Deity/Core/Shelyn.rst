@@ -41,8 +41,8 @@
 :doc:`Desna`,
 :doc:`Erastil`,
 :doc:`Sarenrae`,
-Бри (`Brigh <https://2e.aonprd.com/Deities.aspx?ID=33>`_),
-Шицуру (`Shizuru <https://2e.aonprd.com/Deities.aspx?ID=47>`_)
+:doc:`/lost_omens/Deity/Other/Brigh`,
+:doc:`/lost_omens/Deity/Other/Shizuru`
 
 **Враги**:
 :doc:`Asmodeus`,

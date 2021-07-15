@@ -38,8 +38,7 @@
 :doc:`Asmodeus`,
 :doc:`Norgorber`
 
-**Отношения**:
-Грухаста (`Gruhastha <https://2e.aonprd.com/Deities.aspx?ID=39>`_) (племянник)
+**Отношения**: :doc:`/lost_omens/Deity/Other/Gruhastha` (племянник)
 
 **Храмы**: додзё, библиотеки, монастыри
 

@@ -37,7 +37,7 @@
 **Враги**:
 :doc:`Norgorber`,
 :doc:`Urgathoa`,
-Ачакек (`Achaekek <https://2e.aonprd.com/Deities.aspx?ID=29>`_)
+:doc:`/lost_omens/Deity/Other/Achaekek`
 
 **Храмы**: арсеналы, поля сражений, крепости
 

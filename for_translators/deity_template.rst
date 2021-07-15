@@ -28,14 +28,17 @@
 
 **Союзники**:
 :doc:`GOD`,
+:doc:`/lost_omens/Deity/CATEGORY/GOD`,
 ИМЯ (`NAME <https>`_),
 
 **Враги**:
 :doc:`GOD`,
+:doc:`/lost_omens/Deity/CATEGORY/GOD`,
 ИМЯ (`NAME <https>`_),
 
 **Отношения**:
 :doc:`GOD`,
+:doc:`/lost_omens/Deity/CATEGORY/GOD`,
 ИМЯ (`NAME <https>`_),
 
 **Храмы**: 
@@ -46,16 +49,14 @@
 
 **Священные цвета**: 
 
-**Источник**:
-Core Rulebook pg. 440,
-Lost Omens: Gods & Magic pg. 1111111111111111111111
+**Источник**: Lost Omens: Gods & Magic pg. 1111111111111111111111
 
 
 
 Преимущества последователя (Devotee Benefits)
 ------------------------------------------------------------------------------------------
 
-**Источник**: Lost Omens: Gods & Magic pg. 222222222222222222222
+**Источник**: Lost Omens: Gods & Magic pg. 1111111111111111111111
 
 **Божественная характеристика**: 
 
@@ -65,6 +66,9 @@ Lost Omens: Gods & Magic pg. 1111111111111111111111
 
 **Домены**:
 :doc:`/lost_omens/Domain/TITLE`,
+:doc:`/lost_omens/Domain/TITLE`,
+:doc:`/lost_omens/Domain/TITLE`,
+:doc:`/lost_omens/Domain/TITLE`
 
 **Альтернативные домены**:
 :doc:`/lost_omens/Domain/TITLE`,
@@ -73,23 +77,23 @@ Lost Omens: Gods & Magic pg. 1111111111111111111111
 
 **Заклинания жреца**: 
 
-| **1-й**: 
-| **2-й**: 
-| **3-й**: 
-| **4-й**: 
-| **5-й**: 
-| **6-й**: 
-| **7-й**: 
-| **8-й**: 
-| **9-й**: 
-| **10-й**: 
+| **1-й**: :ref:``
+| **2-й**: :ref:``
+| **3-й**: :ref:``
+| **4-й**: :ref:``
+| **5-й**: :ref:``
+| **6-й**: :ref:``
+| **7-й**: :ref:``
+| **8-й**: :ref:``
+| **9-й**: :ref:``
+| **10-й**: :ref:``
 
 
 
 Божественное вмешательство (Divine Intercession)
 ------------------------------------------------------------------------------------------
 
-**Источник**: Lost Omens: Gods & Magic pg. 22222222222222222222222
+**Источник**: Gods & Magic - Web Supplement pg. 222222222222222222222
 
 ОПИСАНИЕ
 

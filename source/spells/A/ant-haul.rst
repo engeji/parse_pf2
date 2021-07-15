@@ -19,7 +19,8 @@
 **Продолжительность**: 8 часов
 
 **Божества**:
-:ref:`Pantheon--Dwarven`
+:ref:`Pantheon--Dwarven`,
+:doc:`/lost_omens/Deity/Other/Kurgess`
 
 ----------
 

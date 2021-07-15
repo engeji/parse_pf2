@@ -46,7 +46,7 @@ h5, p.h5.rubric {
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
 	font-size: 100%;
 	font-weight: 700;
-	margin-bottom: 0.3em;
+	margin-bottom: 0;
 	margin-top: 0;
 	text-transform: uppercase;
 }
@@ -592,6 +592,7 @@ section.animal-companions h4,
 section.class-archetypes h3,
 section.equip-subchap h5,
 /*section.religion h5,*/
+section.lo-religion h3,
 section.deity h3,
 section.spells-rituals-subchap h3,
 section.craft-treasure-alchemicalitems h3,

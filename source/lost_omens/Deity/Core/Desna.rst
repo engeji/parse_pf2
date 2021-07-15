@@ -39,18 +39,18 @@
 :doc:`Gozreh`,
 :doc:`Sarenrae`,
 :doc:`Shelyn`,
-Чалдира (`Chaldira <https://2e.aonprd.com/Deities.aspx?ID=35>`_)
+:doc:`/lost_omens/Deity/Other/Chaldira`
 
 **Враги**:
 :doc:`Lamashtu`,
 :doc:`Rovagug`,
 :doc:`Zon-Kuthon`,
-Глаундер (`Ghlaunder <https://2e.aonprd.com/Deities.aspx?ID=36>`_)
+:doc:`/lost_omens/Deity/Other/Ghlaunder`
 
 **Отношения**:
 :doc:`Sarenrae` (возлюбленный),
 :doc:`Shelyn` (возлюбленный),
-Кургесс (`Kurgess <https://2e.aonprd.com/Deities.aspx?ID=42>`_) (божественный протеже)
+:doc:`/lost_omens/Deity/Other/Kurgess` (божественный протеже)
 
 **Храмы**: вершины холмов, обсерватории, стоячие камни, башни
 

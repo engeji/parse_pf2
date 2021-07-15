@@ -16,6 +16,9 @@
 
 **Спасбросок**: простой Рефлекс
 
+**Божества**:
+:doc:`/lost_omens/Deity/Other/Ghlaunder`
+
 **Источник**: Advanced Player's Guide pg. 227
 
 ----------

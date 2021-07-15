@@ -32,7 +32,7 @@
 
 **Царство**: Иркалла (Kurnugia) (Бездна)
 
-**Союзники**: Глаундер (`Ghlaunder <https://2e.aonprd.com/Deities.aspx?ID=36>`_)
+**Союзники**: :doc:`/lost_omens/Deity/Other/Ghlaunder`
 
 **Враги**:
 :doc:`Abadar`,
@@ -41,7 +41,7 @@
 :doc:`Iomedae`,
 :doc:`Rovagug`,
 :doc:`Sarenrae`,
-Цукио (`Tsukiyo <https://2e.aonprd.com/Deities.aspx?ID=48>`_)
+:doc:`/lost_omens/Deity/Other/Tsukiyo`
 
 **Отношения**: Пазузу (`Pazuzu <https://2e.aonprd.com/Deities.aspx?ID=79>`_) (бывший супруг)
 

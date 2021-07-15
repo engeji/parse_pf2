@@ -22,7 +22,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Gorum`,
 :doc:`/lost_omens/Deity/Core/Iomedae`,
-:doc:`/lost_omens/Deity/Core/Rovagug`
+:doc:`/lost_omens/Deity/Core/Rovagug`,
+:doc:`/lost_omens/Deity/Other/Kurgess`
 
 ----------
 

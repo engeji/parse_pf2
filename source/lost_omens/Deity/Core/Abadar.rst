@@ -40,14 +40,14 @@
 :doc:`Irori`,
 :doc:`Shelyn`,
 :doc:`Torag`,
-Бри (`Brigh <https://2e.aonprd.com/Deities.aspx?ID=33>`_),
-Шицуру (`Shizuru <https://2e.aonprd.com/Deities.aspx?ID=47>`_)
+:doc:`/lost_omens/Deity/Other/Brigh`,
+:doc:`/lost_omens/Deity/Other/Shizuru`
 
 **Враги**:
 :doc:`Lamashtu`,
 :doc:`Norgorber`,
 :doc:`Rovagug`,
-Бесмара (`Besmara <https://2e.aonprd.com/Deities.aspx?ID=32>`_)
+:doc:`/lost_omens/Deity/Other/Besmara`
 
 **Храмы**: банки, кафедральные соборы, здания суда
 

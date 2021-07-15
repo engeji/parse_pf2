@@ -36,8 +36,8 @@
 **Царство**: Могильник
 
 **Союзники**:
-Альсета (`Alseta <https://2e.aonprd.com/Deities.aspx?ID=30>`_),
-Цукио (`Tsukiyo <https://2e.aonprd.com/Deities.aspx?ID=48>`_)
+:doc:`/lost_omens/Deity/Other/Alseta`,
+:doc:`/lost_omens/Deity/Other/Tsukiyo`
 
 **Враги**: :doc:`Urgathoa`
 

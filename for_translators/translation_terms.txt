@@ -255,14 +255,15 @@ Deity: Божество
 	Gruhastha: Грухаста
 	Magdh: Магд
 	Monad: Монада
-	Hei Feng: Хей Фэн
+	Hei Feng: Хэй Фэн
+	Lady Jingxi: Госпожа Цзинси
 	Ketephys: Кетефис
 	Yuelral: Юльрал
 	Findeladlara: Финделадлара
 	Pulura: Полура
 	Nhimbaloth: Нимбалот
 	Lantern King: Король фонарей
-	Brigh: Бри
+	Brigh: Брай
 	Yrmidar the Old Bear: Ирмидар Старый Медведь
 	Godmind: Божественный Разум
 	Ashukharma: Ашухарма 
@@ -291,6 +292,8 @@ Deity: Божество
 	Chohar: Чохар
 	Irez: Ирез
 	Walkena: Уокена
+	Kurgess: Курджесс
+	Milani: Мелони
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -841,6 +844,9 @@ Titles:
 	Xovaikain: Зовайкейн
 	Swordhome: Сордхоум
 	Kurnugia: Иркалла
+	Blood Vale: Кровавая Долина
+	Argent Gate: Серебристые Врата
+	Bzuulzeel: Бьюлзел
 	Anthusis: Антузис
 	Nurvatcha: Нурватча
 	Domithari: Домифари
@@ -851,7 +857,11 @@ Titles:
 	Screaming Jungle: Кричащие Джунгли
 	Matanji: Матанджи
 	Barrier Wall: Барьерная Стена (горы)
-	
+	Blood Vale: Кровавая Долина
+	Argent Gate: Серебристые Врата
+	Bzuulzeel: Бьюлзел
+	Razatlani Empire: Разатланская Империя
+
 trait: признак / особенность
 	оружие:
 		agile: быстрое

@@ -18,7 +18,9 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Erastil`,
 :doc:`/lost_omens/Deity/Core/Gorum`,
-:doc:`/lost_omens/Deity/Core/Iomedae`
+:doc:`/lost_omens/Deity/Core/Iomedae`,
+:doc:`/lost_omens/Deity/Other/Achaekek`,
+:doc:`/lost_omens/Deity/Other/Shizuru`
 
 ----------
 
