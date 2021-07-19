@@ -12,6 +12,7 @@
 
 * :doc:`/lost_omens/Deity/Core/Calistria`
 * :doc:`/lost_omens/Deity/Core/Shelyn`
+* :doc:`/lost_omens/Deity/Archdevil/Belial`
 
 **Доменные заклинания**:
 

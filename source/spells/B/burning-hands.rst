@@ -19,7 +19,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Rovagug`,
-:doc:`/lost_omens/Deity/Core/Sarenrae`
+:doc:`/lost_omens/Deity/Core/Sarenrae`,
+:doc:`/lost_omens/Deity/Archdevil/Moloch`
 
 ----------
 

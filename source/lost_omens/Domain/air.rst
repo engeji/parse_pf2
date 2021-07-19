@@ -12,6 +12,7 @@
 
 * :doc:`/lost_omens/Deity/Core/Gozreh`
 * :doc:`/lost_omens/Deity/Core/Rovagug`
+* :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
 
 **Доменные заклинания**:
 

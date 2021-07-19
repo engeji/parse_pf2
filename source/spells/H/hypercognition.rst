@@ -14,7 +14,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Casandalee`,
-:doc:`/lost_omens/Deity/Other/Gruhastha`
+:doc:`/lost_omens/Deity/Other/Gruhastha`,
+:doc:`/lost_omens/Deity/Archdevil/Geryon`
 
 ----------
 

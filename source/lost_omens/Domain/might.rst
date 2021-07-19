@@ -16,6 +16,8 @@
 * :doc:`/lost_omens/Deity/Core/Irori`
 * :doc:`/lost_omens/Deity/Core/Lamashtu`
 * :doc:`/lost_omens/Deity/Core/Urgathoa`
+* :doc:`/lost_omens/Deity/Archdevil/Geryon`
+* :doc:`/lost_omens/Deity/Archdevil/Moloch`
 
 
 **Доменные заклинания**:

@@ -342,11 +342,32 @@
    Deity/Other/*
 
 
+.. rst-class:: lo-religion
+
+Архидьяволы (`Archdevils <https://2e.aonprd.com/DeityCategories.aspx?ID=4>`_)
+----------------------------------------------------------------------------------------------------------
+
+Каждый архидьявол безоговорочно правит одним из первых 8 царств Ада.
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   
+   Deity/Archdevil/*
 
 
+.. rst-class:: lo-religion
 
+Королевы ночи (`Queens of the Night <https://2e.aonprd.com/DeityCategories.aspx?ID=14>`_)
+----------------------------------------------------------------------------------------------------------
 
+Королевы ночи завоевали часть своей собственной силы в Аду.
 
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   
+   Deity/Queen-of-Night/*
 
 
 

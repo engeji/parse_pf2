@@ -14,6 +14,7 @@
 * :doc:`/lost_omens/Deity/Core/Iomedae`
 * :doc:`/lost_omens/Deity/Core/Rovagug`
 * :ref:`Pantheon--The-Godclaw`
+* :doc:`/lost_omens/Deity/Archdevil/Belial`
 
 **Доменные заклинания**:
 

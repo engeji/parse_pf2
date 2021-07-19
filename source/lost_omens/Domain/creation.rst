@@ -14,6 +14,7 @@
 * :doc:`/lost_omens/Deity/Core/Torag`
 * :ref:`Pantheon--Dwarven`
 * :ref:`Pantheon--Elven`
+* :doc:`/lost_omens/Deity/Archdevil/Mammon`
 
 **Доменные заклинания**:
 

@@ -12,6 +12,7 @@
 
 * :doc:`/lost_omens/Deity/Core/Irori`
 * :doc:`/lost_omens/Deity/Core/Lamashtu`
+* :doc:`/lost_omens/Deity/Archdevil/Belial`
 
 **Доменные заклинания**:
 

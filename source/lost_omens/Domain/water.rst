@@ -11,6 +11,7 @@
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Gozreh`
+* :doc:`/lost_omens/Deity/Archdevil/Geryon`
 
 **Доменные заклинания**:
 

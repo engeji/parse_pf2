@@ -14,6 +14,7 @@
 * :doc:`/lost_omens/Deity/Core/Erastil`
 * :doc:`/lost_omens/Deity/Core/Norgorber`
 * :ref:`Pantheon--Dwarven`
+* :doc:`/lost_omens/Deity/Archdevil/Mammon`
 
 **Доменные заклинания**:
 

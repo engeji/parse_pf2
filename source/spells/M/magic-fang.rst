@@ -19,7 +19,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Lamashtu`
+:doc:`/lost_omens/Deity/Core/Lamashtu`,
+:doc:`/lost_omens/Deity/Archdevil/Barbatos`
 
 ----------
 

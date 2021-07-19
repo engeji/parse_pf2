@@ -10,7 +10,7 @@
 
 **Божества**:
 
-.. * :doc:`/lost_omens/Deity/Other/NAME`
+* :doc:`/lost_omens/Deity/Archdevil/Geryon`
 
 **Доменные заклинания**:
 

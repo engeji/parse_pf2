@@ -13,6 +13,7 @@
 * :doc:`/lost_omens/Deity/Core/Erastil`
 * :doc:`/lost_omens/Deity/Core/Gozreh`
 * :ref:`Pantheon--Elven`
+* :doc:`/lost_omens/Deity/Archdevil/Barbatos`
 
 **Доменные заклинания**:
 

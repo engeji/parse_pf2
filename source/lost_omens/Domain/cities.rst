@@ -12,6 +12,7 @@
 
 * :doc:`../Deity/Core/Abadar`
 * :doc:`../Deity/Core/Cayden-Cailean`
+* :doc:`/lost_omens/Deity/Archdevil/Dispater`
 
 **Доменные заклинания**:
 

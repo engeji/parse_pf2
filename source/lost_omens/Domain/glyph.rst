@@ -13,6 +13,7 @@
 * :doc:`/lost_omens/Deity/Core/Asmodeus`
 * :doc:`/lost_omens/Deity/Core/Nethys`
 * :ref:`Pantheon--Dwarven`
+* :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
 
 **Доменные заклинания**:
 

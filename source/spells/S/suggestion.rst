@@ -23,7 +23,9 @@
 
 **Продолжительность**: различается
 
-**Божества**: :doc:`/lost_omens/Deity/Core/Asmodeus`
+**Божества**:
+:doc:`/lost_omens/Deity/Core/Asmodeus`,
+:doc:`/lost_omens/Deity/Archdevil/Dispater`
 
 ----------
 

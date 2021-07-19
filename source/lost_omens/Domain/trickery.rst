@@ -14,6 +14,8 @@
 * :doc:`/lost_omens/Deity/Core/Calistria`
 * :doc:`/lost_omens/Deity/Core/Lamashtu`
 * :doc:`/lost_omens/Deity/Core/Norgorber`
+* :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
+* :doc:`/lost_omens/Deity/Archdevil/Belial`
 
 **Доменные заклинания**:
 

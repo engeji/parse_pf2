@@ -214,6 +214,7 @@ Creature: существо
 	lemure: ле́мур
 	pit fiend: исчадие преисподней
 	froghemoth: лягумот
+	asura rana: асура рана
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -364,6 +365,7 @@ hex: сглаз
 hit point: очко здоровья
 
 immunity: иммунитет
+infernal contract: инфернальный контракт
 infused: насыщенный (о реагентах)
 initiative order: порядок инициативы
 intelligent (о существе): разумный
@@ -861,6 +863,13 @@ Titles:
 	Argent Gate: Серебристые Врата
 	Bzuulzeel: Бьюлзел
 	Razatlani Empire: Разатланская Империя
+	Cocytus: Коцит
+	Avernus: Аверн
+	Phlegethon: Флегетон
+	Stygia: Стигия
+	Erebus: Эреб
+	Caina: Ка́ина
+	Malebolge: Мэлболдж
 
 trait: признак / особенность
 	оружие:

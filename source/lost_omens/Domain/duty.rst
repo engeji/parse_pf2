@@ -17,6 +17,8 @@
 * :doc:`/lost_omens/Deity/Core/Torag`
 * :ref:`Pantheon--Dwarven`
 * :ref:`Pantheon--The-Godclaw`
+* :doc:`/lost_omens/Deity/Archdevil/Dispater`
+* :doc:`/lost_omens/Deity/Archdevil/Moloch`
 
 **Доменные заклинания**:
 

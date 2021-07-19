@@ -21,6 +21,9 @@
 
 **Продолжительность**: 1 минута
 
+**Божества**:
+:doc:`/lost_omens/Deity/Archdevil/Moloch`
+
 **Источник**: Lost Omens: Gods & Magic pg. 106
 
 ----------

@@ -13,6 +13,7 @@
 * :doc:`/lost_omens/Deity/Core/Irori`
 * :doc:`/lost_omens/Deity/Core/Nethys`
 * :doc:`/lost_omens/Deity/Core/Pharasma`
+* :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
 
 **Доменные заклинания**:
 
