@@ -11,6 +11,7 @@
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Urgathoa`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
 
 **Доменные заклинания**:
 

@@ -13,6 +13,7 @@
 * :doc:`/lost_omens/Deity/Core/Pharasma`
 * :ref:`Pantheon--Cosmic-Caravan`
 * :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
 
 **Доменные заклинания**:
 

@@ -19,6 +19,8 @@
 * :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
 * :doc:`/lost_omens/Deity/Other/Nocticula`
 * :doc:`/lost_omens/Deity/Archdevil/Mammon`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
 
 **Доменные заклинания**:
 

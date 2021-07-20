@@ -986,4 +986,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Archdevil/NAME`
+:doc:`/lost_omens/Deity/Queen-of-Night/NAME`

@@ -19,6 +19,8 @@
 * :doc:`/lost_omens/Deity/Other/Kurgess`
 * :doc:`/lost_omens/Deity/Other/Milani`
 * :doc:`/lost_omens/Deity/Archdevil/Belial`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
+
 
 **Доменные заклинания**:
 

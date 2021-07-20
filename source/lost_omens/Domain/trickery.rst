@@ -22,6 +22,7 @@
 * :doc:`/lost_omens/Deity/Other/Sivanah`
 * :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
 * :doc:`/lost_omens/Deity/Archdevil/Belial`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
 
 **Доменные заклинания**:
 

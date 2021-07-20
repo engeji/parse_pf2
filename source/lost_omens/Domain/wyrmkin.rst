@@ -11,6 +11,7 @@
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Archdevil/Geryon`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
 
 **Доменные заклинания**:
 

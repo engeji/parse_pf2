@@ -13,7 +13,10 @@
 
 - :alignment:`ПЗ`
 
-When mortals were young, before Asmodeus conquered Hell, Ardad Lili was already manipulating amorous and lustful mortals to swear fealty to her, amassing power from their souls. She fled the realm of Nirvana during the Exodus, taking up residence in Avernus and continuing to gather an army of damned souls and female devils who share her ambitions. The Serpent Muse has never forgotten the censures and cruel insults spewed by the other natives of Nirvana, and she seeks to someday rule not a layer of Hell, but a realm of the heavens. Herself a passionate being, she draws similarly passionate followers.
+Когда смертные были молоды, до того, как :doc:`/lost_omens/Deity/Core/Asmodeus` завоевал Ад, Ардад Лили уже манипулировала влюбчивыми и похотливыми смертными, чтобы присягать ей на верность, накапливая силу из их душ.
+Она покинула царство Нирваны во время Исхода, поселившись в Аверне и продолжая собирать армию проклятых душ и женщин-дьяволов, разделяющих ее стремления.
+Змеиная Муза никогда не забывала осуждения и жестоких оскорблений, исходящих от других уроженцев Нирваны, и она стремится однажды править не слоем Ада, а царством небес.
+Будучи страстным существом, она привлекает не менее страстных последователей.
 
 
 **Эдикты**: Манипулировать другими с помощью ложных обещаний; помогать женщинам, которых несправедливо оклеветали

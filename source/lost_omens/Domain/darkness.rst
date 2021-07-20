@@ -15,6 +15,7 @@
 * :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
 * :doc:`/lost_omens/Deity/Other/Groetus`
 * :doc:`/lost_omens/Deity/Other/Nocticula`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
 
 **Доменные заклинания**:
 

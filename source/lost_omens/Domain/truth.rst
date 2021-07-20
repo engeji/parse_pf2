@@ -16,6 +16,7 @@
 * :doc:`/lost_omens/Deity/Other/Gruhastha`
 * :doc:`/lost_omens/Deity/Other/Kurgess`
 * :doc:`/lost_omens/Deity/Archdevil/Geryon`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
 
 **Доменные заклинания**:
 

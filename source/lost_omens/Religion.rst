@@ -342,7 +342,7 @@
    Deity/Other/*
 
 
-.. rst-class:: lo-religion
+.. rst-class:: lo-other-deity
 
 Архидьяволы (`Archdevils <https://2e.aonprd.com/DeityCategories.aspx?ID=4>`_)
 ----------------------------------------------------------------------------------------------------------
@@ -356,9 +356,9 @@
    Deity/Archdevil/*
 
 
-.. rst-class:: lo-religion
+.. rst-class:: lo-other-deity
 
-Королевы ночи (`Queens of the Night <https://2e.aonprd.com/DeityCategories.aspx?ID=14>`_)
+Королевы Ночи (`Queens of the Night <https://2e.aonprd.com/DeityCategories.aspx?ID=14>`_)
 ----------------------------------------------------------------------------------------------------------
 
 Королевы ночи завоевали часть своей собственной силы в Аду.
@@ -368,6 +368,32 @@
    :maxdepth: 1
    
    Deity/Queen-of-Night/*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

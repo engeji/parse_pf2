@@ -870,6 +870,7 @@ Titles:
 	Erebus: Эреб
 	Caina: Ка́ина
 	Malebolge: Мэлболдж
+	Voiporl: Войпул
 
 trait: признак / особенность
 	оружие:

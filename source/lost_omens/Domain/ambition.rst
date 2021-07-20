@@ -15,6 +15,8 @@
 * :doc:`/lost_omens/Deity/Other/Kurgess`
 * :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
 * :doc:`/lost_omens/Deity/Archdevil/Mammon`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
+
 
 **Доменные заклинания**:
 
