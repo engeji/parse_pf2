@@ -12,6 +12,10 @@
 
 * :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
 * :ref:`Pantheon--Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Other/Arazni`
+* :doc:`/lost_omens/Deity/Other/Casandalee`
+* :doc:`/lost_omens/Deity/Other/Kazutal`
+* :doc:`/lost_omens/Deity/Other/Milani`
 
 **Доменные заклинания**:
 

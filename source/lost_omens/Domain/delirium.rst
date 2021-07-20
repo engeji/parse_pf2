@@ -10,7 +10,8 @@
 
 **Божества**:
 
-.. * :doc:`/lost_omens/Deity/Other/NAME`
+* :doc:`/lost_omens/Deity/Other/Sivanah`
+* :doc:`/lost_omens/Deity/Other/Tsukiyo`
 
 **Доменные заклинания**:
 

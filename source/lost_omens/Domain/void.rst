@@ -14,6 +14,7 @@
 * :doc:`/lost_omens/Deity/Core/Rovagug`,
 * :doc:`/lost_omens/Deity/Core/Zon-Kuthon`,
 * :ref:`Pantheon--Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Other/Groetus`
 
 
 **Доменные заклинания**:

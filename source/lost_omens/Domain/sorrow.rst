@@ -10,7 +10,8 @@
 
 **Божества**:
 
-.. * :doc:`/lost_omens/Deity/Other/NAME`
+* :doc:`/lost_omens/Deity/Other/Arazni`
+* :doc:`/lost_omens/Deity/Other/Shizuru`
 
 **Доменные заклинания**:
 

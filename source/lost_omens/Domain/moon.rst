@@ -13,6 +13,7 @@
 * :doc:`/lost_omens/Deity/Core/Desna`,
 * :ref:`Pantheon--Elven`,
 * :ref:`Pantheon--Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Other/Tsukiyo`
 
 **Доменные заклинания**:
 

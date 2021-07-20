@@ -10,8 +10,9 @@
 
 **Божества**:
 
-* :doc:`../Deity/Core/Abadar`
-* :doc:`../Deity/Core/Cayden-Cailean`
+* :doc:`/lost_omens/Deity/Core/Abadar`
+* :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
+* :doc:`/lost_omens/Deity/Other/Kazutal`
 * :doc:`/lost_omens/Deity/Archdevil/Dispater`
 
 **Доменные заклинания**:

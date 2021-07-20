@@ -11,6 +11,7 @@
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Calistria`
+* :doc:`/lost_omens/Deity/Other/Sivanah`
 * :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
 
 **Доменные заклинания**:

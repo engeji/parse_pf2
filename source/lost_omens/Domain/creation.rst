@@ -14,6 +14,10 @@
 * :doc:`/lost_omens/Deity/Core/Torag`
 * :ref:`Pantheon--Dwarven`
 * :ref:`Pantheon--Elven`
+* :doc:`/lost_omens/Deity/Other/Brigh`
+* :doc:`/lost_omens/Deity/Other/Casandalee`
+* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+* :doc:`/lost_omens/Deity/Other/Nocticula`
 * :doc:`/lost_omens/Deity/Archdevil/Mammon`
 
 **Доменные заклинания**:

@@ -13,6 +13,9 @@
 * :doc:`/lost_omens/Deity/Core/Asmodeus`
 * :doc:`/lost_omens/Deity/Core/Gorum`
 * :doc:`/lost_omens/Deity/Core/Iomedae`
+* :doc:`/lost_omens/Deity/Other/Arazni`
+* :doc:`/lost_omens/Deity/Other/Chaldira`
+* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
 * :doc:`/lost_omens/Deity/Archdevil/Dispater`
 
 **Доменные заклинания**:

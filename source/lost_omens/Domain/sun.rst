@@ -11,6 +11,7 @@
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Sarenrae`
+* :doc:`/lost_omens/Deity/Other/Shizuru`
 
 **Доменные заклинания**:
 

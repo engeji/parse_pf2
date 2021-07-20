@@ -13,6 +13,8 @@
 * :doc:`/lost_omens/Deity/Core/Nethys`
 * :doc:`/lost_omens/Deity/Core/Urgathoa`
 * :ref:`Pantheon--Elven`
+* :doc:`/lost_omens/Deity/Other/Alseta`
+* :doc:`/lost_omens/Deity/Other/Sivanah`
 * :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
 * :doc:`/lost_omens/Deity/Archdevil/Barbatos`
 

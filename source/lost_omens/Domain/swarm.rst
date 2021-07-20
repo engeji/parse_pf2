@@ -12,6 +12,7 @@
 
 * :doc:`/lost_omens/Deity/Core/Rovagug`
 * :doc:`/lost_omens/Deity/Core/Urgathoa`
+* :doc:`/lost_omens/Deity/Other/Ghlaunder`
 
 **Доменные заклинания**:
 

@@ -14,6 +14,8 @@
 * :doc:`/lost_omens/Deity/Core/Erastil`
 * :doc:`/lost_omens/Deity/Core/Rovagug`
 * :doc:`/lost_omens/Deity/Core/Torag`
+* :doc:`/lost_omens/Deity/Other/Brigh`
+* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
 
 **Доменные заклинания**:
 

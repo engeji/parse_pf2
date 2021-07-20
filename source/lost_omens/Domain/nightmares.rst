@@ -11,6 +11,7 @@
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Lamashtu`
+* :doc:`/lost_omens/Deity/Other/Groetus`
 
 **Доменные заклинания**:
 

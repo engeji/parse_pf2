@@ -14,6 +14,10 @@
 * :doc:`/lost_omens/Deity/Core/Nethys`
 * :doc:`/lost_omens/Deity/Core/Rovagug`
 * :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
+* :doc:`/lost_omens/Deity/Other/Besmara`
+* :doc:`/lost_omens/Deity/Other/Groetus`
+* :doc:`/lost_omens/Deity/Other/Hei-Feng`
+* :doc:`/lost_omens/Deity/Other/Milani`
 * :doc:`/lost_omens/Deity/Archdevil/Moloch`
 
 **Доменные заклинания**:

@@ -12,6 +12,9 @@
 
 * :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
 * :ref:`Pantheon--Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+* :doc:`/lost_omens/Deity/Other/Groetus`
+* :doc:`/lost_omens/Deity/Other/Nocticula`
 
 **Доменные заклинания**:
 

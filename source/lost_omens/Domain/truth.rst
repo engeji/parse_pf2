@@ -13,6 +13,8 @@
 * :doc:`/lost_omens/Deity/Core/Iomedae`
 * :doc:`/lost_omens/Deity/Core/Irori`
 * :doc:`/lost_omens/Deity/Core/Sarenrae`
+* :doc:`/lost_omens/Deity/Other/Gruhastha`
+* :doc:`/lost_omens/Deity/Other/Kurgess`
 * :doc:`/lost_omens/Deity/Archdevil/Geryon`
 
 **Доменные заклинания**:

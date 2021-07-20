@@ -11,6 +11,8 @@
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
+* :doc:`/lost_omens/Deity/Other/Casandalee`
+* :doc:`/lost_omens/Deity/Other/Kurgess`
 * :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
 * :doc:`/lost_omens/Deity/Archdevil/Mammon`
 

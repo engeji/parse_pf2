@@ -14,6 +14,12 @@
 * :doc:`/lost_omens/Deity/Core/Calistria`
 * :doc:`/lost_omens/Deity/Core/Lamashtu`
 * :doc:`/lost_omens/Deity/Core/Norgorber`
+* :doc:`/lost_omens/Deity/Other/Achaekek`
+* :doc:`/lost_omens/Deity/Other/Besmara`
+* :doc:`/lost_omens/Deity/Other/Chaldira`
+* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+* :doc:`/lost_omens/Deity/Other/Sivanah`
 * :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
 * :doc:`/lost_omens/Deity/Archdevil/Belial`
 

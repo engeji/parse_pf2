@@ -12,6 +12,7 @@
 
 * :doc:`/lost_omens/Deity/Core/Norgorber`
 * :doc:`/lost_omens/Deity/Core/Pharasma`
+* :doc:`/lost_omens/Deity/Other/Achaekek`
 
 **Доменные заклинания**:
 

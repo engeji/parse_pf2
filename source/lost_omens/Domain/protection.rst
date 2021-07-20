@@ -15,6 +15,9 @@
 * :doc:`/lost_omens/Deity/Core/Torag`
 * :ref:`Pantheon--Dwarven`
 * :ref:`Pantheon--The-Godclaw`
+* :doc:`/lost_omens/Deity/Other/Alseta`
+* :doc:`/lost_omens/Deity/Other/Arazni`
+* :doc:`/lost_omens/Deity/Other/Kazutal`
 
 **Доменные заклинания**:
 

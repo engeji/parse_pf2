@@ -12,6 +12,7 @@
 
 * :doc:`/lost_omens/Deity/Core/Sarenrae`
 * :doc:`/lost_omens/Deity/Core/Shelyn`
+* :doc:`/lost_omens/Deity/Other/Tsukiyo`
 
 **Доменные заклинания**:
 

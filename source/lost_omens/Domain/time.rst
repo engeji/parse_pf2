@@ -11,6 +11,8 @@
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Pharasma`
+* :doc:`/lost_omens/Deity/Other/Alseta`
+* :doc:`/lost_omens/Deity/Other/Brigh`
 
 **Доменные заклинания**:
 

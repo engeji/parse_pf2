@@ -13,6 +13,9 @@
 * :doc:`/lost_omens/Deity/Core/Abadar`
 * :doc:`/lost_omens/Deity/Core/Desna`
 * :doc:`/lost_omens/Deity/Core/Gozreh`
+* :doc:`/lost_omens/Deity/Other/Gruhastha`
+* :doc:`/lost_omens/Deity/Other/Hei-Feng`
+* :doc:`/lost_omens/Deity/Other/Nocticula`
 * :doc:`/lost_omens/Deity/Archdevil/Barbatos`
 
 **Доменные заклинания**:

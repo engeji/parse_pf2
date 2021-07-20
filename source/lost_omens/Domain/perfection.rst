@@ -12,6 +12,9 @@
 
 * :doc:`/lost_omens/Deity/Core/Irori`
 * :ref:`Pantheon--The-Godclaw`
+* :doc:`/lost_omens/Deity/Other/Casandalee`
+* :doc:`/lost_omens/Deity/Other/Gruhastha`
+* :doc:`/lost_omens/Deity/Other/Shizuru`
 
 **Доменные заклинания**:
 

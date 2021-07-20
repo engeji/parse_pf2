@@ -12,6 +12,7 @@
 
 * :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
 * :doc:`/lost_omens/Deity/Core/Urgathoa`
+* :doc:`/lost_omens/Deity/Other/Hei-Feng`
 
 **Доменные заклинания**:
 
