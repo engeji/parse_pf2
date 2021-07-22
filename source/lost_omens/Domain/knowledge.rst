@@ -8,6 +8,12 @@
 
 Вы получаете божественные провидения.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Scholarly-Recollection`
+| Продвинутое: :ref:`spell--focus--Know-the-Enemy`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Irori`
@@ -17,8 +23,5 @@
 * :doc:`/lost_omens/Deity/Other/Casandalee`
 * :doc:`/lost_omens/Deity/Other/Gruhastha`
 * :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Scholarly-Recollection`
-| Продвинутое: :ref:`spell--focus--Know-the-Enemy`
+* :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
+* :doc:`/lost_omens/Deity/Demon-Lord/Kabriri`

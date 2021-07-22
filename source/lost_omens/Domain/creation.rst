@@ -8,6 +8,12 @@
 
 У вас есть божественные способности связанные с ремеслом и искусством.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Splash-of-Art`
+| Продвинутое: :ref:`spell--focus--Artistic-Flourish`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Shelyn`
@@ -21,8 +27,3 @@
 * :doc:`/lost_omens/Deity/Archdevil/Mammon`
 * :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
 * :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Splash-of-Art`
-| Продвинутое: :ref:`spell--focus--Artistic-Flourish`

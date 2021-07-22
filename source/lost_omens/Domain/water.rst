@@ -8,14 +8,17 @@
 
 Вы управляете водой и водоемами.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Tidal-Surge`
+| Продвинутое: :ref:`spell--focus--Downpour`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Gozreh`
 * :doc:`/lost_omens/Deity/Other/Besmara`
 * :doc:`/lost_omens/Deity/Other/Hei-Feng`
 * :doc:`/lost_omens/Deity/Archdevil/Geryon`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Tidal-Surge`
-| Продвинутое: :ref:`spell--focus--Downpour`
+* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
+* :doc:`/lost_omens/Deity/Demon-Lord/Gogunta`

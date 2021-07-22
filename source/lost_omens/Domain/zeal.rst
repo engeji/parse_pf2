@@ -8,6 +8,12 @@
 
 Ваш внутренний огонь увеличивает вашу боевую доблесть.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Weapon-Surge`
+| Продвинутое: :ref:`spell--focus--Zeal-for-Battle`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Gorum`
@@ -20,9 +26,7 @@
 * :doc:`/lost_omens/Deity/Other/Milani`
 * :doc:`/lost_omens/Deity/Archdevil/Belial`
 * :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
-
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Weapon-Surge`
-| Продвинутое: :ref:`spell--focus--Zeal-for-Battle`
+* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
+* :doc:`/lost_omens/Deity/Demon-Lord/Baphomet`
+* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
+* :doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`

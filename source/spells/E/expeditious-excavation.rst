@@ -17,6 +17,9 @@
 
 **Область**: 5-футовый куб земли (или меньше) в поперечнике
 
+**Божества**:
+:doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
+
 **Источник**: Lost Omens: Gods & Magic pg. 107
 
 ----------

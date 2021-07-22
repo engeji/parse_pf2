@@ -23,7 +23,8 @@
 **Продолжительность**: различается
 
 **Божества**:
-:doc:`/lost_omens/Deity/Archdevil/Barbatos`
+:doc:`/lost_omens/Deity/Archdevil/Barbatos`,
+:doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
 
 ----------
 

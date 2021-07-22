@@ -8,6 +8,12 @@
 
 Вы защищаете других и себя.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Protectors-Sacrifice`
+| Продвинутое: :ref:`spell--focus--Protectors-Sphere`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Nethys`
@@ -18,8 +24,3 @@
 * :doc:`/lost_omens/Deity/Other/Alseta`
 * :doc:`/lost_omens/Deity/Other/Arazni`
 * :doc:`/lost_omens/Deity/Other/Kazutal`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Protectors-Sacrifice`
-| Продвинутое: :ref:`spell--focus--Protectors-Sphere`

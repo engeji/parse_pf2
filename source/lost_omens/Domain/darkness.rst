@@ -8,6 +8,12 @@
 
 Вы действуете в темноте и забираете свет.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Cloak-of-Shadow`
+| Продвинутое: :ref:`spell--focus--Darkened-Eyes`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
@@ -16,8 +22,3 @@
 * :doc:`/lost_omens/Deity/Other/Groetus`
 * :doc:`/lost_omens/Deity/Other/Nocticula`
 * :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Cloak-of-Shadow`
-| Продвинутое: :ref:`spell--focus--Darkened-Eyes`

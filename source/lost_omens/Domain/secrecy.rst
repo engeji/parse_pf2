@@ -8,13 +8,15 @@
 
 Вы защищаете тайны и скрываете их.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Forced-Quiet`
+| Продвинутое: :ref:`spell--focus--Safeguard-Secret`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Calistria`
 * :doc:`/lost_omens/Deity/Other/Sivanah`
 * :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Forced-Quiet`
-| Продвинутое: :ref:`spell--focus--Safeguard-Secret`
+* :doc:`/lost_omens/Deity/Demon-Lord/Baphomet`

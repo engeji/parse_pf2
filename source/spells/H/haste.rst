@@ -20,7 +20,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Irori`,
-:doc:`/lost_omens/Deity/Other/Kurgess`
+:doc:`/lost_omens/Deity/Other/Kurgess`,
+:doc:`/lost_omens/Deity/Demon-Lord/Shax`
 
 ----------
 

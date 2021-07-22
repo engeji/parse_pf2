@@ -8,6 +8,12 @@
 
 Вы совершаете неожиданное и необъяснимое.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Magics-Vessel`
+| Продвинутое: :ref:`spell--focus--Mystic-Beacon`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Nethys`
@@ -17,8 +23,4 @@
 * :doc:`/lost_omens/Deity/Other/Sivanah`
 * :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
 * :doc:`/lost_omens/Deity/Archdevil/Barbatos`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Magics-Vessel`
-| Продвинутое: :ref:`spell--focus--Mystic-Beacon`
+* :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`

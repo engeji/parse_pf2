@@ -8,12 +8,15 @@
 
 Вы черпаете силу драконов, линнормов и других могущественных рептилий.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Archdevil/Geryon`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Draconic-Barrage`
 | Продвинутое: :ref:`spell--focus--Roar-of-the-Wyrm`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Archdevil/Geryon`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
+* :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
+* :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`

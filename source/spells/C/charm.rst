@@ -27,7 +27,8 @@
 :doc:`/lost_omens/Deity/Core/Asmodeus`,
 :doc:`/lost_omens/Deity/Core/Calistria`,
 :doc:`/lost_omens/Deity/Archdevil/Belial`,
-:doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
+:doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`,
+:doc:`/lost_omens/Deity/Demon-Lord/Zura`
 
 ----------
 

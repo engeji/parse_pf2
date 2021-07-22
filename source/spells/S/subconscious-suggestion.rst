@@ -24,7 +24,8 @@
 **Продолжительность**: различается
 
 **Божества**:
-:doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
+:doc:`/lost_omens/Deity/Archdevil/Mephistopheles`,
+:doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
 
 ----------
 

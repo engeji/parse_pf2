@@ -8,6 +8,12 @@
 
 Вы управляете почвой и камнем.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Hurtling-Stone`
+| Продвинутое: :ref:`spell--focus--Localized-Quake`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Abadar`
@@ -16,8 +22,3 @@
 * :doc:`/lost_omens/Deity/Core/Torag`
 * :doc:`/lost_omens/Deity/Other/Brigh`
 * :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Hurtling-Stone`
-| Продвинутое: :ref:`spell--focus--Localized-Quake`

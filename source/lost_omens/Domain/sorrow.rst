@@ -8,13 +8,15 @@
 
 У вас есть болезненная связь с меланхолией и грустью.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Lament`
+| Продвинутое: :ref:`spell--focus--Overflowing-Sorrow`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Other/Arazni`
 * :doc:`/lost_omens/Deity/Other/Shizuru`
 * :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Lament`
-| Продвинутое: :ref:`spell--focus--Overflowing-Sorrow`
+* :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`

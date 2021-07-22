@@ -8,11 +8,12 @@
 
 У вас есть сила высушивать и распылять то, что противостоит вам.
 
-**Божества**:
-
-.. * :doc:`/lost_omens/Deity/Other/NAME`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Parch`
 | Продвинутое: :ref:`spell--focus--Dust-Storm`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Demon-Lord/Nurgal`

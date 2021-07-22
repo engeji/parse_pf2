@@ -8,13 +8,14 @@
 
 Вы правите потоком времени.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Delay-Consequence`
+| Продвинутое: :ref:`spell--focus--Stasis`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Pharasma`
 * :doc:`/lost_omens/Deity/Other/Alseta`
 * :doc:`/lost_omens/Deity/Other/Brigh`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Delay-Consequence`
-| Продвинутое: :ref:`spell--focus--Stasis`

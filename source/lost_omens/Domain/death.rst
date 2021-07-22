@@ -8,13 +8,15 @@
 
 У вас есть сила обрывать жизни и уничтожать нежить.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Deaths-Call`
+| Продвинутое: :ref:`spell--focus--Eradicate-Undeath`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Norgorber`
 * :doc:`/lost_omens/Deity/Core/Pharasma`
 * :doc:`/lost_omens/Deity/Other/Achaekek`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Deaths-Call`
-| Продвинутое: :ref:`spell--focus--Eradicate-Undeath`
+* :doc:`/lost_omens/Deity/Demon-Lord/Shax`

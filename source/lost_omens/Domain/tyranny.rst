@@ -8,6 +8,12 @@
 
 Вы обладаете властью, чтобы править другими и порабощать других.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Touch-of-Obedience`
+| Продвинутое: :ref:`spell--focus--Commanding-Lash`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Asmodeus`
@@ -15,8 +21,7 @@
 * :doc:`/lost_omens/Deity/Archdevil/Barbatos`
 * :doc:`/lost_omens/Deity/Archdevil/Dispater`
 * :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Touch-of-Obedience`
-| Продвинутое: :ref:`spell--focus--Commanding-Lash`
+* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
+* :doc:`/lost_omens/Deity/Demon-Lord/Gogunta`
+* :doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`
+* :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`

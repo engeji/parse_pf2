@@ -8,6 +8,12 @@
 
 Вы обличаете ложь и открываете правду.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Word-of-Truth`
+| Продвинутое: :ref:`spell--focus--Glimpse-the-Truth`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Iomedae`
@@ -17,8 +23,3 @@
 * :doc:`/lost_omens/Deity/Other/Kurgess`
 * :doc:`/lost_omens/Deity/Archdevil/Geryon`
 * :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Word-of-Truth`
-| Продвинутое: :ref:`spell--focus--Glimpse-the-Truth`

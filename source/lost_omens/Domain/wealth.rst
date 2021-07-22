@@ -8,6 +8,12 @@
 
 У вас есть власть над богатством, торговлей и сокровищами.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Appearance-of-Wealth`
+| Продвинутое: :ref:`spell--focus--Precious-Metals`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Abadar`
@@ -17,8 +23,3 @@
 * :doc:`/lost_omens/Deity/Other/Besmara`
 * :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
 * :doc:`/lost_omens/Deity/Archdevil/Mammon`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Appearance-of-Wealth`
-| Продвинутое: :ref:`spell--focus--Precious-Metals`

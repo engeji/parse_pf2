@@ -43,7 +43,7 @@
 :doc:`Sarenrae`,
 :doc:`/lost_omens/Deity/Other/Tsukiyo`
 
-**Отношения**: Пазузу (`Pazuzu <https://2e.aonprd.com/Deities.aspx?ID=79>`_) (бывший супруг)
+**Отношения**: :doc:`/lost_omens/Deity/Demon-Lord/Pazuzu` (бывший супруг)
 
 **Храмы**: пещеры, разрушенные здания, заброшенные детские дома
 

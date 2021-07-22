@@ -15,6 +15,9 @@
 
 **Продолжительность**: 1 минута
 
+**Божества**:
+:doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
+
 **Источник**: Lost Omens: Gods & Magic pg. 108
 
 ----------

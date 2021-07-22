@@ -15,7 +15,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Shizuru`
+:doc:`/lost_omens/Deity/Other/Shizuru`,
+:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
 
 **Источник**: Lost Omens: Gods & Magic pg. 109
 

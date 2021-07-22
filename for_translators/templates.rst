@@ -986,4 +986,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Queen-of-Night/NAME`
+:doc:`/lost_omens/Deity/Demon-Lord/NAME`

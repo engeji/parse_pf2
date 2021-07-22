@@ -20,7 +20,8 @@
 **Спасбросок**: Рефлекс
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Hei-Feng`
+:doc:`/lost_omens/Deity/Other/Hei-Feng`,
+:doc:`/lost_omens/Deity/Demon-Lord/Dagon`
 
 ----------
 

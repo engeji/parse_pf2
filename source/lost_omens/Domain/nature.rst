@@ -8,6 +8,12 @@
 
 Вы обладаете властью над животными и растениями.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Vibrant-Thorns`
+| Продвинутое: :ref:`spell--focus--Natures-Bounty`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Erastil`
@@ -15,8 +21,7 @@
 * :ref:`Pantheon--Elven`
 * :doc:`/lost_omens/Deity/Other/Gruhastha`
 * :doc:`/lost_omens/Deity/Archdevil/Barbatos`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Vibrant-Thorns`
-| Продвинутое: :ref:`spell--focus--Natures-Bounty`
+* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
+* :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
+* :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
+* :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`

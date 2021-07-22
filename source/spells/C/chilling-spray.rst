@@ -17,7 +17,12 @@
 
 **Спасбросок**: Рефлекс
 
-**Источник**: Advanced Player's Guide pg. 217, Lost Omens: Gods & Magic pg. 107
+**Божества**:
+:doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
+
+**Источник**:
+Advanced Player's Guide pg. 217,
+Lost Omens: Gods & Magic pg. 107
 
 ----------
 

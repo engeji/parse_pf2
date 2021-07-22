@@ -21,7 +21,8 @@
 **Продолжительность**: 1 или более раундов
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Groetus`
+:doc:`/lost_omens/Deity/Other/Groetus`,
+:doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
 
 ----------
 

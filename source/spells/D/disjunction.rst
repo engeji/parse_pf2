@@ -19,7 +19,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Nethys`,
-:doc:`/lost_omens/Deity/Other/Groetus`
+:doc:`/lost_omens/Deity/Other/Groetus`,
+:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
 
 ----------
 

@@ -8,6 +8,12 @@
 
 Вы можете перестроить физическое и метафизическое.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Adapt-Self`
+| Продвинутое: :ref:`spell--focus--Adaptive-Ablation`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Irori`
@@ -18,8 +24,5 @@
 * :doc:`/lost_omens/Deity/Other/Nocticula`
 * :doc:`/lost_omens/Deity/Other/Tsukiyo`
 * :doc:`/lost_omens/Deity/Archdevil/Belial`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Adapt-Self`
-| Продвинутое: :ref:`spell--focus--Adaptive-Ablation`
+* :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
+* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`

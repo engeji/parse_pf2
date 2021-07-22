@@ -8,13 +8,15 @@
 
 Вы контролируете массу существ.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Swarmsense`
+| Продвинутое: :ref:`spell--focus--Swarm-Form`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Rovagug`
 * :doc:`/lost_omens/Deity/Core/Urgathoa`
 * :doc:`/lost_omens/Deity/Other/Ghlaunder`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Swarmsense`
-| Продвинутое: :ref:`spell--focus--Swarm-Form`
+* :doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`

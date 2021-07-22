@@ -8,6 +8,12 @@
 
 Вы управляете ветрами и погодой.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Pushing-Gust`
+| Продвинутое: :ref:`spell--focus--Disperse-into-Air`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Gozreh`
@@ -15,8 +21,4 @@
 * :doc:`/lost_omens/Deity/Other/Ghlaunder`
 * :doc:`/lost_omens/Deity/Other/Hei-Feng`
 * :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Pushing-Gust`
-| Продвинутое: :ref:`spell--focus--Disperse-into-Air`
+* :doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`
