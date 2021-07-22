@@ -8,11 +8,14 @@
 
 Вы неестественно удачливы и держитесь подальше от неприятностей.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Core/Desna`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Bit-of-Luck`
 | Продвинутое: :ref:`spell--focus--Lucky-Break`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Desna`
+* :doc:`/lost_omens/Deity/Other/Chaldira`
+* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`

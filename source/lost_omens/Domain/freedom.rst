@@ -8,12 +8,17 @@
 
 Вы освобождаете себя и других от оков и ограничений.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
-* :ref:`Pantheon--Cosmic-Caravan`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Unimpeded-Stride`
 | Продвинутое: :ref:`spell--focus--Word-of-Freedom`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
+* :ref:`Pantheon--Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Other/Arazni`
+* :doc:`/lost_omens/Deity/Other/Casandalee`
+* :doc:`/lost_omens/Deity/Other/Kazutal`
+* :doc:`/lost_omens/Deity/Other/Milani`

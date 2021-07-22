@@ -8,14 +8,28 @@
 
 Вы проводник божественного опустошения.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Cry-of-Destruction`
+| Продвинутое: :ref:`spell--focus--Destructive-Aura`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Gorum`
 * :doc:`/lost_omens/Deity/Core/Nethys`
 * :doc:`/lost_omens/Deity/Core/Rovagug`
 * :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Cry-of-Destruction`
-| Продвинутое: :ref:`spell--focus--Destructive-Aura`
+* :doc:`/lost_omens/Deity/Other/Besmara`
+* :doc:`/lost_omens/Deity/Other/Groetus`
+* :doc:`/lost_omens/Deity/Other/Hei-Feng`
+* :doc:`/lost_omens/Deity/Other/Milani`
+* :doc:`/lost_omens/Deity/Archdevil/Moloch`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
+* :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
+* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
+* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
+* :doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
+* :doc:`/lost_omens/Deity/Demon-Lord/Nurgal`
+* :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
+* :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`

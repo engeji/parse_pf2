@@ -21,6 +21,9 @@
 
 **Продолжительность**: 1 день
 
+**Божества**:
+:doc:`/lost_omens/Deity/Demon-Lord/Nurgal`
+
 **Источник**: Lost Omens: Gods & Magic pg. 107
 
 ----------

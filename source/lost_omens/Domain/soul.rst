@@ -8,11 +8,13 @@
 
 Вы обладаете властью над духовным.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Core/Pharasma`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Eject-Soul`
 | Продвинутое: :ref:`spell--focus--Ectoplasmic-Interstice`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Pharasma`
+* :doc:`/lost_omens/Deity/Other/Tsukiyo`

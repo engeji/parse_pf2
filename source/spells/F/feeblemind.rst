@@ -24,7 +24,8 @@
 **Продолжительность**: различается
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Arazni`
+:doc:`/lost_omens/Deity/Other/Arazni`,
+:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
 
 ----------
 

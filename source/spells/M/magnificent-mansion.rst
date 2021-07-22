@@ -18,7 +18,9 @@
 
 **Продолжительность**: 24 часа
 
-**Божества**: :doc:`/lost_omens/Deity/Core/Abadar`
+**Божества**:
+:doc:`/lost_omens/Deity/Core/Abadar`,
+:doc:`/lost_omens/Deity/Archdevil/Mammon`
 
 ----------
 

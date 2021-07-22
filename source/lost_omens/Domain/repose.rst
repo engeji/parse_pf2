@@ -8,12 +8,15 @@
 
 Вы облегчаете психические нагрузки.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Core/Sarenrae`
-* :doc:`/lost_omens/Deity/Core/Shelyn`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Share-Burden`
 | Продвинутое: :ref:`spell--focus--Font-of-Serenity`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Sarenrae`
+* :doc:`/lost_omens/Deity/Core/Shelyn`
+* :doc:`/lost_omens/Deity/Other/Tsukiyo`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`

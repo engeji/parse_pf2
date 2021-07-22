@@ -8,11 +8,14 @@
 
 Вы можете вызвать галлюцинации и беспокойство.
 
-**Божества**:
-
-.. * :doc:`/lost_omens/Deity/Other/NAME`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Hyperfocus`
 | Продвинутое: :ref:`spell--focus--Ephemeral-Hazards`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Other/Sivanah`
+* :doc:`/lost_omens/Deity/Other/Tsukiyo`
+* :doc:`/lost_omens/Deity/Demon-Lord/Zura`

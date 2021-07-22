@@ -8,11 +8,15 @@
 
 Ваша магия тесно связана с нежитью.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Core/Urgathoa`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Touch-of-Undeath`
 | Продвинутое: :ref:`spell--focus--Malignant-Sustenance`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Urgathoa`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
+* :doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
+* :doc:`/lost_omens/Deity/Demon-Lord/Zura`

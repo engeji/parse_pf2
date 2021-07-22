@@ -24,7 +24,8 @@
 **Продолжительность**: до ваших следующих ежедневных приготовлений
 
 **Божества**:
-:ref:`Pantheon--The-Godclaw`
+:ref:`Pantheon--The-Godclaw`,
+:doc:`/lost_omens/Deity/Demon-Lord/Zura`
 
 ----------
 

@@ -17,7 +17,8 @@
 **Спасбросок**: простой Рефлекс
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Ghlaunder`
+:doc:`/lost_omens/Deity/Other/Ghlaunder`,
+:doc:`/lost_omens/Deity/Archdevil/Baalzebul`
 
 **Источник**: Advanced Player's Guide pg. 227
 

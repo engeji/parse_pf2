@@ -8,11 +8,12 @@
 
 У вас есть сила входить во сны и манипулировать ими.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Core/Desna`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Sweet-Dream`
 | Продвинутое: :ref:`spell--focus--Dreamers-Call`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Desna`

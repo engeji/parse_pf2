@@ -8,6 +8,12 @@
 
 Ваша физическая сила подкрепляется божественной силой.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Athletic-Rush`
+| Продвинутое: :ref:`spell--focus--Enduring-Might`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
@@ -16,9 +22,14 @@
 * :doc:`/lost_omens/Deity/Core/Irori`
 * :doc:`/lost_omens/Deity/Core/Lamashtu`
 * :doc:`/lost_omens/Deity/Core/Urgathoa`
-
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Athletic-Rush`
-| Продвинутое: :ref:`spell--focus--Enduring-Might`
+* :doc:`/lost_omens/Deity/Other/Achaekek`
+* :doc:`/lost_omens/Deity/Other/Kazutal`
+* :doc:`/lost_omens/Deity/Other/Kurgess`
+* :doc:`/lost_omens/Deity/Archdevil/Geryon`
+* :doc:`/lost_omens/Deity/Archdevil/Moloch`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
+* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
+* :doc:`/lost_omens/Deity/Demon-Lord/Baphomet`
+* :doc:`/lost_omens/Deity/Demon-Lord/Gogunta`
+* :doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
+* :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`

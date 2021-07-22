@@ -8,13 +8,15 @@
 
 Вы управляете силами связанными с луной.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Moonbeam`
+| Продвинутое: :ref:`spell--focus--Touch-of-the-Moon`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Desna`,
 * :ref:`Pantheon--Elven`,
 * :ref:`Pantheon--Cosmic-Caravan`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Moonbeam`
-| Продвинутое: :ref:`spell--focus--Touch-of-the-Moon`
+* :doc:`/lost_omens/Deity/Other/Tsukiyo`

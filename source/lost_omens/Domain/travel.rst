@@ -8,13 +8,18 @@
 
 У вас есть власть над движением и путешествиями.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Agile-Feet`
+| Продвинутое: :ref:`spell--focus--Travelers-Transit`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Abadar`
 * :doc:`/lost_omens/Deity/Core/Desna`
 * :doc:`/lost_omens/Deity/Core/Gozreh`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Agile-Feet`
-| Продвинутое: :ref:`spell--focus--Travelers-Transit`
+* :doc:`/lost_omens/Deity/Other/Gruhastha`
+* :doc:`/lost_omens/Deity/Other/Hei-Feng`
+* :doc:`/lost_omens/Deity/Other/Nocticula`
+* :doc:`/lost_omens/Deity/Archdevil/Barbatos`

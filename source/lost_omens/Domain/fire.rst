@@ -8,12 +8,16 @@
 
 Вы управляете пламенем.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Core/Asmodeus`
-* :doc:`/lost_omens/Deity/Core/Sarenrae`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Fire-Ray`
 | Продвинутое: :ref:`spell--focus--Flame-Barrier`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Asmodeus`
+* :doc:`/lost_omens/Deity/Core/Sarenrae`
+* :doc:`/lost_omens/Deity/Other/Brigh`
+* :doc:`/lost_omens/Deity/Archdevil/Moloch`
+* :doc:`/lost_omens/Deity/Demon-Lord/Nurgal`

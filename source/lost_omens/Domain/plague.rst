@@ -8,11 +8,13 @@
 
 Вы владеете болезнями и чумой, как оружием.
 
-**Божества**:
-
-.. * :doc:`/lost_omens/Deity/Other/NAME`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Divine-Plagues`
 | Продвинутое: :ref:`spell--focus--Foul-Miasma`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Other/Ghlaunder`
+* :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`

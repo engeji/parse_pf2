@@ -8,12 +8,15 @@
 
 У вас есть власть над городской средой и жителями.
 
-**Божества**:
-
-* :doc:`../Deity/Core/Abadar`
-* :doc:`../Deity/Core/Cayden-Cailean`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Face-in-the-Crowd`
 | Продвинутое: :ref:`spell--focus--Pulse-of-the-City`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Abadar`
+* :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
+* :doc:`/lost_omens/Deity/Other/Kazutal`
+* :doc:`/lost_omens/Deity/Archdevil/Dispater`

@@ -16,7 +16,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Asmodeus`,
-:doc:`/lost_omens/Deity/Core/Calistria`
+:doc:`/lost_omens/Deity/Core/Calistria`,
+:doc:`/lost_omens/Deity/Archdevil/Baalzebul`
 
 ----------
 

@@ -8,15 +8,16 @@
 
 Вы черпаете силу из пустоты
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Empty-Inside`
+| Продвинутое: :ref:`spell--focus--Door-to-Beyond`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Desna`,
 * :doc:`/lost_omens/Deity/Core/Rovagug`,
 * :doc:`/lost_omens/Deity/Core/Zon-Kuthon`,
 * :ref:`Pantheon--Cosmic-Caravan`
-
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Empty-Inside`
-| Продвинутое: :ref:`spell--focus--Door-to-Beyond`
+* :doc:`/lost_omens/Deity/Other/Groetus`

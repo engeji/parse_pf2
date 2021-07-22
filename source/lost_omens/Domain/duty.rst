@@ -8,6 +8,12 @@
 
 Вы защищаете клятвы и выполняете свои божественные миссии с преданностью.
 
+**Доменные заклинания**:
+
+| Начальное: :ref:`spell--focus--Oathkeepers-Insignia`
+| Продвинутое: :ref:`spell--focus--Dutiful-Challenge`
+
+
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Abadar`
@@ -17,8 +23,6 @@
 * :doc:`/lost_omens/Deity/Core/Torag`
 * :ref:`Pantheon--Dwarven`
 * :ref:`Pantheon--The-Godclaw`
-
-**Доменные заклинания**:
-
-| Начальное: :ref:`spell--focus--Oathkeepers-Insignia`
-| Продвинутое: :ref:`spell--focus--Dutiful-Challenge`
+* :doc:`/lost_omens/Deity/Other/Shizuru`
+* :doc:`/lost_omens/Deity/Archdevil/Dispater`
+* :doc:`/lost_omens/Deity/Archdevil/Moloch`

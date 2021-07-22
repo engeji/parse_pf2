@@ -22,6 +22,9 @@
 
 **Спасбросок**: Воля
 
+**Божества**:
+:doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
+
 **Источник**: Advanced Player's Guide pg. 216
 
 ----------

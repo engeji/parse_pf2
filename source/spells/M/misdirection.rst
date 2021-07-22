@@ -19,7 +19,8 @@
 **Продолжительность**: до ваших следующих ежедневных приготовлений
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Chaldira`
+:doc:`/lost_omens/Deity/Other/Chaldira`,
+:doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
 
 ----------
 

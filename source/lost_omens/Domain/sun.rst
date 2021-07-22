@@ -8,11 +8,14 @@
 
 Вы используете силу солнца и других источников света и караете нежить.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Core/Sarenrae`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Dazzling-Flash`
 | Продвинутое: :ref:`spell--focus--Positive-Luminance`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Sarenrae`
+* :doc:`/lost_omens/Deity/Other/Shizuru`
+* :doc:`/lost_omens/Deity/Demon-Lord/Nurgal`

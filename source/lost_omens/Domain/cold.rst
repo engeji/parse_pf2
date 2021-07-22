@@ -8,11 +8,13 @@
 
 Вы контролируете лед, снег и температуру замерзания.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Core/Gozreh`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Winter-Bolt`
 | Продвинутое: :ref:`spell--focus--Diamond-Dust`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Gozreh`
+* :doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`

@@ -8,12 +8,17 @@
 
 Вы действуете в темноте и забираете свет.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
-* :ref:`Pantheon--Cosmic-Caravan`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Cloak-of-Shadow`
 | Продвинутое: :ref:`spell--focus--Darkened-Eyes`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
+* :ref:`Pantheon--Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+* :doc:`/lost_omens/Deity/Other/Groetus`
+* :doc:`/lost_omens/Deity/Other/Nocticula`
+* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`

@@ -8,12 +8,13 @@
 
 Вы повелеваете силой звезд.
 
-**Божества**:
-
-* :doc:`/lost_omens/Deity/Core/Desna`,
-* :ref:`Pantheon--Cosmic-Caravan`
-
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Zenith-Star`
 | Продвинутое: :ref:`spell--focus--Asterism`
+
+
+**Божества**:
+
+* :doc:`/lost_omens/Deity/Core/Desna`,
+* :ref:`Pantheon--Cosmic-Caravan`

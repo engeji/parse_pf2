@@ -14,7 +14,9 @@
 **Сотворение**: |д-1| жестовый
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Irori`
+:doc:`/lost_omens/Deity/Core/Irori`,
+:doc:`/lost_omens/Deity/Demon-Lord/Gogunta`,
+:doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
 
 ----------
 

@@ -16,7 +16,8 @@
 **Дистанция**: 120 футов
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Alseta`
+:doc:`/lost_omens/Deity/Other/Alseta`,
+:doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
 
 ----------
 

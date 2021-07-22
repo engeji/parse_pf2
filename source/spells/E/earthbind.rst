@@ -21,7 +21,8 @@
 **Продолжительность**: различается
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Torag`
+:doc:`/lost_omens/Deity/Core/Torag`,
+:doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
 
 ----------
 

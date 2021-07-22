@@ -17,6 +17,9 @@
 
 **Спасбросок**: простой Рефлекс
 
+**Божества**:
+:doc:`/lost_omens/Deity/Archdevil/Geryon`
+
 **Источник**: Lost Omens: Gods & Magic pg. 106
 
 ----------

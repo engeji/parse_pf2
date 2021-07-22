@@ -19,7 +19,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Erastil`,
-:doc:`/lost_omens/Deity/Core/Zon-Kuthon`
+:doc:`/lost_omens/Deity/Core/Zon-Kuthon`,
+:doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
 
 ----------
 
