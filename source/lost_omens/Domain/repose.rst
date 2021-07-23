@@ -20,3 +20,4 @@
 * :doc:`/lost_omens/Deity/Core/Shelyn`
 * :doc:`/lost_omens/Deity/Other/Tsukiyo`
 * :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
+* :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`

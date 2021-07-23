@@ -20,3 +20,5 @@
 * :doc:`/lost_omens/Deity/Other/Ghlaunder`
 * :doc:`/lost_omens/Deity/Other/Groetus`
 * :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
+* :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
+* :doc:`/lost_omens/Deity/Eldest/Shyka`

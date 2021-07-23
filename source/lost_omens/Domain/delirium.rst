@@ -19,3 +19,5 @@
 * :doc:`/lost_omens/Deity/Other/Sivanah`
 * :doc:`/lost_omens/Deity/Other/Tsukiyo`
 * :doc:`/lost_omens/Deity/Demon-Lord/Zura`
+* :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
+* :doc:`/lost_omens/Deity/Eldest/Shyka`

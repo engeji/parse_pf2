@@ -297,7 +297,8 @@ Deity: Божество
 	Irez: Ирез
 	Walkena: Уокена
 	Kurgess: Курджесс
-	Milani: Мелони
+	Milani: Милани
+	Witchmarket: Ведьмовской Рынок
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -884,6 +885,9 @@ Titles:
 	Charnelhome: Чарнелхом
 	Gluttondark: Глаттондарк
 	Nesh: Нэш
+	Silkwood: Шелколесье
+	Evergrove: Вечнороща
+	Karaphas: Карафас
 
 trait: признак / особенность
 	оружие:

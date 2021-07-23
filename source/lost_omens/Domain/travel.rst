@@ -23,3 +23,5 @@
 * :doc:`/lost_omens/Deity/Other/Hei-Feng`
 * :doc:`/lost_omens/Deity/Other/Nocticula`
 * :doc:`/lost_omens/Deity/Archdevil/Barbatos`
+* :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
+* :doc:`/lost_omens/Deity/Eldest/Ng`

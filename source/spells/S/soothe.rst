@@ -22,7 +22,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Tsukiyo`
+:doc:`/lost_omens/Deity/Other/Tsukiyo`,
+:doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
 
 ----------
 

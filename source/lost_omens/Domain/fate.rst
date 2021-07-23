@@ -20,3 +20,5 @@
 * :ref:`Pantheon--Cosmic-Caravan`
 * :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
 * :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
+* :doc:`/lost_omens/Deity/Eldest/Magdh`
+* :doc:`/lost_omens/Deity/Eldest/Shyka`

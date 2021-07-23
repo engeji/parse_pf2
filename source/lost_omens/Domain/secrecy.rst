@@ -20,3 +20,4 @@
 * :doc:`/lost_omens/Deity/Other/Sivanah`
 * :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
 * :doc:`/lost_omens/Deity/Demon-Lord/Baphomet`
+* :doc:`/lost_omens/Deity/Eldest/Ng`

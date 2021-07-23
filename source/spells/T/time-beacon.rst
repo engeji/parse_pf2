@@ -14,6 +14,9 @@
 
 **Продолжительность**: до конца вашего хода
 
+**Божества**:
+:doc:`/lost_omens/Deity/Eldest/Shyka`
+
 **Источник**: Lost Omens: Gods & Magic pg. 111
 
 ----------

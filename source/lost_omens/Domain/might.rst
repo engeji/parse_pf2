@@ -33,3 +33,4 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Gogunta`
 * :doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
 * :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
+* :doc:`/lost_omens/Deity/Eldest/Imbrex`

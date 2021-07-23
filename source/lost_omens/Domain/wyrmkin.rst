@@ -20,3 +20,4 @@
 * :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
 * :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
 * :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
+* :doc:`/lost_omens/Deity/Eldest/Ragadahn`

@@ -22,7 +22,8 @@
 **Продолжительность**: 8 часов
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Zon-Kuthon`
+:doc:`/lost_omens/Deity/Core/Zon-Kuthon`,
+:doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
 
 ----------
 

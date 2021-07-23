@@ -25,3 +25,6 @@
 * :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
 * :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
 * :doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
+* :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
+* :doc:`/lost_omens/Deity/Eldest/Magdh`
+* :doc:`/lost_omens/Deity/Eldest/Ng`

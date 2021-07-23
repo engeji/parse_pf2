@@ -24,3 +24,4 @@
 * :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
 * :doc:`/lost_omens/Deity/Other/Kazutal`
 * :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+* :doc:`/lost_omens/Deity/Eldest/Imbrex`

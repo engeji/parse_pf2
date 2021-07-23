@@ -23,3 +23,4 @@
 * :doc:`/lost_omens/Deity/Other/Chaldira`
 * :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
 * :doc:`/lost_omens/Deity/Archdevil/Dispater`
+* :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`

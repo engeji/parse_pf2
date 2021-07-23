@@ -24,3 +24,4 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Gogunta`
 * :doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
 * :doc:`/lost_omens/Deity/Demon-Lord/Zura`
+* :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`

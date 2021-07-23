@@ -20,3 +20,5 @@
 * :doc:`/lost_omens/Deity/Other/Shizuru`
 * :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
 * :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
+* :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
+* :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`

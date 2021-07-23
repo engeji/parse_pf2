@@ -24,3 +24,4 @@
 * :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
 * :doc:`/lost_omens/Deity/Archdevil/Barbatos`
 * :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
+* :doc:`/lost_omens/Deity/Eldest/Ng`

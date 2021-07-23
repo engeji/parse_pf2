@@ -21,7 +21,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Besmara`,
-:doc:`/lost_omens/Deity/Demon-Lord/Dagon`
+:doc:`/lost_omens/Deity/Demon-Lord/Dagon`,
+:doc:`/lost_omens/Deity/Eldest/Ragadahn`
 
 ----------
 

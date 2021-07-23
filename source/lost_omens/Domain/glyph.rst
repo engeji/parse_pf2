@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Other/Gruhastha`
 * :doc:`/lost_omens/Deity/Other/Sivanah`
 * :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
+* :doc:`/lost_omens/Deity/Eldest/Magdh`

@@ -33,3 +33,4 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Nurgal`
 * :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
 * :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
+* :doc:`/lost_omens/Deity/Eldest/Ragadahn`

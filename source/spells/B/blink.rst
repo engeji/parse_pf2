@@ -16,7 +16,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Nethys`
+:doc:`/lost_omens/Deity/Core/Nethys`,
+:doc:`/lost_omens/Deity/Eldest/Ng`
 
 ----------
 

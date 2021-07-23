@@ -20,3 +20,5 @@
 * :doc:`/lost_omens/Deity/Core/Pharasma`
 * :doc:`/lost_omens/Deity/Other/Shizuru`
 * :doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
+* :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
+* :doc:`/lost_omens/Deity/Eldest/Ragadahn`

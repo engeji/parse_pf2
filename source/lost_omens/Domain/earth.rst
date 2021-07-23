@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Core/Torag`
 * :doc:`/lost_omens/Deity/Other/Brigh`
 * :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+* :doc:`/lost_omens/Deity/Eldest/Imbrex`

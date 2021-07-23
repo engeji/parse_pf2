@@ -22,7 +22,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Groetus`,
-:doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
+:doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`,
+:doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
 
 ----------
 

@@ -25,3 +25,4 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
 * :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
 * :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
+* :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`

@@ -986,4 +986,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/NAME`
+:doc:`/lost_omens/Deity/Eldest/Shyka`

@@ -32,3 +32,4 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`
 * :doc:`/lost_omens/Deity/Demon-Lord/Shax`
 * :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
+* :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
