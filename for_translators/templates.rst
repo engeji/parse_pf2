@@ -986,4 +986,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Eldest/Shyka`
+:doc:`/lost_omens/Deity/Empyreal-Lord/NAME`

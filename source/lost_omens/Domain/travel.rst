@@ -25,3 +25,5 @@
 * :doc:`/lost_omens/Deity/Archdevil/Barbatos`
 * :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
 * :doc:`/lost_omens/Deity/Eldest/Ng`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`

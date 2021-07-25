@@ -19,10 +19,11 @@
 
 **Продолжительность**: 1 минута
 
-**Источник**: Lost Omens: Gods & Magic pg. 109
-
 **Божества**:
-:doc:`/lost_omens/Deity/Archdevil/Mammon`
+:doc:`/lost_omens/Deity/Archdevil/Mammon`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
+
+**Источник**: Lost Omens: Gods & Magic pg. 109
 
 ----------
 

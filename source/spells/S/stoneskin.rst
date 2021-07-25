@@ -22,7 +22,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Irori`,
 :doc:`/lost_omens/Deity/Other/Kazutal`,
-:doc:`/lost_omens/Deity/Eldest/Imbrex`
+:doc:`/lost_omens/Deity/Eldest/Imbrex`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
 
 ----------
 

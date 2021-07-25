@@ -20,7 +20,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Desna`,
-:doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`
+:doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`
 
 ----------
 

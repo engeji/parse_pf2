@@ -168,7 +168,7 @@ Creature: существо
 		magma: магматический
 		crystal: кристаллический
 		cloud: облачный
-		brine: водный морской
+		brine: водный
 		umbral: теневой
 		sovereign: монарший
 		underworld: подземный
@@ -218,6 +218,7 @@ Creature: существо
 	charau-ka: чарау-ка
 	nalfeshnee: нальфешни
 	lacedon: ласэдан (упырь-утопец, водный)
+	agrawgh: эграг
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -278,7 +279,7 @@ Deity: Божество
 	Ranginori: Рангинори
 	Zohls: Золсу
 	Tanagaar: Танагаару
-	Lysianassa: Лисианассе
+	Lysianassa: Лисианасса
 	Eldest of the First World: Старейшие из Первого мира
 	Barbatos: Барбатос
 	Dispater: Диспатер
@@ -888,6 +889,10 @@ Titles:
 	Silkwood: Шелколесье
 	Evergrove: Вечнороща
 	Karaphas: Карафас
+	Verglas Precessional: Гололёдная Прецессия
+	Saline Padishah: Солевого Падишаха
+	Niloufar the Great: Нилуфар Великая
+	Auroric Palace: Дворец Сияния
 
 trait: признак / особенность
 	оружие:

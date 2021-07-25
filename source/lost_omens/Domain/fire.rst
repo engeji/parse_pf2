@@ -21,3 +21,5 @@
 * :doc:`/lost_omens/Deity/Other/Brigh`
 * :doc:`/lost_omens/Deity/Archdevil/Moloch`
 * :doc:`/lost_omens/Deity/Demon-Lord/Nurgal`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Atreia`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`

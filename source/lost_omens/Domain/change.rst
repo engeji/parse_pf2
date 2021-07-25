@@ -16,14 +16,18 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Irori`
-* :doc:`/lost_omens/Deity/Core/Lamashtu`
-* :doc:`/lost_omens/Deity/Other/Alseta`
-* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
-* :doc:`/lost_omens/Deity/Other/Milani`
-* :doc:`/lost_omens/Deity/Other/Nocticula`
-* :doc:`/lost_omens/Deity/Other/Tsukiyo`
-* :doc:`/lost_omens/Deity/Archdevil/Belial`
-* :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
-* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
-* :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Irori`
+	* :doc:`/lost_omens/Deity/Core/Lamashtu`
+	* :doc:`/lost_omens/Deity/Other/Alseta`
+	* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+	* :doc:`/lost_omens/Deity/Other/Milani`
+	* :doc:`/lost_omens/Deity/Other/Nocticula`
+	* :doc:`/lost_omens/Deity/Other/Tsukiyo`
+	* :doc:`/lost_omens/Deity/Archdevil/Belial`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
+	* :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`

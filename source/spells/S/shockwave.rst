@@ -17,6 +17,9 @@
 
 **Спасбросок**: Рефлекс
 
+**Божества**:
+:doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
+
 **Источник**: Lost Omens: Gods & Magic pg. 110
 
 ----------

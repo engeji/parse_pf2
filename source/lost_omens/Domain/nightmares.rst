@@ -21,3 +21,4 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
 * :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
 * :doc:`/lost_omens/Deity/Demon-Lord/Zura`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`

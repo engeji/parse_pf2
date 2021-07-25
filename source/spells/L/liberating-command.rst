@@ -17,6 +17,9 @@
 
 **Цели**: 1 существо
 
+**Божества**:
+:doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`
+
 **Источник**: Lost Omens: Gods & Magic pg. 108
 
 ----------

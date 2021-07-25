@@ -18,3 +18,4 @@
 
 * :doc:`/lost_omens/Deity/Core/Pharasma`
 * :doc:`/lost_omens/Deity/Core/Sarenrae`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Atreia`

@@ -19,3 +19,4 @@
 * :doc:`/lost_omens/Deity/Core/Gozreh`
 * :doc:`/lost_omens/Deity/Other/Casandalee`
 * :doc:`/lost_omens/Deity/Other/Hei-Feng`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`

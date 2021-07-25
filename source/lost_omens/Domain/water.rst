@@ -23,3 +23,5 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
 * :doc:`/lost_omens/Deity/Demon-Lord/Gogunta`
 * :doc:`/lost_omens/Deity/Eldest/Ragadahn`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`

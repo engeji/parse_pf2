@@ -22,7 +22,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Gozreh`,
 :doc:`/lost_omens/Deity/Other/Hei-Feng`,
-:doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`
+:doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Hshurha`
 
 ----------
 

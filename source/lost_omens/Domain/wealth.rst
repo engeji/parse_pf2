@@ -23,3 +23,4 @@
 * :doc:`/lost_omens/Deity/Other/Besmara`
 * :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
 * :doc:`/lost_omens/Deity/Archdevil/Mammon`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`

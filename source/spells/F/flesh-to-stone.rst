@@ -21,7 +21,8 @@
 **Продолжительность**: различается
 
 **Божества**:
-:doc:`/lost_omens/Deity/Archdevil/Dispater`
+:doc:`/lost_omens/Deity/Archdevil/Dispater`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
 
 ----------
 

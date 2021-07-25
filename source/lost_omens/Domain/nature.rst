@@ -26,3 +26,4 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
 * :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
 * :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`

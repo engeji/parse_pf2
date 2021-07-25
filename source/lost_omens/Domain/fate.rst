@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
 * :doc:`/lost_omens/Deity/Eldest/Magdh`
 * :doc:`/lost_omens/Deity/Eldest/Shyka`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`

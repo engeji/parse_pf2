@@ -17,3 +17,5 @@
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Demon-Lord/Nurgal`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Hshurha`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`

@@ -18,7 +18,8 @@
 **Область**: 50 футов в длину на 50 футов в ширину
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Gozreh`
+:doc:`/lost_omens/Deity/Core/Gozreh`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
 
 ----------
 

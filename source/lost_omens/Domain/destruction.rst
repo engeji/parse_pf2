@@ -16,21 +16,28 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Gorum`
-* :doc:`/lost_omens/Deity/Core/Nethys`
-* :doc:`/lost_omens/Deity/Core/Rovagug`
-* :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
-* :doc:`/lost_omens/Deity/Other/Besmara`
-* :doc:`/lost_omens/Deity/Other/Groetus`
-* :doc:`/lost_omens/Deity/Other/Hei-Feng`
-* :doc:`/lost_omens/Deity/Other/Milani`
-* :doc:`/lost_omens/Deity/Archdevil/Moloch`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
-* :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
-* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
-* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
-* :doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
-* :doc:`/lost_omens/Deity/Demon-Lord/Nurgal`
-* :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
-* :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
-* :doc:`/lost_omens/Deity/Eldest/Ragadahn`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Gorum`
+	* :doc:`/lost_omens/Deity/Core/Nethys`
+	* :doc:`/lost_omens/Deity/Core/Rovagug`
+	* :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
+	* :doc:`/lost_omens/Deity/Other/Besmara`
+	* :doc:`/lost_omens/Deity/Other/Groetus`
+	* :doc:`/lost_omens/Deity/Other/Hei-Feng`
+	* :doc:`/lost_omens/Deity/Other/Milani`
+	* :doc:`/lost_omens/Deity/Archdevil/Moloch`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Nurgal`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
+	* :doc:`/lost_omens/Deity/Eldest/Ragadahn`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Hshurha`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`

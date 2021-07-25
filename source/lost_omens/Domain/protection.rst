@@ -24,3 +24,4 @@
 * :doc:`/lost_omens/Deity/Other/Alseta`
 * :doc:`/lost_omens/Deity/Other/Arazni`
 * :doc:`/lost_omens/Deity/Other/Kazutal`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Atreia`

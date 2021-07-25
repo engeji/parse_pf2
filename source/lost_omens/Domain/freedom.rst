@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Other/Casandalee`
 * :doc:`/lost_omens/Deity/Other/Kazutal`
 * :doc:`/lost_omens/Deity/Other/Milani`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`

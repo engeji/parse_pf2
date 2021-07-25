@@ -16,6 +16,12 @@
 
 **Продолжительность**: поддерживаемое вплоть до 1 минуты
 
+**Божества**:
+:doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Hshurha`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`
+
 ----------
 
 Вы призываете элементаля сражаться за вас.
