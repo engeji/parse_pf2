@@ -28,3 +28,6 @@
 * :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
 * :doc:`/lost_omens/Deity/Eldest/Magdh`
 * :doc:`/lost_omens/Deity/Eldest/Ng`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`

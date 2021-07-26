@@ -16,7 +16,8 @@
 **Продолжительность**: 10 минут
 
 **Божества**:
-:doc:`/lost_omens/Deity/Archdevil/Belial`
+:doc:`/lost_omens/Deity/Archdevil/Belial`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
 
 ----------
 

@@ -20,3 +20,4 @@
 * :ref:`Pantheon--Elven`,
 * :ref:`Pantheon--Cosmic-Caravan`
 * :doc:`/lost_omens/Deity/Other/Tsukiyo`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`

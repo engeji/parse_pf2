@@ -21,7 +21,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Gruhastha`,
-:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
+:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
 
 **Источник**: Lost Omens: Gods & Magic pg. 109
 

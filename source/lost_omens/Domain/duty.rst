@@ -26,3 +26,5 @@
 * :doc:`/lost_omens/Deity/Other/Shizuru`
 * :doc:`/lost_omens/Deity/Archdevil/Dispater`
 * :doc:`/lost_omens/Deity/Archdevil/Moloch`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`

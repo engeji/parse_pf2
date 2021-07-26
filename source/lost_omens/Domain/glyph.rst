@@ -23,3 +23,5 @@
 * :doc:`/lost_omens/Deity/Other/Sivanah`
 * :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
 * :doc:`/lost_omens/Deity/Eldest/Magdh`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`

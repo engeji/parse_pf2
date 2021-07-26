@@ -27,3 +27,4 @@
 * :doc:`/lost_omens/Deity/Eldest/Ng`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`

@@ -25,3 +25,6 @@
 * :doc:`/lost_omens/Deity/Archdevil/Barbatos`
 * :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
 * :doc:`/lost_omens/Deity/Eldest/Ng`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`

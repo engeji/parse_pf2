@@ -25,3 +25,6 @@
 * :doc:`/lost_omens/Deity/Other/Arazni`
 * :doc:`/lost_omens/Deity/Other/Kazutal`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Atreia`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`

@@ -30,3 +30,5 @@
 	* :doc:`/lost_omens/Deity/Archdevil/Mammon`
 	* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
 	* :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`

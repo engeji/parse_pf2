@@ -21,3 +21,4 @@
 * :doc:`/lost_omens/Deity/Core/Zon-Kuthon`,
 * :ref:`Pantheon--Cosmic-Caravan`
 * :doc:`/lost_omens/Deity/Other/Groetus`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`

@@ -21,7 +21,8 @@
 **Продолжительность**: 1 или более раундов (см. далее)
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Shelyn`
+:doc:`/lost_omens/Deity/Core/Shelyn`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
 
 ----------
 

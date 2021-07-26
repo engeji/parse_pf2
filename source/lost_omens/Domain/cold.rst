@@ -19,3 +19,4 @@
 * :doc:`/lost_omens/Deity/Core/Gozreh`
 * :doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Hshurha`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`

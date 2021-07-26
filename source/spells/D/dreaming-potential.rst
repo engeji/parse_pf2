@@ -20,7 +20,8 @@
 **Продолжительность**: 8 часов
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Desna`
+:doc:`/lost_omens/Deity/Core/Desna`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
 
 ----------
 

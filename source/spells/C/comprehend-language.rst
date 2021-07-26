@@ -19,7 +19,8 @@
 **Продолжительность**: 1 час
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Gruhastha`
+:doc:`/lost_omens/Deity/Other/Gruhastha`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
 
 ----------
 

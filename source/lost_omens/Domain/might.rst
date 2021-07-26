@@ -38,3 +38,4 @@
 	* :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
 	* :doc:`/lost_omens/Deity/Eldest/Imbrex`
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`

@@ -17,7 +17,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Nethys`,
-:doc:`/lost_omens/Deity/Eldest/Ng`
+:doc:`/lost_omens/Deity/Eldest/Ng`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`
 
 ----------
 

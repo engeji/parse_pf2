@@ -21,7 +21,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Alseta`,
 :doc:`/lost_omens/Deity/Eldest/Magdh`,
-:doc:`/lost_omens/Deity/Eldest/Shyka`
+:doc:`/lost_omens/Deity/Eldest/Shyka`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
 
 **Источник**: Lost Omens: Gods & Magic pg. 107
 

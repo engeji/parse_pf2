@@ -23,7 +23,8 @@
 **Продолжительность**: 1 раунд
 
 **Божества**:
-:doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
+:doc:`/lost_omens/Deity/Queen-of-Night/Doloras`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
 
 ----------
 

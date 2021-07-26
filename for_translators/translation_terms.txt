@@ -179,6 +179,7 @@ Creature: существо
 	celestial
 		Cassisian: кассисиан
 		Balisse: баллис
+		archon: архонт
 	psychopomp: психопомп
 		sahkil: сахкил (злые экс-психопомпы)
 	clockwork: заводной
@@ -299,7 +300,6 @@ Deity: Божество
 	Walkena: Уокена
 	Kurgess: Курджесс
 	Milani: Милани
-	Witchmarket: Ведьмовской Рынок
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -742,7 +742,6 @@ Titles:
 	Tanglebriar: Тэнлбрайар
 	Mwangi Expanse: Просторы Муанги
 	Nirmathas: Нирмафас
-	archon: архон
 	Broken Lands: Разоренные Земли
 	Saga Lands: Земли Сказаний
 	Jalmeray: Джалмерэй
@@ -893,6 +892,11 @@ Titles:
 	Saline Padishah: Солевого Падишаха
 	Niloufar the Great: Нилуфар Великая
 	Auroric Palace: Дворец Сияния
+	Witchmarket: Ведьмовской Рынок
+	harrow: хэрроу (вариссийские карты по типу Таро)
+	Steward's Stone: Камень Наместника
+	Skyward Cliffs: Возвышающиеся Утесы
+	Iudica: Юдика
 
 trait: признак / особенность
 	оружие:

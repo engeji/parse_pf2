@@ -21,7 +21,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Nocticula`,
-:doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
+:doc:`/lost_omens/Deity/Eldest/Count-Ranalc`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`
 
 **Источник**: Lost Omens: Gods & Magic pg. 109
 

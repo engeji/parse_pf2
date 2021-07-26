@@ -21,7 +21,9 @@
 :doc:`/lost_omens/Deity/Core/Iomedae`,
 :doc:`/lost_omens/Deity/Other/Achaekek`,
 :doc:`/lost_omens/Deity/Other/Shizuru`,
-:doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
+:doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
 
 ----------
 

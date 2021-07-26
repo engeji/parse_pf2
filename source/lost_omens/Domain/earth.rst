@@ -25,3 +25,4 @@
 * :doc:`/lost_omens/Deity/Eldest/Imbrex`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`

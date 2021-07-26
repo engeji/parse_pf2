@@ -34,3 +34,5 @@
 	* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
 	* :doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`

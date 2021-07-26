@@ -23,3 +23,4 @@
 * :doc:`/lost_omens/Deity/Archdevil/Mammon`
 * :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
 * :doc:`/lost_omens/Deity/Demon-Lord/Shax`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`

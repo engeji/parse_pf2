@@ -23,3 +23,5 @@
 * :doc:`/lost_omens/Deity/Other/Nocticula`
 * :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
 * :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`

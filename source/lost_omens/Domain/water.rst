@@ -25,3 +25,4 @@
 * :doc:`/lost_omens/Deity/Eldest/Ragadahn`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`

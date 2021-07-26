@@ -24,7 +24,9 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Tsukiyo`,
 :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`,
-:doc:`/lost_omens/Deity/Elemental-Lord/Atreia`
+:doc:`/lost_omens/Deity/Elemental-Lord/Atreia`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
 
 ----------
 

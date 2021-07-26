@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
 * :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
 * :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`

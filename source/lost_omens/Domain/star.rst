@@ -16,5 +16,7 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Desna`,
+* :doc:`/lost_omens/Deity/Core/Desna`
 * :ref:`Pantheon--Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`

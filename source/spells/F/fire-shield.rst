@@ -19,7 +19,8 @@
 :doc:`/lost_omens/Deity/Core/Iomedae`,
 :ref:`Pantheon--The-Godclaw`,
 :doc:`/lost_omens/Deity/Other/Milani`,
-:doc:`/lost_omens/Deity/Elemental-Lord/Atreia`
+:doc:`/lost_omens/Deity/Elemental-Lord/Atreia`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
 
 ----------
 

@@ -19,3 +19,4 @@
 * :doc:`/lost_omens/Deity/Core/Desna`
 * :doc:`/lost_omens/Deity/Other/Chaldira`
 * :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`

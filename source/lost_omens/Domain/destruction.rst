@@ -41,3 +41,4 @@
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Hshurha`
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
