@@ -22,3 +22,5 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
 * :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
 * :doc:`/lost_omens/Deity/Eldest/Shyka`
+* :doc:`/lost_omens/Deity/Horseman/Apollyon`
+* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`

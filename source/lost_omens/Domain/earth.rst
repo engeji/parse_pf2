@@ -26,3 +26,4 @@
 * :doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
+* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`

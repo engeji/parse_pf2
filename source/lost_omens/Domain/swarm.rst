@@ -21,3 +21,4 @@
 * :doc:`/lost_omens/Deity/Other/Ghlaunder`
 * :doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`
+* :doc:`/lost_omens/Deity/Horseman/Apollyon`

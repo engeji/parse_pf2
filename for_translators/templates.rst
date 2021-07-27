@@ -986,4 +986,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`
+:doc:`/lost_omens/Deity/Horseman/Trelmarixian`

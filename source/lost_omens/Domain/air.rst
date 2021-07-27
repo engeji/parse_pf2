@@ -25,3 +25,4 @@
 * :doc:`/lost_omens/Deity/Elemental-Lord/Hshurha`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
+* :doc:`/lost_omens/Deity/Horseman/Apollyon`

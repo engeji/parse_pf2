@@ -32,3 +32,4 @@
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`
+* :doc:`/lost_omens/Deity/Horseman/Charon`

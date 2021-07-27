@@ -26,3 +26,4 @@
 * :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
+* :doc:`/lost_omens/Deity/Horseman/Charon`

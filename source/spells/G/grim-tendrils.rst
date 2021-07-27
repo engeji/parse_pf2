@@ -18,7 +18,8 @@
 **Спасбросок**: Стойкость
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
+:doc:`/lost_omens/Deity/Demon-Lord/Treerazer`,
+:doc:`/lost_omens/Deity/Horseman/Charon`
 
 ----------
 

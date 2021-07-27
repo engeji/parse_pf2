@@ -899,6 +899,7 @@ Titles:
 	Iudica: Юдика
 	Briarbough: Брайрбау
 	Dragonmane Mountains: Горы Драконьей Гривы
+	Weeping Tower: Плачущая Башня
 
 trait: признак / особенность
 	оружие:

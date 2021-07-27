@@ -23,3 +23,4 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Zura`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
+* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`
