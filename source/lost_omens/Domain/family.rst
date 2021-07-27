@@ -27,3 +27,4 @@
 * :doc:`/lost_omens/Deity/Eldest/Imbrex`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`

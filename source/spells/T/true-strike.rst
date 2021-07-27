@@ -23,13 +23,15 @@
 :doc:`/lost_omens/Deity/Other/Shizuru`,
 :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
 
 ----------
 
 Взгляд в будущее гарантирует, что ваш следующий удар будет точным.
 Следующий раз, когда вы совершаете бросок атаки до конца вашего хода, бросьте кости на атаку дважды и используйте лучший результат.
-Эта атака игнорирует штрафы обстоятельства на бросок атаки и любые требуемые чистые проверки, если цель "скрыта" или "спрятана".
+Эта атака игнорирует штрафы обстоятельства на бросок атаки и любые требуемые чистые проверки, если цель :c_concealed:`скрыта` или :c_hidden:`спрятана`.
 
 
 

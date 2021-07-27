@@ -36,3 +36,5 @@
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`

@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Other/Gruhastha`
 * :doc:`/lost_omens/Deity/Other/Shizuru`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`

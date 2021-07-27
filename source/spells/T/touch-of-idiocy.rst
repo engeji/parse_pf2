@@ -22,7 +22,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Cayden-Cailean`
+:doc:`/lost_omens/Deity/Core/Cayden-Cailean`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`
 
 ----------
 

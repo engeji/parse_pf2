@@ -28,3 +28,6 @@
 * :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`

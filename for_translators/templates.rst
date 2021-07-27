@@ -986,4 +986,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`

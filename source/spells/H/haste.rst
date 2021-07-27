@@ -23,7 +23,8 @@
 :doc:`/lost_omens/Deity/Other/Kurgess`,
 :doc:`/lost_omens/Deity/Demon-Lord/Shax`,
 :doc:`/lost_omens/Deity/Eldest/Shyka`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
 
 ----------
 

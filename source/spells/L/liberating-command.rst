@@ -18,7 +18,8 @@
 **Цели**: 1 существо
 
 **Божества**:
-:doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`
+:doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Shei`
 
 **Источник**: Lost Omens: Gods & Magic pg. 108
 

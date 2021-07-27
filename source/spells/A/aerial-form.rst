@@ -16,7 +16,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
 
 ----------
 

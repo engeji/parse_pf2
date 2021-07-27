@@ -22,3 +22,5 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
 * :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
 * :doc:`/lost_omens/Deity/Eldest/Ragadahn`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`

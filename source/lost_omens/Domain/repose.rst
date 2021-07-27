@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
 * :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`

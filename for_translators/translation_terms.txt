@@ -897,6 +897,8 @@ Titles:
 	Steward's Stone: Камень Наместника
 	Skyward Cliffs: Возвышающиеся Утесы
 	Iudica: Юдика
+	Briarbough: Брайрбау
+	Dragonmane Mountains: Горы Драконьей Гривы
 
 trait: признак / особенность
 	оружие:

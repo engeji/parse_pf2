@@ -25,3 +25,4 @@
 * :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`

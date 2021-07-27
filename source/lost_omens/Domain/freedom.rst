@@ -26,3 +26,4 @@
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`

@@ -16,7 +16,8 @@
 **Продолжительность**: до ваших следующих ежедневных приготовлений
 
 **Божества**:
-:doc:`/lost_omens/Deity/Eldest/Magdh`
+:doc:`/lost_omens/Deity/Eldest/Magdh`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
 
 **Источник**: Advanced Player's Guide pg. 226
 

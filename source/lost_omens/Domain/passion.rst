@@ -23,3 +23,5 @@
 * :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
 * :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`

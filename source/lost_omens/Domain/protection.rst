@@ -28,3 +28,6 @@
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`

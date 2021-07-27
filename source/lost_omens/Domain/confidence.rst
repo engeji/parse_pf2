@@ -26,3 +26,4 @@
 * :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`

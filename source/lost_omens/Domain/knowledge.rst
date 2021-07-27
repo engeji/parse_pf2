@@ -31,3 +31,4 @@
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`

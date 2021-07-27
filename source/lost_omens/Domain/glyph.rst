@@ -25,3 +25,4 @@
 * :doc:`/lost_omens/Deity/Eldest/Magdh`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`

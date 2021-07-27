@@ -32,3 +32,4 @@
 	* :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
