@@ -19,7 +19,8 @@
 **Цели**: вы и вплоть до 4 целей которых коснулись, либо готовые существа или объекты примерного размера существа
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`
 
 ----------
 

@@ -23,7 +23,8 @@
 **Продолжительность**: различается
 
 **Божества**:
-:doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
+:doc:`/lost_omens/Deity/Eldest/The-Lantern-King`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`
 
 ----------
 

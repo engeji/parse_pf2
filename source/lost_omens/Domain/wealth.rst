@@ -16,12 +16,15 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Abadar`
-* :doc:`/lost_omens/Deity/Core/Erastil`
-* :doc:`/lost_omens/Deity/Core/Norgorber`
-* :ref:`Pantheon--Dwarven`
-* :doc:`/lost_omens/Deity/Other/Besmara`
-* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
-* :doc:`/lost_omens/Deity/Archdevil/Mammon`
-* :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`
+.. hlist::
+    :columns: 2
+
+    * :doc:`/lost_omens/Deity/Core/Abadar`
+    * :doc:`/lost_omens/Deity/Core/Erastil`
+    * :doc:`/lost_omens/Deity/Core/Norgorber`
+    * :ref:`Pantheon--Dwarven`
+    * :doc:`/lost_omens/Deity/Other/Besmara`
+    * :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+    * :doc:`/lost_omens/Deity/Archdevil/Mammon`
+    * :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
+    * :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`

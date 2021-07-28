@@ -900,6 +900,10 @@ Titles:
 	Briarbough: Брайрбау
 	Dragonmane Mountains: Горы Драконьей Гривы
 	Weeping Tower: Плачущая Башня
+	Dead Roads: Мертвые Пути
+	Rasputitase: Распьютитэйс
+	Fivefold Calculus: Пятикратное Исчисление
+	Spire's Edge: Край Шпиля
 
 trait: признак / особенность
 	оружие:

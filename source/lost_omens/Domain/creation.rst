@@ -32,3 +32,5 @@
 	* :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Monad`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`

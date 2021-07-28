@@ -21,7 +21,8 @@
 **Продолжительность**: 1 день
 
 **Божества**:
-:doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
+:doc:`/lost_omens/Deity/Archdevil/Mephistopheles`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
 
 **Источник**: Lost Omens: Gods & Magic pg. 108
 

@@ -33,3 +33,6 @@
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`

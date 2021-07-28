@@ -986,4 +986,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Horseman/Trelmarixian`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`

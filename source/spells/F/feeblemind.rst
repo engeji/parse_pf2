@@ -25,7 +25,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Arazni`,
-:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
+:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`
 
 ----------
 

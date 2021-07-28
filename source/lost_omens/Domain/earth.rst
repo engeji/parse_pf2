@@ -16,14 +16,17 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Abadar`
-* :doc:`/lost_omens/Deity/Core/Erastil`
-* :doc:`/lost_omens/Deity/Core/Rovagug`
-* :doc:`/lost_omens/Deity/Core/Torag`
-* :doc:`/lost_omens/Deity/Other/Brigh`
-* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
-* :doc:`/lost_omens/Deity/Eldest/Imbrex`
-* :doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
-* :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
-* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Abadar`
+	* :doc:`/lost_omens/Deity/Core/Erastil`
+	* :doc:`/lost_omens/Deity/Core/Rovagug`
+	* :doc:`/lost_omens/Deity/Core/Torag`
+	* :doc:`/lost_omens/Deity/Other/Brigh`
+	* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+	* :doc:`/lost_omens/Deity/Eldest/Imbrex`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
+	* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`

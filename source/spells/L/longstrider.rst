@@ -15,7 +15,8 @@
 **Продолжительность**: 1 час
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`
 
 ----------
 

@@ -16,12 +16,15 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Calistria`
-* :doc:`/lost_omens/Deity/Core/Shelyn`
-* :doc:`/lost_omens/Deity/Archdevil/Belial`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
-* :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
-* :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Calistria`
+	* :doc:`/lost_omens/Deity/Core/Shelyn`
+	* :doc:`/lost_omens/Deity/Archdevil/Belial`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
+	* :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
+	* :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`

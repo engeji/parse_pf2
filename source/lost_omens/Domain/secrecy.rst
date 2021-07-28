@@ -16,10 +16,13 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Calistria`
-* :doc:`/lost_omens/Deity/Other/Sivanah`
-* :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
-* :doc:`/lost_omens/Deity/Demon-Lord/Baphomet`
-* :doc:`/lost_omens/Deity/Eldest/Ng`
-* :doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Calistria`
+	* :doc:`/lost_omens/Deity/Other/Sivanah`
+	* :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Baphomet`
+	* :doc:`/lost_omens/Deity/Eldest/Ng`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`

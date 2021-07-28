@@ -20,7 +20,8 @@
 **Спасбросок**: Стойкость
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Rovagug`
+:doc:`/lost_omens/Deity/Core/Rovagug`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
 
 ----------
 

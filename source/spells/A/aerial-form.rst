@@ -17,7 +17,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`
 
 ----------
 

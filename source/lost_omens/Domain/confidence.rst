@@ -16,14 +16,17 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Asmodeus`
-* :doc:`/lost_omens/Deity/Core/Gorum`
-* :doc:`/lost_omens/Deity/Core/Iomedae`
-* :doc:`/lost_omens/Deity/Other/Arazni`
-* :doc:`/lost_omens/Deity/Other/Chaldira`
-* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
-* :doc:`/lost_omens/Deity/Archdevil/Dispater`
-* :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Asmodeus`
+	* :doc:`/lost_omens/Deity/Core/Gorum`
+	* :doc:`/lost_omens/Deity/Core/Iomedae`
+	* :doc:`/lost_omens/Deity/Other/Arazni`
+	* :doc:`/lost_omens/Deity/Other/Chaldira`
+	* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+	* :doc:`/lost_omens/Deity/Archdevil/Dispater`
+	* :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`

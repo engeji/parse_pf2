@@ -21,7 +21,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Demon-Lord/Zura`,
-:doc:`/lost_omens/Deity/Elemental-Lord/Hshurha`
+:doc:`/lost_omens/Deity/Elemental-Lord/Hshurha`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Monad`
 
 ----------
 

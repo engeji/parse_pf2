@@ -20,7 +20,8 @@
 **Цели**: спровоцировавшее заклинание
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Sivanah`
+:doc:`/lost_omens/Deity/Other/Sivanah`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
 
 ----------
 

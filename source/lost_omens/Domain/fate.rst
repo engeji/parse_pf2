@@ -16,11 +16,16 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Pharasma`
-* :ref:`Pantheon--Cosmic-Caravan`
-* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
-* :doc:`/lost_omens/Deity/Eldest/Magdh`
-* :doc:`/lost_omens/Deity/Eldest/Shyka`
-* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Pharasma`
+	* :ref:`Pantheon--Cosmic-Caravan`
+	* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
+	* :doc:`/lost_omens/Deity/Eldest/Magdh`
+	* :doc:`/lost_omens/Deity/Eldest/Shyka`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`

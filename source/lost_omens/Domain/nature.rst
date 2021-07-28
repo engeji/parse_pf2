@@ -16,18 +16,22 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Erastil`
-* :doc:`/lost_omens/Deity/Core/Gozreh`
-* :ref:`Pantheon--Elven`
-* :doc:`/lost_omens/Deity/Other/Gruhastha`
-* :doc:`/lost_omens/Deity/Archdevil/Barbatos`
-* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
-* :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
-* :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
-* :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
-* :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
-* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Erastil`
+	* :doc:`/lost_omens/Deity/Core/Gozreh`
+	* :ref:`Pantheon--Elven`
+	* :doc:`/lost_omens/Deity/Other/Gruhastha`
+	* :doc:`/lost_omens/Deity/Archdevil/Barbatos`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
+	* :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`

@@ -16,15 +16,19 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Nethys`
-* :doc:`/lost_omens/Deity/Core/Urgathoa`
-* :ref:`Pantheon--Elven`
-* :doc:`/lost_omens/Deity/Other/Alseta`
-* :doc:`/lost_omens/Deity/Other/Sivanah`
-* :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
-* :doc:`/lost_omens/Deity/Archdevil/Barbatos`
-* :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
-* :doc:`/lost_omens/Deity/Eldest/Ng`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Nethys`
+	* :doc:`/lost_omens/Deity/Core/Urgathoa`
+	* :ref:`Pantheon--Elven`
+	* :doc:`/lost_omens/Deity/Other/Alseta`
+	* :doc:`/lost_omens/Deity/Other/Sivanah`
+	* :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
+	* :doc:`/lost_omens/Deity/Archdevil/Barbatos`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
+	* :doc:`/lost_omens/Deity/Eldest/Ng`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`

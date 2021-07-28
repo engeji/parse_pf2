@@ -22,3 +22,5 @@
 * :ref:`Pantheon--Cosmic-Caravan`
 * :doc:`/lost_omens/Deity/Other/Groetus`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`
+* :doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
+* :doc:`/lost_omens/Deity/Monitor-Demigod/Monad`

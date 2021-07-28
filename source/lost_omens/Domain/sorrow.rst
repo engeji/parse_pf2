@@ -16,12 +16,15 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Other/Arazni`
-* :doc:`/lost_omens/Deity/Other/Shizuru`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
-* :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
-* :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
-* :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Other/Arazni`
+	* :doc:`/lost_omens/Deity/Other/Shizuru`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
+	* :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
+	* :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`

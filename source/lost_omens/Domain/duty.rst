@@ -16,17 +16,20 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Abadar`
-* :doc:`/lost_omens/Deity/Core/Asmodeus`
-* :doc:`/lost_omens/Deity/Core/Erastil`
-* :doc:`/lost_omens/Deity/Core/Iomedae`
-* :doc:`/lost_omens/Deity/Core/Torag`
-* :ref:`Pantheon--Dwarven`
-* :ref:`Pantheon--The-Godclaw`
-* :doc:`/lost_omens/Deity/Other/Shizuru`
-* :doc:`/lost_omens/Deity/Archdevil/Dispater`
-* :doc:`/lost_omens/Deity/Archdevil/Moloch`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Abadar`
+	* :doc:`/lost_omens/Deity/Core/Asmodeus`
+	* :doc:`/lost_omens/Deity/Core/Erastil`
+	* :doc:`/lost_omens/Deity/Core/Iomedae`
+	* :doc:`/lost_omens/Deity/Core/Torag`
+	* :ref:`Pantheon--Dwarven`
+	* :ref:`Pantheon--The-Godclaw`
+	* :doc:`/lost_omens/Deity/Other/Shizuru`
+	* :doc:`/lost_omens/Deity/Archdevil/Dispater`
+	* :doc:`/lost_omens/Deity/Archdevil/Moloch`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`

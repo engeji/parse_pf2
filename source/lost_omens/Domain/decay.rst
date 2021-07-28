@@ -16,11 +16,16 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Urgathoa`
-* :doc:`/lost_omens/Deity/Other/Ghlaunder`
-* :doc:`/lost_omens/Deity/Other/Groetus`
-* :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
-* :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
-* :doc:`/lost_omens/Deity/Eldest/Shyka`
-* :doc:`/lost_omens/Deity/Horseman/Apollyon`
-* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Urgathoa`
+	* :doc:`/lost_omens/Deity/Other/Ghlaunder`
+	* :doc:`/lost_omens/Deity/Other/Groetus`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
+	* :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
+	* :doc:`/lost_omens/Deity/Eldest/Shyka`
+	* :doc:`/lost_omens/Deity/Horseman/Apollyon`
+	* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`

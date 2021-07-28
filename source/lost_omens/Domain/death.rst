@@ -16,9 +16,15 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Norgorber`
-* :doc:`/lost_omens/Deity/Core/Pharasma`
-* :doc:`/lost_omens/Deity/Other/Achaekek`
-* :doc:`/lost_omens/Deity/Demon-Lord/Shax`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
-* :doc:`/lost_omens/Deity/Horseman/Charon`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Norgorber`
+	* :doc:`/lost_omens/Deity/Core/Pharasma`
+	* :doc:`/lost_omens/Deity/Other/Achaekek`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Shax`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
+	* :doc:`/lost_omens/Deity/Horseman/Charon`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`

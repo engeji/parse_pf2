@@ -17,7 +17,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
+:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Monad`
 
 ----------
 

@@ -16,14 +16,17 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Gozreh`
-* :doc:`/lost_omens/Deity/Other/Besmara`
-* :doc:`/lost_omens/Deity/Other/Hei-Feng`
-* :doc:`/lost_omens/Deity/Archdevil/Geryon`
-* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
-* :doc:`/lost_omens/Deity/Demon-Lord/Gogunta`
-* :doc:`/lost_omens/Deity/Eldest/Ragadahn`
-* :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
-* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
-* :doc:`/lost_omens/Deity/Horseman/Charon`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Gozreh`
+	* :doc:`/lost_omens/Deity/Other/Besmara`
+	* :doc:`/lost_omens/Deity/Other/Hei-Feng`
+	* :doc:`/lost_omens/Deity/Archdevil/Geryon`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Gogunta`
+	* :doc:`/lost_omens/Deity/Eldest/Ragadahn`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
+	* :doc:`/lost_omens/Deity/Horseman/Charon`

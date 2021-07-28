@@ -16,11 +16,14 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Lamashtu`
-* :doc:`/lost_omens/Deity/Other/Groetus`
-* :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
-* :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
-* :doc:`/lost_omens/Deity/Demon-Lord/Zura`
-* :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
-* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Lamashtu`
+	* :doc:`/lost_omens/Deity/Other/Groetus`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Zura`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
+	* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`

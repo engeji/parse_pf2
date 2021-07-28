@@ -23,7 +23,8 @@
 **Спасбросок**: Воля
 
 **Божества**:
-:doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
+:doc:`/lost_omens/Deity/Archdevil/Mephistopheles`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
 
 **Источник**: Advanced Player's Guide pg. 216
 
