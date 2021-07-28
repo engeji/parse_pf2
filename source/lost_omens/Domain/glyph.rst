@@ -31,3 +31,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`

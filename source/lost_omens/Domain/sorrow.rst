@@ -28,3 +28,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`

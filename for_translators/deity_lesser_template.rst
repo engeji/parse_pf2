@@ -27,8 +27,8 @@
 **Царство**: 
 
 **Источник**:
-Lost Omens: Gods & Magic pg. 1111111111111111111111,
-Chronicle of the Righteous pg. 2222222222222222222222
+Lost Omens: Gods & Magic pg. 130-131,
+Concordance of Rivals pg. 2222222222222222222222
 
 
 Преимущества последователя (Devotee Benefits)

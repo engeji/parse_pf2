@@ -28,3 +28,5 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`

@@ -986,4 +986,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`

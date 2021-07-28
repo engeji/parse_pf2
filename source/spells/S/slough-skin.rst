@@ -15,7 +15,8 @@
 **Продолжительность**: 1 час
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`
 
 **Источник**: Lost Omens: Gods & Magic pg. 110
 

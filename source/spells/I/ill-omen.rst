@@ -23,7 +23,8 @@
 **Продолжительность**: 1 раунд
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
+:doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
 
 **Источник**: Advanced Player's Guide pg. 221, Lost Omens: Gods & Magic pg. 108
 

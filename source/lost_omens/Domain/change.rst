@@ -36,3 +36,4 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`

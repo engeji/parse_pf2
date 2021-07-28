@@ -29,3 +29,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`

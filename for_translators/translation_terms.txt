@@ -904,6 +904,7 @@ Titles:
 	Rasputitase: Распьютитэйс
 	Fivefold Calculus: Пятикратное Исчисление
 	Spire's Edge: Край Шпиля
+	Menagerel: Мэнажерел
 
 trait: признак / особенность
 	оружие:

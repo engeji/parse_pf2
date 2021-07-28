@@ -44,3 +44,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
 	* :doc:`/lost_omens/Deity/Horseman/Szuriel`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`

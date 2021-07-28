@@ -20,7 +20,8 @@
 **Продолжительность**: 1 раунд
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Arazni`
+:doc:`/lost_omens/Deity/Other/Arazni`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`
 
 **Источник**: Lost Omens: Gods & Magic pg. 107
 

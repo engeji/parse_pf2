@@ -23,7 +23,8 @@
 **Продолжительность**: неограниченно
 
 **Божества**:
-:doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
+:doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`
 
 ----------
 
