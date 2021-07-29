@@ -913,6 +913,7 @@ Titles:
 	Voidbracken: Войдбрэкен
 	Armies of Exploration: Армии Исследования
 	Neruzavin: Нэрузавин
+	Amaranthine Forest: Неувядающий Лес
 
 trait: признак / особенность
 	оружие:

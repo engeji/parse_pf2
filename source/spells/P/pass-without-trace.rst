@@ -16,7 +16,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Eldest/Ng`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`,
+:doc:`/lost_omens/Deity/Elven-God/Ketephys`
 
 ----------
 

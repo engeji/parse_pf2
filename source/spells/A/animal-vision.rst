@@ -20,7 +20,8 @@
 **Продолжительность**: 1 час
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`,
+:doc:`/lost_omens/Deity/Elven-God/Ketephys`
 
 ----------
 

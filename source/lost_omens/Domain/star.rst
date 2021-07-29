@@ -20,3 +20,4 @@
 * :ref:`Pantheon--Cosmic-Caravan`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
+* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`

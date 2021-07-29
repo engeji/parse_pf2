@@ -21,3 +21,4 @@
 * :ref:`Pantheon--Cosmic-Caravan`
 * :doc:`/lost_omens/Deity/Other/Tsukiyo`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`
+* :doc:`/lost_omens/Deity/Elven-God/Ketephys`

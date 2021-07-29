@@ -30,3 +30,4 @@
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
 	* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`
+	* :doc:`/lost_omens/Deity/Elven-God/Yuelral`

@@ -31,3 +31,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
 	* :ref:`Ньярлатотеп (Обитающий во Мраке) (Nyarlathotep) <Deity--Nyarlathotep--Haunter-in-the-Dark>`
+	* :doc:`/lost_omens/Deity/Elven-God/Ketephys`

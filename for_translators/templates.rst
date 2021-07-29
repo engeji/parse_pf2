@@ -991,4 +991,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`
+:doc:`/lost_omens/Deity/Dwarven-God/NAME`

@@ -34,3 +34,5 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Monad`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
+	* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
+	* :doc:`/lost_omens/Deity/Elven-God/Yuelral`

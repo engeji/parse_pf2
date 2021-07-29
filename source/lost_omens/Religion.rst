@@ -675,12 +675,23 @@
 
 **Мировоззрение последователей**: ПД, ПН, НД, Н (LG, LN, NG, N)
 
+**Божества пантеона**:
+
+:doc:`/lost_omens/Deity/Core/NAME`,
+:doc:`/lost_omens/Deity/Core/NAME`,
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :hidden:
+   
+   /lost_omens/Deity/Dwarven-God/*
+
+
 Преимущества последователя (Devotee Benefits)
 """"""""""""""""""""""""""""""""""""""""""""""""""""
 
 **Божественная характеристика**: Телосложение или Мудрость
-
-**Божественная сила**: *исцеляющая*
 
 **Божественный навык**: Дипломатия
 
@@ -695,6 +706,8 @@
 **Альтернативные домены**:
 :doc:`/lost_omens/Domain/duty`,
 :doc:`/lost_omens/Domain/glyph`
+
+**Божественная сила**: *исцеляющая*
 
 **Заклинания жреца**: 
 
@@ -712,7 +725,7 @@
 
 **Источник**: Lost Omens: Gods & Magic pg. 93
 
-Традиционными божествами эльфийского пантеона являются :doc:`Deity/Core/Calistria`, :doc:`Deity/Core/Desna`, Финделадлара (`Findeladlara <https://2e.aonprd.com/Deities.aspx?ID=109>`_) (богиня сумерек, традиционного искусства и архитектуры), Кетефис (`Ketephys <https://2e.aonprd.com/Deities.aspx?ID=110>`_) (бог охоты и луны) и Юльрал (`Yuelral <https://2e.aonprd.com/Deities.aspx?ID=111>`_) (богиня драгоценных камней, ремесла и магии).
+Традиционными божествами эльфийского пантеона являются :doc:`Deity/Core/Calistria`, :doc:`Deity/Core/Desna`, :doc:`/lost_omens/Deity/Elven-God/Findeladlara` (богиня сумерек, традиционного искусства и архитектуры), :doc:`/lost_omens/Deity/Elven-God/Ketephys` (бог охоты и луны) и :doc:`/lost_omens/Deity/Elven-God/Yuelral` (богиня драгоценных камней, ремесла и магии).
 Эльфы также приняли :doc:`Альсету </lost_omens/Deity/Other/Alseta>`, малую богиню дверей и переходов, в качестве своей покровительницы телепортации и *айдаров* (широко известных как эльфийские врата).
 Большинство эльфов ценят магию, красоту, свободу и дружбу как часть полноценной жизни и склонны поклоняться всем божествам вместе как образцам этих ценностей.
 Наряду с чистокровными эльфами, эльфийскому пантеону поклоняются многие полуэльфы, воспитанные эльфами или ищущие более тесной связи со своим эльфийским наследием.
@@ -725,12 +738,26 @@
 
 **Мировоззрение последователей**: НД, ХД, ХН (NG, CG, CN)
 
+**Божества пантеона**:
+:doc:`/lost_omens/Deity/Other/Alseta`,
+:doc:`Deity/Core/Calistria`,
+:doc:`Deity/Core/Desna`,
+:doc:`/lost_omens/Deity/Elven-God/Findeladlara`,
+:doc:`/lost_omens/Deity/Elven-God/Ketephys`,
+:doc:`/lost_omens/Deity/Elven-God/Yuelral`
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :hidden:
+   
+   /lost_omens/Deity/Elven-God/*
+
+
 Преимущества последователя (Devotee Benefits)
 """"""""""""""""""""""""""""""""""""""""""""""""""""
 
 **Божественная характеристика**: Ловкость или Интеллект
-
-**Божественная сила**: *исцеляющая*
 
 **Божественный навык**: Выживание
 
@@ -741,6 +768,8 @@
 :doc:`/lost_omens/Domain/magic`,
 :doc:`/lost_omens/Domain/moon`,
 :doc:`/lost_omens/Domain/nature`
+
+**Божественная сила**: *исцеляющая*
 
 **Заклинания жреца**: 
 
@@ -770,12 +799,18 @@
 
 **Мировоззрение последователей**: ПД, ПН, ПЗ (LG, LN, LE)
 
+**Божества пантеона**:
+:doc:`/lost_omens/Deity/Core/Abadar`,
+:doc:`/lost_omens/Deity/Core/Asmodeus`,
+:doc:`/lost_omens/Deity/Core/Iomedae`,
+:doc:`/lost_omens/Deity/Core/Irori`,
+:doc:`/lost_omens/Deity/Core/Torag`
+
+
 Преимущества последователя (Devotee Benefits)
 """"""""""""""""""""""""""""""""""""""""""""""""""""
 
 **Божественная характеристика**: Сила или Интеллект
-
-**Божественная сила**: *исцеляющая* или *ранящая*
 
 **Божественный навык**: Общество
 
@@ -788,6 +823,8 @@
 :doc:`/lost_omens/Domain/zeal`
 
 **Альтернативные домены**: :doc:`/lost_omens/Domain/duty`
+
+**Божественная сила**: *исцеляющая* или *ранящая*
 
 **Заклинания жреца**: 
 
@@ -807,7 +844,7 @@
 
 Космический караван известен астрономам и астрологам, как совокупность созвездий на небе, которые, как говорят, вечно путешествуют по кругу вокруг Путеводной Звезды.
 Собрание разнообразных богов и полубогов, тематически связанных со звездами и пространствами между ними, является относительно новой верой, которая впервые получила известность в западном Авистане, особенно в Варисии, Нидале и Равунеле. 
-К божествам, которым поклоняются верующие "Космического каравана" относятся: :doc:`Deity/Core/Desna`, :doc:`Deity/Other/Groetus`, :doc:`Deity/Core/Sarenrae`; небесные владыки :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`, :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly` и :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`; эльфийский бог Кетефис (`Ketephys <https://2e.aonprd.com/Deities.aspx?ID=110>`_); и внешний бог Йог-Согот (`Yog-Sothoth <https://2e.aonprd.com/Deities.aspx?ID=166>`_).
+К божествам, которым поклоняются верующие "Космического каравана" относятся: :doc:`Deity/Core/Desna`, :doc:`Deity/Other/Groetus`, :doc:`Deity/Core/Sarenrae`; небесные владыки :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`, :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly` и :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`; эльфийский бог :doc:`/lost_omens/Deity/Elven-God/Ketephys`; и внешний бог :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`.
 Эта вера набирает силу, особенно в Нидале, где поклонение ночи в подавляющем большинстве ассоциируется с :doc:`Зон-Кутоном <Deity/Core/Zon-Kuthon>`, и все большее число последователей "Космического каравана" стремится противостоять или, в один прекрасный день, даже свергнуть теократию Полуночного Владыки, чтобы избавить ночь от репутации того, что все, кто живет во тьме, является злом.
 
 **Эдикты**: Проводить время, наблюдая за звездами или медитируя в лунном свете; помогать тем, кто живет в регионах где царит :doc:`Deity/Core/Zon-Kuthon` (или другие религии, которые поддерживают ночь, как оплот зла); помогать отчаявшимся или несчастным увидеть потенциал для лучшей жизни в будущем; путешествовать без определенной цели.
@@ -818,12 +855,21 @@
 
 **Мировоззрение последователей**: ХД, ХН, НД (CG, CN, NG)
 
+**Божества пантеона**:
+:doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`,
+:doc:`/lost_omens/Deity/Core/Desna`,
+:doc:`/lost_omens/Deity/Other/Groetus`,
+:doc:`/lost_omens/Deity/Elven-God/Ketephys`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`,
+:doc:`/lost_omens/Deity/Core/Sarenrae`,
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`
+
+
 Преимущества последователя (Devotee Benefits)
 """"""""""""""""""""""""""""""""""""""""""""""""""""
 
 **Божественная характеристика**: Ловкость или Харизма
-
-**Божественная сила**: *исцеляющая* или *ранящая*
 
 **Божественный навык**: Оккультизм
 
@@ -838,6 +884,8 @@
 **Альтернативные домены**:
 :doc:`/lost_omens/Domain/star`,
 :doc:`/lost_omens/Domain/void`
+
+**Божественная сила**: *исцеляющая* или *ранящая*
 
 **Заклинания жреца**: 
 

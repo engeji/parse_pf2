@@ -31,3 +31,4 @@
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`
+	* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`

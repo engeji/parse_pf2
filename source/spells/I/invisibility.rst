@@ -23,7 +23,8 @@
 :doc:`/lost_omens/Deity/Other/Achaekek`,
 :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`,
 :doc:`/lost_omens/Deity/Demon-Lord/Shax`,
-:doc:`/lost_omens/Deity/Eldest/Ng`
+:doc:`/lost_omens/Deity/Eldest/Ng`,
+:doc:`/lost_omens/Deity/Elven-God/Ketephys`
 
 ----------
 

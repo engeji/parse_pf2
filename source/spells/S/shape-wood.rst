@@ -18,7 +18,8 @@
 **Цели**: необработанный кусок дерева объемом вплоть до 20 кубических футов
 
 **Божества**:
-:ref:`Pantheon--Elven`
+:ref:`Pantheon--Elven`,
+:doc:`/lost_omens/Deity/Elven-God/Yuelral`
 
 ----------
 

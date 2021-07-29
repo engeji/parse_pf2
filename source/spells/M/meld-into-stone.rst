@@ -16,7 +16,8 @@
 **Продолжительность**: 10 минут
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`,
+:doc:`/lost_omens/Deity/Elven-God/Yuelral`
 
 ----------
 

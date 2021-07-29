@@ -15,7 +15,8 @@
 **Продолжительность**: пока не использован или 1 минуту; см. описание
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Brigh`
+:doc:`/lost_omens/Deity/Other/Brigh`,
+:doc:`/lost_omens/Deity/Elven-God/Findeladlara`
 
 **Источник**: Lost Omens: Gods & Magic pg. 110
 
