@@ -33,3 +33,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`

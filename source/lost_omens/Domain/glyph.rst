@@ -32,3 +32,4 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`

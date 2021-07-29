@@ -29,3 +29,6 @@
 	* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Azathoth`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`

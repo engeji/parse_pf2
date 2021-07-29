@@ -22,7 +22,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Cayden-Cailean`,
-:doc:`/lost_omens/Deity/Other/Tsukiyo`
+:doc:`/lost_omens/Deity/Other/Tsukiyo`,
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`
 
 ----------
 

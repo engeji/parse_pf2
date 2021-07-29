@@ -28,3 +28,4 @@
     * :doc:`/lost_omens/Deity/Archdevil/Mammon`
     * :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
     * :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`
+    * :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`

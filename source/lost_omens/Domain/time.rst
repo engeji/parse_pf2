@@ -20,3 +20,4 @@
 * :doc:`/lost_omens/Deity/Other/Alseta`
 * :doc:`/lost_omens/Deity/Other/Brigh`
 * :doc:`/lost_omens/Deity/Eldest/Shyka`
+* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`

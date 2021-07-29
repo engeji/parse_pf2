@@ -37,3 +37,4 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`

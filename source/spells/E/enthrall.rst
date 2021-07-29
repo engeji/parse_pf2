@@ -28,7 +28,8 @@
 :doc:`/lost_omens/Deity/Other/Milani`,
 :doc:`/lost_omens/Deity/Archdevil/Belial`,
 :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`,
+:ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`
 
 ----------
 

@@ -24,7 +24,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`,
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Azathoth`
 
 ----------
 

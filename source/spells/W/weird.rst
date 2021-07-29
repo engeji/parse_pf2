@@ -23,7 +23,8 @@
 **Спасбросок**: Воля
 
 **Божества**:
-:doc:`/lost_omens/Deity/Horseman/Charon`
+:doc:`/lost_omens/Deity/Horseman/Charon`,
+:ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`
 
 ----------
 

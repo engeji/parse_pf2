@@ -32,3 +32,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`
+	* :ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`

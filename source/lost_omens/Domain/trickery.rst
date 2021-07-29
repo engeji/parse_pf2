@@ -37,3 +37,4 @@
 	* :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
 	* :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nyarlathotep`

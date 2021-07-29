@@ -45,3 +45,4 @@
 	* :doc:`/lost_omens/Deity/Horseman/Szuriel`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Azathoth`

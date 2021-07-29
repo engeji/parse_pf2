@@ -27,3 +27,5 @@
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
 	* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Azathoth`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nyarlathotep`

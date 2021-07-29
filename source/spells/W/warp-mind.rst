@@ -22,7 +22,8 @@
 **Спасбросок**: Воля
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Nethys`
+:doc:`/lost_omens/Deity/Core/Nethys`,
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`
 
 ----------
 

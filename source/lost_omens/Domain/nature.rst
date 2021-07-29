@@ -35,3 +35,5 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`

@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
 * :doc:`/lost_omens/Deity/Eldest/Shyka`
 * :doc:`/lost_omens/Deity/Monitor-Demigod/Narriseminek`
+* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`

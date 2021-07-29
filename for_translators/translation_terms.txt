@@ -220,6 +220,7 @@ Creature: существо
 	nalfeshnee: нальфешни
 	lacedon: ласэдан (упырь-утопец, водный)
 	agrawgh: эграг
+	grioth: гриот
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -236,6 +237,8 @@ Deity: Божество
 	Ascended: Вознесшиеся
 	Elemental lord: повелитель стихии
 	Empyreal Lords: Небесные владыки
+	Outer Gods: Внешние Боги
+	Great Old Ones: Великие Древние
 	Irori: Ирори
 	Nethys: Нэфис
 	Shelyn: Шелин
@@ -526,6 +529,7 @@ Locations:
 		Sekamina: Сэкамина
 		Orv: Орв
 		Nar‑Voth: Нар-Вот
+	Mushfens: Месивые Топи (от слов месиво и топь)
 
 lesser cover: небольшое укрытие
 light: свет
@@ -578,6 +582,7 @@ plane: план
 	Ethereal: Эфирный
 	Boneyard: Могильник
 	Maelstrom: Мальстрем
+	Dreamlands: Мир Грёз
 
 rage: ярость
 range: дистанция
@@ -905,6 +910,9 @@ Titles:
 	Fivefold Calculus: Пятикратное Исчисление
 	Spire's Edge: Край Шпиля
 	Menagerel: Мэнажерел
+	Voidbracken: Войдбрэкен
+	Armies of Exploration: Армии Исследования
+	Neruzavin: Нэрузавин
 
 trait: признак / особенность
 	оружие:

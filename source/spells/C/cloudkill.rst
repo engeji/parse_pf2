@@ -23,7 +23,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Horseman/Apollyon`
+:doc:`/lost_omens/Deity/Horseman/Apollyon`,
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`
 
 ----------
 

@@ -15,7 +15,8 @@
 **Продолжительность**: до конца вашего хода
 
 **Божества**:
-:doc:`/lost_omens/Deity/Eldest/Shyka`
+:doc:`/lost_omens/Deity/Eldest/Shyka`,
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`
 
 **Источник**: Lost Omens: Gods & Magic pg. 111
 
