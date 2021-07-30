@@ -17,7 +17,8 @@
 **Спасбросок**: Рефлекс
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Gorum`
+:doc:`/lost_omens/Deity/Core/Gorum`,
+:doc:`/lost_omens/Deity/Horseman/Szuriel`
 
 ----------
 

@@ -16,11 +16,16 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
-* :doc:`/lost_omens/Deity/Core/Urgathoa`
-* :doc:`/lost_omens/Deity/Other/Hei-Feng`
-* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
-* :doc:`/lost_omens/Deity/Demon-Lord/Baphomet`
-* :doc:`/lost_omens/Deity/Demon-Lord/Gogunta`
-* :doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
-* :doc:`/lost_omens/Deity/Demon-Lord/Zura`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
+	* :doc:`/lost_omens/Deity/Core/Urgathoa`
+	* :doc:`/lost_omens/Deity/Other/Hei-Feng`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Baphomet`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Gogunta`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Zura`
+	* :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`

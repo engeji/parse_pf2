@@ -54,7 +54,7 @@
 
 **Таинство**: 
 **Тема**: 
-**Домен**: 
+**Домен**: :doc:`/lost_omens/Domain/TITLE`
 
 **Сотворение**: |д-#| жестовый, словесный, материальный
 
@@ -965,6 +965,11 @@
 
 
 .. versionchanged:: /PFS-notes
+	изменено
+
+
+.. versionchanged:: /translation
+	изменено
 
 
 
@@ -986,4 +991,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/NAME`
+:doc:`/lost_omens/Deity/Dwarven-God/Trudd`

@@ -21,6 +21,9 @@
 
 **Продолжительность**: 1 неделя
 
+**Божества**:
+:doc:`/lost_omens/Deity/Horseman/Trelmarixian`
+
 **Источник**: Lost Omens: Gods & Magic pg. 107
 
 ----------

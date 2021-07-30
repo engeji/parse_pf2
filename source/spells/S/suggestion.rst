@@ -27,7 +27,10 @@
 :doc:`/lost_omens/Deity/Core/Asmodeus`,
 :doc:`/lost_omens/Deity/Archdevil/Dispater`,
 :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`,
-:doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`
+:doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`,
+:doc:`/lost_omens/Deity/Eldest/The-Green-Mother`,
+:ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`,
+:doc:`/lost_omens/Deity/Dwarven-God/Kols`
 
 ----------
 

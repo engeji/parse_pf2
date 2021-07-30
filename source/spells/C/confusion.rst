@@ -22,6 +22,10 @@
 
 **Продолжительность**: 1 минута
 
+**Божества**:
+:doc:`/lost_omens/Deity/Monitor-Demigod/Narriseminek`,
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`
+
 ----------
 
 Вы дурманите существо странными импульсами, заставляя его действовать случайным образом.

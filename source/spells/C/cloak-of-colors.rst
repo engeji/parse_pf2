@@ -20,7 +20,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Chaldira`
+:doc:`/lost_omens/Deity/Other/Chaldira`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`
 
 ----------
 

@@ -16,10 +16,22 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Abadar`
-* :doc:`/lost_omens/Deity/Core/Desna`
-* :doc:`/lost_omens/Deity/Core/Gozreh`
-* :doc:`/lost_omens/Deity/Other/Gruhastha`
-* :doc:`/lost_omens/Deity/Other/Hei-Feng`
-* :doc:`/lost_omens/Deity/Other/Nocticula`
-* :doc:`/lost_omens/Deity/Archdevil/Barbatos`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Abadar`
+	* :doc:`/lost_omens/Deity/Core/Desna`
+	* :doc:`/lost_omens/Deity/Core/Gozreh`
+	* :doc:`/lost_omens/Deity/Other/Gruhastha`
+	* :doc:`/lost_omens/Deity/Other/Hei-Feng`
+	* :doc:`/lost_omens/Deity/Other/Nocticula`
+	* :doc:`/lost_omens/Deity/Archdevil/Barbatos`
+	* :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
+	* :doc:`/lost_omens/Deity/Eldest/Ng`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`

@@ -19,3 +19,7 @@
 * :doc:`/lost_omens/Deity/Other/Sivanah`
 * :doc:`/lost_omens/Deity/Other/Tsukiyo`
 * :doc:`/lost_omens/Deity/Demon-Lord/Zura`
+* :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`
+* :doc:`/lost_omens/Deity/Eldest/Shyka`
+* :doc:`/lost_omens/Deity/Monitor-Demigod/Narriseminek`
+* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`

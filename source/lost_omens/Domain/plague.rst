@@ -18,3 +18,4 @@
 
 * :doc:`/lost_omens/Deity/Other/Ghlaunder`
 * :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
+* :doc:`/lost_omens/Deity/Horseman/Apollyon`

@@ -19,7 +19,8 @@
 **Спасбросок**: Рефлекс
 
 **Божества**:
-:ref:`Pantheon--Cosmic-Caravan`
+:ref:`Pantheon--Cosmic-Caravan`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`
 
 ----------
 

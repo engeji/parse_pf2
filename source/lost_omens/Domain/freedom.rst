@@ -16,9 +16,19 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
-* :ref:`Pantheon--Cosmic-Caravan`
-* :doc:`/lost_omens/Deity/Other/Arazni`
-* :doc:`/lost_omens/Deity/Other/Casandalee`
-* :doc:`/lost_omens/Deity/Other/Kazutal`
-* :doc:`/lost_omens/Deity/Other/Milani`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
+	* :ref:`Pantheon--Cosmic-Caravan`
+	* :doc:`/lost_omens/Deity/Other/Arazni`
+	* :doc:`/lost_omens/Deity/Other/Casandalee`
+	* :doc:`/lost_omens/Deity/Other/Kazutal`
+	* :doc:`/lost_omens/Deity/Other/Milani`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Narriseminek`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`

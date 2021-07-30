@@ -16,11 +16,22 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Erastil`
-* :doc:`/lost_omens/Deity/Core/Lamashtu`
-* :doc:`/lost_omens/Deity/Core/Shelyn`
-* :doc:`/lost_omens/Deity/Core/Torag`
-* :ref:`Pantheon--Dwarven`
-* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
-* :doc:`/lost_omens/Deity/Other/Kazutal`
-* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Erastil`
+	* :doc:`/lost_omens/Deity/Core/Lamashtu`
+	* :doc:`/lost_omens/Deity/Core/Shelyn`
+	* :doc:`/lost_omens/Deity/Core/Torag`
+	* :ref:`Pantheon--Dwarven`
+	* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+	* :doc:`/lost_omens/Deity/Other/Kazutal`
+	* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+	* :doc:`/lost_omens/Deity/Eldest/Imbrex`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`
+	* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`

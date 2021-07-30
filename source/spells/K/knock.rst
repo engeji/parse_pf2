@@ -19,7 +19,9 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Alseta`
+:doc:`/lost_omens/Deity/Other/Alseta`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`,
+:doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`
 
 ----------
 

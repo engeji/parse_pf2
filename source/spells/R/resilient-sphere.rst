@@ -19,6 +19,11 @@
 
 **Продолжительность**: 1 минута
 
+**Божества**:
+:doc:`/lost_omens/Deity/Empyreal-Lord/Korada`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`,
+:doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
+
 ----------
 
 Вы создаете неподвижную сферу из силы, чтобы либо поймать, либо защитить цель, блокируя все, что пройдет через сферу.

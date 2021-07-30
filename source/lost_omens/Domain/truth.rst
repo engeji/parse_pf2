@@ -16,10 +16,20 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Iomedae`
-* :doc:`/lost_omens/Deity/Core/Irori`
-* :doc:`/lost_omens/Deity/Core/Sarenrae`
-* :doc:`/lost_omens/Deity/Other/Gruhastha`
-* :doc:`/lost_omens/Deity/Other/Kurgess`
-* :doc:`/lost_omens/Deity/Archdevil/Geryon`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Iomedae`
+	* :doc:`/lost_omens/Deity/Core/Irori`
+	* :doc:`/lost_omens/Deity/Core/Sarenrae`
+	* :doc:`/lost_omens/Deity/Other/Gruhastha`
+	* :doc:`/lost_omens/Deity/Other/Kurgess`
+	* :doc:`/lost_omens/Deity/Archdevil/Geryon`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
+	* :doc:`/lost_omens/Deity/Eldest/Magdh`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Monad`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Kols`

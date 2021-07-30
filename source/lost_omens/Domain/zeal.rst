@@ -16,17 +16,26 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Gorum`
-* :doc:`/lost_omens/Deity/Core/Iomedae`
-* :doc:`/lost_omens/Deity/Core/Rovagug`
-* :ref:`Pantheon--The-Godclaw`
-* :doc:`/lost_omens/Deity/Other/Achaekek`
-* :doc:`/lost_omens/Deity/Other/Chaldira`
-* :doc:`/lost_omens/Deity/Other/Kurgess`
-* :doc:`/lost_omens/Deity/Other/Milani`
-* :doc:`/lost_omens/Deity/Archdevil/Belial`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
-* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
-* :doc:`/lost_omens/Deity/Demon-Lord/Baphomet`
-* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
-* :doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Gorum`
+	* :doc:`/lost_omens/Deity/Core/Iomedae`
+	* :doc:`/lost_omens/Deity/Core/Rovagug`
+	* :ref:`Pantheon--The-Godclaw`
+	* :doc:`/lost_omens/Deity/Other/Achaekek`
+	* :doc:`/lost_omens/Deity/Other/Chaldira`
+	* :doc:`/lost_omens/Deity/Other/Kurgess`
+	* :doc:`/lost_omens/Deity/Other/Milani`
+	* :doc:`/lost_omens/Deity/Archdevil/Belial`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Baphomet`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Dagon`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Angradd`

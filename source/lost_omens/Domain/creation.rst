@@ -16,14 +16,23 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Shelyn`
-* :doc:`/lost_omens/Deity/Core/Torag`
-* :ref:`Pantheon--Dwarven`
-* :ref:`Pantheon--Elven`
-* :doc:`/lost_omens/Deity/Other/Brigh`
-* :doc:`/lost_omens/Deity/Other/Casandalee`
-* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
-* :doc:`/lost_omens/Deity/Other/Nocticula`
-* :doc:`/lost_omens/Deity/Archdevil/Mammon`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Shelyn`
+	* :doc:`/lost_omens/Deity/Core/Torag`
+	* :ref:`Pantheon--Dwarven`
+	* :ref:`Pantheon--Elven`
+	* :doc:`/lost_omens/Deity/Other/Brigh`
+	* :doc:`/lost_omens/Deity/Other/Casandalee`
+	* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+	* :doc:`/lost_omens/Deity/Other/Nocticula`
+	* :doc:`/lost_omens/Deity/Archdevil/Mammon`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Monad`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
+	* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
+	* :doc:`/lost_omens/Deity/Elven-God/Yuelral`

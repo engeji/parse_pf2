@@ -20,3 +20,6 @@
 * :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
 * :doc:`/lost_omens/Deity/Other/Kazutal`
 * :doc:`/lost_omens/Deity/Archdevil/Dispater`
+* :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
+* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
+* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`

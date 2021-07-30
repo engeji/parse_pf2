@@ -168,7 +168,7 @@ Creature: существо
 		magma: магматический
 		crystal: кристаллический
 		cloud: облачный
-		brine: водный морской
+		brine: водный
 		umbral: теневой
 		sovereign: монарший
 		underworld: подземный
@@ -179,6 +179,7 @@ Creature: существо
 	celestial
 		Cassisian: кассисиан
 		Balisse: баллис
+		archon: архонт
 	psychopomp: психопомп
 		sahkil: сахкил (злые экс-психопомпы)
 	clockwork: заводной
@@ -218,6 +219,8 @@ Creature: существо
 	charau-ka: чарау-ка
 	nalfeshnee: нальфешни
 	lacedon: ласэдан (упырь-утопец, водный)
+	agrawgh: эграг
+	grioth: гриот
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -234,6 +237,8 @@ Deity: Божество
 	Ascended: Вознесшиеся
 	Elemental lord: повелитель стихии
 	Empyreal Lords: Небесные владыки
+	Outer Gods: Внешние Боги
+	Great Old Ones: Великие Древние
 	Irori: Ирори
 	Nethys: Нэфис
 	Shelyn: Шелин
@@ -278,7 +283,7 @@ Deity: Божество
 	Ranginori: Рангинори
 	Zohls: Золсу
 	Tanagaar: Танагаару
-	Lysianassa: Лисианассе
+	Lysianassa: Лисианасса
 	Eldest of the First World: Старейшие из Первого мира
 	Barbatos: Барбатос
 	Dispater: Диспатер
@@ -297,7 +302,7 @@ Deity: Божество
 	Irez: Ирез
 	Walkena: Уокена
 	Kurgess: Курджесс
-	Milani: Мелони
+	Milani: Милани
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий
@@ -524,6 +529,7 @@ Locations:
 		Sekamina: Сэкамина
 		Orv: Орв
 		Nar‑Voth: Нар-Вот
+	Mushfens: Месивые Топи (от слов месиво и топь)
 
 lesser cover: небольшое укрытие
 light: свет
@@ -576,6 +582,7 @@ plane: план
 	Ethereal: Эфирный
 	Boneyard: Могильник
 	Maelstrom: Мальстрем
+	Dreamlands: Мир Грёз
 
 rage: ярость
 range: дистанция
@@ -740,7 +747,6 @@ Titles:
 	Tanglebriar: Тэнлбрайар
 	Mwangi Expanse: Просторы Муанги
 	Nirmathas: Нирмафас
-	archon: архон
 	Broken Lands: Разоренные Земли
 	Saga Lands: Земли Сказаний
 	Jalmeray: Джалмерэй
@@ -884,6 +890,33 @@ Titles:
 	Charnelhome: Чарнелхом
 	Gluttondark: Глаттондарк
 	Nesh: Нэш
+	Silkwood: Шелколесье
+	Evergrove: Вечнороща
+	Karaphas: Карафас
+	Verglas Precessional: Гололёдная Прецессия
+	Saline Padishah: Солевого Падишаха
+	Niloufar the Great: Нилуфар Великая
+	Auroric Palace: Дворец Сияния
+	Witchmarket: Ведьмовской Рынок
+	harrow: хэрроу (вариссийские карты по типу Таро)
+	Steward's Stone: Камень Наместника
+	Skyward Cliffs: Возвышающиеся Утесы
+	Iudica: Юдика
+	Briarbough: Брайрбау
+	Dragonmane Mountains: Горы Драконьей Гривы
+	Weeping Tower: Плачущая Башня
+	Dead Roads: Мертвые Пути
+	Rasputitase: Распьютитэйс
+	Fivefold Calculus: Пятикратное Исчисление
+	Spire's Edge: Край Шпиля
+	Menagerel: Мэнажерел
+	Voidbracken: Войдбрэкен
+	Armies of Exploration: Армии Исследования
+	Neruzavin: Нэрузавин
+	Amaranthine Forest: Неувядающий Лес
+	Tempering Chamber: Зал Закалки
+	Ashen Forge: Пепельная Кузня
+	Runebarrow: Рунный Курган
 
 trait: признак / особенность
 	оружие:

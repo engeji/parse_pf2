@@ -17,7 +17,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Asmodeus`,
 :doc:`/lost_omens/Deity/Core/Calistria`,
-:doc:`/lost_omens/Deity/Archdevil/Baalzebul`
+:doc:`/lost_omens/Deity/Archdevil/Baalzebul`,
+:ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`
 
 ----------
 

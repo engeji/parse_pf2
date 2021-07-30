@@ -6,6 +6,8 @@
 Труд (`Toil <https://2e.aonprd.com/Domains.aspx?ID=39>`_)
 =============================================================================================================
 
+**Источник**: Pathfinder #148: Fires of the Haunted City pg. 63
+
 Вы постоянно работаете и не позволяете ничему мешать вам.
 
 **Доменные заклинания**:
@@ -17,3 +19,5 @@
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Archdevil/Mammon`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
+* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`

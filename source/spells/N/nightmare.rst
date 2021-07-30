@@ -22,7 +22,8 @@
 **Продолжительность**: 1 день
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Lamashtu`
+:doc:`/lost_omens/Deity/Core/Lamashtu`,
+:ref:`Ньярлатотеп (Обитающий во Мраке) (Nyarlathotep) <Deity--Nyarlathotep--Haunter-in-the-Dark>`
 
 ----------
 

@@ -20,3 +20,4 @@
 * :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
 * :doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
 * :doc:`/lost_omens/Deity/Demon-Lord/Zura`
+* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`

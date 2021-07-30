@@ -20,7 +20,8 @@
 **Продолжительность**: 1 раунд
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
+:doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`,
+:doc:`/lost_omens/Deity/Dwarven-God/Magrim`
 
 ----------
 

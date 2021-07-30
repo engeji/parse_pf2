@@ -16,10 +16,16 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
-* :doc:`/lost_omens/Deity/Other/Casandalee`
-* :doc:`/lost_omens/Deity/Other/Kurgess`
-* :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
-* :doc:`/lost_omens/Deity/Archdevil/Mammon`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
-* :doc:`/lost_omens/Deity/Demon-Lord/Shax`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
+	* :doc:`/lost_omens/Deity/Other/Casandalee`
+	* :doc:`/lost_omens/Deity/Other/Kurgess`
+	* :doc:`/lost_omens/Deity/Archdevil/Baalzebul`
+	* :doc:`/lost_omens/Deity/Archdevil/Mammon`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Shax`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
+	* :doc:`/lost_omens/Deity/Horseman/Szuriel`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`

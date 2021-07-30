@@ -16,7 +16,16 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Irori`
-* :doc:`/lost_omens/Deity/Core/Pharasma`
-* :doc:`/lost_omens/Deity/Other/Shizuru`
-* :doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Irori`
+	* :doc:`/lost_omens/Deity/Core/Pharasma`
+	* :doc:`/lost_omens/Deity/Other/Shizuru`
+	* :doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
+	* :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
+	* :doc:`/lost_omens/Deity/Eldest/Ragadahn`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`

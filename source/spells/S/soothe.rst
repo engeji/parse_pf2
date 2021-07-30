@@ -22,7 +22,13 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Tsukiyo`
+:doc:`/lost_omens/Deity/Other/Tsukiyo`,
+:doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Atreia`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Korada`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`,
+:doc:`/lost_omens/Deity/Dwarven-God/Bolka`
 
 ----------
 

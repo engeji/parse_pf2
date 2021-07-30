@@ -16,7 +16,10 @@
 :doc:`/lost_omens/Deity/Other/Casandalee`,
 :doc:`/lost_omens/Deity/Other/Gruhastha`,
 :doc:`/lost_omens/Deity/Archdevil/Geryon`,
-:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
+:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Shei`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`
 
 ----------
 

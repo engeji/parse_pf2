@@ -23,7 +23,7 @@ copyright = '2021, Balt'
 author = 'Balt'
 
 # The full version, including alpha/beta/rc tags
-release = '1.4.9'
+release = '1.4.10'
 
 
 # -- General configuration ---------------------------------------------------

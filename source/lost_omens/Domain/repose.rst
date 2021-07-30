@@ -16,7 +16,14 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Sarenrae`
-* :doc:`/lost_omens/Deity/Core/Shelyn`
-* :doc:`/lost_omens/Deity/Other/Tsukiyo`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Sarenrae`
+	* :doc:`/lost_omens/Deity/Core/Shelyn`
+	* :doc:`/lost_omens/Deity/Other/Tsukiyo`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
+	* :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`

@@ -17,7 +17,9 @@
 **Продолжительность**: поддерживаемое вплоть до 1 минуты
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
+:doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`,
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`
 
 ----------
 

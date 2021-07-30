@@ -16,9 +16,19 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
-* :ref:`Pantheon--Cosmic-Caravan`
-* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
-* :doc:`/lost_omens/Deity/Other/Groetus`
-* :doc:`/lost_omens/Deity/Other/Nocticula`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
+	* :ref:`Pantheon--Cosmic-Caravan`
+	* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+	* :doc:`/lost_omens/Deity/Other/Groetus`
+	* :doc:`/lost_omens/Deity/Other/Nocticula`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`
+	* :doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
+	* :ref:`Ньярлатотеп (Обитающий во Мраке) (Nyarlathotep) <Deity--Nyarlathotep--Haunter-in-the-Dark>`
+	* :doc:`/lost_omens/Deity/Elven-God/Ketephys`

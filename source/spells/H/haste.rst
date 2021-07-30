@@ -21,12 +21,18 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Irori`,
 :doc:`/lost_omens/Deity/Other/Kurgess`,
-:doc:`/lost_omens/Deity/Demon-Lord/Shax`
+:doc:`/lost_omens/Deity/Demon-Lord/Shax`,
+:doc:`/lost_omens/Deity/Eldest/Shyka`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`,
+:doc:`/lost_omens/Deity/Horseman/Szuriel`,
+:doc:`/lost_omens/Deity/Dwarven-God/Droskar`,
+:doc:`/lost_omens/Deity/Dwarven-God/Trudd`
 
 ----------
 
 Магия дает возможность цели действовать быстрее.
-Она получает состояние :c_quickened:`ускорен` и каждый раунд может использовать дополнительное действие, только на :ref:`action--Strike` и :ref:`action--Stride`.
+Она получает состояние :c_quickened:`ускорен` и каждый раунд может использовать это дополнительное действие только на :ref:`action--Strike` и :ref:`action--Stride`.
 
 ----------
 

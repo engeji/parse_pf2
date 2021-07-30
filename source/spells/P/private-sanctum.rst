@@ -20,7 +20,8 @@
 **Продолжительность**: 24 часа
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+:doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`,
+:doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
 
 ----------
 

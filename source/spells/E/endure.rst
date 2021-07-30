@@ -20,7 +20,10 @@
 **Продолжительность**: 1 раунд
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Arazni`
+:doc:`/lost_omens/Deity/Other/Arazni`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`,
+:doc:`/lost_omens/Deity/Dwarven-God/Folgrit`,
+:doc:`/lost_omens/Deity/Dwarven-God/Trudd`
 
 **Источник**: Lost Omens: Gods & Magic pg. 107
 

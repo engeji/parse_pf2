@@ -17,7 +17,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`
+:doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`,
+:doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
 
 ----------
 

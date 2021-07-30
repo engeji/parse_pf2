@@ -15,7 +15,8 @@
 **Продолжительность**: поддерживаемое
 
 **Божества**:
-:ref:`Pantheon--Dwarven`
+:ref:`Pantheon--Dwarven`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
 
 ----------
 

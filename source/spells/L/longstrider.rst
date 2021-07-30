@@ -14,6 +14,11 @@
 
 **Продолжительность**: 1 час
 
+**Божества**:
+:doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`,
+:doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`
+
 ----------
 
 Вы удлиняете своим шаги за пределы возможного.

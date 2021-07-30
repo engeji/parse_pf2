@@ -19,7 +19,10 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Pharasma`,
-:doc:`/lost_omens/Deity/Core/Torag`
+:doc:`/lost_omens/Deity/Core/Torag`,
+:doc:`/lost_omens/Deity/Eldest/Imbrex`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Narriseminek`
 
 ----------
 

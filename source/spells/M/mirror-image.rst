@@ -16,7 +16,9 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Tsukiyo`
+:doc:`/lost_omens/Deity/Other/Tsukiyo`,
+:doc:`/lost_omens/Deity/Eldest/Imbrex`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
 
 ----------
 

@@ -16,7 +16,19 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Pharasma`
-* :ref:`Pantheon--Cosmic-Caravan`
-* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
-* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Pharasma`
+	* :ref:`Pantheon--Cosmic-Caravan`
+	* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+	* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
+	* :doc:`/lost_omens/Deity/Eldest/Magdh`
+	* :doc:`/lost_omens/Deity/Eldest/Shyka`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Angradd`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Magrim`

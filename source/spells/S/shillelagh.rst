@@ -20,7 +20,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:ref:`Pantheon--Elven`
+:ref:`Pantheon--Elven`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
 
 ----------
 

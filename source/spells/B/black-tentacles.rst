@@ -20,7 +20,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`,
-:doc:`/lost_omens/Deity/Demon-Lord/Gogunta`
+:doc:`/lost_omens/Deity/Demon-Lord/Gogunta`,
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`
 
 ----------
 

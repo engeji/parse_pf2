@@ -16,6 +16,11 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Desna`
-* :doc:`/lost_omens/Deity/Other/Chaldira`
-* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Desna`
+	* :doc:`/lost_omens/Deity/Other/Chaldira`
+	* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`

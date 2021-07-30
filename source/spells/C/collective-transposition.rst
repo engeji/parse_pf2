@@ -17,6 +17,10 @@
 
 **Цели**: вплоть до 2 существ
 
+**Божества**:
+:doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`,
+:doc:`/lost_omens/Deity/Dwarven-God/Bolka`
+
 ----------
 
 Вы телепортируете цели в новое место в пределах области.

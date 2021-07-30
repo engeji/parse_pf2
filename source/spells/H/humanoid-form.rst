@@ -16,7 +16,9 @@
 **Продолжительность**: 10 минут
 
 **Божества**:
-:doc:`/lost_omens/Deity/Archdevil/Belial`
+:doc:`/lost_omens/Deity/Archdevil/Belial`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`,
+:ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`
 
 ----------
 

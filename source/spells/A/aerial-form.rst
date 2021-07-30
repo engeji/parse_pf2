@@ -15,6 +15,11 @@
 
 **Продолжительность**: 1 минута
 
+**Божества**:
+:doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`,
+:doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`
+
 ----------
 
 Вы используете свое мастерство обращения с природной силой, чтобы изменить свое тело в боевую форму летающего животного среднего размера.

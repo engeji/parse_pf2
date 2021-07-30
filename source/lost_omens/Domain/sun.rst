@@ -19,3 +19,4 @@
 * :doc:`/lost_omens/Deity/Core/Sarenrae`
 * :doc:`/lost_omens/Deity/Other/Shizuru`
 * :doc:`/lost_omens/Deity/Demon-Lord/Nurgal`
+* :doc:`/lost_omens/Deity/Elemental-Lord/Atreia`

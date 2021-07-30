@@ -44,8 +44,8 @@
 **Враги**: :doc:`Urgathoa`
 
 **Отношения**:
-Кернунн (`Cernunnos <https://2e.aonprd.com/Deities.aspx?ID=116>`_) (сын),
-Халкамора (`Halcamora <https://2e.aonprd.com/Deities.aspx?ID=120>`_) (дочь),
+:doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos` (сын),
+:doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora` (дочь),
 Джайди (`Jaidi <https://2e.aonprd.com/Deities.aspx?ID=155>`_) (жена)
 
 **Храмы**: деревянные длинные дома или залы, которые также служат местами собраний людей сообщества

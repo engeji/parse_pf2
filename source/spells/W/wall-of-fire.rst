@@ -18,7 +18,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Sarenrae`
+:doc:`/lost_omens/Deity/Core/Sarenrae`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`
 
 ----------
 

@@ -14,6 +14,11 @@
 
 **Продолжительность**: 1 час
 
+**Божества**:
+:doc:`/lost_omens/Deity/Eldest/Ng`,
+:doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`,
+:doc:`/lost_omens/Deity/Elven-God/Ketephys`
+
 ----------
 
 Вы скрываете оставляемые позади следы, делая их неясными, и затрудняете другим возможность найти вас.

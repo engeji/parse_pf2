@@ -16,9 +16,21 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Asmodeus`
-* :doc:`/lost_omens/Deity/Core/Nethys`
-* :ref:`Pantheon--Dwarven`
-* :doc:`/lost_omens/Deity/Other/Gruhastha`
-* :doc:`/lost_omens/Deity/Other/Sivanah`
-* :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Asmodeus`
+	* :doc:`/lost_omens/Deity/Core/Nethys`
+	* :ref:`Pantheon--Dwarven`
+	* :doc:`/lost_omens/Deity/Other/Gruhastha`
+	* :doc:`/lost_omens/Deity/Other/Sivanah`
+	* :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`
+	* :doc:`/lost_omens/Deity/Eldest/Magdh`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
+	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
+	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Magrim`

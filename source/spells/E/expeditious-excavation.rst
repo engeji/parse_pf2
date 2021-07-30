@@ -18,7 +18,9 @@
 **Область**: 5-футовый куб земли (или меньше) в поперечнике
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
+:doc:`/lost_omens/Deity/Demon-Lord/Kabriri`,
+:doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`,
+:doc:`/lost_omens/Deity/Dwarven-God/Magrim`
 
 **Источник**: Lost Omens: Gods & Magic pg. 107
 

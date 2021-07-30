@@ -18,7 +18,10 @@
 **Спасбросок**: Стойкость
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
+:doc:`/lost_omens/Deity/Demon-Lord/Treerazer`,
+:doc:`/lost_omens/Deity/Horseman/Charon`,
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`,
+:ref:`Ньярлатотеп (Обитающий во Мраке) (Nyarlathotep) <Deity--Nyarlathotep--Haunter-in-the-Dark>`
 
 ----------
 

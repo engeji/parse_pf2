@@ -20,7 +20,8 @@
 **Продолжительность**: 10 минут
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
+:doc:`/lost_omens/Deity/Demon-Lord/Treerazer`,
+:doc:`/lost_omens/Deity/Elven-God/Yuelral`
 
 ----------
 
