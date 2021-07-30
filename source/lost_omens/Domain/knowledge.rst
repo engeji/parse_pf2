@@ -46,3 +46,5 @@
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nyarlathotep`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`
 	* :doc:`/lost_omens/Deity/Elven-God/Yuelral`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Kols`

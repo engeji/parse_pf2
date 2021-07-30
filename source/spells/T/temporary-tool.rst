@@ -16,7 +16,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Brigh`,
-:doc:`/lost_omens/Deity/Elven-God/Findeladlara`
+:doc:`/lost_omens/Deity/Elven-God/Findeladlara`,
+:doc:`/lost_omens/Deity/Dwarven-God/Magrim`
 
 **Источник**: Lost Omens: Gods & Magic pg. 110
 

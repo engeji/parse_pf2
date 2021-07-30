@@ -914,6 +914,9 @@ Titles:
 	Armies of Exploration: Армии Исследования
 	Neruzavin: Нэрузавин
 	Amaranthine Forest: Неувядающий Лес
+	Tempering Chamber: Зал Закалки
+	Ashen Forge: Пепельная Кузня
+	Runebarrow: Рунный Курган
 
 trait: признак / особенность
 	оружие:

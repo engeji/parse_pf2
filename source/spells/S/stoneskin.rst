@@ -25,7 +25,8 @@
 :doc:`/lost_omens/Deity/Eldest/Imbrex`,
 :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Soralyon`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`,
+:doc:`/lost_omens/Deity/Dwarven-God/Trudd`
 
 ----------
 

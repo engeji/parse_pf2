@@ -32,3 +32,6 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`
 	* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`

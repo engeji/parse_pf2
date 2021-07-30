@@ -38,3 +38,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Angradd`

@@ -31,3 +31,5 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Monad`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Kols`

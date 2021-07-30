@@ -30,3 +30,5 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Angradd`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Magrim`

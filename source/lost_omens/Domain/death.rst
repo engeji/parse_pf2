@@ -30,3 +30,4 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Magrim`

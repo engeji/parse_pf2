@@ -33,3 +33,7 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Kols`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Magrim`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Trudd`

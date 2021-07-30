@@ -24,7 +24,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`,
-:doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`,
+:doc:`/lost_omens/Deity/Dwarven-God/Angradd`
 
 **Источник**: Advanced Player's Guide pg. 216
 

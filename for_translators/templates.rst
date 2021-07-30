@@ -991,4 +991,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Dwarven-God/NAME`
+:doc:`/lost_omens/Deity/Dwarven-God/Trudd`

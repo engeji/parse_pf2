@@ -17,7 +17,8 @@
 **Продолжительность**: поддерживаемое
 
 **Божества**:
-:doc:`/lost_omens/Deity/Monitor-Demigod/Monad`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Monad`,
+:doc:`/lost_omens/Deity/Dwarven-God/Kols`
 
 ----------
 

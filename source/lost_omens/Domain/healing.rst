@@ -21,3 +21,4 @@
 * :doc:`/lost_omens/Deity/Elemental-Lord/Atreia`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`
+* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`

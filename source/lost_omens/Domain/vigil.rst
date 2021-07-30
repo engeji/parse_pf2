@@ -28,3 +28,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`

@@ -22,7 +22,8 @@
 **Продолжительность**: различается
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
+:doc:`/lost_omens/Deity/Demon-Lord/Abraxas`,
+:doc:`/lost_omens/Deity/Dwarven-God/Kols`
 
 ----------
 

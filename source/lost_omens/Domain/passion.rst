@@ -28,3 +28,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`

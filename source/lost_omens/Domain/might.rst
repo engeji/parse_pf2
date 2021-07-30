@@ -40,3 +40,6 @@
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`
 	* :doc:`/lost_omens/Deity/Horseman/Szuriel`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Kols`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Trudd`

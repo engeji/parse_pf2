@@ -25,7 +25,9 @@
 :doc:`/lost_omens/Deity/Eldest/Shyka`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`,
-:doc:`/lost_omens/Deity/Horseman/Szuriel`
+:doc:`/lost_omens/Deity/Horseman/Szuriel`,
+:doc:`/lost_omens/Deity/Dwarven-God/Droskar`,
+:doc:`/lost_omens/Deity/Dwarven-God/Trudd`
 
 ----------
 

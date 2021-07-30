@@ -30,3 +30,6 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Trudd`

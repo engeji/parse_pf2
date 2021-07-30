@@ -22,7 +22,8 @@
 :doc:`/lost_omens/Deity/Other/Alseta`,
 :doc:`/lost_omens/Deity/Eldest/Magdh`,
 :doc:`/lost_omens/Deity/Eldest/Shyka`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Irez`,
+:doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
 
 **Источник**: Lost Omens: Gods & Magic pg. 107
 

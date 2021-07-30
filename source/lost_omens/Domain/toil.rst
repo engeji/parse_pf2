@@ -20,3 +20,4 @@
 
 * :doc:`/lost_omens/Deity/Archdevil/Mammon`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
+* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`

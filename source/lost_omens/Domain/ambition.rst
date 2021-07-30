@@ -28,3 +28,4 @@
 	* :doc:`/lost_omens/Deity/Demon-Lord/Shax`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
 	* :doc:`/lost_omens/Deity/Horseman/Szuriel`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`

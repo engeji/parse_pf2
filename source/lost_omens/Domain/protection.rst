@@ -34,3 +34,7 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Jaidz`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Angradd`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Trudd`
