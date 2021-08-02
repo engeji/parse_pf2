@@ -917,6 +917,8 @@ Titles:
 	Tempering Chamber: Зал Закалки
 	Ashen Forge: Пепельная Кузня
 	Runebarrow: Рунный Курган
+	Aucturn: Октюрн
+	Oath Wars: Войны Клятв
 
 trait: признак / особенность
 	оружие:
