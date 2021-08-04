@@ -29,7 +29,8 @@
 :doc:`/lost_omens/Deity/Archdevil/Belial`,
 :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`,
-:ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`
+:ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`,
+:doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
 
 ----------
 

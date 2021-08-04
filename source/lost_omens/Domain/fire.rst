@@ -34,3 +34,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Dahak`
 	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
 	* :doc:`/lost_omens/Deity/Other/More/Walkena`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`

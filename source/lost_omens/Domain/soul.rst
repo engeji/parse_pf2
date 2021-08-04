@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Horseman/Charon`
 * :doc:`/lost_omens/Deity/Other/More/Ravithra`
 * :doc:`/lost_omens/Deity/Other/More/Zyphus`
+* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`

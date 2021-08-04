@@ -22,3 +22,6 @@
 * :doc:`/lost_omens/Deity/Elemental-Lord/Atreia`
 * :doc:`/lost_omens/Deity/Other/More/Jaidi`
 * :doc:`/lost_omens/Deity/Other/More/Walkena`
+* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
+* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`

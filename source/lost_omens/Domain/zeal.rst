@@ -42,3 +42,6 @@
 	* :doc:`/lost_omens/Deity/Other/More/Dahak`
 	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
 	* :doc:`/lost_omens/Deity/Other/More/Ydersius`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`

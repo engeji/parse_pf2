@@ -25,7 +25,8 @@
 :doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`,
 :doc:`/lost_omens/Deity/Horseman/Szuriel`,
 :doc:`/lost_omens/Deity/Dwarven-God/Angradd`,
-:doc:`/lost_omens/Deity/Other/More/Walkena`
+:doc:`/lost_omens/Deity/Other/More/Walkena`,
+:doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
 
 ----------
 

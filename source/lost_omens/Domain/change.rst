@@ -40,3 +40,4 @@
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`
 	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
 	* :doc:`/lost_omens/Deity/Other/More/Uvuko`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`

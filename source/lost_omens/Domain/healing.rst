@@ -24,3 +24,4 @@
 * :doc:`/lost_omens/Deity/Dwarven-God/Bolka`
 * :doc:`/lost_omens/Deity/Other/More/Green-Man`
 * :doc:`/lost_omens/Deity/Other/More/Uvuko`
+* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`

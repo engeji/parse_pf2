@@ -40,3 +40,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Adanye`
 	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
 	* :doc:`/lost_omens/Deity/Other/More/Walkena`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`

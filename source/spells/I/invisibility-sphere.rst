@@ -19,7 +19,8 @@
 **Продолжительность**: 10 минут
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/More/Thamir`
+:doc:`/lost_omens/Deity/Other/More/Thamir`,
+:doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
 
 ----------
 

@@ -34,3 +34,4 @@
 	* :doc:`/lost_omens/Deity/Elven-God/Ketephys`
 	* :doc:`/lost_omens/Deity/Other/More/Ahriman`
 	* :doc:`/lost_omens/Deity/Other/More/Kalekot`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`

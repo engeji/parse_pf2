@@ -29,7 +29,8 @@
 :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`,
 :doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`,
 :doc:`/lost_omens/Deity/Dwarven-God/Bolka`,
-:doc:`/lost_omens/Deity/Other/More/Naderi`
+:doc:`/lost_omens/Deity/Other/More/Naderi`,
+:doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
 
 ----------
 

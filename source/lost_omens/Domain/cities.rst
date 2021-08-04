@@ -27,3 +27,6 @@
 	* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`
 	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`

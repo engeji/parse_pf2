@@ -23,7 +23,8 @@
 :doc:`/lost_omens/Deity/Core/Desna`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`,
-:doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`,
+:doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
 
 ----------
 

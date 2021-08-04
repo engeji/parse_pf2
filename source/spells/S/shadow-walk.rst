@@ -23,7 +23,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Zon-Kuthon`,
-:doc:`/lost_omens/Deity/Eldest/Count-Ranalc`
+:doc:`/lost_omens/Deity/Eldest/Count-Ranalc`,
+:doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
 
 ----------
 

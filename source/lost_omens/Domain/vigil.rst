@@ -29,3 +29,5 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`

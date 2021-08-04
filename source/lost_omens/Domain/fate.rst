@@ -36,3 +36,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Followers-of-Fate`
 	* :doc:`/lost_omens/Deity/Other/More/Lissala`
 	* :doc:`/lost_omens/Deity/Other/More/Ravithra`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
