@@ -22,7 +22,8 @@
 :doc:`/lost_omens/Deity/Core/Torag`,
 :doc:`/lost_omens/Deity/Eldest/Imbrex`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`,
-:doc:`/lost_omens/Deity/Monitor-Demigod/Narriseminek`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Narriseminek`,
+:doc:`/lost_omens/Deity/Other/More/Followers-of-Fate`
 
 ----------
 

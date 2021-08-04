@@ -24,7 +24,8 @@
 :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`,
-:doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`,
+:doc:`/lost_omens/Deity/Other/More/Mazludeh`
 
 **Источник**: Lost Omens: Gods & Magic pg. 109
 

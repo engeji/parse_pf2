@@ -24,3 +24,4 @@
 	* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`
+	* :doc:`/lost_omens/Deity/Other/More/Gendowyn`

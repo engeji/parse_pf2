@@ -39,3 +39,6 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nyarlathotep`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`
+	* :doc:`/lost_omens/Deity/Other/More/Ahriman`
+	* :doc:`/lost_omens/Deity/Other/More/Erecura`
+	* :doc:`/lost_omens/Deity/Other/More/Thamir`

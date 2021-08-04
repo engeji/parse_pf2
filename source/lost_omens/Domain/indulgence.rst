@@ -29,3 +29,5 @@
 	* :doc:`/lost_omens/Deity/Demon-Lord/Zura`
 	* :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`
+	* :doc:`/lost_omens/Deity/Other/More/Kitumu`
+	* :doc:`/lost_omens/Deity/Other/More/Ydersius`

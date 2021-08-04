@@ -46,3 +46,7 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Azathoth`
+	* :doc:`/lost_omens/Deity/Other/More/Ahriman`
+	* :doc:`/lost_omens/Deity/Other/More/Dahak`
+	* :doc:`/lost_omens/Deity/Other/More/Kitumu`
+	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`

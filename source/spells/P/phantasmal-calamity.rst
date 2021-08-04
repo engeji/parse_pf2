@@ -20,7 +20,8 @@
 **Область**: 30-футовый взрыв
 
 **Божества**:
-:doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Imot`,
+:doc:`/lost_omens/Deity/Other/More/Zyphus`
 
 ----------
 

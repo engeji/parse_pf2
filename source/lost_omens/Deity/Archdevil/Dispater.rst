@@ -27,6 +27,8 @@
 
 **Царство**: Железный Скипетр (Дис, Ад)
 
+**Отношения**: :doc:`/lost_omens/Deity/Other/More/Erecura` (жена)
+
 **Источник**: Lost Omens: Gods & Magic pg. 74
 
 

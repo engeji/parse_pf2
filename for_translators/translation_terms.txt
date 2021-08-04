@@ -583,6 +583,10 @@ plane: план
 	Boneyard: Могильник
 	Maelstrom: Мальстрем
 	Dreamlands: Мир Грёз
+	Bloodrot: Бладрот
+	Immortal Ambulatory: Вечное Странствие
+	Back Alleys: Переулки
+	Sydrixus: Сидрикс
 
 rage: ярость
 range: дистанция
@@ -780,7 +784,7 @@ Titles:
 	Gravelands: Могильные земли
 	Everstand: Эверстэнд
 	Ozem: Озэм
-	Shining Crusade: Сияющий поход
+	Shining Crusade: Сияющий Поход
 	Firebrands: Смутьяны
 	Magaambyan: Магаамбия
 	Akashic Record: Акашийская хроника; Хроника Акаши
@@ -851,7 +855,6 @@ Titles:
 	Nessus: Несс
 	Clashing Shore: Грохочущий Берег
 	Forgeheart: Сердце Кузни
-	Bloodrot: Бладрот
 	Xovaikain: Зовайкейн
 	Swordhome: Сордхоум
 	Kurnugia: Иркалла
@@ -919,6 +922,7 @@ Titles:
 	Runebarrow: Рунный Курган
 	Aucturn: Октюрн
 	Oath Wars: Войны Клятв
+	Darkblight: Темная Порча
 
 trait: признак / особенность
 	оружие:

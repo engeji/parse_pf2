@@ -17,7 +17,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Eldest/Magdh`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`,
+:doc:`/lost_omens/Deity/Other/More/Followers-of-Fate`
 
 **Источник**: Advanced Player's Guide pg. 226
 

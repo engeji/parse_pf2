@@ -20,7 +20,8 @@
 :doc:`/lost_omens/Deity/Other/Kazutal`,
 :doc:`/lost_omens/Deity/Archdevil/Geryon`,
 :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`,
+:doc:`/lost_omens/Deity/Other/More/Ravithra`
 
 ----------
 

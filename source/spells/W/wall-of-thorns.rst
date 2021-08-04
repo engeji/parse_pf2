@@ -21,7 +21,8 @@
 :doc:`/lost_omens/Deity/Core/Erastil`,
 :doc:`/lost_omens/Deity/Core/Zon-Kuthon`,
 :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`,
-:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`,
+:doc:`/lost_omens/Deity/Other/More/Jaidi`
 
 ----------
 

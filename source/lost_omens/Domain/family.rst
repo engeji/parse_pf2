@@ -35,3 +35,9 @@
 	* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
+	* :doc:`/lost_omens/Deity/Other/More/Adanye`
+	* :doc:`/lost_omens/Deity/Other/More/Followers-of-Fate`
+	* :doc:`/lost_omens/Deity/Other/More/Gendowyn`
+	* :doc:`/lost_omens/Deity/Other/More/Jaidi`
+	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
+	* :doc:`/lost_omens/Deity/Other/More/Walkena`

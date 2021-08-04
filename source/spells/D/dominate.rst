@@ -26,7 +26,8 @@
 **Божества**:
 :ref:`Pantheon--The-Godclaw`,
 :doc:`/lost_omens/Deity/Demon-Lord/Zura`,
-:doc:`/lost_omens/Deity/Dwarven-God/Droskar`
+:doc:`/lost_omens/Deity/Dwarven-God/Droskar`,
+:doc:`/lost_omens/Deity/Other/More/Lissala`
 
 ----------
 

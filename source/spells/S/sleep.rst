@@ -22,7 +22,8 @@
 **Спасбросок**: Воля
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Desna`
+:doc:`/lost_omens/Deity/Core/Desna`,
+:doc:`/lost_omens/Deity/Other/More/Kitumu`
 
 ----------
 

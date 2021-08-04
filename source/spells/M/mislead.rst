@@ -18,7 +18,8 @@
 :doc:`/lost_omens/Deity/Core/Asmodeus`,
 :doc:`/lost_omens/Deity/Core/Calistria`,
 :doc:`/lost_omens/Deity/Archdevil/Baalzebul`,
-:ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`
+:ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`,
+:doc:`/lost_omens/Deity/Other/More/Thamir`
 
 ----------
 

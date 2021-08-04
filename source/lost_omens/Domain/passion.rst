@@ -29,3 +29,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`
+	* :doc:`/lost_omens/Deity/Other/More/Naderi`

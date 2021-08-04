@@ -38,3 +38,5 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`
+	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
+	* :doc:`/lost_omens/Deity/Other/More/Uvuko`

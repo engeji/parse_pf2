@@ -20,7 +20,8 @@
 **Спасбросок**: Стойкость
 
 **Божества**:
-:doc:`/lost_omens/Deity/Eldest/Ragadahn`
+:doc:`/lost_omens/Deity/Eldest/Ragadahn`,
+:doc:`/lost_omens/Deity/Other/More/Ydersius`
 
 ----------
 

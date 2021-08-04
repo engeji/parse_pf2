@@ -48,3 +48,5 @@
 	* :doc:`/lost_omens/Deity/Elven-God/Yuelral`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Kols`
+	* :doc:`/lost_omens/Deity/Other/More/Followers-of-Fate`
+	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`

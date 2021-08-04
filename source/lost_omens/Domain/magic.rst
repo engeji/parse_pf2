@@ -34,3 +34,4 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`
 	* :ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`
 	* :doc:`/lost_omens/Deity/Elven-God/Yuelral`
+	* :doc:`/lost_omens/Deity/Other/More/Lissala`

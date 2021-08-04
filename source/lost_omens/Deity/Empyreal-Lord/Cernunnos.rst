@@ -29,7 +29,7 @@
 
 **Отношения**:
 :doc:`/lost_omens/Deity/Core/Erastil` (отец),
-Джайди (`Jaidi <https://2e.aonprd.com/Deities.aspx?ID=155>`_) (мать)
+:doc:`/lost_omens/Deity/Other/More/Jaidi` (мать)
 
 **Царство**: Брайрбау (Элизиум)
 

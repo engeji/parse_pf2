@@ -36,3 +36,5 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
 	* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
 	* :doc:`/lost_omens/Deity/Elven-God/Yuelral`
+	* :doc:`/lost_omens/Deity/Other/More/Apsu`
+	* :doc:`/lost_omens/Deity/Other/More/Uvuko`

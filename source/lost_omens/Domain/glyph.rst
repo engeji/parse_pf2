@@ -34,3 +34,4 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Magrim`
+	* :doc:`/lost_omens/Deity/Other/More/Lissala`

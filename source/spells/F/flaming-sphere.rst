@@ -22,7 +22,8 @@
 **Продолжительность**: поддерживаемое вплоть до 1 минуты
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Nurgal`
+:doc:`/lost_omens/Deity/Demon-Lord/Nurgal`,
+:doc:`/lost_omens/Deity/Other/More/Lubaiko`
 
 ----------
 

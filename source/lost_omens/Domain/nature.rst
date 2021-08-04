@@ -38,3 +38,9 @@
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`
 	* :doc:`/lost_omens/Deity/Elven-God/Ketephys`
+	* :doc:`/lost_omens/Deity/Other/More/Balumbdar`
+	* :doc:`/lost_omens/Deity/Other/More/Gendowyn`
+	* :doc:`/lost_omens/Deity/Other/More/Green-Man`
+	* :doc:`/lost_omens/Deity/Other/More/Jaidi`
+	* :doc:`/lost_omens/Deity/Other/More/Kalekot`
+	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`

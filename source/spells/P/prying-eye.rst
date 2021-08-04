@@ -18,7 +18,8 @@
 **Продолжительность**: поддерживаемое
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Nethys`
+:doc:`/lost_omens/Deity/Core/Nethys`,
+:doc:`/lost_omens/Deity/Other/More/Followers-of-Fate`
 
 ----------
 

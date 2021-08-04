@@ -20,7 +20,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`,
+:doc:`/lost_omens/Deity/Other/More/Green-Man`
 
 ----------
 

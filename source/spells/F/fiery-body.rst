@@ -17,7 +17,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Archdevil/Moloch`
+:doc:`/lost_omens/Deity/Archdevil/Moloch`,
+:doc:`/lost_omens/Deity/Other/More/Lubaiko`
 
 ----------
 

@@ -16,7 +16,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Ghlaunder`
+:doc:`/lost_omens/Deity/Other/Ghlaunder`,
+:doc:`/lost_omens/Deity/Other/More/Kitumu`
 
 ----------
 

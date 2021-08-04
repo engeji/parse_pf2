@@ -29,3 +29,4 @@
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
 	* :doc:`/lost_omens/Deity/Horseman/Apollyon`
+	* :doc:`/lost_omens/Deity/Other/More/Uvuko`

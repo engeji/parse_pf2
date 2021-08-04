@@ -22,7 +22,9 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Sarenrae`,
 :doc:`/lost_omens/Deity/Queen-of-Night/Eiseth`,
-:doc:`/lost_omens/Deity/Dwarven-God/Angradd`
+:doc:`/lost_omens/Deity/Dwarven-God/Angradd`,
+:doc:`/lost_omens/Deity/Other/More/Dahak`,
+:doc:`/lost_omens/Deity/Other/More/Walkena`
 
 ----------
 

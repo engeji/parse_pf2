@@ -415,6 +415,15 @@ Pathfinder #154: Siege of the Dinosaurs
 
 
 
+Pathfinder #161: Belly of the Black Whale
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Adventure Path #161: Belly of the Black Whale** © 2020, Paizo Inc.; Authors: Cole Kronewitter, with Kim Frandsen, Patchen Mortimer, Kyle T. Raes, Andrew White, and Brian Yaksha.
+
+
+
 Abomination Vaults Player's Guide
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

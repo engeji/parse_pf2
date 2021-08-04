@@ -20,3 +20,5 @@
 * :doc:`/lost_omens/Deity/Other/Tsukiyo`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`
 * :doc:`/lost_omens/Deity/Horseman/Charon`
+* :doc:`/lost_omens/Deity/Other/More/Ravithra`
+* :doc:`/lost_omens/Deity/Other/More/Zyphus`

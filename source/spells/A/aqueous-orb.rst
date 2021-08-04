@@ -18,7 +18,8 @@
 **Продолжительность**: поддерживаемое вплоть до 1 минуты
 
 **Божества**:
-:doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
+:doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`,
+:doc:`/lost_omens/Deity/Other/More/Hanspur`
 
 **Источник**: Advanced Player's Guide pg. 214
 

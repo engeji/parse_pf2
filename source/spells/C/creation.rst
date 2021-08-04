@@ -24,7 +24,8 @@
 :doc:`/lost_omens/Deity/Other/Brigh`,
 :doc:`/lost_omens/Deity/Other/Nocticula`,
 :doc:`/lost_omens/Deity/Archdevil/Mammon`,
-:doc:`/lost_omens/Deity/Dwarven-God/Bolka`
+:doc:`/lost_omens/Deity/Dwarven-God/Bolka`,
+:doc:`/lost_omens/Deity/Other/More/Apsu`
 
 ----------
 

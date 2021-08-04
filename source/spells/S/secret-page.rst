@@ -20,7 +20,8 @@
 **Продолжительность**: неограниченно
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Irez`,
+:doc:`/lost_omens/Deity/Other/More/Lissala`
 
 ----------
 

@@ -29,3 +29,5 @@
     * :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
     * :doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`
     * :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`
+    * :doc:`/lost_omens/Deity/Other/More/Hanspur`
+    * :doc:`/lost_omens/Deity/Other/More/Thamir`

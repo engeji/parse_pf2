@@ -37,3 +37,6 @@
 	* :doc:`/lost_omens/Deity/Dwarven-God/Kols`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Magrim`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Trudd`
+	* :doc:`/lost_omens/Deity/Other/More/Adanye`
+	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
+	* :doc:`/lost_omens/Deity/Other/More/Walkena`

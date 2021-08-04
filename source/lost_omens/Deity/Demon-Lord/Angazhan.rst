@@ -63,6 +63,8 @@ Lost Omens: The Mwangi Expanse pg. 133
 | **3-й**: :ref:`spell--a--Animal-Form` (только обезьяна)
 | **5-й**: :ref:`spell--m--Moon-Frenzy`
 
+**Характеристики аватара**: :doc:`/spells/A/avatar`
+
 
 
 

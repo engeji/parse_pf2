@@ -29,3 +29,4 @@
 	* :doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`
 	* :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`
+	* :doc:`/lost_omens/Deity/Other/More/Walkena`

@@ -24,7 +24,8 @@
 :doc:`/lost_omens/Deity/Demon-Lord/Nurgal`,
 :doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`,
 :doc:`/lost_omens/Deity/Horseman/Szuriel`,
-:doc:`/lost_omens/Deity/Dwarven-God/Angradd`
+:doc:`/lost_omens/Deity/Dwarven-God/Angradd`,
+:doc:`/lost_omens/Deity/Other/More/Walkena`
 
 ----------
 

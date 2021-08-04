@@ -28,3 +28,5 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Narriseminek`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
+	* :doc:`/lost_omens/Deity/Other/More/Balumbdar`
+	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`

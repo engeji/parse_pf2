@@ -35,3 +35,5 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`
+	* :doc:`/lost_omens/Deity/Other/More/Apsu`
+	* :doc:`/lost_omens/Deity/Other/More/Hanspur`

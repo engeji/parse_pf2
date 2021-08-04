@@ -16,10 +16,14 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Abadar`
-* :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
-* :doc:`/lost_omens/Deity/Other/Kazutal`
-* :doc:`/lost_omens/Deity/Archdevil/Dispater`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
-* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
-* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Abadar`
+	* :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
+	* :doc:`/lost_omens/Deity/Other/Kazutal`
+	* :doc:`/lost_omens/Deity/Archdevil/Dispater`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
+	* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`
+	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`

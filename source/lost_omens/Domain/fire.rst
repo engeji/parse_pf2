@@ -30,3 +30,7 @@
 	* :doc:`/lost_omens/Deity/Horseman/Szuriel`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Angradd`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`
+	* :doc:`/lost_omens/Deity/Other/More/Adanye`
+	* :doc:`/lost_omens/Deity/Other/More/Dahak`
+	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
+	* :doc:`/lost_omens/Deity/Other/More/Walkena`

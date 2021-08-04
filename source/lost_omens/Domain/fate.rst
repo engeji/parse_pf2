@@ -32,3 +32,7 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Angradd`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Magrim`
+	* :doc:`/lost_omens/Deity/Other/More/Erecura`
+	* :doc:`/lost_omens/Deity/Other/More/Followers-of-Fate`
+	* :doc:`/lost_omens/Deity/Other/More/Lissala`
+	* :doc:`/lost_omens/Deity/Other/More/Ravithra`

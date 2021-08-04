@@ -29,3 +29,6 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`
+	* :doc:`/lost_omens/Deity/Other/More/Naderi`
+	* :doc:`/lost_omens/Deity/Other/More/Ravithra`
+	* :doc:`/lost_omens/Deity/Other/More/Zyphus`

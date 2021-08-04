@@ -32,3 +32,4 @@
 	* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`
 	* :doc:`/lost_omens/Deity/Elven-God/Yuelral`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`
+	* :doc:`/lost_omens/Deity/Other/More/Gendowyn`

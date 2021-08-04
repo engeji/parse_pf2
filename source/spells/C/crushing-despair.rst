@@ -24,7 +24,9 @@
 :doc:`/lost_omens/Deity/Other/Groetus`,
 :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`,
 :doc:`/lost_omens/Deity/Eldest/The-Lost-Prince`,
-:doc:`/lost_omens/Deity/Horseman/Charon`
+:doc:`/lost_omens/Deity/Horseman/Charon`,
+:doc:`/lost_omens/Deity/Other/More/Ahriman`,
+:doc:`/lost_omens/Deity/Other/More/Naderi`
 
 ----------
 

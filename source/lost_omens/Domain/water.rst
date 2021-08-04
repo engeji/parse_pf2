@@ -30,3 +30,5 @@
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
 	* :doc:`/lost_omens/Deity/Horseman/Charon`
+	* :doc:`/lost_omens/Deity/Other/More/Hanspur`
+	* :doc:`/lost_omens/Deity/Other/More/Naderi`

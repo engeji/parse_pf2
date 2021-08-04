@@ -28,3 +28,5 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`
 	* :doc:`/lost_omens/Deity/Elven-God/Ketephys`
+	* :doc:`/lost_omens/Deity/Other/More/Erecura`
+	* :doc:`/lost_omens/Deity/Other/More/Kalekot`

@@ -19,7 +19,8 @@
 
 **Божества**:
 :ref:`Pantheon--Elven`,
-:doc:`/lost_omens/Deity/Elven-God/Yuelral`
+:doc:`/lost_omens/Deity/Elven-God/Yuelral`,
+:doc:`/lost_omens/Deity/Other/More/Jaidi`
 
 ----------
 

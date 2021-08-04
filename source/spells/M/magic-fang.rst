@@ -22,7 +22,10 @@
 :doc:`/lost_omens/Deity/Core/Lamashtu`,
 :doc:`/lost_omens/Deity/Archdevil/Barbatos`,
 :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`,
-:doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
+:doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`,
+:doc:`/lost_omens/Deity/Other/More/Apsu`,
+:doc:`/lost_omens/Deity/Other/More/Dahak`,
+:doc:`/lost_omens/Deity/Other/More/Ydersius`
 
 ----------
 
