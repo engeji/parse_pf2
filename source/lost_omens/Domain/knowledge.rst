@@ -50,3 +50,5 @@
 	* :doc:`/lost_omens/Deity/Dwarven-God/Kols`
 	* :doc:`/lost_omens/Deity/Other/More/Followers-of-Fate`
 	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
+	* :doc:`/lost_omens/Deity/Tian-God/Lady-Jingxi`
+	* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`

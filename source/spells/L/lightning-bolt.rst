@@ -19,7 +19,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Gozreh`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`,
+:doc:`/lost_omens/Deity/Tian-God/Nalinivati`
 
 ----------
 

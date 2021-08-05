@@ -50,3 +50,6 @@
 	* :doc:`/lost_omens/Deity/Other/More/Dahak`
 	* :doc:`/lost_omens/Deity/Other/More/Kitumu`
 	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
+	* :doc:`/lost_omens/Deity/Tian-God/Fumeiyoshi`
+	* :doc:`/lost_omens/Deity/Tian-God/General-Susumu`
+	* :doc:`/lost_omens/Deity/Tian-God/Lady-Nanbyo`

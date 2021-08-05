@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
 * :doc:`/lost_omens/Deity/Other/More/Uvuko`
 * :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`
+* :doc:`/lost_omens/Deity/Tian-God/Yamatsumi`

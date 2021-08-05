@@ -35,3 +35,5 @@
 	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
 	* :doc:`/lost_omens/Deity/Other/More/Walkena`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
+	* :doc:`/lost_omens/Deity/Tian-God/Lady-Nanbyo`
+	* :doc:`/lost_omens/Deity/Tian-God/Yamatsumi`

@@ -37,3 +37,4 @@
 	* :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`
 	* :doc:`/lost_omens/Deity/Other/More/Apsu`
 	* :doc:`/lost_omens/Deity/Other/More/Hanspur`
+	* :doc:`/lost_omens/Deity/Tian-God/Kofusachi`

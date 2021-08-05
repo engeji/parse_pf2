@@ -31,3 +31,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`
 	* :doc:`/lost_omens/Deity/Other/More/Kitumu`
 	* :doc:`/lost_omens/Deity/Other/More/Ydersius`
+	* :doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`

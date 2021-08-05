@@ -26,7 +26,9 @@
 :doc:`/lost_omens/Deity/Empyreal-Lord/Ragathiel`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Dammerich`,
-:doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`,
+:doc:`/lost_omens/Deity/Tian-God/General-Susumu`,
+:doc:`/lost_omens/Deity/Tian-God/Yaezhing`
 
 ----------
 

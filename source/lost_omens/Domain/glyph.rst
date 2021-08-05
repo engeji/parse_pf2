@@ -35,3 +35,5 @@
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Magrim`
 	* :doc:`/lost_omens/Deity/Other/More/Lissala`
+	* :doc:`/lost_omens/Deity/Tian-God/Lady-Jingxi`
+	* :doc:`/lost_omens/Deity/Tian-God/Nalinivati`

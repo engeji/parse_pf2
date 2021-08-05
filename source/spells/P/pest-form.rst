@@ -16,7 +16,8 @@
 **Продолжительность**: 10 минут
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Grandmother-Spider`
+:doc:`/lost_omens/Deity/Other/Grandmother-Spider`,
+:doc:`/lost_omens/Deity/Tian-God/Daikitsu`
 
 ----------
 

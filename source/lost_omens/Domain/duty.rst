@@ -41,3 +41,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
 	* :doc:`/lost_omens/Deity/Other/More/Walkena`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
+	* :doc:`/lost_omens/Deity/Tian-God/Yaezhing`

@@ -32,3 +32,4 @@
 	* :doc:`/lost_omens/Deity/Horseman/Charon`
 	* :doc:`/lost_omens/Deity/Other/More/Hanspur`
 	* :doc:`/lost_omens/Deity/Other/More/Naderi`
+	* :doc:`/lost_omens/Deity/Tian-God/Lady-Nanbyo`

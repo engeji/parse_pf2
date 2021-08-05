@@ -22,7 +22,8 @@
 **Продолжительность**: 1 час
 
 **Божества**:
-:doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
+:doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`,
+:doc:`/lost_omens/Deity/Tian-God/Daikitsu`
 
 ----------
 

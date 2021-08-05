@@ -28,3 +28,4 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`
 	* :doc:`/lost_omens/Deity/Other/More/Adanye`
+	* :doc:`/lost_omens/Deity/Tian-God/Lady-Jingxi`

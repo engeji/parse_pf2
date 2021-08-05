@@ -258,7 +258,7 @@ Deity: Божество
 	Shizuru: Шицуру
 	Tsukiyo: Цукио
 	Daikitsu: Дайкицу
-	Lady Nanbyo: Леди Наньбо
+	Lady Nanbyo: Госпожа Наньбо
 	Ymeri: Имери
 	Qi Zhong: Ци Чжун
 	Gruhastha: Грухаста
@@ -587,6 +587,7 @@ plane: план
 	Immortal Ambulatory: Вечное Странствие
 	Back Alleys: Переулки
 	Sydrixus: Сидрикс
+	Setsendu: Сэценду
 
 rage: ярость
 range: дистанция
@@ -923,6 +924,8 @@ Titles:
 	Aucturn: Октюрн
 	Oath Wars: Войны Клятв
 	Darkblight: Темная Порча
+	Awaiting-Consumption: Ожидающее Поедание
+	Yanjira: Янджира
 
 trait: признак / особенность
 	оружие:

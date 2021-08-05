@@ -48,3 +48,6 @@
 	* :doc:`/lost_omens/Deity/Other/More/Jaidi`
 	* :doc:`/lost_omens/Deity/Other/More/Ydersius`
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`
+	* :doc:`/lost_omens/Deity/Tian-God/General-Susumu`
+	* :doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`
+	* :doc:`/lost_omens/Deity/Tian-God/Yamatsumi`

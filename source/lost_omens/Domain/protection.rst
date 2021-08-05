@@ -42,3 +42,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Apsu`
 	* :doc:`/lost_omens/Deity/Other/More/Balumbdar`
 	* :doc:`/lost_omens/Deity/Other/More/Green-Man`
+	* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`

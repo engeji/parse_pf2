@@ -33,3 +33,5 @@
 	* :doc:`/lost_omens/Deity/Elven-God/Yuelral`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`
 	* :doc:`/lost_omens/Deity/Other/More/Gendowyn`
+	* :doc:`/lost_omens/Deity/Tian-God/Fumeiyoshi`
+	* :doc:`/lost_omens/Deity/Tian-God/Yamatsumi`

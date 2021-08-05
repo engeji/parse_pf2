@@ -35,3 +35,5 @@
 	* :ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`
 	* :doc:`/lost_omens/Deity/Elven-God/Yuelral`
 	* :doc:`/lost_omens/Deity/Other/More/Lissala`
+	* :doc:`/lost_omens/Deity/Tian-God/Nalinivati`
+	* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`

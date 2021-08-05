@@ -35,3 +35,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Ahriman`
 	* :doc:`/lost_omens/Deity/Other/More/Kalekot`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+	* :doc:`/lost_omens/Deity/Tian-God/Lao-Shu-Po`

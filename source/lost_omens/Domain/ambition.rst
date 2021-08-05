@@ -33,3 +33,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Ravithra`
 	* :doc:`/lost_omens/Deity/Other/More/Thamir`
 	* :doc:`/lost_omens/Deity/Other/More/Ydersius`
+	* :doc:`/lost_omens/Deity/Tian-God/Fumeiyoshi`

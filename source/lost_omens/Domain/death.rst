@@ -36,3 +36,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Kalekot`
 	* :doc:`/lost_omens/Deity/Other/More/Naderi`
 	* :doc:`/lost_omens/Deity/Other/More/Zyphus`
+	* :doc:`/lost_omens/Deity/Tian-God/Yaezhing`

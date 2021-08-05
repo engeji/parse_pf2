@@ -40,3 +40,5 @@
 	* :doc:`/lost_omens/Deity/Other/More/Uvuko`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`
+	* :doc:`/lost_omens/Deity/Tian-God/Daikitsu`
+	* :doc:`/lost_omens/Deity/Tian-God/Lady-Jingxi`

@@ -45,3 +45,5 @@
 	* :doc:`/lost_omens/Deity/Other/More/Kalekot`
 	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`
+	* :doc:`/lost_omens/Deity/Tian-God/Daikitsu`
+	* :doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`

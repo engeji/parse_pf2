@@ -15,7 +15,8 @@
 **Продолжительность**: 8 часов
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Urgathoa`
+:doc:`/lost_omens/Deity/Core/Urgathoa`,
+:doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
 
 ----------
 

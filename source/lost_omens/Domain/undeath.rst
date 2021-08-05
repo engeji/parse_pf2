@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Demon-Lord/Zura`
 * :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`
 * :doc:`/lost_omens/Deity/Other/More/Zyphus`
+* :doc:`/lost_omens/Deity/Tian-God/Fumeiyoshi`

@@ -22,7 +22,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`,
-:doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
+:doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`,
+:doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
 
 ----------
 

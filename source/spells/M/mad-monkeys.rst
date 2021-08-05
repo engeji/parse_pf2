@@ -18,6 +18,9 @@
 
 **Продолжительность**: поддерживаемое вплоть до 1 минуты
 
+**Божества**:
+:doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`
+
 **Источник**: Advanced Player's Guide pg. 222
 
 ----------

@@ -32,3 +32,5 @@
 	* :doc:`/lost_omens/Deity/Other/More/Naderi`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
+	* :doc:`/lost_omens/Deity/Tian-God/Kofusachi`
+	* :doc:`/lost_omens/Deity/Tian-God/Nalinivati`

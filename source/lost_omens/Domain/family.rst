@@ -43,3 +43,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Walkena`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`
+	* :doc:`/lost_omens/Deity/Tian-God/Daikitsu`

@@ -24,7 +24,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Desna`,
 :doc:`/lost_omens/Deity/Other/More/Kitumu`,
-:doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+:doc:`/lost_omens/Deity/Old-Sun-God/Luhar`,
+:doc:`/lost_omens/Deity/Tian-God/Lady-Jingxi`
 
 ----------
 

@@ -991,4 +991,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
+:doc:`/lost_omens/Deity/Tian-God/Yamatsumi`

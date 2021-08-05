@@ -41,3 +41,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
 	* :doc:`/lost_omens/Deity/Other/More/Uvuko`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
+	* :doc:`/lost_omens/Deity/Tian-God/Daikitsu`

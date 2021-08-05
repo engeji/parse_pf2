@@ -589,6 +589,28 @@ Inner Sea Gods pg. 192
    Deity/Sarkorian-God/*
 
 
+.. rst-class:: lo-other-deity
+.. _Deities--Other--Tian-Gods:
+
+Тяньские боги (`Tian Gods <https://2e.aonprd.com/DeityCategories.aspx?ID=16>`_)
+----------------------------------------------------------------------------------------------------------
+
+**Источник**: Lost Omens: Gods & Magic pg. 132-133
+
+Этим богам в основном поклоняются народы с континента Тянь Ся.
+Еще к ним относятся: :doc:`/lost_omens/Deity/Other/Hei-Feng`, :doc:`/lost_omens/Deity/Other/Shizuru`, :doc:`/lost_omens/Deity/Other/Tsukiyo`.
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   
+   Deity/Tian-God/*
+
+
+
+
+
+
 
 
 

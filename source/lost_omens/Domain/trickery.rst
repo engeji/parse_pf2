@@ -42,3 +42,6 @@
 	* :doc:`/lost_omens/Deity/Other/More/Ahriman`
 	* :doc:`/lost_omens/Deity/Other/More/Erecura`
 	* :doc:`/lost_omens/Deity/Other/More/Thamir`
+	* :doc:`/lost_omens/Deity/Tian-God/Lao-Shu-Po`
+	* :doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`
+	* :doc:`/lost_omens/Deity/Tian-God/Yaezhing`

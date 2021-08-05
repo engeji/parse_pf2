@@ -26,3 +26,4 @@
 * :doc:`/lost_omens/Deity/Other/More/Uvuko`
 * :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
 * :doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`
+* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`

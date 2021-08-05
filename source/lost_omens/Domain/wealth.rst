@@ -31,3 +31,4 @@
     * :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`
     * :doc:`/lost_omens/Deity/Other/More/Hanspur`
     * :doc:`/lost_omens/Deity/Other/More/Thamir`
+    * :doc:`/lost_omens/Deity/Tian-God/Kofusachi`
