@@ -21,7 +21,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Chaldira`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Falayna`,
+:doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
 
 ----------
 

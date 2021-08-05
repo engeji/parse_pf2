@@ -30,7 +30,8 @@
 :doc:`/lost_omens/Deity/Queen-of-Night/Ardad-Lili`,
 :doc:`/lost_omens/Deity/Demon-Lord/Zura`,
 :doc:`/lost_omens/Deity/Eldest/The-Green-Mother`,
-:doc:`/lost_omens/Deity/Other/More/Ravithra`
+:doc:`/lost_omens/Deity/Other/More/Ravithra`,
+:doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
 
 ----------
 

@@ -21,3 +21,4 @@
 * :doc:`/lost_omens/Deity/Elemental-Lord/Hshurha`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
 * :doc:`/lost_omens/Deity/Other/More/Uvuko`
+* :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`

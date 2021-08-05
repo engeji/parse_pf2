@@ -25,3 +25,4 @@
 * :doc:`/lost_omens/Deity/Other/More/Green-Man`
 * :doc:`/lost_omens/Deity/Other/More/Uvuko`
 * :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
+* :doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`

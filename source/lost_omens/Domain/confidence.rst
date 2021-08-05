@@ -35,3 +35,4 @@
 	* :doc:`/lost_omens/Deity/Dwarven-God/Trudd`
 	* :doc:`/lost_omens/Deity/Other/More/Adanye`
 	* :doc:`/lost_omens/Deity/Other/More/Thamir`
+	* :doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`

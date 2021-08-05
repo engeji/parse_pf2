@@ -31,6 +31,8 @@
 
 **Царство**: Небесный Шрам (Джувумирак, Бездна)
 
+**Отношения**: :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis` (дочь)
+
 **Источник**:
 Lost Omens: Gods & Magic pg. 77,
 Book of the Damned pg. 65

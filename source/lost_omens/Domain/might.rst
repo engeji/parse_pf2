@@ -47,3 +47,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Green-Man`
 	* :doc:`/lost_omens/Deity/Other/More/Jaidi`
 	* :doc:`/lost_omens/Deity/Other/More/Ydersius`
+	* :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`

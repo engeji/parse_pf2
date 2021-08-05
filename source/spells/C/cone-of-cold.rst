@@ -18,7 +18,8 @@
 **Спасбросок**: простой Рефлекс
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
+:doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`,
+:doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`
 
 ----------
 

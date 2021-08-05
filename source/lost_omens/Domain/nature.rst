@@ -44,3 +44,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Jaidi`
 	* :doc:`/lost_omens/Deity/Other/More/Kalekot`
 	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
+	* :doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`

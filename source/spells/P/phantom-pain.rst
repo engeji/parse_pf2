@@ -28,7 +28,8 @@
 :doc:`/lost_omens/Deity/Other/Groetus`,
 :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`,
 :doc:`/lost_omens/Deity/Demon-Lord/Shax`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`,
+:doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`
 
 ----------
 

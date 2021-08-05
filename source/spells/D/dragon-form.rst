@@ -18,7 +18,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Other/More/Apsu`,
 :doc:`/lost_omens/Deity/Other/More/Dahak`,
-:doc:`/lost_omens/Deity/Other/More/Uvuko`
+:doc:`/lost_omens/Deity/Other/More/Uvuko`,
+:doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
 
 ----------
 

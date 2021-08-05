@@ -991,4 +991,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
+:doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`

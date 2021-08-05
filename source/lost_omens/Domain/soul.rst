@@ -23,3 +23,4 @@
 * :doc:`/lost_omens/Deity/Other/More/Ravithra`
 * :doc:`/lost_omens/Deity/Other/More/Zyphus`
 * :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+* :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`
