@@ -607,6 +607,25 @@ Inner Sea Gods pg. 192
    Deity/Tian-God/*
 
 
+.. rst-class:: lo-other-deity
+.. _Deities--Other--Vudrani-Gods:
+
+Вудранские боги (`Vudrani Gods <https://2e.aonprd.com/DeityCategories.aspx?ID=186>`_)
+----------------------------------------------------------------------------------------------------------
+
+**Источник**: Lost Omens: Gods & Magic pg. 132-133
+
+Этим богам в основном поклоняются жители Вудры.
+Вудранский пантеон является массивнейшим и по разным прикидкам насчитывает от 1.000 до 10.000 божеств с разными конфликтующими идеями.
+Еще к ним относятся: :doc:`/lost_omens/Deity/Core/Irori`, :doc:`/lost_omens/Deity/Other/Gruhastha`.
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   
+   Deity/Vudrani-God/*
+
+
 
 
 

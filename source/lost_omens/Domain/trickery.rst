@@ -45,3 +45,5 @@
 	* :doc:`/lost_omens/Deity/Tian-God/Lao-Shu-Po`
 	* :doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`
 	* :doc:`/lost_omens/Deity/Tian-God/Yaezhing`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Lahkgya`

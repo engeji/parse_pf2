@@ -16,7 +16,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`,
-:doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`,
+:doc:`/lost_omens/Deity/Vudrani-God/Diomazul`
 
 **Источник**: Lost Omens: Gods & Magic pg. 110
 

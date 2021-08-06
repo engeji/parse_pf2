@@ -415,6 +415,17 @@ Pathfinder #154: Siege of the Dinosaurs
 
 
 
+Pathfinder #158: Sixty Feet Under
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Daemon, Guardian from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Ian McDowall.
+
+**Pathfinder Adventure Path #158: Sixty Feet Under** © 2020, Paizo Inc.; Authors: Michael Sayre, with Saif Ansari, Leo Glass, Ron Lundeen, Jacob W. Michaels, Patrick Renie, and David N. Ross.
+
+
+
 Pathfinder #161: Belly of the Black Whale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

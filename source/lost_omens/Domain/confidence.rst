@@ -37,3 +37,5 @@
 	* :doc:`/lost_omens/Deity/Other/More/Thamir`
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
 	* :doc:`/lost_omens/Deity/Tian-God/General-Susumu`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ragdya`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Raumya`

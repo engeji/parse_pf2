@@ -991,4 +991,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Tian-God/Yamatsumi`
+:doc:`/lost_omens/Deity/Vudrani-God/Raumya`

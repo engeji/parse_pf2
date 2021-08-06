@@ -34,3 +34,4 @@
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
 	* :doc:`/lost_omens/Deity/Tian-God/Kofusachi`
 	* :doc:`/lost_omens/Deity/Tian-God/Nalinivati`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Likha`

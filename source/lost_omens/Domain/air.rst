@@ -31,3 +31,4 @@
 	* :doc:`/lost_omens/Deity/Horseman/Apollyon`
 	* :doc:`/lost_omens/Deity/Other/More/Uvuko`
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ragdya`

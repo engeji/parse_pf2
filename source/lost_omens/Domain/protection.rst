@@ -43,3 +43,5 @@
 	* :doc:`/lost_omens/Deity/Other/More/Balumbdar`
 	* :doc:`/lost_omens/Deity/Other/More/Green-Man`
 	* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Arundhat`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`

@@ -30,3 +30,4 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
 	* :doc:`/lost_omens/Deity/Other/More/Balumbdar`
 	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ragdya`

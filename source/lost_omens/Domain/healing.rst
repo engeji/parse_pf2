@@ -16,14 +16,19 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Pharasma`
-* :doc:`/lost_omens/Deity/Core/Sarenrae`
-* :doc:`/lost_omens/Deity/Elemental-Lord/Atreia`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
-* :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`
-* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`
-* :doc:`/lost_omens/Deity/Other/More/Green-Man`
-* :doc:`/lost_omens/Deity/Other/More/Uvuko`
-* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
-* :doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`
-* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
+.. hlist::
+	:columns: 2
+
+	* :doc:`/lost_omens/Deity/Core/Pharasma`
+	* :doc:`/lost_omens/Deity/Core/Sarenrae`
+	* :doc:`/lost_omens/Deity/Elemental-Lord/Atreia`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
+	* :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`
+	* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`
+	* :doc:`/lost_omens/Deity/Other/More/Green-Man`
+	* :doc:`/lost_omens/Deity/Other/More/Uvuko`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
+	* :doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`
+	* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Arundhat`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Chamidu`

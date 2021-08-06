@@ -21,7 +21,8 @@
 
 **Божества**:
 :ref:`Pantheon--Elven`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`,
+:doc:`/lost_omens/Deity/Vudrani-God/Arundhat`
 
 ----------
 

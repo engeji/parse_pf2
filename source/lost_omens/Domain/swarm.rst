@@ -24,3 +24,4 @@
 * :doc:`/lost_omens/Deity/Horseman/Apollyon`
 * :doc:`/lost_omens/Deity/Other/More/Kitumu`
 * :doc:`/lost_omens/Deity/Tian-God/Lao-Shu-Po`
+* :doc:`/lost_omens/Deity/Vudrani-God/Lahkgya`

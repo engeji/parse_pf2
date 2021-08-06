@@ -52,3 +52,6 @@
 	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
 	* :doc:`/lost_omens/Deity/Tian-God/Lady-Jingxi`
 	* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Likha`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Raumya`

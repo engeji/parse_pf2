@@ -47,3 +47,7 @@
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`
 	* :doc:`/lost_omens/Deity/Tian-God/Daikitsu`
 	* :doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Arundhat`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Chamidu`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Lahkgya`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Matravash`

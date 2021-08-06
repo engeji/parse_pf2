@@ -19,7 +19,9 @@
 **Продолжительность**: поддерживаемое вплоть до 1 минуты
 
 **Божества**:
-:doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`
+:doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`,
+:doc:`/lost_omens/Deity/Vudrani-God/Lahkgya`,
+:doc:`/lost_omens/Deity/Vudrani-God/Ragdya`
 
 **Источник**: Advanced Player's Guide pg. 222
 

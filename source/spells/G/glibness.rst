@@ -18,7 +18,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Grandmother-Spider`,
-:doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`,
+:doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`
 
 ----------
 

@@ -37,3 +37,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Lissala`
 	* :doc:`/lost_omens/Deity/Tian-God/Nalinivati`
 	* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Arundhat`

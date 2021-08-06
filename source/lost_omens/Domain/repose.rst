@@ -29,3 +29,4 @@
 	* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`
 	* :doc:`/lost_omens/Deity/Other/More/Adanye`
 	* :doc:`/lost_omens/Deity/Tian-God/Lady-Jingxi`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`

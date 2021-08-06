@@ -38,3 +38,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Apsu`
 	* :doc:`/lost_omens/Deity/Other/More/Hanspur`
 	* :doc:`/lost_omens/Deity/Tian-God/Kofusachi`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Matravash`

@@ -42,3 +42,4 @@
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`
 	* :doc:`/lost_omens/Deity/Tian-God/Daikitsu`
 	* :doc:`/lost_omens/Deity/Tian-God/Lady-Jingxi`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Likha`

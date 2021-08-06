@@ -51,3 +51,6 @@
 	* :doc:`/lost_omens/Deity/Tian-God/General-Susumu`
 	* :doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`
 	* :doc:`/lost_omens/Deity/Tian-God/Yamatsumi`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ragdya`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Raumya`

@@ -17,7 +17,9 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`,
-:doc:`/lost_omens/Deity/Elven-God/Yuelral`
+:doc:`/lost_omens/Deity/Elven-God/Yuelral`,
+:doc:`/lost_omens/Deity/Vudrani-God/Arundhat`,
+:doc:`/lost_omens/Deity/Vudrani-God/Matravash`
 
 ----------
 

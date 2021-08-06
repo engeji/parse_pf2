@@ -32,3 +32,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Naderi`
 	* :doc:`/lost_omens/Deity/Other/More/Ravithra`
 	* :doc:`/lost_omens/Deity/Other/More/Zyphus`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Likha`

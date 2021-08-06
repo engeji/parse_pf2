@@ -30,3 +30,4 @@
 	* :doc:`/lost_omens/Deity/Elven-God/Ketephys`
 	* :doc:`/lost_omens/Deity/Other/More/Erecura`
 	* :doc:`/lost_omens/Deity/Other/More/Kalekot`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`

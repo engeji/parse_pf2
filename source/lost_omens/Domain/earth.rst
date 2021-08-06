@@ -35,3 +35,5 @@
 	* :doc:`/lost_omens/Deity/Other/More/Gendowyn`
 	* :doc:`/lost_omens/Deity/Tian-God/Fumeiyoshi`
 	* :doc:`/lost_omens/Deity/Tian-God/Yamatsumi`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Diomazul`

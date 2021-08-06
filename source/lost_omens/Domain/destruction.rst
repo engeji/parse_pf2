@@ -53,3 +53,5 @@
 	* :doc:`/lost_omens/Deity/Tian-God/Fumeiyoshi`
 	* :doc:`/lost_omens/Deity/Tian-God/General-Susumu`
 	* :doc:`/lost_omens/Deity/Tian-God/Lady-Nanbyo`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Diomazul`

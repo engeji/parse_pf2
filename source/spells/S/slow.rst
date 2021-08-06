@@ -21,7 +21,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Korada`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Korada`,
+:doc:`/lost_omens/Deity/Vudrani-God/Matravash`
 
 ----------
 

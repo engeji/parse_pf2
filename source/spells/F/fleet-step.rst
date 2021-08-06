@@ -19,7 +19,8 @@
 :doc:`/lost_omens/Deity/Other/Chaldira`,
 :doc:`/lost_omens/Deity/Archdevil/Baalzebul`,
 :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`,
-:doc:`/lost_omens/Deity/Other/More/Uvuko`
+:doc:`/lost_omens/Deity/Other/More/Uvuko`,
+:doc:`/lost_omens/Deity/Vudrani-God/Lahkgya`
 
 ----------
 
