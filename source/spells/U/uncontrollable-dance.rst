@@ -24,7 +24,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`,
-:doc:`/lost_omens/Deity/Tian-God/Kofusachi`
+:doc:`/lost_omens/Deity/Tian-God/Kofusachi`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Hathor`
 
 ----------
 

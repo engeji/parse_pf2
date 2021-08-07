@@ -33,3 +33,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Ydersius`
 	* :doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Lahkgya`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sekhmet`

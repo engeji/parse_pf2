@@ -26,3 +26,6 @@
 * :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
 * :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
 * :doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Hathor`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Horus`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Ra`

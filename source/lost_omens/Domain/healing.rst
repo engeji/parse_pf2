@@ -32,3 +32,7 @@
 	* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Arundhat`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Chamidu`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sekhmet`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Selket`

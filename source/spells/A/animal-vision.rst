@@ -21,7 +21,9 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`,
-:doc:`/lost_omens/Deity/Elven-God/Ketephys`
+:doc:`/lost_omens/Deity/Elven-God/Ketephys`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Bastet`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
 
 ----------
 

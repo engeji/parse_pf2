@@ -35,3 +35,5 @@
 	* :doc:`/lost_omens/Deity/Tian-God/Lady-Nanbyo`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Diomazul`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Matravash`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sobek`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`

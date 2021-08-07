@@ -37,3 +37,4 @@
 	* :doc:`/lost_omens/Deity/Tian-God/Yamatsumi`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Diomazul`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bes`

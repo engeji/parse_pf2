@@ -47,3 +47,4 @@
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
 	* :doc:`/lost_omens/Deity/Tian-God/General-Susumu`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Diomazul`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`

@@ -17,7 +17,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/More/Mazludeh`,
-:doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`
+:doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Anubis`
 
 ----------
 

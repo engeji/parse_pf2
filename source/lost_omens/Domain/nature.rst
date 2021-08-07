@@ -51,3 +51,7 @@
 	* :doc:`/lost_omens/Deity/Vudrani-God/Chamidu`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Lahkgya`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Matravash`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bastet`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Ra`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Selket`

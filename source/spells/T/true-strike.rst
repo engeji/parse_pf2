@@ -29,7 +29,8 @@
 :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`,
 :doc:`/lost_omens/Deity/Tian-God/General-Susumu`,
 :doc:`/lost_omens/Deity/Tian-God/Yaezhing`,
-:doc:`/lost_omens/Deity/Vudrani-God/Raumya`
+:doc:`/lost_omens/Deity/Vudrani-God/Raumya`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Sekhmet`
 
 ----------
 

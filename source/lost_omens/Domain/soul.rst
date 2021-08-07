@@ -24,3 +24,5 @@
 * :doc:`/lost_omens/Deity/Other/More/Zyphus`
 * :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
 * :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Anubis`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`

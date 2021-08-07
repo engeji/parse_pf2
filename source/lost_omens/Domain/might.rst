@@ -54,3 +54,5 @@
 	* :doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Ragdya`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Raumya`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sekhmet`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sobek`

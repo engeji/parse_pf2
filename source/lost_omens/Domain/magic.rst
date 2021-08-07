@@ -38,3 +38,6 @@
 	* :doc:`/lost_omens/Deity/Tian-God/Nalinivati`
 	* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Arundhat`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Selket`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Thoth`

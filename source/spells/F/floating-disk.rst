@@ -16,7 +16,8 @@
 **Продолжительность**: 8 часов
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Casandalee`
+:doc:`/lost_omens/Deity/Other/Casandalee`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Horus`
 
 ----------
 

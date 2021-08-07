@@ -21,7 +21,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`,
-:doc:`/lost_omens/Deity/Vudrani-God/Chamidu`
+:doc:`/lost_omens/Deity/Vudrani-God/Chamidu`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Sekhmet`
 
 ----------
 

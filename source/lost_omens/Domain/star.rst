@@ -22,3 +22,4 @@
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
 * :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
 * :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Maat`

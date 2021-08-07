@@ -22,3 +22,5 @@
 * :doc:`/lost_omens/Deity/Other/Tsukiyo`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`
 * :doc:`/lost_omens/Deity/Elven-God/Ketephys`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Horus`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Thoth`

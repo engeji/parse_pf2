@@ -18,7 +18,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Tian-God/General-Susumu`
+:doc:`/lost_omens/Deity/Tian-God/General-Susumu`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Horus`
 
 ----------
 

@@ -37,3 +37,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Naderi`
 	* :doc:`/lost_omens/Deity/Other/More/Zyphus`
 	* :doc:`/lost_omens/Deity/Tian-God/Yaezhing`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Anubis`

@@ -55,3 +55,5 @@
 	* :doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Likha`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Raumya`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Maat`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Thoth`

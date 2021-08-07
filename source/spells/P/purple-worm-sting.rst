@@ -21,7 +21,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Eldest/Ragadahn`,
-:doc:`/lost_omens/Deity/Other/More/Ydersius`
+:doc:`/lost_omens/Deity/Other/More/Ydersius`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Selket`
 
 ----------
 

@@ -24,7 +24,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`,
-:doc:`/lost_omens/Deity/Tian-God/Kofusachi`
+:doc:`/lost_omens/Deity/Tian-God/Kofusachi`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Bes`
 
 ----------
 

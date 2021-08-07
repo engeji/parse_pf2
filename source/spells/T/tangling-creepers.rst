@@ -22,7 +22,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`,
 :doc:`/lost_omens/Deity/Elven-God/Yuelral`,
-:doc:`/lost_omens/Deity/Other/More/Green-Man`
+:doc:`/lost_omens/Deity/Other/More/Green-Man`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`
 
 ----------
 

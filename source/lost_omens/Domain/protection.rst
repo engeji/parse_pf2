@@ -45,3 +45,11 @@
 	* :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Arundhat`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Anubis`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bastet`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bes`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Horus`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Maat`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Selket`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sobek`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`

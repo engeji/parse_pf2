@@ -20,7 +20,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Sarenrae`,
 :doc:`/lost_omens/Deity/Elemental-Lord/Ymeri`,
-:doc:`/lost_omens/Deity/Other/More/Walkena`
+:doc:`/lost_omens/Deity/Other/More/Walkena`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Sekhmet`
 
 ----------
 

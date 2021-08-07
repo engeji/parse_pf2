@@ -22,7 +22,8 @@
 :doc:`/lost_omens/Deity/Core/Desna`,
 :doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`,
 :doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`
 
 ----------
 

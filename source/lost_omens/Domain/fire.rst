@@ -37,3 +37,4 @@
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
 	* :doc:`/lost_omens/Deity/Tian-God/Lady-Nanbyo`
 	* :doc:`/lost_omens/Deity/Tian-God/Yamatsumi`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Ra`

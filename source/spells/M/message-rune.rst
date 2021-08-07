@@ -24,7 +24,8 @@
 :doc:`/lost_omens/Deity/Archdevil/Mephistopheles`,
 :doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`,
 :ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`,
-:doc:`/lost_omens/Deity/Other/More/Lissala`
+:doc:`/lost_omens/Deity/Other/More/Lissala`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Thoth`
 
 **Источник**: Lost Omens: Gods & Magic pg. 108
 

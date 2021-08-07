@@ -32,7 +32,10 @@
 :doc:`/lost_omens/Deity/Other/More/Naderi`,
 :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`,
 :doc:`/lost_omens/Deity/Tian-God/Kofusachi`,
-:doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
+:doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Selket`
 
 ----------
 

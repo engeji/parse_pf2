@@ -27,3 +27,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Gendowyn`
 	* :doc:`/lost_omens/Deity/Tian-God/Kofusachi`
 	* :doc:`/lost_omens/Deity/Tian-God/Lao-Shu-Po`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bes`

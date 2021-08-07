@@ -17,7 +17,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Grandmother-Spider`,
-:doc:`/lost_omens/Deity/Tian-God/Daikitsu`
+:doc:`/lost_omens/Deity/Tian-God/Daikitsu`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Bastet`
 
 ----------
 

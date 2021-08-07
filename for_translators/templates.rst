@@ -991,4 +991,4 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Vudrani-God/Raumya`
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`

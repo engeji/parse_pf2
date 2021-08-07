@@ -21,7 +21,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Gruhastha`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Eritrice`,
-:doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Winlas`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Thoth`
 
 ----------
 

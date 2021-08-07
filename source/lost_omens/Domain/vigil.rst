@@ -31,3 +31,4 @@
 	* :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Anubis`

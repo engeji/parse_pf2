@@ -19,7 +19,8 @@
 :doc:`/lost_omens/Deity/Other/Milani`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`,
-:doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`
 
 ----------
 

@@ -44,3 +44,6 @@
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`
 	* :doc:`/lost_omens/Deity/Tian-God/Daikitsu`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bes`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Hathor`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`

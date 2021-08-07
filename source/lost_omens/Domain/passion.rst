@@ -35,3 +35,6 @@
 	* :doc:`/lost_omens/Deity/Tian-God/Kofusachi`
 	* :doc:`/lost_omens/Deity/Tian-God/Nalinivati`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Likha`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bastet`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Hathor`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`

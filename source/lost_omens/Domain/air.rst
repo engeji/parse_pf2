@@ -32,3 +32,4 @@
 	* :doc:`/lost_omens/Deity/Other/More/Uvuko`
 	* :doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Ragdya`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Horus`

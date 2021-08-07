@@ -16,7 +16,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Urgathoa`,
-:doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`
+:doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`
 
 ----------
 
