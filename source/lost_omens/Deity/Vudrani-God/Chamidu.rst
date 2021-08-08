@@ -27,7 +27,7 @@
 
 **Источник**:
 Lost Omens: Gods & Magic pg. 132-133;
-Escape from Old Korvosa, p. 33, 37
+Escape from Old Korvosa pg. 33, 37
 
 
 Преимущества последователя (Devotee Benefits)

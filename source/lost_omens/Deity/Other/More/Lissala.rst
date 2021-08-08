@@ -34,8 +34,8 @@
 
 **Источник**:
 Lost Omens: Gods & Magic pg. 130-131,
-The Flooded Cathedral, p. 71,
-Burnt Offerings, p. 73
+The Flooded Cathedral pg. 71,
+Burnt Offerings pg. 73
 
 
 Преимущества последователя (Devotee Benefits)

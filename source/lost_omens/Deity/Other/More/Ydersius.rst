@@ -38,7 +38,7 @@
 
 **Источник**:
 Bestiary 2 pg. 237,
-Sanctum of the Serpent God, p. 67
+Sanctum of the Serpent God pg. 67
 
 
 Преимущества последователя (Devotee Benefits)

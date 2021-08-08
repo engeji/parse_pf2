@@ -33,7 +33,7 @@
 
 **Источник**:
 The Mwangi Expanse pg. 158,
-Sanctum of the Serpent God, p. 72
+Sanctum of the Serpent God pg. 72
 
 
 Преимущества последователя (Devotee Benefits)

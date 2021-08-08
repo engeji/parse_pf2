@@ -38,8 +38,8 @@
 
 **Источник**:
 Lost Omens: Gods & Magic pg. 130-131,
-Pathfinder Chronicles Campaign Setting, p. 172,
-The Inner Sea World Guide, p. 230
+Pathfinder Chronicles Campaign Setting pg. 172,
+The Inner Sea World Guide pg. 230
 
 
 Преимущества последователя (Devotee Benefits)

@@ -34,7 +34,7 @@
 
 **Источник**:
 Lost Omens: Gods & Magic pg. 132-133,
-Distant Shores, p. 42
+Distant Shores pg. 42
 
 
 Преимущества последователя (Devotee Benefits)
