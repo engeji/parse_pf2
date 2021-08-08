@@ -56,3 +56,8 @@
 	* :doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Diomazul`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sekhmet`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`

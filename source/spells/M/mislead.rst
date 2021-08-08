@@ -24,6 +24,9 @@
 :doc:`/lost_omens/Deity/Tian-God/Yaezhing`,
 :doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`
+
 ----------
 
 Вы становитесь невидимым и создаете иллюзорную копию самого себя.

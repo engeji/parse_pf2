@@ -25,6 +25,9 @@
 :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`,
 :doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Sky-Keepers`
+
 ----------
 
 Цель может парить в воздухе, получая Скорость полета, равную ее Скорости или 20 футов, в зависимости от того, что больше.

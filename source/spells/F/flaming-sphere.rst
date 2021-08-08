@@ -26,6 +26,9 @@
 :doc:`/lost_omens/Deity/Other/More/Lubaiko`,
 :doc:`/lost_omens/Deity/Ancient-Osirian-God/Ra`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/The-Path-of-the-Heavens`
+
 ----------
 
 Вы создаете сферу пламени в квадрате в пределах дистанции.

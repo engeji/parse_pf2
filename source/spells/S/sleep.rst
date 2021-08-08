@@ -28,6 +28,9 @@
 :doc:`/lost_omens/Deity/Tian-God/Lady-Jingxi`,
 :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bes`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/The-Prismatic-Ray`
+
 ----------
 
 Каждое существо в области становится сонным и может уснуть.

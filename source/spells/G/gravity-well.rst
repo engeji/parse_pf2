@@ -21,6 +21,9 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/The-Path-of-the-Heavens`
+
 **Источник**: Lost Omens: Gods & Magic pg. 108
 
 ----------

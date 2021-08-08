@@ -20,6 +20,9 @@
 :doc:`/lost_omens/Deity/Archdevil/Moloch`,
 :doc:`/lost_omens/Deity/Other/More/Lubaiko`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`
+
 ----------
 
 Вы становитесь живым пламенем, что дает вам иммунитет к огню, сопротивление 10 точному урону, и слабость 5 к холоду и воде.

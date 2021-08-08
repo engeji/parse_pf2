@@ -23,6 +23,9 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Tian-God/Nalinivati`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Sky-Keepers`
+
 ----------
 
 Массивная грозовая туча формируется в воздухе в 360-футовом взрыве.

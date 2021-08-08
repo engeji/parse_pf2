@@ -38,3 +38,8 @@
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bastet`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Hathor`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`

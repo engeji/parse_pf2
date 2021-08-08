@@ -20,7 +20,6 @@
 	:columns: 2
 
 	* :doc:`/lost_omens/Deity/Core/Pharasma`
-	* :ref:`Pantheon--Cosmic-Caravan`
 	* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
 	* :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
 	* :doc:`/lost_omens/Deity/Eldest/Magdh`
@@ -37,3 +36,8 @@
 	* :doc:`/lost_omens/Deity/Other/More/Lissala`
 	* :doc:`/lost_omens/Deity/Other/More/Ravithra`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Cosmic-Caravan`

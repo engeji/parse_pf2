@@ -21,6 +21,9 @@
 :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`,
 :doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Pillars-of-Knowledge`
+
 ----------
 
 Вы быстро каталогизируете и сопоставляете информацию, относящуюся к вашей текущей ситуации.

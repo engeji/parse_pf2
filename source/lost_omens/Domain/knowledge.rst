@@ -57,3 +57,9 @@
 	* :doc:`/lost_omens/Deity/Vudrani-God/Raumya`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Maat`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Thoth`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Wards-of-the-Pharaoh`
+* :doc:`/lost_omens/Deity/Pantheon/Pillars-of-Knowledge`

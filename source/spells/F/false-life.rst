@@ -19,6 +19,9 @@
 :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`,
 :doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`
+
 ----------
 
 Вы создаете резервуар жизненной силы из некромантской энергии, получая временные Очки Здоровья, в количестве 6 + ваш модификатор характеристики колдовства.

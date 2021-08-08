@@ -22,6 +22,9 @@
 :doc:`/lost_omens/Deity/Other/Groetus`,
 :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Wards-of-the-Pharaoh`
+
 ----------
 
 Потрескивающая энергия разъединяет цель и магию в ней.

@@ -24,8 +24,6 @@
 	* :doc:`/lost_omens/Deity/Core/Erastil`
 	* :doc:`/lost_omens/Deity/Core/Iomedae`
 	* :doc:`/lost_omens/Deity/Core/Torag`
-	* :ref:`Pantheon--Dwarven`
-	* :ref:`Pantheon--The-Godclaw`
 	* :doc:`/lost_omens/Deity/Other/Shizuru`
 	* :doc:`/lost_omens/Deity/Archdevil/Dispater`
 	* :doc:`/lost_omens/Deity/Archdevil/Moloch`
@@ -42,3 +40,10 @@
 	* :doc:`/lost_omens/Deity/Other/More/Walkena`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
 	* :doc:`/lost_omens/Deity/Tian-God/Yaezhing`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Dwarven`
+* :doc:`/lost_omens/Deity/Pantheon/The-Godclaw`
+* :doc:`/lost_omens/Deity/Pantheon/Demon-Bringers`

@@ -26,6 +26,9 @@
 :doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`,
 :doc:`/lost_omens/Deity/Ancient-Osirian-God/Maat`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Wards-of-the-Pharaoh`
+
 ----------
 
 Вы создаете неподвижную сферу из силы, чтобы либо поймать, либо защитить цель, блокируя все, что пройдет через сферу.

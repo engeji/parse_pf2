@@ -35,7 +35,7 @@
 
 **Источник**:
 Lost Omens: Gods & Magic pg. 132-133,
-Faiths of Golarion, pg. 27
+Faiths of Golarion pg. 27
 
 
 Преимущества последователя (Devotee Benefits)

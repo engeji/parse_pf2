@@ -36,7 +36,7 @@
 
 **Источник**:
 Lost Omens: Gods & Magic pg. 132-133,
-Dragon Empires Gazetteer, pg. 62
+Dragon Empires Gazetteer pg. 62
 
 .. versionchanged:: /errata-LOGM-2
 	В анафему добавлено уточнение "**живого** существа", чтобы не бояться нарушить анафему при сражении с конструктами или нежитью.

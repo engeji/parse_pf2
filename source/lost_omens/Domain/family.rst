@@ -23,7 +23,6 @@
 	* :doc:`/lost_omens/Deity/Core/Lamashtu`
 	* :doc:`/lost_omens/Deity/Core/Shelyn`
 	* :doc:`/lost_omens/Deity/Core/Torag`
-	* :ref:`Pantheon--Dwarven`
 	* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
 	* :doc:`/lost_omens/Deity/Other/Kazutal`
 	* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
@@ -47,3 +46,11 @@
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bes`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Hathor`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Dwarven`
+* :doc:`/lost_omens/Deity/Pantheon/The-Prismatic-Ray`
+* :doc:`/lost_omens/Deity/Pantheon/Wards-of-the-Pharaoh`
+* :doc:`/lost_omens/Deity/Pantheon/Demon-Bringers`
+* :doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`

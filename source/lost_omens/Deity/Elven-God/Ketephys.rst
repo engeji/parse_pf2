@@ -37,7 +37,7 @@
 
 **Источник**:
 Lost Omens: Gods & Magic pg. 128-129,
-Gods and Magic (2008), pg. 48
+Gods and Magic (2008) pg. 48
 
 
 Преимущества последователя (Devotee Benefits)

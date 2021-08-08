@@ -40,3 +40,9 @@
 	* :doc:`/lost_omens/Deity/Tian-God/Kofusachi`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Matravash`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/The-Prismatic-Ray`
+* :doc:`/lost_omens/Deity/Pantheon/The-Path-of-the-Heavens`

@@ -31,3 +31,8 @@
 	* :doc:`/lost_omens/Deity/Other/More/Erecura`
 	* :doc:`/lost_omens/Deity/Other/More/Kalekot`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Pillars-of-Knowledge`

@@ -34,7 +34,7 @@
 
 **Источник**:
 Lost Omens: Gods & Magic pg. 132-133,
-Dragon Empires Gazetteer, pg. 60
+Dragon Empires Gazetteer pg. 60
 
 
 Преимущества последователя (Devotee Benefits)

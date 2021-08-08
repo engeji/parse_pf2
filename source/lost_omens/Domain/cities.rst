@@ -31,3 +31,8 @@
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Matravash`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Demon-Bringers`

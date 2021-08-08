@@ -991,4 +991,11 @@
 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`
+:doc:`/lost_omens/Deity/Pantheon/TITLE`
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/The-Path-of-the-Heavens`
+
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/The-Path-of-the-Heavens`

@@ -42,7 +42,7 @@
 
 **Источник**:
 Lost Omens: Gods & Magic pg. 130-131,
-Inner Sea Faiths, pg. 36
+Inner Sea Faiths pg. 36
 
 
 Преимущества последователя (Devotee Benefits)

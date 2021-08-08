@@ -22,3 +22,8 @@
 * :doc:`/lost_omens/Deity/Eldest/Shyka`
 * :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Yog-Sothoth`
 * :doc:`/lost_omens/Deity/Ancient-Osirian-God/Ra`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Pillars-of-Knowledge`

@@ -37,6 +37,10 @@
 :doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`,
 :doc:`/lost_omens/Deity/Ancient-Osirian-God/Selket`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Wards-of-the-Pharaoh`,
+:doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`
+
 ----------
 
 Вы успокаиваете разум цели, повышая ее ментальную защиту и исцеляя ее раны.

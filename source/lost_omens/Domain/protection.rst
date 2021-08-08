@@ -22,8 +22,6 @@
 	* :doc:`/lost_omens/Deity/Core/Nethys`
 	* :doc:`/lost_omens/Deity/Core/Shelyn`
 	* :doc:`/lost_omens/Deity/Core/Torag`
-	* :ref:`Pantheon--Dwarven`
-	* :ref:`Pantheon--The-Godclaw`
 	* :doc:`/lost_omens/Deity/Other/Alseta`
 	* :doc:`/lost_omens/Deity/Other/Arazni`
 	* :doc:`/lost_omens/Deity/Other/Kazutal`
@@ -53,3 +51,14 @@
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Selket`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sobek`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Dwarven`
+* :doc:`/lost_omens/Deity/Pantheon/The-Godclaw`
+* :doc:`/lost_omens/Deity/Pantheon/The-Prismatic-Ray`
+* :doc:`/lost_omens/Deity/Pantheon/Wards-of-the-Pharaoh`
+* :doc:`/lost_omens/Deity/Pantheon/Demon-Bringers`
+* :doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`
+* :doc:`/lost_omens/Deity/Pantheon/Sky-Keepers`

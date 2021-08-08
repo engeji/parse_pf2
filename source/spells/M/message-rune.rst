@@ -27,6 +27,9 @@
 :doc:`/lost_omens/Deity/Other/More/Lissala`,
 :doc:`/lost_omens/Deity/Ancient-Osirian-God/Thoth`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Pillars-of-Knowledge`
+
 **Источник**: Lost Omens: Gods & Magic pg. 108
 
 ----------

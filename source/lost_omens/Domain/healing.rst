@@ -36,3 +36,10 @@
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sekhmet`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Selket`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/The-Prismatic-Ray`
+* :doc:`/lost_omens/Deity/Pantheon/Wards-of-the-Pharaoh`
+* :doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`

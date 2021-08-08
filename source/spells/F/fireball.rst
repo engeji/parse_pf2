@@ -27,6 +27,10 @@
 :doc:`/lost_omens/Deity/Other/More/Walkena`,
 :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/The-Prismatic-Ray`,
+:doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`
+
 ----------
 
 Ревущий взрыв огня появляется в указанном месте, нанося 6d6 огненного урона.

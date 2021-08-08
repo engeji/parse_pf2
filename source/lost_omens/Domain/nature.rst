@@ -21,7 +21,6 @@
 
 	* :doc:`/lost_omens/Deity/Core/Erastil`
 	* :doc:`/lost_omens/Deity/Core/Gozreh`
-	* :ref:`Pantheon--Elven`
 	* :doc:`/lost_omens/Deity/Other/Gruhastha`
 	* :doc:`/lost_omens/Deity/Archdevil/Barbatos`
 	* :doc:`/lost_omens/Deity/Demon-Lord/Angazhan`
@@ -55,3 +54,8 @@
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Ra`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Selket`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Elven`

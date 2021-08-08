@@ -38,7 +38,7 @@
 
 **Источник**:
 Lost Omens: Gods & Magic pg. 130-131,
-Distant Realms, pg. 20
+Distant Realms pg. 20
 
 
 Преимущества последователя (Devotee Benefits)

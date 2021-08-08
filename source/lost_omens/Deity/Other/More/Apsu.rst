@@ -43,7 +43,7 @@
 
 **Источник**:
 Lost Omens: Gods & Magic pg. 130-131,
-Inner Sea Faiths, pg. 18
+Inner Sea Faiths pg. 18
 
 .. versionchanged:: /errata-LOGM-2
 	Апсу бог всех добрых драконов, поэтому мировоззрения дополнены NG, CG.

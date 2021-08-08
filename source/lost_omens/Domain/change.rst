@@ -43,3 +43,10 @@
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
 	* :doc:`/lost_omens/Deity/Tian-God/Daikitsu`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`
+* :doc:`/lost_omens/Deity/Pantheon/Sky-Keepers`
+* :doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`

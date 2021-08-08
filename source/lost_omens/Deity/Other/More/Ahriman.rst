@@ -38,7 +38,7 @@
 
 **Источник**:
 Bestiary 3 pg. 68,
-Book of the Damned, pg. 12
+Book of the Damned pg. 12
 
 
 Преимущества последователя (Devotee Benefits)

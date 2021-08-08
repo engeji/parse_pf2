@@ -20,9 +20,11 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:ref:`Pantheon--Elven`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Andoletta`,
 :doc:`/lost_omens/Deity/Vudrani-God/Arundhat`
+
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Elven`
 
 ----------
 

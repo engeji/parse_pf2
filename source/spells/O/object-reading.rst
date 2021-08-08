@@ -16,10 +16,10 @@
 
 **Цели**: 1 объект
 
-**Источник**: Advanced Player's Guide pg. 222, Pathfinder #147: Tomorrow Must Burn pg. 74
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Cosmic-Caravan`
 
-**Божества**:
-:ref:`Pantheon--Cosmic-Caravan`
+**Источник**: Advanced Player's Guide pg. 222, Pathfinder #147: Tomorrow Must Burn pg. 74
 
 ----------
 

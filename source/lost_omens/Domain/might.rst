@@ -56,3 +56,9 @@
 	* :doc:`/lost_omens/Deity/Vudrani-God/Raumya`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sekhmet`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sobek`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Demon-Bringers`
+* :doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`

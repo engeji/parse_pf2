@@ -20,7 +20,6 @@
 	:columns: 2
 
 	* :doc:`/lost_omens/Deity/Core/Irori`
-	* :ref:`Pantheon--The-Godclaw`
 	* :doc:`/lost_omens/Deity/Other/Casandalee`
 	* :doc:`/lost_omens/Deity/Other/Gruhastha`
 	* :doc:`/lost_omens/Deity/Other/Shizuru`
@@ -31,3 +30,9 @@
 	* :doc:`/lost_omens/Deity/Other/More/Balumbdar`
 	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
 	* :doc:`/lost_omens/Deity/Vudrani-God/Ragdya`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/The-Godclaw`
+* :doc:`/lost_omens/Deity/Pantheon/Pillars-of-Knowledge`

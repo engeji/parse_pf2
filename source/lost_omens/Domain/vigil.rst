@@ -32,3 +32,8 @@
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Anubis`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`

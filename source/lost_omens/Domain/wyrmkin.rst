@@ -29,3 +29,8 @@
 	* :doc:`/lost_omens/Deity/Other/More/Uvuko`
 	* :doc:`/lost_omens/Deity/Tian-God/Nalinivati`
 	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sobek`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Sky-Keepers`

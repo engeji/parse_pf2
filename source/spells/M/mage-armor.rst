@@ -22,6 +22,9 @@
 :doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`,
 :doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Demon-Bringers`
+
 ----------
 
 Вы защищаете себя мерцающей магической энергией, получая бонус предмета +1 к КБ и максимальным модификатором Ловкости +5.
