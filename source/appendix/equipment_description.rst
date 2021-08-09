@@ -760,7 +760,7 @@
 
 - :uncommon:`необычный`
 
-**Доступ**: Персонаж является членом "Общества Pathfinder"
+**Доступ**: Персонаж является членом :ref:`Общества Pathfinder <Faction--Pathfinder-Society>`
 
 **Источник**: Lost Omens: Character Guide pg. 110
 

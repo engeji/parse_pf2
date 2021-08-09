@@ -597,7 +597,7 @@ remove disease: вылечить болезнь
 rune: руна
 	fundamental: основная
 	striking rune: разящая руна
-		greater: большая
+		greater: отличная
 		major: старшая
 	potency rune +1/2/3: руна мощи +1/2/3
 	resilient: стойкости
