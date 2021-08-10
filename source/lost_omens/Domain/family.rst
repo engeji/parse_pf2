@@ -23,7 +23,6 @@
 	* :doc:`/lost_omens/Deity/Core/Lamashtu`
 	* :doc:`/lost_omens/Deity/Core/Shelyn`
 	* :doc:`/lost_omens/Deity/Core/Torag`
-	* :ref:`Pantheon--Dwarven`
 	* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
 	* :doc:`/lost_omens/Deity/Other/Kazutal`
 	* :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`
@@ -35,3 +34,23 @@
 	* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Folgrit`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
+	* :doc:`/lost_omens/Deity/Other/More/Adanye`
+	* :doc:`/lost_omens/Deity/Other/More/Followers-of-Fate`
+	* :doc:`/lost_omens/Deity/Other/More/Gendowyn`
+	* :doc:`/lost_omens/Deity/Other/More/Jaidi`
+	* :doc:`/lost_omens/Deity/Other/More/Mazludeh`
+	* :doc:`/lost_omens/Deity/Other/More/Walkena`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
+	* :doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`
+	* :doc:`/lost_omens/Deity/Tian-God/Daikitsu`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bes`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Hathor`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Dwarven`
+* :doc:`/lost_omens/Deity/Pantheon/The-Prismatic-Ray`
+* :doc:`/lost_omens/Deity/Pantheon/Wards-of-the-Pharaoh`
+* :doc:`/lost_omens/Deity/Pantheon/Demon-Bringers`
+* :doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`

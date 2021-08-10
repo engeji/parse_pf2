@@ -25,6 +25,9 @@
 :doc:`/lost_omens/Deity/Demon-Lord/Pazuzu`,
 :doc:`/lost_omens/Deity/Elemental-Lord/Hshurha`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Sky-Keepers`
+
 ----------
 
 Сильный ветер исходит из вашей ладони, дуя от точки, где вы находитесь на момент сотворения этого заклинания до противоположного конца линии.

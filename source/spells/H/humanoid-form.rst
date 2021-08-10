@@ -18,7 +18,9 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Archdevil/Belial`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Arshea`,
-:ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`
+:ref:`Ньярлатотеп (Ползучий Хаос) (Nyarlathotep) <Deity--Nyarlathotep--The-Crawling-Chaos>`,
+:doc:`/lost_omens/Deity/Tian-God/Daikitsu`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
 
 ----------
 

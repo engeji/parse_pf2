@@ -29,3 +29,17 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Lymnieris`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`
+	* :doc:`/lost_omens/Deity/Other/More/Naderi`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
+	* :doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
+	* :doc:`/lost_omens/Deity/Tian-God/Kofusachi`
+	* :doc:`/lost_omens/Deity/Tian-God/Nalinivati`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Likha`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bastet`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Hathor`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`

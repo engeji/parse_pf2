@@ -15,6 +15,13 @@
 
 **Продолжительность**: 1 минута
 
+**Божества**:
+:doc:`/lost_omens/Deity/Other/More/Apsu`,
+:doc:`/lost_omens/Deity/Other/More/Dahak`,
+:doc:`/lost_omens/Deity/Other/More/Uvuko`,
+:doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`,
+:doc:`/lost_omens/Deity/Tian-God/Lady-Nanbyo`
+
 ----------
 
 Взывая к мощной превращающей магии, вы получаете боевую формой дракона большого размера.

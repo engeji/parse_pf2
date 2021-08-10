@@ -21,3 +21,5 @@
 * :doc:`/lost_omens/Deity/Archdevil/Mammon`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`
 * :doc:`/lost_omens/Deity/Dwarven-God/Droskar`
+* :doc:`/lost_omens/Deity/Other/More/Lissala`
+* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`

@@ -39,3 +39,12 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Ydajisk`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nyarlathotep`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`
+	* :doc:`/lost_omens/Deity/Other/More/Ahriman`
+	* :doc:`/lost_omens/Deity/Other/More/Erecura`
+	* :doc:`/lost_omens/Deity/Other/More/Thamir`
+	* :doc:`/lost_omens/Deity/Tian-God/Lao-Shu-Po`
+	* :doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`
+	* :doc:`/lost_omens/Deity/Tian-God/Yaezhing`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Lahkgya`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Bastet`

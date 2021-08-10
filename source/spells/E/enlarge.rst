@@ -25,7 +25,8 @@
 :doc:`/lost_omens/Deity/Core/Rovagug`,
 :doc:`/lost_omens/Deity/Other/Kurgess`,
 :doc:`/lost_omens/Deity/Demon-Lord/Baphomet`,
-:doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`
+:doc:`/lost_omens/Deity/Demon-Lord/Kostchtchie`,
+:doc:`/lost_omens/Deity/Other/More/Balumbdar`
 
 ----------
 

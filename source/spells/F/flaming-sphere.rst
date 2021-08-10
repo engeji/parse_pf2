@@ -22,7 +22,12 @@
 **Продолжительность**: поддерживаемое вплоть до 1 минуты
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Nurgal`
+:doc:`/lost_omens/Deity/Demon-Lord/Nurgal`,
+:doc:`/lost_omens/Deity/Other/More/Lubaiko`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Ra`
+
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/The-Path-of-the-Heavens`
 
 ----------
 

@@ -46,7 +46,7 @@
 **Отношения**:
 :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos` (сын),
 :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora` (дочь),
-Джайди (`Jaidi <https://2e.aonprd.com/Deities.aspx?ID=155>`_) (жена)
+:doc:`/lost_omens/Deity/Other/More/Jaidi` (жена)
 
 **Храмы**: деревянные длинные дома или залы, которые также служат местами собраний людей сообщества
 

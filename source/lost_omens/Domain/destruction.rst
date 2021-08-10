@@ -46,3 +46,18 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Azathoth`
+	* :doc:`/lost_omens/Deity/Other/More/Ahriman`
+	* :doc:`/lost_omens/Deity/Other/More/Dahak`
+	* :doc:`/lost_omens/Deity/Other/More/Kitumu`
+	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
+	* :doc:`/lost_omens/Deity/Tian-God/Fumeiyoshi`
+	* :doc:`/lost_omens/Deity/Tian-God/General-Susumu`
+	* :doc:`/lost_omens/Deity/Tian-God/Lady-Nanbyo`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Diomazul`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sekhmet`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`

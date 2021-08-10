@@ -20,7 +20,10 @@
 **Продолжительность**: 8 часов
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/Nocticula`
+:doc:`/lost_omens/Deity/Other/Nocticula`,
+:doc:`/lost_omens/Deity/Other/More/Ahriman`,
+:doc:`/lost_omens/Deity/Other/More/Erecura`,
+:doc:`/lost_omens/Deity/Tian-God/Lao-Shu-Po`
 
 ----------
 

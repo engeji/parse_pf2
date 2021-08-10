@@ -15,7 +15,12 @@
 **Продолжительность**: 8 часов
 
 **Божества**:
-:doc:`/lost_omens/Deity/Core/Urgathoa`
+:doc:`/lost_omens/Deity/Core/Urgathoa`,
+:doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`
+
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`
 
 ----------
 

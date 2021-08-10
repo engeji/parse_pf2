@@ -27,3 +27,5 @@
 	* :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Vildeis`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Narakaas`
+	* :doc:`/lost_omens/Deity/Sarkorian-God/Stag-Mother-of-the-Forest-of-Stones`
+	* :doc:`/lost_omens/Deity/Tian-God/Yaezhing`

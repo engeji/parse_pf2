@@ -19,3 +19,4 @@
 * :doc:`/lost_omens/Deity/Core/Desna`
 * :doc:`/lost_omens/Deity/Eldest/Imbrex`
 * :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`
+* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`

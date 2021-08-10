@@ -20,3 +20,9 @@
 * :doc:`/lost_omens/Deity/Other/Tsukiyo`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`
 * :doc:`/lost_omens/Deity/Horseman/Charon`
+* :doc:`/lost_omens/Deity/Other/More/Ravithra`
+* :doc:`/lost_omens/Deity/Other/More/Zyphus`
+* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+* :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Anubis`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`

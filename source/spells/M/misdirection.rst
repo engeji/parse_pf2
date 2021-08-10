@@ -20,7 +20,9 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Chaldira`,
-:doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`
+:doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`,
+:doc:`/lost_omens/Deity/Other/More/Adanye`,
+:doc:`/lost_omens/Deity/Other/More/Erecura`
 
 ----------
 

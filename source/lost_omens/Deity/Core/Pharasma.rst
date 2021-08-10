@@ -39,7 +39,9 @@
 :doc:`/lost_omens/Deity/Other/Alseta`,
 :doc:`/lost_omens/Deity/Other/Tsukiyo`
 
-**Враги**: :doc:`Urgathoa`
+**Враги**:
+:doc:`Urgathoa`,
+:doc:`/lost_omens/Deity/Other/More/Zyphus`
 
 **Храмы**: катакомбы, соборы, кладбища, больницы, библиотеки, речные острова
 

@@ -21,3 +21,10 @@
 * :doc:`/lost_omens/Deity/Other/Hei-Feng`
 * :doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
+* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
+* :doc:`/lost_omens/Deity/Vudrani-God/Chamidu`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Sky-Keepers`

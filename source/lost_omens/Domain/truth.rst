@@ -33,3 +33,12 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Monad`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Kols`
+	* :doc:`/lost_omens/Deity/Other/More/Erecura`
+	* :doc:`/lost_omens/Deity/Other/More/Followers-of-Fate`
+	* :doc:`/lost_omens/Deity/Other/More/Ravithra`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Maat`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Pillars-of-Knowledge`

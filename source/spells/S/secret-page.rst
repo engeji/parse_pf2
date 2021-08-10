@@ -20,7 +20,9 @@
 **Продолжительность**: неограниченно
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Irez`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Irez`,
+:doc:`/lost_omens/Deity/Other/More/Lissala`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Thoth`
 
 ----------
 

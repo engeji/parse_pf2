@@ -19,7 +19,9 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Gozreh`,
-:doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`
+:doc:`/lost_omens/Deity/Elemental-Lord/Lysianassa`,
+:doc:`/lost_omens/Deity/Tian-God/Lady-Nanbyo`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
 
 ----------
 

@@ -20,11 +20,19 @@
 :doc:`/lost_omens/Deity/Core/Abadar`,
 :doc:`/lost_omens/Deity/Core/Shelyn`,
 :doc:`/lost_omens/Deity/Core/Torag`,
-:ref:`Pantheon--Dwarven`,
 :doc:`/lost_omens/Deity/Other/Brigh`,
 :doc:`/lost_omens/Deity/Other/Nocticula`,
 :doc:`/lost_omens/Deity/Archdevil/Mammon`,
-:doc:`/lost_omens/Deity/Dwarven-God/Bolka`
+:doc:`/lost_omens/Deity/Dwarven-God/Bolka`,
+:doc:`/lost_omens/Deity/Other/More/Apsu`,
+:doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`,
+:doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
+
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Dwarven`,
+:doc:`/lost_omens/Deity/Pantheon/The-Prismatic-Ray`,
+:doc:`/lost_omens/Deity/Pantheon/Demon-Bringers`
 
 ----------
 

@@ -18,7 +18,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Monitor-Demigod/Monad`,
-:doc:`/lost_omens/Deity/Dwarven-God/Kols`
+:doc:`/lost_omens/Deity/Dwarven-God/Kols`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Anubis`
 
 ----------
 

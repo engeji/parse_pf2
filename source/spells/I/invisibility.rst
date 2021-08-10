@@ -24,7 +24,10 @@
 :doc:`/lost_omens/Deity/Other/Nivi-Rhombodazzle`,
 :doc:`/lost_omens/Deity/Demon-Lord/Shax`,
 :doc:`/lost_omens/Deity/Eldest/Ng`,
-:doc:`/lost_omens/Deity/Elven-God/Ketephys`
+:doc:`/lost_omens/Deity/Elven-God/Ketephys`,
+:doc:`/lost_omens/Deity/Tian-God/Nalinivati`,
+:doc:`/lost_omens/Deity/Tian-God/Yaezhing`,
+:doc:`/lost_omens/Deity/Vudrani-God/Raumya`
 
 ----------
 

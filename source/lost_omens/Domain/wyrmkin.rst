@@ -24,3 +24,13 @@
 	* :doc:`/lost_omens/Deity/Demon-Lord/Abraxas`
 	* :doc:`/lost_omens/Deity/Demon-Lord/Zevgavizeb`
 	* :doc:`/lost_omens/Deity/Eldest/Ragadahn`
+	* :doc:`/lost_omens/Deity/Other/More/Apsu`
+	* :doc:`/lost_omens/Deity/Other/More/Dahak`
+	* :doc:`/lost_omens/Deity/Other/More/Uvuko`
+	* :doc:`/lost_omens/Deity/Tian-God/Nalinivati`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sobek`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Sky-Keepers`

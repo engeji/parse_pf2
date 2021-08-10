@@ -20,7 +20,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Nethys`,
 :doc:`/lost_omens/Deity/Other/Casandalee`,
-:doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
+:doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
 
 ----------
 

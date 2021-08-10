@@ -21,7 +21,8 @@
 :doc:`/lost_omens/Deity/Demon-Lord/Treerazer`,
 :doc:`/lost_omens/Deity/Horseman/Charon`,
 :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nhimbaloth`,
-:ref:`Ньярлатотеп (Обитающий во Мраке) (Nyarlathotep) <Deity--Nyarlathotep--Haunter-in-the-Dark>`
+:ref:`Ньярлатотеп (Обитающий во Мраке) (Nyarlathotep) <Deity--Nyarlathotep--Haunter-in-the-Dark>`,
+:doc:`/lost_omens/Deity/Tian-God/Fumeiyoshi`
 
 ----------
 

@@ -22,7 +22,6 @@
 	* :doc:`/lost_omens/Deity/Core/Gorum`
 	* :doc:`/lost_omens/Deity/Core/Iomedae`
 	* :doc:`/lost_omens/Deity/Core/Rovagug`
-	* :ref:`Pantheon--The-Godclaw`
 	* :doc:`/lost_omens/Deity/Other/Achaekek`
 	* :doc:`/lost_omens/Deity/Other/Chaldira`
 	* :doc:`/lost_omens/Deity/Other/Kurgess`
@@ -39,3 +38,19 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Cernunnos`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Angradd`
+	* :doc:`/lost_omens/Deity/Other/More/Dahak`
+	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
+	* :doc:`/lost_omens/Deity/Other/More/Ydersius`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
+	* :doc:`/lost_omens/Deity/Tian-God/General-Susumu`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Diomazul`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Wadjet`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/The-Godclaw`
+* :doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`
+* :doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`

@@ -19,7 +19,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Demon-Lord/Cyth-Vsug`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Halcamora`,
-:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Xhamen-Dor`,
+:doc:`/lost_omens/Deity/Other/More/Green-Man`
 
 ----------
 

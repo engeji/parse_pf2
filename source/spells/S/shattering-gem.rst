@@ -22,7 +22,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Archdevil/Mammon`,
 :doc:`/lost_omens/Deity/Elemental-Lord/Sairazul`,
-:doc:`/lost_omens/Deity/Elven-God/Yuelral`
+:doc:`/lost_omens/Deity/Elven-God/Yuelral`,
+:doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`
 
 **Источник**: Lost Omens: Gods & Magic pg. 109
 

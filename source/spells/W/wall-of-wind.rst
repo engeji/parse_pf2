@@ -17,6 +17,10 @@
 
 **Продолжительность**: 1 минута
 
+**Божества**:
+:doc:`/lost_omens/Deity/Tian-God/General-Susumu`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Horus`
+
 ----------
 
 Вы создаете барьер из порывистого ветра, который мешает всему, что движется через него.

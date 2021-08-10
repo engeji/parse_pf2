@@ -16,7 +16,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Irori`,
 :doc:`/lost_omens/Deity/Demon-Lord/Gogunta`,
-:doc:`/lost_omens/Deity/Demon-Lord/Kabriri`
+:doc:`/lost_omens/Deity/Demon-Lord/Kabriri`,
+:doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`
 
 ----------
 

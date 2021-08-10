@@ -29,3 +29,12 @@
 	* :doc:`/lost_omens/Deity/Elemental-Lord/Ranginori`
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Ylimancha`
 	* :doc:`/lost_omens/Deity/Horseman/Apollyon`
+	* :doc:`/lost_omens/Deity/Other/More/Uvuko`
+	* :doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ragdya`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Horus`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Sky-Keepers`

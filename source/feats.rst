@@ -3119,7 +3119,7 @@
 - общая
 - навык
 
-**Предварительные условия**: :ref:`feat--Godless-Healing`, вы последователь "Законов смертности (Laws of Mortality)"
+**Предварительные условия**: :ref:`feat--Godless-Healing`, вы последователь :ref:`faith--Laws-of-Mortality`
 
 **Источник**: Lost Omens: Gods & Magic pg. 105
 

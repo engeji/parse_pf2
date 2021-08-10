@@ -18,7 +18,9 @@
 **Цели**: каменный куб 10 футов в поперечнике или меньше
 
 **Божества**:
-:doc:`/lost_omens/Deity/Elven-God/Findeladlara`
+:doc:`/lost_omens/Deity/Elven-God/Findeladlara`,
+:doc:`/lost_omens/Deity/Other/More/Mazludeh`,
+:doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`
 
 ----------
 

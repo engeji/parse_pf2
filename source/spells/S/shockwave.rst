@@ -18,7 +18,9 @@
 **Спасбросок**: Рефлекс
 
 **Божества**:
-:doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`
+:doc:`/lost_omens/Deity/Elemental-Lord/Ayrzul`,
+:doc:`/lost_omens/Deity/Tian-God/Yamatsumi`,
+:doc:`/lost_omens/Deity/Vudrani-God/Ragdya`
 
 **Источник**: Lost Omens: Gods & Magic pg. 110
 

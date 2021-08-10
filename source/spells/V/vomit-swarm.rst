@@ -19,7 +19,8 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Other/Ghlaunder`,
 :doc:`/lost_omens/Deity/Archdevil/Baalzebul`,
-:doc:`/lost_omens/Deity/Horseman/Apollyon`
+:doc:`/lost_omens/Deity/Horseman/Apollyon`,
+:doc:`/lost_omens/Deity/Other/More/Kitumu`
 
 **Источник**: Advanced Player's Guide pg. 227
 

@@ -21,7 +21,8 @@
 :doc:`/lost_omens/Deity/Other/Sivanah`,
 :doc:`/lost_omens/Deity/Queen-of-Night/Mahathallah`,
 :doc:`/lost_omens/Deity/Eldest/The-Lantern-King`,
-:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`,
+:doc:`/lost_omens/Deity/Vudrani-God/Likha`
 
 ----------
 

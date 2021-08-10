@@ -29,3 +29,13 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
 	* :doc:`/lost_omens/Deity/Horseman/Szuriel`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Droskar`
+	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
+	* :doc:`/lost_omens/Deity/Other/More/Ravithra`
+	* :doc:`/lost_omens/Deity/Other/More/Thamir`
+	* :doc:`/lost_omens/Deity/Other/More/Ydersius`
+	* :doc:`/lost_omens/Deity/Tian-God/Fumeiyoshi`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`

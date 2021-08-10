@@ -17,8 +17,11 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Erastil`,
-:ref:`Pantheon--Elven`,
-:doc:`/lost_omens/Deity/Elven-God/Yuelral`
+:doc:`/lost_omens/Deity/Elven-God/Yuelral`,
+:doc:`/lost_omens/Deity/Other/More/Gendowyn`
+
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Elven`
 
 ----------
 

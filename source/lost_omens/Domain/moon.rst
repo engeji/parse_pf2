@@ -16,9 +16,18 @@
 
 **Божества**:
 
-* :doc:`/lost_omens/Deity/Core/Desna`,
-* :ref:`Pantheon--Elven`,
-* :ref:`Pantheon--Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Core/Desna`
+
 * :doc:`/lost_omens/Deity/Other/Tsukiyo`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`
 * :doc:`/lost_omens/Deity/Elven-God/Ketephys`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Horus`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Thoth`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Elven`
+* :doc:`/lost_omens/Deity/Pantheon/Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Pantheon/The-Prismatic-Ray`
+* :doc:`/lost_omens/Deity/Pantheon/The-Path-of-the-Heavens`

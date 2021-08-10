@@ -20,7 +20,6 @@
 	:columns: 2
 
 	* :doc:`/lost_omens/Deity/Core/Cayden-Cailean`
-	* :ref:`Pantheon--Cosmic-Caravan`
 	* :doc:`/lost_omens/Deity/Other/Arazni`
 	* :doc:`/lost_omens/Deity/Other/Casandalee`
 	* :doc:`/lost_omens/Deity/Other/Kazutal`
@@ -32,3 +31,11 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Shei`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Narriseminek`
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Saloc`
+	* :doc:`/lost_omens/Deity/Other/More/Walkena`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`
+* :doc:`/lost_omens/Deity/Pantheon/Sky-Keepers`

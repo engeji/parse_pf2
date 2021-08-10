@@ -33,3 +33,9 @@
 	* :doc:`/lost_omens/Deity/Dwarven-God/Bolka`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Trudd`
+	* :doc:`/lost_omens/Deity/Other/More/Adanye`
+	* :doc:`/lost_omens/Deity/Other/More/Thamir`
+	* :doc:`/lost_omens/Deity/Sarkorian-God/Sturovenen`
+	* :doc:`/lost_omens/Deity/Tian-God/General-Susumu`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ragdya`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Raumya`

@@ -21,7 +21,9 @@
 **Божества**:
 :doc:`/lost_omens/Deity/Core/Abadar`,
 :doc:`/lost_omens/Deity/Archdevil/Mammon`,
-:doc:`/lost_omens/Deity/Elven-God/Findeladlara`
+:doc:`/lost_omens/Deity/Elven-God/Findeladlara`,
+:doc:`/lost_omens/Deity/Other/More/Adanye`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`
 
 ----------
 

@@ -18,8 +18,8 @@
 
 **Источник**: Advanced Player's Guide pg. 215
 
-**Божества**:
-:ref:`Pantheon--Cosmic-Caravan`
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Cosmic-Caravan`
 
 ----------
 

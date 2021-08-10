@@ -24,7 +24,8 @@
 
 **Божества**:
 :doc:`/lost_omens/Deity/Monitor-Demigod/Narriseminek`,
-:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`
+:doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Hastur`,
+:doc:`/lost_omens/Deity/Vudrani-God/Lahkgya`
 
 ----------
 

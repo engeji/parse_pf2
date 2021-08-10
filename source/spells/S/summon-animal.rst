@@ -17,7 +17,9 @@
 **Продолжительность**: поддерживаемое вплоть до 1 минуты
 
 **Божества**:
-:doc:`/lost_omens/Deity/Demon-Lord/Baphomet`
+:doc:`/lost_omens/Deity/Demon-Lord/Baphomet`,
+:doc:`/lost_omens/Deity/Tian-God/Lao-Shu-Po`,
+:doc:`/lost_omens/Deity/Vudrani-God/Chamidu`
 
 ----------
 

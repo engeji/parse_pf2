@@ -19,6 +19,9 @@
 :doc:`/lost_omens/Deity/Monitor-Demigod/Barzahk`,
 :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`
 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/The-Path-of-the-Heavens`
+
 ----------
 
 Вы удлиняете своим шаги за пределы возможного.

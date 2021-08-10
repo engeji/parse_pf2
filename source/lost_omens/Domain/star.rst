@@ -17,7 +17,14 @@
 **Божества**:
 
 * :doc:`/lost_omens/Deity/Core/Desna`
-* :ref:`Pantheon--Cosmic-Caravan`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Black-Butterfly`
 * :doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
 * :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
+* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Maat`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Pantheon/The-Path-of-the-Heavens`

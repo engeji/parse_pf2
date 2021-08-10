@@ -20,7 +20,6 @@
 	:columns: 2
 
 	* :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
-	* :ref:`Pantheon--Cosmic-Caravan`
 	* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
 	* :doc:`/lost_omens/Deity/Other/Groetus`
 	* :doc:`/lost_omens/Deity/Other/Nocticula`
@@ -32,3 +31,13 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Kerkamoth`
 	* :ref:`Ньярлатотеп (Обитающий во Мраке) (Nyarlathotep) <Deity--Nyarlathotep--Haunter-in-the-Dark>`
 	* :doc:`/lost_omens/Deity/Elven-God/Ketephys`
+	* :doc:`/lost_omens/Deity/Other/More/Ahriman`
+	* :doc:`/lost_omens/Deity/Other/More/Kalekot`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Luhar`
+	* :doc:`/lost_omens/Deity/Tian-God/Lao-Shu-Po`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Cosmic-Caravan`
+* :doc:`/lost_omens/Deity/Pantheon/The-Path-of-the-Heavens`

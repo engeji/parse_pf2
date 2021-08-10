@@ -23,7 +23,11 @@
 :doc:`/lost_omens/Deity/Eldest/Magdh`,
 :doc:`/lost_omens/Deity/Eldest/Shyka`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Irez`,
-:doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`
+:doc:`/lost_omens/Deity/Dwarven-God/Grundinnar`,
+:doc:`/lost_omens/Deity/Other/More/Erecura`
+
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`
 
 **Источник**: Lost Omens: Gods & Magic pg. 107
 

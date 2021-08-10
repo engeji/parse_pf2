@@ -19,6 +19,10 @@
 
 **Продолжительность**: поддерживаемое вплоть до 1 минуты
 
+**Божества**:
+:doc:`/lost_omens/Deity/Tian-God/Yamatsumi`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Anubis`
+
 **Источник**: Lost Omens: Gods & Magic pg. 110
 
 ----------

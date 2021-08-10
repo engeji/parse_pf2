@@ -28,7 +28,18 @@
 :doc:`/lost_omens/Deity/Empyreal-Lord/Ashava`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Korada`,
 :doc:`/lost_omens/Deity/Monitor-Demigod/Mother-Vulture`,
-:doc:`/lost_omens/Deity/Dwarven-God/Bolka`
+:doc:`/lost_omens/Deity/Dwarven-God/Bolka`,
+:doc:`/lost_omens/Deity/Other/More/Naderi`,
+:doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`,
+:doc:`/lost_omens/Deity/Tian-God/Kofusachi`,
+:doc:`/lost_omens/Deity/Tian-God/Qi-Zhong`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Isis`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Osiris`,
+:doc:`/lost_omens/Deity/Ancient-Osirian-God/Selket`
+
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Wards-of-the-Pharaoh`,
+:doc:`/lost_omens/Deity/Pantheon/Touch-of-the-Sun`
 
 ----------
 

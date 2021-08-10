@@ -17,7 +17,8 @@
 **Продолжительность**: 10 минут
 
 **Божества**:
-:doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`
+:doc:`/lost_omens/Deity/Empyreal-Lord/Pulura`,
+:doc:`/lost_omens/Deity/Tian-God/Lady-Jingxi`
 
 ----------
 

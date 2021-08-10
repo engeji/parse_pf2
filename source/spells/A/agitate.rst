@@ -22,6 +22,9 @@
 
 **Продолжительность**: различается
 
+**Божества**:
+:doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`
+
 **Источник**: Lost Omens: Gods & Magic pg. 106
 
 ----------

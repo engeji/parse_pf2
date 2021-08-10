@@ -26,7 +26,7 @@
 .. rst-class:: creature
 .. _bestiary--City-Guard-Squadron:
 
-Рота городской стражи (`City Guard Squadron <https>`_) / Существо 5
+Рота городской стражи (`City Guard Squadron <https://2e.aonprd.com/Monsters.aspx?ID=1094>`_) / Существо 5
 ------------------------------------------------------------------------------------------------------------
 
 - :alignment:`ПН`

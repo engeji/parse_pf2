@@ -19,9 +19,12 @@
 **Продолжительность**: 8 часов
 
 **Божества**:
-:ref:`Pantheon--Dwarven`,
 :doc:`/lost_omens/Deity/Other/Kurgess`,
-:doc:`/lost_omens/Deity/Dwarven-God/Droskar`
+:doc:`/lost_omens/Deity/Dwarven-God/Droskar`,
+:doc:`/lost_omens/Deity/Other/More/Balumbdar`
+
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Dwarven`
 
 ----------
 

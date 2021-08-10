@@ -24,7 +24,8 @@
 **Продолжительность**: различается
 
 **Божества**:
-:doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`
+:doc:`/lost_omens/Deity/Elemental-Lord/Kelizandri`,
+:doc:`/lost_omens/Deity/Vudrani-God/Dhalavei`
 
 ----------
 

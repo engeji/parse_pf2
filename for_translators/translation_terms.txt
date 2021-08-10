@@ -258,7 +258,7 @@ Deity: Божество
 	Shizuru: Шицуру
 	Tsukiyo: Цукио
 	Daikitsu: Дайкицу
-	Lady Nanbyo: Леди Наньбо
+	Lady Nanbyo: Госпожа Наньбо
 	Ymeri: Имери
 	Qi Zhong: Ци Чжун
 	Gruhastha: Грухаста
@@ -567,7 +567,7 @@ persistent damage: продолжительный урон
 prerequisites: предварительные условия
 proficiency bonus: бонус мастерства
 plane: план
-	Great Beyond: Великое запределье
+	Great Beyond: Великое Запределье
 	Demiplane: демиплан
 	Outer Sphere: Внешняя Сфера
 	Hell: Ад
@@ -583,6 +583,11 @@ plane: план
 	Boneyard: Могильник
 	Maelstrom: Мальстрем
 	Dreamlands: Мир Грёз
+	Bloodrot: Бладрот
+	Immortal Ambulatory: Вечное Странствие
+	Back Alleys: Переулки
+	Sydrixus: Сидрикс
+	Setsendu: Сэценду
 
 rage: ярость
 range: дистанция
@@ -592,7 +597,7 @@ remove disease: вылечить болезнь
 rune: руна
 	fundamental: основная
 	striking rune: разящая руна
-		greater: большая
+		greater: отличная
 		major: старшая
 	potency rune +1/2/3: руна мощи +1/2/3
 	resilient: стойкости
@@ -780,7 +785,7 @@ Titles:
 	Gravelands: Могильные земли
 	Everstand: Эверстэнд
 	Ozem: Озэм
-	Shining Crusade: Сияющий поход
+	Shining Crusade: Сияющий Поход
 	Firebrands: Смутьяны
 	Magaambyan: Магаамбия
 	Akashic Record: Акашийская хроника; Хроника Акаши
@@ -851,7 +856,6 @@ Titles:
 	Nessus: Несс
 	Clashing Shore: Грохочущий Берег
 	Forgeheart: Сердце Кузни
-	Bloodrot: Бладрот
 	Xovaikain: Зовайкейн
 	Swordhome: Сордхоум
 	Kurnugia: Иркалла
@@ -917,6 +921,11 @@ Titles:
 	Tempering Chamber: Зал Закалки
 	Ashen Forge: Пепельная Кузня
 	Runebarrow: Рунный Курган
+	Aucturn: Октюрн
+	Oath Wars: Войны Клятв
+	Darkblight: Темная Порча
+	Awaiting-Consumption: Ожидающее Поедание
+	Yanjira: Янджира
 
 trait: признак / особенность
 	оружие:

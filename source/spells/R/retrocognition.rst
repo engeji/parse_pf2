@@ -15,8 +15,11 @@
 **Продолжительность**: поддерживаемое
 
 **Божества**:
-:ref:`Pantheon--Dwarven`,
 :doc:`/lost_omens/Deity/Empyreal-Lord/Zohls`
+
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/Dwarven`,
+:doc:`/lost_omens/Deity/Pantheon/Pillars-of-Knowledge`
 
 ----------
 

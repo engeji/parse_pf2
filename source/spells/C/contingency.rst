@@ -15,7 +15,8 @@
 **Продолжительность**: 24 часа
 
 **Божества**:
-:doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Valmallos`,
+:doc:`/lost_omens/Deity/Tian-God/Nalinivati`
 
 ----------
 

@@ -29,3 +29,6 @@
 	* :doc:`/lost_omens/Deity/Horseman/Trelmarixian`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Azathoth`
 	* :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Nyarlathotep`
+	* :doc:`/lost_omens/Deity/Other/More/Kalekot`
+	* :doc:`/lost_omens/Deity/Other/More/Kitumu`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Chamidu`

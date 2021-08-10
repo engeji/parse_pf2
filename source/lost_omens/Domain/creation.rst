@@ -21,8 +21,6 @@
 
 	* :doc:`/lost_omens/Deity/Core/Shelyn`
 	* :doc:`/lost_omens/Deity/Core/Torag`
-	* :ref:`Pantheon--Dwarven`
-	* :ref:`Pantheon--Elven`
 	* :doc:`/lost_omens/Deity/Other/Brigh`
 	* :doc:`/lost_omens/Deity/Other/Casandalee`
 	* :doc:`/lost_omens/Deity/Other/Grandmother-Spider`
@@ -36,3 +34,19 @@
 	* :doc:`/lost_omens/Deity/Monitor-Demigod/Otolmens`
 	* :doc:`/lost_omens/Deity/Elven-God/Findeladlara`
 	* :doc:`/lost_omens/Deity/Elven-God/Yuelral`
+	* :doc:`/lost_omens/Deity/Other/More/Apsu`
+	* :doc:`/lost_omens/Deity/Other/More/Uvuko`
+	* :doc:`/lost_omens/Deity/Old-Sun-God/Tlehar`
+	* :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`
+	* :doc:`/lost_omens/Deity/Tian-God/Daikitsu`
+	* :doc:`/lost_omens/Deity/Tian-God/Lady-Jingxi`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Likha`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Dwarven`
+* :doc:`/lost_omens/Deity/Pantheon/Elven`
+* :doc:`/lost_omens/Deity/Pantheon/The-Prismatic-Ray`
+* :doc:`/lost_omens/Deity/Pantheon/Pillars-of-Knowledge`
+* :doc:`/lost_omens/Deity/Pantheon/Demon-Bringers`

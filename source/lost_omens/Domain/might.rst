@@ -43,3 +43,22 @@
 	* :doc:`/lost_omens/Deity/Dwarven-God/Dranngvit`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Kols`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Trudd`
+	* :doc:`/lost_omens/Deity/Other/More/Balumbdar`
+	* :doc:`/lost_omens/Deity/Other/More/Green-Man`
+	* :doc:`/lost_omens/Deity/Other/More/Jaidi`
+	* :doc:`/lost_omens/Deity/Other/More/Ydersius`
+	* :doc:`/lost_omens/Deity/Sarkorian-God/Alglenweis`
+	* :doc:`/lost_omens/Deity/Tian-God/General-Susumu`
+	* :doc:`/lost_omens/Deity/Tian-God/Sun-Wukong`
+	* :doc:`/lost_omens/Deity/Tian-God/Yamatsumi`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ashukharma`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Ragdya`
+	* :doc:`/lost_omens/Deity/Vudrani-God/Raumya`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sekhmet`
+	* :doc:`/lost_omens/Deity/Ancient-Osirian-God/Sobek`
+
+
+**Пантеоны**:
+
+* :doc:`/lost_omens/Deity/Pantheon/Demon-Bringers`
+* :doc:`/lost_omens/Deity/Pantheon/The-Freeing-Flame`
