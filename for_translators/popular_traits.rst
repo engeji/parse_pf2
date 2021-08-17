@@ -1,5 +1,5 @@
-:w_finesse:`точное`
 :w_agile:`быстрое`
+:w_finesse:`точное`
 :w_reach:`длинное`
 :w_thrown:`метательное`
 :w_deadly:`смертельное`

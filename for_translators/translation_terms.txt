@@ -221,6 +221,8 @@ Creature: существо
 	lacedon: ласэдан (упырь-утопец, водный)
 	agrawgh: эграг
 	grioth: гриот
+	мitflit: митфлиты
+		mite: майт, клоп
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
