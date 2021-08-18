@@ -609,7 +609,6 @@ rune: руна
 		ghost touch: призрачное касание
 		returning: возвращающаяся
 		shifting: изменяющая
-		ghost touch: призрачное касание
 		anarchic: анархическая
 		axiomatic: аксиоматическая
 		holy: святая

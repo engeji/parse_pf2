@@ -164,9 +164,12 @@
 
 :ref:`cr_ability--Greater-Constrict` |д-1| d -----, КС 999999999
 
-:ref:`cr_ability--Swallow-Whole` |д-1| РАЗМЕР, d -----, Разрыв ########
+:ref:`cr_ability--Swallow-Whole` |д-1| РАЗМЕР, d -----, Разрыв 999999999
 
 :ref:`cr_ability--Rend` |д-1| АТАКА
+
+:ref:`cr_ability--Trample` |д-3| (:t_attack:`атака`) РАЗМЕР, АТАКА, КС 999999999
+
 
 
 **Дальний бой**: |д-#| ----- [] (признак2),
