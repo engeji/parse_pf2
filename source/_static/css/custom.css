@@ -425,7 +425,7 @@ img.game-icon {
 	height: 3em;
 }
 
-p.sidebar-title img.game-icon,
+aside.sidebar img.game-icon,
 p.h3.rubric + p img.game-icon {
 	float: left;
 	margin-right: 0.5em;
