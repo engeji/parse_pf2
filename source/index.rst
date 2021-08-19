@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-08-10**
-| Добавлены еще **55** божеств, верования, пантеоны.
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-08-19**
+| Бестиарий немного расширен животными -1 уровня (и выше) и не только.
 
 | `Telegram канал <https://t.me/PF2e_RU_channel>`_ - подробные обновления и изменения
 | `Telegram чат <https://t.me/PF2e_RU>`_ - для обратной связи, обсуждения правил и т.п.

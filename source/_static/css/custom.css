@@ -197,6 +197,13 @@ section > p {
 }
 
 
+aside.sidebar div.line-block {
+	margin-bottom: 0.2em;
+	line-height: 1.5em;
+	font-size: 90%;
+}
+
+
 
 
 

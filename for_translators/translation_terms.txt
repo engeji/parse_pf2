@@ -223,6 +223,7 @@ Creature: существо
 	grioth: гриот
 	мitflit: митфлиты
 		mite: майт, клоп
+	soulbound shell: одушевленная оболочка
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
