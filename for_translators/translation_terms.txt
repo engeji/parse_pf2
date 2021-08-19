@@ -221,6 +221,9 @@ Creature: существо
 	lacedon: ласэдан (упырь-утопец, водный)
 	agrawgh: эграг
 	grioth: гриот
+	мitflit: митфлиты
+		mite: майт, клоп
+	soulbound shell: одушевленная оболочка
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -607,7 +610,6 @@ rune: руна
 		ghost touch: призрачное касание
 		returning: возвращающаяся
 		shifting: изменяющая
-		ghost touch: призрачное касание
 		anarchic: анархическая
 		axiomatic: аксиоматическая
 		holy: святая

@@ -1,5 +1,5 @@
-:w_finesse:`точное`
 :w_agile:`быстрое`
+:w_finesse:`точное`
 :w_reach:`длинное`
 :w_thrown:`метательное`
 :w_deadly:`смертельное`
@@ -127,22 +127,46 @@
 :t_downtime:`отдых`
 
 
+.. СОСТОЯНИЯ (CONDITIONS)
 
-
-
-
-::``
-::``
-::``
-::``
-::``
-::``
-::``
-::``
-::``
-::``
-::``
-::``
-::``
-::``
-::``
+:c_dazzled:`ослеплен`
+:c_blinded:`слепота`
+:c_deafened:`глухота`
+:c_confused:`замешательство`
+:c_fascinated:`заворожен`
+:c_controlled:`под контролем`
+:c_flat_footed:`застигнут врасплох`
+:c_prone:`ничком`
+:c_encumbered:`перегружен`
+:c_fatigued:`утомление`
+:c_sickened:`тошнота`
+:c_frightened:`напуган`
+:c_fleeing:`бегство`
+:c_restrained:`сдерживаем`
+:c_grabbed:`схвачен`
+:c_immobilized:`обездвижен`
+:c_paralyzed:`парализован`
+:c_petrified:`окаменение`
+:c_broken:`сломан`
+:c_stunned:`ошеломлен`
+:c_slowed:`замедлен`
+:c_quickened:`ускорен`
+:c_dying:`при смерти`
+:c_wounded:`ранен`
+:c_doomed:`обречен`
+:c_unconscious:`без сознания`
+:c_enfeebled:`ослаблен`
+:c_clumsy:`неуклюжесть`
+:c_drained:`истощен`
+:c_stupefied:`одурманен`
+:c_unnoticed:`незамечен`
+:c_undetected:`необнаружен`
+:c_hidden:`спрятан`
+:c_observed:`замечен`
+:c_concealed:`скрыт`
+:c_invisible:`невидимый`
+:c_helpful:`любезный`
+:c_friendly:`дружественный`
+:c_indifferent:`безразличный`
+:c_unfriendly:`недружественный`
+:c_hostile:`враждебный`

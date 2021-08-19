@@ -197,6 +197,13 @@ section > p {
 }
 
 
+aside.sidebar div.line-block {
+	margin-bottom: 0.2em;
+	line-height: 1.5em;
+	font-size: 90%;
+}
+
+
 
 
 
@@ -424,6 +431,16 @@ div.admonition.intro-class p.admonition-title {
 img.game-icon {
 	height: 3em;
 }
+
+aside.sidebar img.game-icon,
+p.h3.rubric + p img.game-icon {
+	float: left;
+	margin-right: 0.5em;
+}
+
+
+
+/*p.float-left img.float-left*/
 
 
 /*
