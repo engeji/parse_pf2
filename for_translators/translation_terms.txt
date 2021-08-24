@@ -224,6 +224,7 @@ Creature: существо
 	мitflit: митфлиты
 		mite: майт, клоп
 	soulbound shell: одушевленная оболочка
+	abrikandilu: абрикандил
 
 counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
 Currency: Деньги
@@ -335,7 +336,7 @@ domains: домены
 Domain Initiate: Посвященный в домен
 duration: продолжительность
 
-Emblazon Armament: Освящение Оружия (TODO перевод)
+eidolon: эйдолон
 encounter: столкновение
 Experience Points: Очки Опыта
 extradimensional space: межпространственный карман

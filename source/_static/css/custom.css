@@ -121,6 +121,11 @@ section > p {
 }
 
 
+hr.invisible-divider {
+	border: none !important;
+	margin: 0.3em 0 !important;
+}
+
 
 
 
@@ -727,6 +732,7 @@ section.craft-treasure-worn section > p,
 section.craft-treasure-artifact section > p,
 section.craft-treasure-adjustment section,
 section.actions-descr section section > p,
+section.eidolon section section > p,
 section.creature-abilities section > p {
 	margin-bottom: 0.1em;
 	text-indent: inherit;
@@ -821,6 +827,7 @@ section.craft-treasure-worn section hr,
 section.craft-treasure-artifact section hr,
 section.craft-treasure-adjustment section hr,
 section.actions-descr section hr,
+section.eidolon hr,
 section.creature-abilities section hr {
 	border-top: 1px solid #404040;
 	margin: 1px 0;
@@ -977,6 +984,10 @@ section.creature-details aside.sidebar p.rubric {
 
 
 
+/*
+	Божество/вера (Deity/faith)
+*/
+
 section.deity h1 {
 	box-sizing: border-box;
 	color: #5e0000;
@@ -993,6 +1004,19 @@ p.rubric.deity-title {
 	margin-bottom: 0.2em;
 }
 
+
+
+/*
+	Эйдолон (Eidolon)
+*/
+
+section.eidolon {
+	margin-top: 2em;
+}
+
+section.eidolon section.description {
+	margin-top: 0.5em;
+}
 
 
 

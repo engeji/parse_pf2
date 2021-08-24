@@ -198,6 +198,7 @@
    witch
    sorcerer
    oracle
+   summoner
 
 
 
