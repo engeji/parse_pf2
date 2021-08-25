@@ -190,6 +190,7 @@
 
    investigator
    alchemist
+   magus
    bard
 
    cleric
