@@ -3,7 +3,8 @@
 
 .. toctree::
    :maxdepth: 1
-
+   
+   A/Approximate
    A/abyssal-plague
    A/acid-arrow
    A/acid-splash
@@ -30,6 +31,7 @@
    A/aqueous-orb
    A/augury
    A/avatar
+   B/Bullhorn
    B/baleful-polymorph
    B/bane
    B/banishment
@@ -174,6 +176,8 @@
    F/freedom-of-movement
    F/fungal-hyphae
    F/fungal-infestation
+   G/Gale-Blast
+   G/Gouging-Claw
    G/gaseous-form
    G/gate
    G/gentle-repose
@@ -192,6 +196,8 @@
    G/grisly-growths
    G/guidance
    G/gust-of-wind
+   H/Haunting-Hymn
+   H/Healing-Plaster
    H/hallucination
    H/hallucinatory-terrain
    H/harm
@@ -207,6 +213,7 @@
    H/hydraulic-torrent
    H/hypercognition
    H/hypnotic-pattern
+   I/Infectious-Enthusiasm
    I/ice-storm
    I/ill-omen
    I/illusory-creature
@@ -276,6 +283,8 @@
    O/obscuring-mist
    O/outcasts-curse
    O/overwhelming-presence
+   P/Protect-Companion
+   P/Puff-Of-Poison
    P/paralyze
    P/paranoia
    P/pass-without-trace
@@ -311,6 +320,7 @@
    P/purify-food-and-drink
    P/purple-worm-sting
    Q/quench
+   R/Read-The-Air
    R/raise-dead
    R/ray-of-enfeeblement
    R/ray-of-frost
@@ -336,6 +346,8 @@
    R/righteous-might
    R/rope-trick
    R/rusting-grasp
+   S/Scatter-Scree
+   S/Spout
    S/safe-passage
    S/sanctified-ground
    S/sanctuary
@@ -413,11 +425,12 @@
    S/summon-fey
    S/summon-fiend
    S/summon-giant
-   S/summon-plant-or-fungus
    S/summon-instrument
+   S/summon-plant-or-fungus
    S/sunburst
    S/synaptic-pulse
    S/synesthesia
+   T/Tame
    T/talking-corpse
    T/tanglefoot
    T/tangling-creepers
@@ -458,6 +471,7 @@
    V/vital-beacon
    V/volcanic-eruption
    V/vomit-swarm
+   W/Wash-Your-Luck
    W/wail-of-the-banshee
    W/wall-of-fire
    W/wall-of-flesh
