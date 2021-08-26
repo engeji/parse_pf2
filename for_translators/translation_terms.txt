@@ -621,6 +621,7 @@ senses: чувства, сенсорные чувства
 	spiritsense: духовное чувство
 	lifesense: жизнечувствительность
 	wavesense: волночувствительность
+	thoughtsense: нейрочувствительность
 Skill: Навык
 	Arcana: Аркана
 		Borrow an Arcane Spell: Одолжить арканное заклинание :ref:`skill--Arcana--Borrow-an-Arcane-Spell`
