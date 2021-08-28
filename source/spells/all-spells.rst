@@ -4,6 +4,7 @@
 .. toctree::
    :maxdepth: 1
    
+   A/Animal-Allies
    A/Approximate
    A/abyssal-plague
    A/acid-arrow
@@ -31,6 +32,8 @@
    A/aqueous-orb
    A/augury
    A/avatar
+   B/Biting-Words
+   B/Breadcrumbs
    B/Bullhorn
    B/baleful-polymorph
    B/bane
@@ -54,6 +57,7 @@
    B/brand-the-impenitent
    B/breath-of-life
    B/burning-hands
+   C/Concordant-Choir
    C/call-the-blood
    C/calm-emotions
    C/cataclysm
@@ -91,6 +95,7 @@
    C/crushing-despair
    C/cup-of-dust
    C/curse-of-lost-time
+   D/Draw-Ire
    D/dancing-lights
    D/darkness
    D/darkvision
@@ -131,6 +136,7 @@
    D/drop-dead
    D/dull-ambition
    D/duplicate-foe
+   E/Echoing-Weapon
    E/earthbind
    E/earthquake
    E/eclipse-burst
@@ -178,6 +184,7 @@
    F/fungal-infestation
    G/Gale-Blast
    G/Gouging-Claw
+   G/Gravitational-Pull
    G/gaseous-form
    G/gate
    G/gentle-repose
@@ -198,6 +205,7 @@
    G/gust-of-wind
    H/Haunting-Hymn
    H/Healing-Plaster
+   H/Horizon-Thunder-Sphere
    H/hallucination
    H/hallucinatory-terrain
    H/harm
@@ -230,9 +238,11 @@
    I/invisible-item
    I/iron-gut
    I/item-facade
+   J/Juvenile-Companion
    J/jump
    K/knock
    K/know-direction
+   L/Lose-The-Path
    L/levitate
    L/liberating-command
    L/light
@@ -241,6 +251,7 @@
    L/locate
    L/lock
    L/longstrider
+   M/Mud-Pit
    M/mad-monkeys
    M/mage-armor
    M/mage-hand
@@ -272,6 +283,8 @@
    M/moment-of-renewal
    M/monstrosity-form
    M/moon-frenzy
+   N/Necromancers-Generosity
+   N/Nudge-The-Odds
    N/nature-incarnate
    N/natures-enmity
    N/negate-aroma
@@ -283,7 +296,9 @@
    O/obscuring-mist
    O/outcasts-curse
    O/overwhelming-presence
+   P/Pocket-Library
    P/Protect-Companion
+   P/Protector-Tree
    P/Puff-Of-Poison
    P/paralyze
    P/paranoia
@@ -319,8 +334,10 @@
    P/punishing-winds
    P/purify-food-and-drink
    P/purple-worm-sting
+   Q/Quick-Sort
    Q/quench
    R/Read-The-Air
+   R/Restyle
    R/raise-dead
    R/ray-of-enfeeblement
    R/ray-of-frost
@@ -347,7 +364,11 @@
    R/rope-trick
    R/rusting-grasp
    S/Scatter-Scree
+   S/Schadenfreude
+   S/Seashell-Of-Stolen-Sound
    S/Spout
+   S/Summon-Lesser-Servitor
+   S/Synchronize
    S/safe-passage
    S/sanctified-ground
    S/sanctuary
@@ -431,6 +452,7 @@
    S/synaptic-pulse
    S/synesthesia
    T/Tame
+   T/Thicket-Of-Knives
    T/talking-corpse
    T/tanglefoot
    T/tangling-creepers
