@@ -6,6 +6,7 @@
    
    A/Animal-Allies
    A/Approximate
+   A/Ash-Cloud
    A/abyssal-plague
    A/acid-arrow
    A/acid-splash
@@ -32,6 +33,7 @@
    A/aqueous-orb
    A/augury
    A/avatar
+   B/Befitting-Attire
    B/Biting-Words
    B/Breadcrumbs
    B/Bullhorn
@@ -137,6 +139,8 @@
    D/dull-ambition
    D/duplicate-foe
    E/Echoing-Weapon
+   E/Elemental-Zone
+   E/Extract-Poison
    E/earthbind
    E/earthquake
    E/eclipse-burst
@@ -153,6 +157,8 @@
    E/enthrall
    E/ethereal-jaunt
    E/expeditious-excavation
+   F/Feral-Shades
+   F/Flame-Wisp
    F/fabricated-truth
    F/faerie-fire
    F/false-life
@@ -185,6 +191,7 @@
    G/Gale-Blast
    G/Gouging-Claw
    G/Gravitational-Pull
+   G/Guiding-Star
    G/gaseous-form
    G/gate
    G/gentle-repose
@@ -221,7 +228,10 @@
    H/hydraulic-torrent
    H/hypercognition
    H/hypnotic-pattern
+   I/Ignite-Fireworks
    I/Infectious-Enthusiasm
+   I/Inner-Radiance-Torrent
+   I/Instant-Armor
    I/ice-storm
    I/ill-omen
    I/illusory-creature
@@ -243,6 +253,7 @@
    K/knock
    K/know-direction
    L/Lose-The-Path
+   L/Lucky-Number
    L/levitate
    L/liberating-command
    L/light
@@ -251,6 +262,9 @@
    L/locate
    L/lock
    L/longstrider
+   M/Magnetic-Attraction
+   M/Magnetic-Repulsion
+   M/Mimic-Undead
    M/Mud-Pit
    M/mad-monkeys
    M/mage-armor
@@ -296,6 +310,8 @@
    O/obscuring-mist
    O/outcasts-curse
    O/overwhelming-presence
+   P/Persistent-Servant
+   P/Phantom-Crowd
    P/Pocket-Library
    P/Protect-Companion
    P/Protector-Tree
@@ -336,6 +352,7 @@
    P/purple-worm-sting
    Q/Quick-Sort
    Q/quench
+   R/Rapid-Adaptation
    R/Read-The-Air
    R/Restyle
    R/raise-dead
@@ -365,9 +382,13 @@
    R/rusting-grasp
    S/Scatter-Scree
    S/Schadenfreude
+   S/Scorching-Ray
    S/Seashell-Of-Stolen-Sound
+   S/Sonata-Span
    S/Spout
    S/Summon-Lesser-Servitor
+   S/Summoners-Precaution
+   S/Summoners-Visage
    S/Synchronize
    S/safe-passage
    S/sanctified-ground
@@ -453,6 +474,8 @@
    S/synesthesia
    T/Tame
    T/Thicket-Of-Knives
+   T/Thundering-Dominance
+   T/Timely-Tutor
    T/talking-corpse
    T/tanglefoot
    T/tangling-creepers
@@ -477,6 +500,7 @@
    T/true-seeing
    T/true-strike
    T/true-target
+   U/Umbral-Extraction
    U/uncontrollable-dance
    U/undetectable-alignment
    U/unfathomable-song
@@ -493,6 +517,7 @@
    V/vital-beacon
    V/volcanic-eruption
    V/vomit-swarm
+   W/Warriors-Regret
    W/Wash-Your-Luck
    W/wail-of-the-banshee
    W/wall-of-fire
