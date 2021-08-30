@@ -4,6 +4,9 @@
 :w_thrown:`метательное`
 :w_deadly:`смертельное`
 :w_disarm:`разоружение`
+:w_shove:`толчок`
+:w_trip:`опрокидывание`
+:w_grapple:`захват`
 :w_versatile:`универсальное`
 :w_forceful:`силовое`
 :w_nonlethal:`несмертельное`

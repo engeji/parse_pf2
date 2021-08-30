@@ -199,6 +199,7 @@
    witch
    sorcerer
    oracle
+   summoner
 
 
 
