@@ -792,7 +792,7 @@ Titles:
 	Shining Crusade: Сияющий Поход
 	Firebrands: Смутьяны
 	Magaambyan: Магаамбия
-	Akashic Record: Акашийская хроника; Хроника Акаши
+	Akashic Record: Акашийская Хроника; Хроника Акаши
 	Fleshwarp: Искажение плоти
 	Fleshforges of Nex: Формирующие плоть Некса
 	Ravounel: Равунел

@@ -3,7 +3,10 @@
 
 .. toctree::
    :maxdepth: 1
-
+   
+   A/Animal-Allies
+   A/Approximate
+   A/Ash-Cloud
    A/abyssal-plague
    A/acid-arrow
    A/acid-splash
@@ -30,6 +33,10 @@
    A/aqueous-orb
    A/augury
    A/avatar
+   B/Befitting-Attire
+   B/Biting-Words
+   B/Breadcrumbs
+   B/Bullhorn
    B/baleful-polymorph
    B/bane
    B/banishment
@@ -52,6 +59,7 @@
    B/brand-the-impenitent
    B/breath-of-life
    B/burning-hands
+   C/Concordant-Choir
    C/call-the-blood
    C/calm-emotions
    C/cataclysm
@@ -89,6 +97,7 @@
    C/crushing-despair
    C/cup-of-dust
    C/curse-of-lost-time
+   D/Draw-Ire
    D/dancing-lights
    D/darkness
    D/darkvision
@@ -129,6 +138,9 @@
    D/drop-dead
    D/dull-ambition
    D/duplicate-foe
+   E/Echoing-Weapon
+   E/Elemental-Zone
+   E/Extract-Poison
    E/earthbind
    E/earthquake
    E/eclipse-burst
@@ -145,6 +157,8 @@
    E/enthrall
    E/ethereal-jaunt
    E/expeditious-excavation
+   F/Feral-Shades
+   F/Flame-Wisp
    F/fabricated-truth
    F/faerie-fire
    F/false-life
@@ -174,6 +188,10 @@
    F/freedom-of-movement
    F/fungal-hyphae
    F/fungal-infestation
+   G/Gale-Blast
+   G/Gouging-Claw
+   G/Gravitational-Pull
+   G/Guiding-Star
    G/gaseous-form
    G/gate
    G/gentle-repose
@@ -192,6 +210,9 @@
    G/grisly-growths
    G/guidance
    G/gust-of-wind
+   H/Haunting-Hymn
+   H/Healing-Plaster
+   H/Horizon-Thunder-Sphere
    H/hallucination
    H/hallucinatory-terrain
    H/harm
@@ -207,6 +228,10 @@
    H/hydraulic-torrent
    H/hypercognition
    H/hypnotic-pattern
+   I/Ignite-Fireworks
+   I/Infectious-Enthusiasm
+   I/Inner-Radiance-Torrent
+   I/Instant-Armor
    I/ice-storm
    I/ill-omen
    I/illusory-creature
@@ -223,9 +248,12 @@
    I/invisible-item
    I/iron-gut
    I/item-facade
+   J/Juvenile-Companion
    J/jump
    K/knock
    K/know-direction
+   L/Lose-The-Path
+   L/Lucky-Number
    L/levitate
    L/liberating-command
    L/light
@@ -234,6 +262,10 @@
    L/locate
    L/lock
    L/longstrider
+   M/Magnetic-Attraction
+   M/Magnetic-Repulsion
+   M/Mimic-Undead
+   M/Mud-Pit
    M/mad-monkeys
    M/mage-armor
    M/mage-hand
@@ -265,6 +297,8 @@
    M/moment-of-renewal
    M/monstrosity-form
    M/moon-frenzy
+   N/Necromancers-Generosity
+   N/Nudge-The-Odds
    N/nature-incarnate
    N/natures-enmity
    N/negate-aroma
@@ -276,6 +310,12 @@
    O/obscuring-mist
    O/outcasts-curse
    O/overwhelming-presence
+   P/Persistent-Servant
+   P/Phantom-Crowd
+   P/Pocket-Library
+   P/Protect-Companion
+   P/Protector-Tree
+   P/Puff-Of-Poison
    P/paralyze
    P/paranoia
    P/pass-without-trace
@@ -310,7 +350,11 @@
    P/punishing-winds
    P/purify-food-and-drink
    P/purple-worm-sting
+   Q/Quick-Sort
    Q/quench
+   R/Rapid-Adaptation
+   R/Read-The-Air
+   R/Restyle
    R/raise-dead
    R/ray-of-enfeeblement
    R/ray-of-frost
@@ -336,6 +380,16 @@
    R/righteous-might
    R/rope-trick
    R/rusting-grasp
+   S/Scatter-Scree
+   S/Schadenfreude
+   S/Scorching-Ray
+   S/Seashell-Of-Stolen-Sound
+   S/Sonata-Span
+   S/Spout
+   S/Summon-Lesser-Servitor
+   S/Summoners-Precaution
+   S/Summoners-Visage
+   S/Synchronize
    S/safe-passage
    S/sanctified-ground
    S/sanctuary
@@ -413,11 +467,15 @@
    S/summon-fey
    S/summon-fiend
    S/summon-giant
-   S/summon-plant-or-fungus
    S/summon-instrument
+   S/summon-plant-or-fungus
    S/sunburst
    S/synaptic-pulse
    S/synesthesia
+   T/Tame
+   T/Thicket-Of-Knives
+   T/Thundering-Dominance
+   T/Timely-Tutor
    T/talking-corpse
    T/tanglefoot
    T/tangling-creepers
@@ -442,6 +500,7 @@
    T/true-seeing
    T/true-strike
    T/true-target
+   U/Umbral-Extraction
    U/uncontrollable-dance
    U/undetectable-alignment
    U/unfathomable-song
@@ -458,6 +517,8 @@
    V/vital-beacon
    V/volcanic-eruption
    V/vomit-swarm
+   W/Warriors-Regret
+   W/Wash-Your-Luck
    W/wail-of-the-banshee
    W/wall-of-fire
    W/wall-of-flesh
