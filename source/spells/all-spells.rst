@@ -35,6 +35,8 @@
    A/avatar
    B/Befitting-Attire
    B/Biting-Words
+   B/Blazing-Dive
+   B/Bottomless-Stomach
    B/Breadcrumbs
    B/Bullhorn
    B/baleful-polymorph
@@ -59,6 +61,7 @@
    B/brand-the-impenitent
    B/breath-of-life
    B/burning-hands
+   C/Claim-Curse
    C/Concordant-Choir
    C/call-the-blood
    C/calm-emotions
@@ -97,6 +100,8 @@
    C/crushing-despair
    C/cup-of-dust
    C/curse-of-lost-time
+   D/Days-Weight
+   D/Distracting-Chatter
    D/Draw-Ire
    D/dancing-lights
    D/darkness
@@ -139,7 +144,10 @@
    D/dull-ambition
    D/duplicate-foe
    E/Echoing-Weapon
+   E/Elemental-Absorption
+   E/Elemental-Annihilation-Wave
    E/Elemental-Zone
+   E/Envenom-Companion
    E/Extract-Poison
    E/earthbind
    E/earthquake
@@ -191,6 +199,7 @@
    G/Gale-Blast
    G/Gouging-Claw
    G/Gravitational-Pull
+   G/Gravity-Well
    G/Guiding-Star
    G/gaseous-form
    G/gate
@@ -229,6 +238,7 @@
    H/hypercognition
    H/hypnotic-pattern
    I/Ignite-Fireworks
+   I/Impending-Doom
    I/Infectious-Enthusiasm
    I/Inner-Radiance-Torrent
    I/Instant-Armor
@@ -252,6 +262,7 @@
    J/jump
    K/knock
    K/know-direction
+   L/Life-Connection
    L/Lose-The-Path
    L/Lucky-Number
    L/levitate
@@ -262,9 +273,11 @@
    L/locate
    L/lock
    L/longstrider
+   M/Magnetic-Acceleration
    M/Magnetic-Attraction
    M/Magnetic-Repulsion
    M/Mimic-Undead
+   M/Mind-Of-Menace
    M/Mud-Pit
    M/mad-monkeys
    M/mage-armor
@@ -306,13 +319,18 @@
    N/nightmare
    N/nondetection
    N/noxious-vapors
+   O/Oneiric-Mire
+   O/Ooze-Form
+   O/Organsight
    O/object-reading
    O/obscuring-mist
    O/outcasts-curse
    O/overwhelming-presence
    P/Persistent-Servant
    P/Phantom-Crowd
+   P/Phantom-Prison
    P/Pocket-Library
+   P/Positive-Attunement
    P/Protect-Companion
    P/Protector-Tree
    P/Puff-Of-Poison
@@ -355,6 +373,8 @@
    R/Rapid-Adaptation
    R/Read-The-Air
    R/Restyle
+   R/Roaring-Applause
+   R/Rouse-Skeletons
    R/raise-dead
    R/ray-of-enfeeblement
    R/ray-of-frost
@@ -384,8 +404,12 @@
    S/Schadenfreude
    S/Scorching-Ray
    S/Seashell-Of-Stolen-Sound
+   S/Shadow-Projectile
+   S/Shift-Blame
    S/Sonata-Span
+   S/Soothing-Blossoms
    S/Spout
+   S/Sudden-Recollection
    S/Summon-Lesser-Servitor
    S/Summoners-Precaution
    S/Summoners-Visage
@@ -475,6 +499,7 @@
    T/Tame
    T/Thicket-Of-Knives
    T/Thundering-Dominance
+   T/Time-Jump
    T/Timely-Tutor
    T/talking-corpse
    T/tanglefoot
@@ -517,8 +542,11 @@
    V/vital-beacon
    V/volcanic-eruption
    V/vomit-swarm
+   W/Wall-Of-Water
+   W/Warding-Aggression
    W/Warriors-Regret
    W/Wash-Your-Luck
+   W/Web-Of-Eyes
    W/wail-of-the-banshee
    W/wall-of-fire
    W/wall-of-flesh
