@@ -439,6 +439,8 @@
 
 .. role:: t_incarnate
 
+.. role:: t_contingency
+
 .. role:: t_alchemist
 
 .. role:: t_barbarian
