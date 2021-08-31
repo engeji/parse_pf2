@@ -199,7 +199,6 @@
    G/Gale-Blast
    G/Gouging-Claw
    G/Gravitational-Pull
-   G/Gravity-Well
    G/Guiding-Star
    G/gaseous-form
    G/gate
