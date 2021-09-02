@@ -1,13 +1,13 @@
 .. include:: /helpers/roles.rst
 
 .. rst-class:: spell
-.. _spell--LETTER--TITLE:
+.. _spell--TITLE:
 
 НАЗВАНИЕ (`TITLE <https>`_) / Закл. #
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-- :uncommon:`необычный`
 - :rare:`редкий`
+- :uncommon:`необычный`
 - 
 
 **Обычай**: арканный, сакральный, оккультный, природный
@@ -31,16 +31,16 @@
 **Требования**: 
 
 **Божества**:
-:doc:`/lost_omens/Deity/Other/NAME`,
 :doc:`/lost_omens/Deity/CATEGORY/NAME`,
-:ref:`PANTHEON`,
 
-**Источник**: Lost Omens: 
-**Источник**: Advanced Player's Guide pg. 
+**Пантеоны**:
+:doc:`/lost_omens/Deity/Pantheon/NAME`,
+
+**Источник**: Secrets of Magic pg. 9999999999999999999999999999999999999999999
 
 ----------
 
-Описание
+ОПИСАНИЕ
 
 | **Критический успех**: 
 | **Успех**: 

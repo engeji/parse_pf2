@@ -4,6 +4,9 @@
 :w_thrown:`метательное`
 :w_deadly:`смертельное`
 :w_disarm:`разоружение`
+:w_shove:`толчок`
+:w_trip:`опрокидывание`
+:w_grapple:`захват`
 :w_versatile:`универсальное`
 :w_forceful:`силовое`
 :w_nonlethal:`несмертельное`
@@ -62,8 +65,8 @@
 :t_auditory:`слуховой`
 :t_visual:`визуальный`
 :t_linguistic:`языковой`
-:t_emotion:`эмоция`
 :t_fear:`страх`
+:t_emotion:`эмоция`
 :t_mental:`ментальный`
 :t_olfactory:`обонятельный`
 
@@ -73,6 +76,7 @@
 :t_primal:`природный`
 :t_divine:`сакральный`
 :t_occult:`оккультный`
+:t_abjuration:`преграждение`
 :t_transmutation:`трансмутация`
 :t_evocation:`эвокация`
 :t_necromancy:`некромантия`
@@ -101,10 +105,10 @@
 
 :t_electricity:`электричество`
 :t_fire:`огонь`
-:t_cold:`холод`
 :t_water:`вода`
 :t_air:`воздух`
 :t_earth:`земля`
+:t_cold:`холод`
 :t_sonic:`звук`
 :t_positive:`позитивный`
 :t_negative:`негативный`

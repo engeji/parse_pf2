@@ -224,8 +224,9 @@ Creature: существо
 	мitflit: митфлиты
 		mite: майт, клоп
 	soulbound shell: одушевленная оболочка
+	abrikandilu: абрикандил
 
-counteract: Противодействие :ref:`ch9--Counteracting` (нейтрализация?)
+counteract: Противодействие :ref:`ch9--Counteracting` / :ref:`противодействие <ch9--Counteracting>`
 Currency: Деньги
 	pp: пм / платиновая монета
 	gp: зм / золотая монета
@@ -335,7 +336,7 @@ domains: домены
 Domain Initiate: Посвященный в домен
 duration: продолжительность
 
-Emblazon Armament: Освящение Оружия (TODO перевод)
+eidolon: эйдолон
 encounter: столкновение
 Experience Points: Очки Опыта
 extradimensional space: межпространственный карман
@@ -621,6 +622,7 @@ senses: чувства, сенсорные чувства
 	spiritsense: духовное чувство
 	lifesense: жизнечувствительность
 	wavesense: волночувствительность
+	thoughtsense: нейрочувствительность
 Skill: Навык
 	Arcana: Аркана
 		Borrow an Arcane Spell: Одолжить арканное заклинание :ref:`skill--Arcana--Borrow-an-Arcane-Spell`
@@ -790,7 +792,7 @@ Titles:
 	Shining Crusade: Сияющий Поход
 	Firebrands: Смутьяны
 	Magaambyan: Магаамбия
-	Akashic Record: Акашийская хроника; Хроника Акаши
+	Akashic Record: Акашийская Хроника; Хроника Акаши
 	Fleshwarp: Искажение плоти
 	Fleshforges of Nex: Формирующие плоть Некса
 	Ravounel: Равунел

@@ -431,6 +431,16 @@
 
 .. role:: t_adjustment
 
+.. role:: t_eidolon
+
+.. role:: t_evolution
+
+.. role:: t_tandem
+
+.. role:: t_incarnate
+
+.. role:: t_contingency
+
 .. role:: t_alchemist
 
 .. role:: t_barbarian
@@ -462,6 +472,10 @@
 .. role:: t_witch
 
 .. role:: t_wizard
+
+.. role:: t_magus
+
+.. role:: t_summoner
 
 .. role:: t_dwarf
 
