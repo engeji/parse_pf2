@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Puff-Of-Poison:
 
-Дуновение яда (`Puff Of Poison <https>`_) / Чары 1
+Дуновение яда (`Puff Of Poison <https://2e.aonprd.com/Spells.aspx?ID=977>`_) / Чары 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - чары

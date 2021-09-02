@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Warriors-Regret:
 
-Сожаление воина (`Warrior's Regret <https>`_) / Закл. 2
+Сожаление воина (`Warrior's Regret <https://2e.aonprd.com/Spells.aspx?ID=1030>`_) / Закл. 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - очарование

@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Bottomless-Stomach:
 
-Бездонный живот (`Bottomless Stomach <https>`_) / Закл. 3
+Бездонный живот (`Bottomless Stomach <https://2e.aonprd.com/Spells.aspx?ID=875>`_) / Закл. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - воплощение

@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Extract-Poison:
 
-Извлечение яда (`Extract Poison <https>`_) / Закл. 2
+Извлечение яда (`Extract Poison <https://2e.aonprd.com/Spells.aspx?ID=907>`_) / Закл. 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - преграждение

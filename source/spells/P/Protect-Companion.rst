@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Protect-Companion:
 
-Защитить компаньона (`Protect Companion <https>`_) / Чары 1
+Защитить компаньона (`Protect Companion <https://2e.aonprd.com/Spells.aspx?ID=975>`_) / Чары 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - преграждение

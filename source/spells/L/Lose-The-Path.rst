@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Lose-The-Path:
 
-Сбить с пути (`Lose The Path <https>`_) / Закл. 1
+Сбить с пути (`Lose The Path <https://2e.aonprd.com/Spells.aspx?ID=940>`_) / Закл. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - иллюзия

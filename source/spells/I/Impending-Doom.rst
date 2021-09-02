@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Impending-Doom:
 
-Надвигающийся рок (`Impending Doom <https>`_) / Закл. 3
+Надвигающийся рок (`Impending Doom <https://2e.aonprd.com/Spells.aspx?ID=929>`_) / Закл. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - прорицание

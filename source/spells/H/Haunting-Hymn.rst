@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Haunting-Hymn:
 
-Навязчивый гимн (`Haunting Hymn <https>`_) / Чары 1
+Навязчивый гимн (`Haunting Hymn <https://2e.aonprd.com/Spells.aspx?ID=924>`_) / Чары 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - чары

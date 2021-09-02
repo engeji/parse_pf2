@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Rapid-Adaptation:
 
-Быстрая адаптация (`Rapid Adaptation <https>`_) / Закл. 2
+Быстрая адаптация (`Rapid Adaptation <https://2e.aonprd.com/Spells.aspx?ID=979>`_) / Закл. 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - трансмутация

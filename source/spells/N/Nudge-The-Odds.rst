@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Nudge-The-Odds:
 
-Повышение шансов (`Nudge The Odds <https>`_) / Закл. 1
+Повышение шансов (`Nudge The Odds <https://2e.aonprd.com/Spells.aspx?ID=957>`_) / Закл. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычный`

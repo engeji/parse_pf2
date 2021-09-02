@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Concordant-Choir:
 
-Гармоничный хор (`Concordant Choir <https>`_) / Закл. 1
+Гармоничный хор (`Concordant Choir <https://2e.aonprd.com/Spells.aspx?ID=886>`_) / Закл. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эвокация

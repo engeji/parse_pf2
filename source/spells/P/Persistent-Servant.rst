@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Persistent-Servant:
 
-Постоянный слуга (`Persistent Servant <https>`_) / Закл. 2
+Постоянный слуга (`Persistent Servant <https://2e.aonprd.com/Spells.aspx?ID=966>`_) / Закл. 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - воплощение

@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Phantom-Crowd:
 
-Фантомная толпа (`Phantom Crowd <https>`_) / Закл. 2
+Фантомная толпа (`Phantom Crowd <https://2e.aonprd.com/Spells.aspx?ID=968>`_) / Закл. 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - иллюзия

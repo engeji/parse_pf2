@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Shadow-Projectile:
 
-Теневой снаряд (`Shadow Projectile <https>`_) / Закл. 3
+Теневой снаряд (`Shadow Projectile <https://2e.aonprd.com/Spells.aspx?ID=995>`_) / Закл. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - иллюзия

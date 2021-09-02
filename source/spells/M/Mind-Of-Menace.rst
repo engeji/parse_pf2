@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Mind-Of-Menace:
 
-Разум угрозы (`Mind Of Menace <https>`_) / Закл. 3
+Разум угрозы (`Mind Of Menace <https://2e.aonprd.com/Spells.aspx?ID=949>`_) / Закл. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - очарование

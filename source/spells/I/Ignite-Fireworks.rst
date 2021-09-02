@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Ignite-Fireworks:
 
-Поджечь фейерверк (`Ignite Fireworks <https>`_) / Закл. 2
+Поджечь фейерверк (`Ignite Fireworks <https://2e.aonprd.com/Spells.aspx?ID=928>`_) / Закл. 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эвокация

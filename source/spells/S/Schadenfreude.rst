@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Schadenfreude:
 
-Злорадство (`Schadenfreude <https>`_) / Закл. 1
+Злорадство (`Schadenfreude <https://2e.aonprd.com/Spells.aspx?ID=991>`_) / Закл. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - очарование

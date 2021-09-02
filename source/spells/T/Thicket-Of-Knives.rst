@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Thicket-Of-Knives:
 
-Заросли ножей (`Thicket Of Knives <https>`_) / Закл. 1
+Заросли ножей (`Thicket Of Knives <https://2e.aonprd.com/Spells.aspx?ID=1017>`_) / Закл. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - иллюзия

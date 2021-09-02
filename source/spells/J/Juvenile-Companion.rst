@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Juvenile-Companion:
 
-Юный компаньон (`Juvenile Companion <https>`_) / Закл. 1
+Юный компаньон (`Juvenile Companion <https://2e.aonprd.com/Spells.aspx?ID=938>`_) / Закл. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - трансмутация

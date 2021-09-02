@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Biting-Words:
 
-Кусачие слова (`Biting Words <https>`_) / Закл. 1
+Кусачие слова (`Biting Words <https://2e.aonprd.com/Spells.aspx?ID=868>`_) / Закл. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - атака

@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Elemental-Zone:
 
-Зона стихии (`Elemental Zone <https>`_) / Закл. 2
+Зона стихии (`Elemental Zone <https://2e.aonprd.com/Spells.aspx?ID=905>`_) / Закл. 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эвокация

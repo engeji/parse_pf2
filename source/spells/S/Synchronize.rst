@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Synchronize:
 
-Сверка (`Synchronize <https>`_) / Закл. 1
+Сверка (`Synchronize <https://2e.aonprd.com/Spells.aspx?ID=1013>`_) / Закл. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - прорицание

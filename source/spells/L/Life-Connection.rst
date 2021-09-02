@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Life-Connection:
 
-Жизненная связь (`Life Connection <https>`_) / Закл. 3
+Жизненная связь (`Life Connection <https://2e.aonprd.com/Spells.aspx?ID=939>`_) / Закл. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - сопряженность

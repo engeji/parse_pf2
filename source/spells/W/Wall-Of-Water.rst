@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Wall-Of-Water:
 
-Стена воды (`Wall Of Water <https>`_) / Закл. 3
+Стена воды (`Wall Of Water <https://2e.aonprd.com/Spells.aspx?ID=1028>`_) / Закл. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - воплощение

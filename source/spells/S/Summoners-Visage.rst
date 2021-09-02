@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Summoners-Visage:
 
-Облик призывателя (`Summoner's Visage <https>`_) / Закл. 2
+Облик призывателя (`Summoner's Visage <https://2e.aonprd.com/Spells.aspx?ID=1012>`_) / Закл. 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - трансмутация

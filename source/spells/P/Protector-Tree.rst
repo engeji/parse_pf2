@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Protector-Tree:
 
-Дерево-защитник (`Protector Tree <https>`_) / Закл. 1
+Дерево-защитник (`Protector Tree <https://2e.aonprd.com/Spells.aspx?ID=976>`_) / Закл. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - воплощение

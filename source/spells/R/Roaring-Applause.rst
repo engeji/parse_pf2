@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Roaring-Applause:
 
-Бурные аплодисменты (`Roaring Applause <https>`_) / Закл. 3
+Бурные аплодисменты (`Roaring Applause <https://2e.aonprd.com/Spells.aspx?ID=987>`_) / Закл. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - очарование

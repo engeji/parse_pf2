@@ -190,16 +190,17 @@
 
    investigator
    alchemist
+   
    magus
+   summoner
+   
    bard
-
    cleric
    druid
    wizard
    witch
    sorcerer
    oracle
-   summoner
 
 
 

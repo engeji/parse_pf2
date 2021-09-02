@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Wash-Your-Luck:
 
-Очищение удачи (`Wash Your Luck <https>`_) / Чары 1
+Очищение удачи (`Wash Your Luck <https://2e.aonprd.com/Spells.aspx?ID=1031>`_) / Чары 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - чары

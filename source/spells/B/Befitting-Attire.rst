@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Befitting-Attire:
 
-Подобающий наряд (`Befitting Attire <https>`_) / Закл. 2
+Подобающий наряд (`Befitting Attire <https://2e.aonprd.com/Spells.aspx?ID=867>`_) / Закл. 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - иллюзия

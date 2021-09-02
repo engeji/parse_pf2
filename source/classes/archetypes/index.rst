@@ -125,8 +125,8 @@
 
 .. _arhc--Bounded-Spellcasting-Archetypes:
 
-Архетипы ограниченных заклинателей (`Bounded Spellcasting Archetype <https>`_)
---------------------------------------------------------------------------------------------------------
+Архетипы ограниченных заклинателей (`Bounded Spellcasting Archetype <https://2e.aonprd.com/Rules.aspx?ID=1485>`_)
+-----------------------------------------------------------------------------------------------------------------
 
 **Источник**: Secrets of Magic pg. 74
 
@@ -301,16 +301,17 @@
 
    investigator
    alchemist
+   
    magus
+   summoner
+   
    bard
-
    cleric
    druid
    wizard
    witch
    sorcerer
    oracle
-   summoner
 
 
    acrobat

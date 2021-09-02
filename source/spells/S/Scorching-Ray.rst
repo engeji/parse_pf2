@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Scorching-Ray:
 
-Опаляющий луч (`Scorching Ray <https>`_) / Закл. 2
+Опаляющий луч (`Scorching Ray <https://2e.aonprd.com/Spells.aspx?ID=992>`_) / Закл. 2
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эвокация

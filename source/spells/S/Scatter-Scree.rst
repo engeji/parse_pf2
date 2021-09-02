@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Scatter-Scree:
 
-Рассеять щебень (`Scatter Scree <https>`_) / Чары 1
+Рассеять щебень (`Scatter Scree <https://2e.aonprd.com/Spells.aspx?ID=990>`_) / Чары 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - чары

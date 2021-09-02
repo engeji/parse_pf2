@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Echoing-Weapon:
 
-Вторящее оружие (`Echoing Weapon <https>`_) / Закл. 1
+Вторящее оружие (`Echoing Weapon <https://2e.aonprd.com/Spells.aspx?ID=899>`_) / Закл. 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эвокация

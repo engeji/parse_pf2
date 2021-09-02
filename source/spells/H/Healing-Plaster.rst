@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Healing-Plaster:
 
-Исцеляющий гипс (`Healing Plaster <https>`_) / Чары 1
+Исцеляющий гипс (`Healing Plaster <https://2e.aonprd.com/Spells.aspx?ID=925>`_) / Чары 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - чары

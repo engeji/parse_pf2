@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Rouse-Skeletons:
 
-Пробуждение скелетов (`Rouse Skeletons <https>`_) / Закл. 3
+Пробуждение скелетов (`Rouse Skeletons <https://2e.aonprd.com/Spells.aspx?ID=988>`_) / Закл. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - некромантия

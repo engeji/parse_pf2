@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Envenom-Companion:
 
-Ядовитый компаньон (`Envenom Companion <https>`_) / Закл. 3
+Ядовитый компаньон (`Envenom Companion <https://2e.aonprd.com/Spells.aspx?ID=906>`_) / Закл. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - некромантия

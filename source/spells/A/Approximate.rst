@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Approximate:
 
-Аппроксимация (`Approximate <https>`_) / Чары 1
+Аппроксимация (`Approximate <https://2e.aonprd.com/Spells.aspx?ID=864>`_) / Чары 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - чары
