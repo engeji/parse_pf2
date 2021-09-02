@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Draw-The-Lightning:
 
-Притянуть молнию (`Draw The Lightning <https>`_) / Закл. 4
+Притянуть молнию (`Draw The Lightning <https://2e.aonprd.com/Spells.aspx?ID=898>`_) / Закл. 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эвокация
