@@ -35,6 +35,9 @@
    A/avatar
    B/Befitting-Attire
    B/Biting-Words
+   B/Blazing-Dive
+   B/Bloodspray-Curse
+   B/Bottomless-Stomach
    B/Breadcrumbs
    B/Bullhorn
    B/baleful-polymorph
@@ -59,7 +62,11 @@
    B/brand-the-impenitent
    B/breath-of-life
    B/burning-hands
+   C/Chromatic-Armor
+   C/Chromatic-Ray
+   C/Claim-Curse
    C/Concordant-Choir
+   C/Coral-Eruption
    C/call-the-blood
    C/calm-emotions
    C/cataclysm
@@ -97,7 +104,10 @@
    C/crushing-despair
    C/cup-of-dust
    C/curse-of-lost-time
+   D/Days-Weight
+   D/Distracting-Chatter
    D/Draw-Ire
+   D/Draw-The-Lightning
    D/dancing-lights
    D/darkness
    D/darkvision
@@ -139,7 +149,11 @@
    D/dull-ambition
    D/duplicate-foe
    E/Echoing-Weapon
+   E/Elemental-Absorption
+   E/Elemental-Annihilation-Wave
+   E/Elemental-Gift
    E/Elemental-Zone
+   E/Envenom-Companion
    E/Extract-Poison
    E/earthbind
    E/earthquake
@@ -158,6 +172,7 @@
    E/ethereal-jaunt
    E/expeditious-excavation
    F/Feral-Shades
+   F/Fey-Form
    F/Flame-Wisp
    F/fabricated-truth
    F/faerie-fire
@@ -229,9 +244,12 @@
    H/hypercognition
    H/hypnotic-pattern
    I/Ignite-Fireworks
+   I/Impending-Doom
    I/Infectious-Enthusiasm
+   I/Infectious-Melody
    I/Inner-Radiance-Torrent
    I/Instant-Armor
+   I/Invisibility-Curtain
    I/ice-storm
    I/ill-omen
    I/illusory-creature
@@ -252,6 +270,7 @@
    J/jump
    K/knock
    K/know-direction
+   L/Life-Connection
    L/Lose-The-Path
    L/Lucky-Number
    L/levitate
@@ -262,10 +281,15 @@
    L/locate
    L/lock
    L/longstrider
+   M/Magic-Mailbox
+   M/Magnetic-Acceleration
    M/Magnetic-Attraction
    M/Magnetic-Repulsion
    M/Mimic-Undead
+   M/Mind-Of-Menace
+   M/Mirrors-Misfortune
    M/Mud-Pit
+   M/Murderous-Vine
    M/mad-monkeys
    M/mage-armor
    M/mage-hand
@@ -306,13 +330,22 @@
    N/nightmare
    N/nondetection
    N/noxious-vapors
+   O/Ocular-Overload
+   O/Oneiric-Mire
+   O/Ooze-Form
+   O/Organsight
    O/object-reading
    O/obscuring-mist
    O/outcasts-curse
    O/overwhelming-presence
+   P/Painful-Vibrations
+   P/Pernicious-Poltergeist
    P/Persistent-Servant
+   P/Petal-Storm
    P/Phantom-Crowd
+   P/Phantom-Prison
    P/Pocket-Library
+   P/Positive-Attunement
    P/Protect-Companion
    P/Protector-Tree
    P/Puff-Of-Poison
@@ -353,8 +386,12 @@
    Q/Quick-Sort
    Q/quench
    R/Rapid-Adaptation
+   R/Ravenous-Portal
    R/Read-The-Air
+   R/Replicate
    R/Restyle
+   R/Roaring-Applause
+   R/Rouse-Skeletons
    R/raise-dead
    R/ray-of-enfeeblement
    R/ray-of-frost
@@ -380,12 +417,19 @@
    R/righteous-might
    R/rope-trick
    R/rusting-grasp
+   S/Sanguine-Mist
    S/Scatter-Scree
    S/Schadenfreude
    S/Scorching-Ray
    S/Seashell-Of-Stolen-Sound
+   S/Shadow-Projectile
+   S/Shift-Blame
    S/Sonata-Span
+   S/Soothing-Blossoms
+   S/Soothing-Spring
+   S/Spiritual-Attunement
    S/Spout
+   S/Sudden-Recollection
    S/Summon-Lesser-Servitor
    S/Summoners-Precaution
    S/Summoners-Visage
@@ -475,7 +519,9 @@
    T/Tame
    T/Thicket-Of-Knives
    T/Thundering-Dominance
+   T/Time-Jump
    T/Timely-Tutor
+   T/Tortoise-And-The-Hare
    T/talking-corpse
    T/tanglefoot
    T/tangling-creepers
@@ -501,12 +547,14 @@
    T/true-strike
    T/true-target
    U/Umbral-Extraction
+   U/Umbral-Graft
    U/uncontrollable-dance
    U/undetectable-alignment
    U/unfathomable-song
    U/unfettered-pack
    U/unrelenting-observation
    U/unseen-servant
+   V/Variable-Gravity
    V/vampiric-exsanguination
    V/vampiric-maiden
    V/vampiric-touch
@@ -517,8 +565,12 @@
    V/vital-beacon
    V/volcanic-eruption
    V/vomit-swarm
+   W/Wall-Of-Water
+   W/Warding-Aggression
    W/Warriors-Regret
    W/Wash-Your-Luck
+   W/Web-Of-Eyes
+   W/Winning-Streak
    W/wail-of-the-banshee
    W/wall-of-fire
    W/wall-of-flesh

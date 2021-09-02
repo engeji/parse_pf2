@@ -24,7 +24,9 @@
 **Пантеоны**:
 :doc:`/lost_omens/Deity/Pantheon/The-Path-of-the-Heavens`
 
-**Источник**: Lost Omens: Gods & Magic pg. 108
+**Источник**:
+Lost Omens: Gods & Magic pg. 108,
+Secrets of Magic pg. 109
 
 ----------
 
