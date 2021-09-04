@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--Blazing-Fissure:
 
-Пылающая расщелина (`Blazing Fissure <https>`_) / Закл. 5
+Пылающая расщелина (`Blazing Fissure <https://2e.aonprd.com/Spells.aspx?ID=870>`_) / Закл. 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - эвокация

@@ -225,6 +225,7 @@ Creature: существо
 		mite: майт, клоп
 	soulbound shell: одушевленная оболочка
 	abrikandilu: абрикандил
+	gogiteth: гогитэт
 
 counteract: Противодействие :ref:`ch9--Counteracting` / :ref:`противодействие <ch9--Counteracting>`
 Currency: Деньги
