@@ -5,6 +5,7 @@
    :maxdepth: 1
    
    A/Aberrant-Form
+   A/Angel-Form
    A/Animal-Allies
    A/Approximate
    A/Ash-Cloud
@@ -74,6 +75,8 @@
    C/Claim-Curse
    C/Concordant-Choir
    C/Coral-Eruption
+   C/Corrosive-Body
+   C/Cosmic-Form
    C/call-the-blood
    C/calm-emotions
    C/cataclysm
@@ -113,6 +116,7 @@
    C/curse-of-lost-time
    D/Daemon-Form
    D/Days-Weight
+   D/Deitys-Strike
    D/Demon-Form
    D/Devil-Form
    D/Distracting-Chatter
@@ -189,6 +193,7 @@
    F/Flammable-Fumes
    F/Flowing-Strike
    F/Forceful-Hand
+   F/Frigid-Flurry
    F/fabricated-truth
    F/faerie-fire
    F/false-life
@@ -264,6 +269,7 @@
    I/Ignite-Fireworks
    I/Impending-Doom
    I/Inevitable-Disaster
+   I/Inexhaustible-Cynicism
    I/Infectious-Enthusiasm
    I/Infectious-Melody
    I/Inner-Radiance-Torrent
@@ -372,6 +378,7 @@
    P/Pocket-Library
    P/Portrait-Of-The-Artist
    P/Positive-Attunement
+   P/Prismatic-Armor
    P/Protect-Companion
    P/Protector-Tree
    P/Puff-Of-Poison
@@ -452,6 +459,7 @@
    S/Scorching-Ray
    S/Seashell-Of-Stolen-Sound
    S/Shadow-Projectile
+   S/Shadow-Raid
    S/Shift-Blame
    S/Sonata-Span
    S/Soothing-Blossoms
@@ -548,6 +556,7 @@
    S/synaptic-pulse
    S/synesthesia
    T/Tame
+   T/Tempest-Of-Shades
    T/Temporary-Glyph
    T/Thicket-Of-Knives
    T/Thundering-Dominance
