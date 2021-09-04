@@ -67,7 +67,9 @@
    B/brand-the-impenitent
    B/breath-of-life
    B/burning-hands
+   C/Cast-Into-Time
    C/Chromatic-Armor
+   C/Chromatic-Image
    C/Chromatic-Ray
    C/Claim-Curse
    C/Concordant-Choir
@@ -109,7 +111,10 @@
    C/crushing-despair
    C/cup-of-dust
    C/curse-of-lost-time
+   D/Daemon-Form
    D/Days-Weight
+   D/Demon-Form
+   D/Devil-Form
    D/Distracting-Chatter
    D/Draw-Ire
    D/Draw-The-Lightning
@@ -156,6 +161,7 @@
    E/Echoing-Weapon
    E/Elemental-Absorption
    E/Elemental-Annihilation-Wave
+   E/Elemental-Confluence
    E/Elemental-Gift
    E/Elemental-Zone
    E/Envenom-Companion
@@ -178,6 +184,7 @@
    E/expeditious-excavation
    F/Feral-Shades
    F/Fey-Form
+   F/Flame-Vortex
    F/Flame-Wisp
    F/Flammable-Fumes
    F/Flowing-Strike
@@ -337,7 +344,9 @@
    M/moment-of-renewal
    M/monstrosity-form
    M/moon-frenzy
+   N/Natures-Reprisal
    N/Necromancers-Generosity
+   N/Necrotize
    N/Nudge-The-Odds
    N/nature-incarnate
    N/natures-enmity
@@ -571,6 +580,7 @@
    T/true-target
    U/Umbral-Extraction
    U/Umbral-Graft
+   U/Unexpected-Transposition
    U/uncontrollable-dance
    U/undetectable-alignment
    U/unfathomable-song
@@ -614,5 +624,6 @@
    W/wind-walk
    W/wish
    W/worms-repast
+   Z/Zero-Gravity
    Z/zealous-conviction
    Z/zone-of-truth

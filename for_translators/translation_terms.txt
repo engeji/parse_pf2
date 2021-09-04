@@ -149,6 +149,16 @@ Creature: существо
 		daemon: дэймон
 		demon: демон
 		urdefhan: урдефан
+		ceustodaemon: цеастодэймон
+		leukodaemon: лейкодэймон
+		meladaemon: меладэймон
+		piscodaemon: пискодэймон
+		babau: бабау
+		hezrou: хезру
+		nabasu: набасу
+		vrock: врок
+		sarglagon: осилут
+		osyluth: сарлагон
 	fungus: грибковый
 	fungi: гриб
 	ooze: слизь
