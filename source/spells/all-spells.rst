@@ -4,6 +4,7 @@
 .. toctree::
    :maxdepth: 1
    
+   A/Aberrant-Form
    A/Animal-Allies
    A/Approximate
    A/Ash-Cloud
@@ -33,9 +34,13 @@
    A/aqueous-orb
    A/augury
    A/avatar
+   B/Bandits-Doom
    B/Befitting-Attire
    B/Biting-Words
    B/Blazing-Dive
+   B/Blazing-Fissure
+   B/Blessing-Of-Defiance
+   B/Blink-Charge
    B/Bloodspray-Curse
    B/Bottomless-Stomach
    B/Breadcrumbs
@@ -174,6 +179,9 @@
    F/Feral-Shades
    F/Fey-Form
    F/Flame-Wisp
+   F/Flammable-Fumes
+   F/Flowing-Strike
+   F/Forceful-Hand
    F/fabricated-truth
    F/faerie-fire
    F/false-life
@@ -204,6 +212,8 @@
    F/fungal-hyphae
    F/fungal-infestation
    G/Gale-Blast
+   G/Geyser
+   G/Glimmer-Of-Charm
    G/Gouging-Claw
    G/Gravitational-Pull
    G/Guiding-Star
@@ -227,6 +237,7 @@
    G/gust-of-wind
    H/Haunting-Hymn
    H/Healing-Plaster
+   H/Healing-Well
    H/Horizon-Thunder-Sphere
    H/hallucination
    H/hallucinatory-terrain
@@ -245,11 +256,13 @@
    H/hypnotic-pattern
    I/Ignite-Fireworks
    I/Impending-Doom
+   I/Inevitable-Disaster
    I/Infectious-Enthusiasm
    I/Infectious-Melody
    I/Inner-Radiance-Torrent
    I/Instant-Armor
    I/Invisibility-Curtain
+   I/Invoke-Spirits
    I/ice-storm
    I/ill-omen
    I/illusory-creature
@@ -285,8 +298,11 @@
    M/Magnetic-Acceleration
    M/Magnetic-Attraction
    M/Magnetic-Repulsion
+   M/Mantle-Of-The-Frozen-Heart
+   M/Mantle-Of-The-Magma-Heart
    M/Mimic-Undead
    M/Mind-Of-Menace
+   M/Mirror-Malefactors
    M/Mirrors-Misfortune
    M/Mud-Pit
    M/Murderous-Vine
@@ -345,6 +361,7 @@
    P/Phantom-Crowd
    P/Phantom-Prison
    P/Pocket-Library
+   P/Portrait-Of-The-Artist
    P/Positive-Attunement
    P/Protect-Companion
    P/Protector-Tree
@@ -388,8 +405,11 @@
    R/Rapid-Adaptation
    R/Ravenous-Portal
    R/Read-The-Air
+   R/Repelling-Pulse
    R/Replicate
    R/Restyle
+   R/Rewinding-Step
+   R/Rip-The-Spirit
    R/Roaring-Applause
    R/Rouse-Skeletons
    R/raise-dead
@@ -430,6 +450,8 @@
    S/Spiritual-Attunement
    S/Spout
    S/Sudden-Recollection
+   S/Summon-Anarch
+   S/Summon-Axiom
    S/Summon-Lesser-Servitor
    S/Summoners-Precaution
    S/Summoners-Visage
@@ -517,6 +539,7 @@
    S/synaptic-pulse
    S/synesthesia
    T/Tame
+   T/Temporary-Glyph
    T/Thicket-Of-Knives
    T/Thundering-Dominance
    T/Time-Jump
