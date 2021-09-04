@@ -149,7 +149,7 @@ Creature: существо
 		daemon: дэймон
 		demon: демон
 		urdefhan: урдефан
-		ceustodaemon: цестодэймон
+		ceustodaemon: цеастодэймон
 		leukodaemon: лейкодэймон
 		meladaemon: меладэймон
 		piscodaemon: пискодэймон
