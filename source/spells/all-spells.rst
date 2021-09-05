@@ -43,9 +43,11 @@
    B/Blessing-Of-Defiance
    B/Blink-Charge
    B/Bloodspray-Curse
+   B/Boil-Blood
    B/Bottomless-Stomach
    B/Breadcrumbs
    B/Bullhorn
+   B/Burning-Blossoms
    B/baleful-polymorph
    B/bane
    B/banishment
@@ -68,11 +70,13 @@
    B/brand-the-impenitent
    B/breath-of-life
    B/burning-hands
+   C/Canticle-Of-Everlasting-Grief
    C/Cast-Into-Time
    C/Chromatic-Armor
    C/Chromatic-Image
    C/Chromatic-Ray
    C/Claim-Curse
+   C/Clone-Companion
    C/Concordant-Choir
    C/Coral-Eruption
    C/Corrosive-Body
@@ -120,6 +124,7 @@
    D/Demon-Form
    D/Devil-Form
    D/Distracting-Chatter
+   D/Divine-Armageddon
    D/Draw-Ire
    D/Draw-The-Lightning
    D/dancing-lights
@@ -468,7 +473,9 @@
    S/Spout
    S/Sudden-Recollection
    S/Summon-Anarch
+   S/Summon-Archmage
    S/Summon-Axiom
+   S/Summon-Deific-Herald
    S/Summon-Lesser-Servitor
    S/Summoners-Precaution
    S/Summoners-Visage
@@ -612,6 +619,7 @@
    W/Warriors-Regret
    W/Wash-Your-Luck
    W/Web-Of-Eyes
+   W/Whirlwind
    W/Winning-Streak
    W/wail-of-the-banshee
    W/wall-of-fire
