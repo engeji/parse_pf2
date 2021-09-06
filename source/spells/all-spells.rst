@@ -168,6 +168,7 @@
    D/dull-ambition
    D/duplicate-foe
    E/Echoing-Weapon
+   E/Element-Embodied
    E/Elemental-Absorption
    E/Elemental-Annihilation-Wave
    E/Elemental-Confluence
@@ -191,6 +192,7 @@
    E/enthrall
    E/ethereal-jaunt
    E/expeditious-excavation
+   F/Fated-Confrontation
    F/Feral-Shades
    F/Fey-Form
    F/Flame-Vortex
@@ -359,6 +361,7 @@
    N/Necromancers-Generosity
    N/Necrotize
    N/Nudge-The-Odds
+   N/Nullify
    N/nature-incarnate
    N/natures-enmity
    N/negate-aroma
@@ -465,6 +468,7 @@
    S/Schadenfreude
    S/Scorching-Ray
    S/Seashell-Of-Stolen-Sound
+   S/Shadow-Army
    S/Shadow-Projectile
    S/Shadow-Raid
    S/Shift-Blame
@@ -479,6 +483,7 @@
    S/Summon-Axiom
    S/Summon-Deific-Herald
    S/Summon-Draconic-Legion
+   S/Summon-Kaiju
    S/Summon-Lesser-Servitor
    S/Summoners-Precaution
    S/Summoners-Visage
