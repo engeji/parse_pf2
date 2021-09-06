@@ -83,6 +83,7 @@
 :t_illusion:`иллюзия`
 :t_divination:`прорицание`
 :t_enchantment:`очарование`
+:t_conjuration:`воплощение`
 
 :t_metamagic:`метамагия`
 :t_healing:`исцеление`
