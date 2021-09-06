@@ -168,6 +168,7 @@
    D/dull-ambition
    D/duplicate-foe
    E/Echoing-Weapon
+   E/Element-Embodied
    E/Elemental-Absorption
    E/Elemental-Annihilation-Wave
    E/Elemental-Confluence
@@ -191,6 +192,7 @@
    E/enthrall
    E/ethereal-jaunt
    E/expeditious-excavation
+   F/Fated-Confrontation
    F/Feral-Shades
    F/Fey-Form
    F/Flame-Vortex
@@ -359,6 +361,7 @@
    N/Necromancers-Generosity
    N/Necrotize
    N/Nudge-The-Odds
+   N/Nullify
    N/nature-incarnate
    N/natures-enmity
    N/negate-aroma
@@ -367,6 +370,7 @@
    N/nondetection
    N/noxious-vapors
    O/Ocular-Overload
+   O/One-With-The-Land
    O/Oneiric-Mire
    O/Ooze-Form
    O/Organsight
@@ -384,6 +388,7 @@
    P/Portrait-Of-The-Artist
    P/Positive-Attunement
    P/Prismatic-Armor
+   P/Proliferating-Eyes
    P/Protect-Companion
    P/Protector-Tree
    P/Puff-Of-Poison
@@ -463,6 +468,7 @@
    S/Schadenfreude
    S/Scorching-Ray
    S/Seashell-Of-Stolen-Sound
+   S/Shadow-Army
    S/Shadow-Projectile
    S/Shadow-Raid
    S/Shift-Blame
@@ -476,6 +482,8 @@
    S/Summon-Archmage
    S/Summon-Axiom
    S/Summon-Deific-Herald
+   S/Summon-Draconic-Legion
+   S/Summon-Kaiju
    S/Summon-Lesser-Servitor
    S/Summoners-Precaution
    S/Summoners-Visage
@@ -597,6 +605,7 @@
    U/Umbral-Extraction
    U/Umbral-Graft
    U/Unexpected-Transposition
+   U/Unspeakable-Shadow
    U/uncontrollable-dance
    U/undetectable-alignment
    U/unfathomable-song
@@ -604,6 +613,7 @@
    U/unrelenting-observation
    U/unseen-servant
    V/Variable-Gravity
+   V/Voracious-Gestalt
    V/vampiric-exsanguination
    V/vampiric-maiden
    V/vampiric-touch
