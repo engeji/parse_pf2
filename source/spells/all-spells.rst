@@ -367,6 +367,7 @@
    N/nondetection
    N/noxious-vapors
    O/Ocular-Overload
+   O/One-With-The-Land
    O/Oneiric-Mire
    O/Ooze-Form
    O/Organsight
@@ -384,6 +385,7 @@
    P/Portrait-Of-The-Artist
    P/Positive-Attunement
    P/Prismatic-Armor
+   P/Proliferating-Eyes
    P/Protect-Companion
    P/Protector-Tree
    P/Puff-Of-Poison
@@ -476,6 +478,7 @@
    S/Summon-Archmage
    S/Summon-Axiom
    S/Summon-Deific-Herald
+   S/Summon-Draconic-Legion
    S/Summon-Lesser-Servitor
    S/Summoners-Precaution
    S/Summoners-Visage
@@ -597,6 +600,7 @@
    U/Umbral-Extraction
    U/Umbral-Graft
    U/Unexpected-Transposition
+   U/Unspeakable-Shadow
    U/uncontrollable-dance
    U/undetectable-alignment
    U/unfathomable-song
@@ -604,6 +608,7 @@
    U/unrelenting-observation
    U/unseen-servant
    V/Variable-Gravity
+   V/Voracious-Gestalt
    V/vampiric-exsanguination
    V/vampiric-maiden
    V/vampiric-touch
