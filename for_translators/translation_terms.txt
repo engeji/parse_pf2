@@ -142,7 +142,10 @@ condition: состояние
 	Wounded: Ранен
 
 Creature: существо
-	animal: зверь, животное
+	animal: животное, зверь
+	angel: ангел
+		monadic deva: монадический дэв
+		movanic deva: мованический дэв
 	beast: чудовище
 	fiends: бесы (демоны, дьяволы, ...)
 		devil: дьявол

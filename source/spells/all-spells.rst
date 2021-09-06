@@ -5,6 +5,7 @@
    :maxdepth: 1
    
    A/Aberrant-Form
+   A/Angel-Form
    A/Animal-Allies
    A/Approximate
    A/Ash-Cloud
@@ -42,9 +43,11 @@
    B/Blessing-Of-Defiance
    B/Blink-Charge
    B/Bloodspray-Curse
+   B/Boil-Blood
    B/Bottomless-Stomach
    B/Breadcrumbs
    B/Bullhorn
+   B/Burning-Blossoms
    B/baleful-polymorph
    B/bane
    B/banishment
@@ -67,13 +70,17 @@
    B/brand-the-impenitent
    B/breath-of-life
    B/burning-hands
+   C/Canticle-Of-Everlasting-Grief
    C/Cast-Into-Time
    C/Chromatic-Armor
    C/Chromatic-Image
    C/Chromatic-Ray
    C/Claim-Curse
+   C/Clone-Companion
    C/Concordant-Choir
    C/Coral-Eruption
+   C/Corrosive-Body
+   C/Cosmic-Form
    C/call-the-blood
    C/calm-emotions
    C/cataclysm
@@ -113,9 +120,11 @@
    C/curse-of-lost-time
    D/Daemon-Form
    D/Days-Weight
+   D/Deitys-Strike
    D/Demon-Form
    D/Devil-Form
    D/Distracting-Chatter
+   D/Divine-Armageddon
    D/Draw-Ire
    D/Draw-The-Lightning
    D/dancing-lights
@@ -189,6 +198,7 @@
    F/Flammable-Fumes
    F/Flowing-Strike
    F/Forceful-Hand
+   F/Frigid-Flurry
    F/fabricated-truth
    F/faerie-fire
    F/false-life
@@ -264,6 +274,7 @@
    I/Ignite-Fireworks
    I/Impending-Doom
    I/Inevitable-Disaster
+   I/Inexhaustible-Cynicism
    I/Infectious-Enthusiasm
    I/Infectious-Melody
    I/Inner-Radiance-Torrent
@@ -372,6 +383,7 @@
    P/Pocket-Library
    P/Portrait-Of-The-Artist
    P/Positive-Attunement
+   P/Prismatic-Armor
    P/Protect-Companion
    P/Protector-Tree
    P/Puff-Of-Poison
@@ -452,6 +464,7 @@
    S/Scorching-Ray
    S/Seashell-Of-Stolen-Sound
    S/Shadow-Projectile
+   S/Shadow-Raid
    S/Shift-Blame
    S/Sonata-Span
    S/Soothing-Blossoms
@@ -460,7 +473,9 @@
    S/Spout
    S/Sudden-Recollection
    S/Summon-Anarch
+   S/Summon-Archmage
    S/Summon-Axiom
+   S/Summon-Deific-Herald
    S/Summon-Lesser-Servitor
    S/Summoners-Precaution
    S/Summoners-Visage
@@ -548,6 +563,7 @@
    S/synaptic-pulse
    S/synesthesia
    T/Tame
+   T/Tempest-Of-Shades
    T/Temporary-Glyph
    T/Thicket-Of-Knives
    T/Thundering-Dominance
@@ -603,6 +619,7 @@
    W/Warriors-Regret
    W/Wash-Your-Luck
    W/Web-Of-Eyes
+   W/Whirlwind
    W/Winning-Streak
    W/wail-of-the-banshee
    W/wall-of-fire
