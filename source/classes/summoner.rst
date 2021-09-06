@@ -2513,6 +2513,8 @@
 	| :ref:`spell--s--Summon-Elemental`
 	| :ref:`spell--s--Summon-Entity`
 	| :ref:`spell--s--Summon-Fiend`
+	| :ref:`spell--Summon-Anarch` :sup:`SOM`
+	| :ref:`spell--Summon-Axiom` :sup:`SOM`
 
 	Ваш Мастер может добавить к ним другие заклинания из новых книг, который работают аналогичным образом.
 
