@@ -31,6 +31,7 @@
 :t_fey:`фея`
 :t_elemental:`элементаль`
 :t_ooze:`слизь`
+:t_construct:`конструкт`
 
 :t_skill:`навык`
 :t_lineage:`род`
