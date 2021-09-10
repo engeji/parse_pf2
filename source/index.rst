@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-09-02**
-| Первое обновление по книге "Секреты магии" (Secrets Of Magic):
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-09-10**
+| Секреты магии (Secrets Of Magic):
 | Классы :doc:`/classes/magus` и :doc:`/classes/summoner` + их :ref:`архетипы <arch--List>`
-| :doc:`Новые заклинания </spells/spell-lists>` вплоть до 4-го уровня (с пометкой :sup:`SOM`)
+| :doc:`Новые заклинания </spells/spell-lists>` с 1 по 10 уровни (с пометкой :sup:`SOM`) + ритуалы
 
 | `Telegram канал <https://t.me/PF2e_RU_channel>`_ - подробные обновления и изменения
 | `Telegram чат <https://t.me/PF2e_RU>`_ - для обратной связи, обсуждения правил и т.п.
