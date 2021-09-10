@@ -789,7 +789,7 @@
 
 .. _item--Ethereal:
 
-Эфирная (`Ethereal <https://2e.aonprd.com/Equipment.aspx?ID=284>`_) / Предмет 17
+Эфирная (`Ethereal <https://2e.aonprd.com/Equipment.aspx?ID=284>`_) / Руна 17
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычный`
