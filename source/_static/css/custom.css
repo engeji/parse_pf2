@@ -693,6 +693,7 @@ section.craft-treasure-weapons section,
 section.craft-treasure-worn section,
 section.craft-treasure-artifact section,
 section.craft-treasure-adjustment section,
+section.craft-treasure-grimoires section,
 section.actions-descr section,
 section.creature-abilities section {
 	margin-top: 1.2em;
@@ -732,7 +733,8 @@ section.craft-treasure-wands section > p,
 section.craft-treasure-weapons section > p,
 section.craft-treasure-worn section > p,
 section.craft-treasure-artifact section > p,
-section.craft-treasure-adjustment section,
+section.craft-treasure-adjustment section > p,
+section.craft-treasure-grimoires section > p,
 section.actions-descr section section > p,
 section.eidolon section section > p,
 section.creature-abilities section > p {
@@ -778,6 +780,7 @@ section.craft-treasure-weapons section > h3,
 section.craft-treasure-worn section > h3,
 section.craft-treasure-artifact section > h2,
 section.craft-treasure-adjustment section > h2,
+section.craft-treasure-grimoires section > h2,
 section.actions-descr section section > h5,
 section.creature-abilities section > h2 {
 	box-sizing: border-box;
@@ -830,6 +833,7 @@ section.craft-treasure-weapons section hr,
 section.craft-treasure-worn section hr,
 section.craft-treasure-artifact section hr,
 section.craft-treasure-adjustment section hr,
+section.craft-treasure-grimoires section hr,
 section.actions-descr section hr,
 section.eidolon hr,
 section.creature-abilities section hr {

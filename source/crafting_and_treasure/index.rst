@@ -464,6 +464,7 @@
    consumables
    staves
    wands
+   grimoires
    snares
    adjustments
    materials
