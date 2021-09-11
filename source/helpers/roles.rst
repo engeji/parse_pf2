@@ -441,6 +441,8 @@
 
 .. role:: t_contingency
 
+.. role:: t_fulu
+
 .. role:: t_alchemist
 
 .. role:: t_barbarian

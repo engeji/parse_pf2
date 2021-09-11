@@ -74,9 +74,9 @@
 
 :t_magical:`магический`
 :t_arcana:`аркана`
-:t_primal:`природный`
 :t_divine:`сакральный`
 :t_occult:`оккультный`
+:t_primal:`природный`
 :t_abjuration:`преграждение`
 :t_transmutation:`трансмутация`
 :t_evocation:`эвокация`
