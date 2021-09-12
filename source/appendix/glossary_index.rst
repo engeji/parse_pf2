@@ -1754,9 +1754,13 @@
 Татуировка (признак) (`tattoo (trait) <https://2e.aonprd.com/Traits.aspx?ID=262>`_)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-**Источник**: Lost Omens: World Guide pg. 134
+**Источник**:
+Secrets of Magic pg. 164,
+Lost Omens: World Guide pg. 134
 
 Татуировка это вид предмета, который нарисован или вырезан на коже существа и обычно имеет форму изображений или символов.
+
+| :ref:`ch11--Magical-Tattoos--Trait`
 
 
 Артефакт (признак) (`artifact (trait) <https://2e.aonprd.com/Traits.aspx?ID=253>`_)

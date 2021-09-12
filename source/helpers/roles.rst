@@ -443,6 +443,8 @@
 
 .. role:: t_fulu
 
+.. role:: t_grimoire
+
 .. role:: t_alchemist
 
 .. role:: t_barbarian

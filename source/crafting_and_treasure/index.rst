@@ -466,6 +466,7 @@
    wands
    grimoires
    snares
+   magical-tattoos
    adjustments
    materials
    structures
