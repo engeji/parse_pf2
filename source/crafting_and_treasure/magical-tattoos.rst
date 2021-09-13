@@ -112,7 +112,7 @@
 .. rst-class:: craft-treasure-tattooslist
 .. _ch11--Magical-Tattoos--list:
 
-Перечень татуировок (`Tattoos (List) <https://2e.aonprd.com/Equipment.aspx?Category=46>`_)
+Перечень татуировок (`List of Tattoos <https://2e.aonprd.com/Equipment.aspx?Category=46>`_)
 -----------------------------------------------------------------------------------------------------------
 
 .. _item--Familiar-Tattoo:
