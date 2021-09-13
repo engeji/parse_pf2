@@ -1,3 +1,15 @@
+:r_uncommon:`необычный`
+:r_rare:`редкий`
+:r_unique:`уникальный`
+
+:s_gargantuan:`исполинский`
+:s_huge:`огромный`
+:s_large:`большой`
+:s_medium:`средний`
+:s_small:`маленький`
+:s_tiny:`крошечный`
+
+
 :w_agile:`быстрое`
 :w_finesse:`точное`
 :w_reach:`длинное`

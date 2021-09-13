@@ -69,16 +69,12 @@ h5, p.h5.rubric {
 }
 
 .rst-content ul.simple {
-	/*list-style-position: initial;*/
-	/*list-style-image: initial;*/
 	list-style-type: disc;
 }
 
 .rst-content ul.simple li {
-	/*list-style-position: initial;*/
-	/*list-style-image: initial;*/
 	list-style-type: inherit;
-	margin-left: 1.5em;
+	margin-left: 1em;
 }
 
 .rst-content ul.simple li p {
@@ -1037,21 +1033,36 @@ section.eidolon section.description {
 	Признаки, состояния
 */
 
+/* признаки остальные */
 span[class^="t-"] {
 	color: #5d0100;
 	text-decoration: underline;
 }
 
+/* признаки оружия */
 span[class^="w-"] {
-	/*color: #0F3057;*/
 	color: #0F6177;
 	text-decoration: underline;
 }
 
+/* состояния */
 span[class^="c-"] {
 	color: #483d8b;
 	text-decoration: underline;
 }
+
+/* размер существа */
+span[class^="s-"] {
+	color: #336A4D;
+	text-decoration: underline;
+}
+
+/* редкость */
+span[class^="r-"] {
+	color: #590F77;
+	text-decoration: underline;
+}
+
 
 
 /*

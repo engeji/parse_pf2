@@ -4,10 +4,29 @@
 
 .. role:: unique
 
+.. role:: r_uncommon
+
+.. role:: r_rare
+
+.. role:: r_unique
+
 
 .. role:: alignment
 
+
 .. role:: size
+
+.. role:: s_gargantuan
+
+.. role:: s_huge
+
+.. role:: s_large
+
+.. role:: s_medium
+
+.. role:: s_small
+
+.. role:: s_tiny
 
 
 .. role:: eop-comment
