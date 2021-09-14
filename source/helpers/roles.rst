@@ -466,6 +466,8 @@
 
 .. role:: t_catalyst
 
+.. role:: t_spellheart
+
 .. role:: t_alchemist
 
 .. role:: t_barbarian

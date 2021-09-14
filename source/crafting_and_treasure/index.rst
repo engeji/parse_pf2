@@ -465,6 +465,7 @@
    staves
    wands
    grimoires
+   spellhearts
    snares
    magical-tattoos
    adjustments
