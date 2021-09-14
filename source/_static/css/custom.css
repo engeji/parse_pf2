@@ -692,6 +692,7 @@ section.craft-treasure-artifact section,
 section.craft-treasure-adjustment section,
 section.craft-treasure-grimoires section,
 section.craft-treasure-tattooslist section,
+section.craft-treasure-spell-catalysts section,
 section.actions-descr section,
 section.creature-abilities section {
 	margin-top: 1.2em;
@@ -734,6 +735,7 @@ section.craft-treasure-artifact section > p,
 section.craft-treasure-adjustment section > p,
 section.craft-treasure-grimoires section > p,
 section.craft-treasure-tattooslist section > p,
+section.craft-treasure-spell-catalysts section > p,
 section.actions-descr section section > p,
 section.eidolon section section > p,
 section.creature-abilities section > p {
@@ -781,6 +783,7 @@ section.craft-treasure-artifact section > h2,
 section.craft-treasure-adjustment section > h2,
 section.craft-treasure-grimoires section > h2,
 section.craft-treasure-tattooslist section > h3,
+section.craft-treasure-spell-catalysts section > h3,
 section.actions-descr section section > h5,
 section.creature-abilities section > h2 {
 	box-sizing: border-box;
@@ -835,6 +838,7 @@ section.craft-treasure-artifact section hr,
 section.craft-treasure-adjustment section hr,
 section.craft-treasure-grimoires section hr,
 section.craft-treasure-tattooslist section hr,
+section.craft-treasure-spell-catalysts section hr,
 section.actions-descr section hr,
 section.eidolon hr,
 section.creature-abilities section hr {
