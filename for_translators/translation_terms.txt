@@ -403,6 +403,7 @@ items: предметы
 		belt: ремень
 		circlet: ободок
 		eyepiece: окуляр
+		headwear: головной убор
 		garment: одеяние
 		collar: шея
 	item grades:
