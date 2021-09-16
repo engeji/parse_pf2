@@ -4,6 +4,8 @@
 
 .. role:: unique
 
+.. role:: r_common
+
 .. role:: r_uncommon
 
 .. role:: r_rare
