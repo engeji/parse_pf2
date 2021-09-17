@@ -5,12 +5,12 @@
 
 .. |д-2| image:: /_static/image/actions/PF_action_2.png
 	:height: 1 em
-	:alt: двойное действие
+	:alt: активность из 2-х действий
 	:class: action action-2
 
 .. |д-3| image:: /_static/image/actions/PF_action_3.png
 	:height: 1 em
-	:alt: тройное действие
+	:alt: активность из 3-х действий
 	:class: action action-3
 
 .. |д-св| image:: /_static/image/actions/PF_action_free.png
