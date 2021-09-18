@@ -123,6 +123,7 @@
 :t_air:`воздух`
 :t_earth:`земля`
 :t_cold:`холод`
+:t_acid:`кислота`
 :t_sonic:`звук`
 :t_positive:`позитивный`
 :t_negative:`негативный`
