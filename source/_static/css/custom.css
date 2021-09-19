@@ -250,6 +250,29 @@ aside.sidebar div.line-block {
 	background-color: #f4eedf;
 }
 
+section.treasure-table table td:first-child {
+	white-space: normal;
+}
+
+section.feats-descr table th,
+section.feats-descr table td {
+	white-space: normal;
+}
+
+section.weapon-tables table th,
+section.weapon-tables table td:first-child {
+	white-space: normal;
+}
+
+section.weapon-tables table td:last-child,
+table.domains-table td:last-child {
+	white-space: pre;
+}
+
+table.condensed-table td {
+	white-space: normal;
+}
+
 .rst-content table.docutils td {
 	padding: 0.3em 0.5em;
 }
