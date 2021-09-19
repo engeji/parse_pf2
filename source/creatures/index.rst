@@ -222,6 +222,8 @@
 
 Основные языки можно найти в разделе :ref:`родословных <ch2--Languages>` и далее.
 
+
+.. rst-class:: condensed-table
 .. _table--bestiary-languages:
 
 .. table:: Таблица: Необычные языки Бестиария

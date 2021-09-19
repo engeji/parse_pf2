@@ -4,10 +4,31 @@
 
 .. role:: unique
 
+.. role:: r_common
+
+.. role:: r_uncommon
+
+.. role:: r_rare
+
+.. role:: r_unique
+
 
 .. role:: alignment
 
+
 .. role:: size
+
+.. role:: s_gargantuan
+
+.. role:: s_huge
+
+.. role:: s_large
+
+.. role:: s_medium
+
+.. role:: s_small
+
+.. role:: s_tiny
 
 
 .. role:: eop-comment
@@ -171,6 +192,19 @@
 .. role:: w_brutal
 
 .. role:: w_repeating
+
+
+.. Признаки доспехов
+
+.. role:: a_bulwark
+
+.. role:: a_comfort
+
+.. role:: a_flexible
+
+.. role:: a_noisy
+
+
 
 
 
@@ -440,6 +474,14 @@
 .. role:: t_incarnate
 
 .. role:: t_contingency
+
+.. role:: t_fulu
+
+.. role:: t_grimoire
+
+.. role:: t_catalyst
+
+.. role:: t_spellheart
 
 .. role:: t_alchemist
 

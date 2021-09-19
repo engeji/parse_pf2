@@ -403,8 +403,17 @@ items: предметы
 		belt: ремень
 		circlet: ободок
 		eyepiece: окуляр
+		headwear: головной убор
 		garment: одеяние
 		collar: шея
+	item grades:
+		minor: слабый
+		lesser: малый
+		moderate: средний
+		greater: большой, отличный
+		major: сильный, старший
+		true: истинный
+		supreme: величайший
 
 	Adventurer's Pack: Набор авантюриста
 	Alchemist's Lab: Лаборатория алхимика

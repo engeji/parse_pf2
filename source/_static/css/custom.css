@@ -69,16 +69,12 @@ h5, p.h5.rubric {
 }
 
 .rst-content ul.simple {
-	/*list-style-position: initial;*/
-	/*list-style-image: initial;*/
 	list-style-type: disc;
 }
 
 .rst-content ul.simple li {
-	/*list-style-position: initial;*/
-	/*list-style-image: initial;*/
 	list-style-type: inherit;
-	margin-left: 1.5em;
+	margin-left: 1em;
 }
 
 .rst-content ul.simple li p {
@@ -252,6 +248,29 @@ aside.sidebar div.line-block {
 
 .rst-content table.docutils tbody tr.row-even {
 	background-color: #f4eedf;
+}
+
+section.treasure-table table td:first-child {
+	white-space: normal;
+}
+
+section.feats-descr table th,
+section.feats-descr table td {
+	white-space: normal;
+}
+
+section.weapon-tables table th,
+section.weapon-tables table td:first-child {
+	white-space: normal;
+}
+
+section.weapon-tables table td:last-child,
+table.domains-table td:last-child {
+	white-space: pre;
+}
+
+table.condensed-table td {
+	white-space: normal;
 }
 
 .rst-content table.docutils td {
@@ -533,14 +552,15 @@ section.spells-focus h1,
 section.rituals-list h1,
 section.spells-rituals-subchap h1,
 section.craft-treasure-alchemicalitems h1,
-section.craft-treasure-consumables h1,
+/*section.craft-treasure-consumables h1,*/
 section.craft-treasure-snares h1,
 section.craft-treasure-held h1,
 section.craft-treasure-worn h1,
 section.craft-treasure-runes h1,
 section.craft-treasure-shields h1,
 section.craft-treasure-weapons h1,
-section.craft-treasure-staves h1,
+/*section.craft-treasure-staves h1,*/
+/*section.craft-treasure-staves-personal > h2,*/
 section.craft-treasure-wands h1,
 section.craft-treasure-armor h1,
 section.craft-treasure-structures h1,
@@ -580,13 +600,13 @@ section.lo-other-deity h1,
 section.deity h2,
 section.spells-rituals-subchap h2,
 section.craft-treasure-alchemicalitems h2,
-section.craft-treasure-consumables h2,
+/*section.craft-treasure-consumables h2,*/
 section.craft-treasure-snares h2,
 section.craft-treasure-worn h2,
 section.craft-treasure-runes h2,
 section.craft-treasure-shields h2,
 section.craft-treasure-weapons h2,
-section.craft-treasure-staves h2,
+/*section.craft-treasure-staves h2,*/
 section.craft-treasure-wands h2,
 section.craft-treasure-armor h2,
 section.craft-treasure-materials h2,
@@ -619,12 +639,12 @@ section.lo-religion h3,
 section.deity h3,
 section.spells-rituals-subchap h3,
 section.craft-treasure-alchemicalitems h3,
-section.craft-treasure-consumables h3,
+/*section.craft-treasure-consumables h3,*/
 section.craft-treasure-snares h3,
 section.craft-treasure-worn h3,
 section.craft-treasure-worn section section.craft-treasure-worn-companion-invest h3,
 section.craft-treasure-runes h3,
-section.craft-treasure-staves h3,
+/*section.craft-treasure-staves h3,*/
 section.craft-treasure-wands h3,
 section.craft-treasure-materials h3,
 section.gm-subchap h5,
@@ -679,6 +699,7 @@ section.craft-treasure-oils section,
 section.craft-treasure-potions section,
 section.craft-treasure-scrolls section,
 section.craft-treasure-talismans section,
+section.craft-treasure-fulus section,
 section.craft-treasure-other section,
 section.craft-treasure-held section,
 section.craft-treasure-materials section,
@@ -692,6 +713,10 @@ section.craft-treasure-weapons section,
 section.craft-treasure-worn section,
 section.craft-treasure-artifact section,
 section.craft-treasure-adjustment section,
+section.craft-treasure-grimoires section,
+section.craft-treasure-tattooslist section,
+section.craft-treasure-spell-catalysts section,
+section.craft-treasure-spellhearts section,
 section.actions-descr section,
 section.creature-abilities section {
 	margin-top: 1.2em;
@@ -718,6 +743,7 @@ section.craft-treasure-oils section > p,
 section.craft-treasure-potions section > p,
 section.craft-treasure-scrolls section > p,
 section.craft-treasure-talismans section > p,
+section.craft-treasure-fulus section > p,
 section.craft-treasure-other section > p,
 section.craft-treasure-held section > p,
 section.craft-treasure-materials section > p,
@@ -730,7 +756,11 @@ section.craft-treasure-wands section > p,
 section.craft-treasure-weapons section > p,
 section.craft-treasure-worn section > p,
 section.craft-treasure-artifact section > p,
-section.craft-treasure-adjustment section,
+section.craft-treasure-adjustment section > p,
+section.craft-treasure-grimoires section > p,
+section.craft-treasure-tattooslist section > p,
+section.craft-treasure-spell-catalysts section > p,
+section.craft-treasure-spellhearts section > p,
 section.actions-descr section section > p,
 section.eidolon section section > p,
 section.creature-abilities section > p {
@@ -762,19 +792,24 @@ section.craft-treasure-oils section > h3,
 section.craft-treasure-potions section > h3,
 section.craft-treasure-scrolls section > h4,
 section.craft-treasure-talismans section > h4,
+section.craft-treasure-fulus section > h4,
 section.craft-treasure-other section > h3,
 section.craft-treasure-held section > h2,
 section.craft-treasure-materials section > h4,
 section.craft-treasure-runes section > h4,
 section.craft-treasure-shields section > h3,
 section.craft-treasure-snares section > h3,
-section.craft-treasure-staves-list section > h4,
+section.craft-treasure-staves-list section > h3,
 section.craft-treasure-structures section > h2,
 section.craft-treasure-wands section > h4,
 section.craft-treasure-weapons section > h3,
 section.craft-treasure-worn section > h3,
 section.craft-treasure-artifact section > h2,
 section.craft-treasure-adjustment section > h2,
+section.craft-treasure-grimoires section > h2,
+section.craft-treasure-tattooslist section > h3,
+section.craft-treasure-spell-catalysts section > h3,
+section.craft-treasure-spellhearts section > h2,
 section.actions-descr section section > h5,
 section.creature-abilities section > h2 {
 	box-sizing: border-box;
@@ -813,6 +848,7 @@ section.craft-treasure-oils section hr,
 section.craft-treasure-potions section hr,
 section.craft-treasure-scrolls section hr,
 section.craft-treasure-talismans section hr,
+section.craft-treasure-fulus section hr,
 section.craft-treasure-other section hr,
 section.craft-treasure-held section hr,
 section.craft-treasure-materials section hr,
@@ -826,6 +862,10 @@ section.craft-treasure-weapons section hr,
 section.craft-treasure-worn section hr,
 section.craft-treasure-artifact section hr,
 section.craft-treasure-adjustment section hr,
+section.craft-treasure-grimoires section hr,
+section.craft-treasure-tattooslist section hr,
+section.craft-treasure-spell-catalysts section hr,
+section.craft-treasure-spellhearts section hr,
 section.actions-descr section hr,
 section.eidolon hr,
 section.creature-abilities section hr {
@@ -1024,21 +1064,42 @@ section.eidolon section.description {
 	Признаки, состояния
 */
 
+/* признаки остальные */
 span[class^="t-"] {
 	color: #5d0100;
 	text-decoration: underline;
 }
 
+/* признаки оружия */
 span[class^="w-"] {
-	/*color: #0F3057;*/
 	color: #0F6177;
 	text-decoration: underline;
 }
 
+/* признаки доспехов */
+span[class^="a-"] {
+	color: #0F6177;
+	text-decoration: underline;
+}
+
+/* состояния */
 span[class^="c-"] {
 	color: #483d8b;
 	text-decoration: underline;
 }
+
+/* размер существа */
+span[class^="s-"] {
+	color: #336A4D;
+	text-decoration: underline;
+}
+
+/* редкость */
+span[class^="r-"] {
+	color: #590F77;
+	text-decoration: underline;
+}
+
 
 
 /*

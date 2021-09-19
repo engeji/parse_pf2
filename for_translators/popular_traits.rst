@@ -1,3 +1,15 @@
+:r_uncommon:`необычный`
+:r_rare:`редкий`
+:r_unique:`уникальный`
+
+:s_gargantuan:`исполинский`
+:s_huge:`огромный`
+:s_large:`большой`
+:s_medium:`средний`
+:s_small:`маленький`
+:s_tiny:`крошечный`
+
+
 :w_agile:`быстрое`
 :w_finesse:`точное`
 :w_reach:`длинное`
@@ -10,6 +22,11 @@
 :w_versatile:`универсальное`
 :w_forceful:`силовое`
 :w_nonlethal:`несмертельное`
+
+:a_bulwark:`защитный`
+:a_comfort:`удобный`
+:a_flexible:`гибкий`
+:a_noisy:`шумный`
 
 :t_humanoid:`гуманоид`
 :t_minion:`миньон`
@@ -74,9 +91,9 @@
 
 :t_magical:`магический`
 :t_arcana:`аркана`
-:t_primal:`природный`
 :t_divine:`сакральный`
 :t_occult:`оккультный`
+:t_primal:`природный`
 :t_abjuration:`преграждение`
 :t_transmutation:`трансмутация`
 :t_evocation:`эвокация`
@@ -111,6 +128,7 @@
 :t_air:`воздух`
 :t_earth:`земля`
 :t_cold:`холод`
+:t_acid:`кислота`
 :t_sonic:`звук`
 :t_positive:`позитивный`
 :t_negative:`негативный`

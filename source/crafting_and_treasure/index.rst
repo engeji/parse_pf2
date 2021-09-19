@@ -464,7 +464,10 @@
    consumables
    staves
    wands
+   grimoires
+   spellhearts
    snares
+   magical-tattoos
    adjustments
    materials
    structures
