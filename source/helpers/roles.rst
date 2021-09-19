@@ -194,6 +194,19 @@
 .. role:: w_repeating
 
 
+.. Признаки доспехов
+
+.. role:: a_bulwark
+
+.. role:: a_comfort
+
+.. role:: a_flexible
+
+.. role:: a_noisy
+
+
+
+
 
 .. Остальные признаки
 

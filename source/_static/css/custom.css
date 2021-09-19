@@ -1053,6 +1053,12 @@ span[class^="w-"] {
 	text-decoration: underline;
 }
 
+/* признаки доспехов */
+span[class^="a-"] {
+	color: #0F6177;
+	text-decoration: underline;
+}
+
 /* состояния */
 span[class^="c-"] {
 	color: #483d8b;

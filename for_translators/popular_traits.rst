@@ -23,6 +23,11 @@
 :w_forceful:`силовое`
 :w_nonlethal:`несмертельное`
 
+:a_bulwark:`защитный`
+:a_comfort:`удобный`
+:a_flexible:`гибкий`
+:a_noisy:`шумный`
+
 :t_humanoid:`гуманоид`
 :t_minion:`миньон`
 :t_summoned:`призванный`
