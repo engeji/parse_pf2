@@ -5,7 +5,7 @@
 
 | **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-09-10**
 | Секреты магии (Secrets Of Magic):
-| Классы :doc:`/classes/magus` и :doc:`/classes/summoner` + их :ref:`архетипы <arch--List>`
+| Классы :doc:`/classes/magus` и :doc:`/classes/summoner` + их :ref:`архетипы <arhc--Bounded-Spellcasting-Archetypes>`
 | :doc:`Новые заклинания </spells/spell-lists>` с 1 по 10 уровни (с пометкой :sup:`SOM`) + ритуалы
 
 | `Telegram канал <https://t.me/PF2e_RU_channel>`_ - подробные обновления и изменения

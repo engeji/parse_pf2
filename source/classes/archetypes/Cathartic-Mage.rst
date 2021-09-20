@@ -1,10 +1,10 @@
 .. include:: /helpers/roles.rst
 
-.. rst-class:: archetype
+.. rst-class:: archetype-description
 .. _archetype--Cathartic-Mage:
 
 Катарсический маг (`Cathartic Mage <https://2e.aonprd.com/Archetypes.aspx?ID=97>`_)
-------------------------------------------------------------------------------------------------------------
+=============================================================================================================
 
 **Источник**: Secrets of Magic pg. 194
 
@@ -14,6 +14,11 @@
 
 Смотрите также :doc:`/classes/Cathartic-Magic`.
 
+
+.. rst-class:: archetype-feats
+
+Способности архетипа (Feats)
+------------------------------------------------------------------------------------------------------------
 
 .. _arch-feat--Cathartic-Mage--Dedication:
 

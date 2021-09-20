@@ -1,6 +1,6 @@
 .. include:: /helpers/roles.rst
 
-.. rst-class:: archetype multiclass
+.. rst-class:: archetype-multiclass
 .. _archetype--Cleric:
 
 Жрец (`Cleric (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=5>`_)

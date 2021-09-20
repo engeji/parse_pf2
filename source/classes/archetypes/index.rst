@@ -1,38 +1,9 @@
 .. include:: /helpers/roles.rst
 
-.. rst-class:: class-archetypes
-.. _ch3--classes--archetypes:
+.. title:: Архетипы (Archetypes)
 
-Архетипы (Archetypes)
-============================================================================================================
 
-.. epigraph::
-
-	*Существует целая бесконечность возможных концепций персонажей, но вы можете обнаружить, что для полной реализации вашего персонажа недостаточно способностей и выбора навыков из одного класса.
-	Архетипы позволяют вам раздвигать рамки класса вашего персонажа.*
-
------------------------------------------------------------------------------
-
-Применение архетипа требует от вас выбирать способности архетипа вместо способностей класса.
-Начните с поиска архетипа, который лучше всего подходит вашей концепции персонажа и используя выбор одной из ваших классовых способностей, выберите способность :t_dedication:`посвящения` архетипа.
-Как только у вас есть способность посвящения, вы можете выбирать любую способность этого архетипа вместо классовой способности, пока соответствуете ее предварительным требованиям.
-Выбираемая способность архетипа все еще подвергается ограничениям заменяемой классовой способности.
-Например, если вы на 6-м уровне получили умение, которое дало вам классовую способность 4-го уровня с признаком :t_dwarf:`дварф`, то вы можете заменить эту классовую способность только на способность архетипа 4-го уровня или ниже с признаком :t_dwarf:`дварф`.
-Способности архетипа, получаемые вместо классовой способности называются классовыми способностями архетипа.
-
-Иногда, способность архетипа работает как способность навыка, а не классовая способность.
-Эти способности архетипа имеют признак :t_skill:`навык` и вы выбираете их вместо способности навыка, в остальных случаях следуя тем же правилам, что и выше.
-Эти способности не считаются классовыми способностями архетипа (например, для определения Очков Здоровья, которые вы получаете от способности архетипа :ref:`arch-feat--Fighter--Resiliency`)
-
-Способность посвящения каждого архетипа представляет определенную долю времени и фокусировки вашего персонажа, поэтому как только вы выбираете способность посвящения архетипа, вы должны удовлетворять ее требования до того, как сможете получить другую способность посвящения.
-Обычно, вы удовлетворяете способность посвящения архетипа, получая определенное количество способностей из списка архетипа.
-Вы не можете переобучиться способности посвящения, пока у вас есть любая другая способность этого архетипа.
-
-Иногда способность архетипа дает вам другую способность, как :ref:`arch-feat--Alchemist--Basic-Concoction` алхимика.
-Вы всегда должны соответствовать предварительным условиям способности, которую получаете таким образом.
-
-Два особых вида архетипов обозначаются признаками :t_class:`класс` и :t_multiclass:`мультикласс`.
-
+.. rst-class:: archetype-chapter
 .. _ch3--archetypes--Multiclass:
 
 Мультиклассовые архетипы (`Multiclass Archetypes <https://2e.aonprd.com/Rules.aspx?ID=168>`_)
@@ -41,10 +12,40 @@
 Архетипы с признаком :t_multiclass:`мультикласс` представляют собой разнообразие вашего обучения особенностям другого класса.
 Вы не можете выбрать способность посвящения мультиклассового архетипа, если вы обладаете классом с тем же названием (например, воин не может выбрать способность :ref:`arch-feat--Fighter--Dedication`).
 
+.. toctree::
+   :maxdepth: 1
+
+   fighter
+   barbarian
+   champion
+   ranger
+   monk
+   rogue
+   swashbuckler
+
+   investigator
+   alchemist
+   
+   magus
+   summoner
+   
+   bard
+   cleric
+   druid
+   wizard
+   witch
+   sorcerer
+   oracle
+
+
+
+.. rst-class:: archetype-chapter
 .. _ch3--archetypes--Class:
 
 Классовые архетипы (`Class Archetypes <https://2e.aonprd.com/Rules.aspx?ID=169>`_)
 --------------------------------------------------------------------------------------------------------
+
+**Источник**: Core Rulebook pg. 219, Secrets of Magic pg. 193
 
 Архетипы с признаком :t_class:`класс` представляют собой фундаментальное расхождение с особенностями вашего класса, но такое, которое существует в контексте вашего класса.
 Вы можете выбрать классовый архетип только, если ваш класс соответствует критериям перечисленным в предварительных условиях архетипа.
@@ -55,6 +56,83 @@
 Если вы выбираете эту возможность, то обязаны взять способность :t_dedication:`посвящения` этого архетипа на 2-м уровне и после этого продолжать как обычно.
 У вас никогда не может быть более 1 классового архетипа.
 
+.. toctree::
+   :maxdepth: 1
+
+   Flexible-Spellcaster
+
+
+
+.. rst-class:: archetype-chapter
+.. _ch3--archetypes--Other:
+
+Остальные архетипы (Other Archetypes)
+--------------------------------------------------------------------------------------------------------
+
+Здесь собраны архетипы представляющие определенные профессии, стили боя, специфичные для определенного региона или страны, небольшой организации, фракции, либо относящиеся к какой-либо серии приключений.
+
+.. toctree::
+   :maxdepth: 1
+
+   acrobat
+   archaeologist
+   archer
+   assassin
+   bastion
+   beastmaster
+   blessed-one
+   bounty-hunter
+   cavalier
+   celebrity
+   dandy
+   dragon-disciple
+   dual-weapon-warrior
+   duelist
+   eldritch-archer
+   familiar-master
+   gladiator
+   herbalist
+   horizon-walker
+   linguist
+   loremaster
+   marshal
+   martial-artist
+   mauler
+   medic
+   pirate
+   poisoner
+   ritualist
+   scout
+   scroll-trickster
+   scrounger
+   sentinel
+   shadowdancer
+   snarecrafter
+   talisman-dabbler
+   vigilante
+   viking
+   weapon-improviser
+
+
+   Cathartic-Mage
+
+
+   dlc/aldori-duelist
+   dlc/runescarred
+   dlc/student-of-perfection
+   dlc/living-monolith
+   dlc/lion-blade
+   dlc/red-mantis-assassin
+   dlc/firebrand-braggart
+   dlc/magic-warrior
+
+   dlc/ghost-hunter
+   dlc/eldritch-researcher
+   dlc/drow-shootist
+
+
+
+.. rst-class:: archetype-chapter
 
 Дополнительные способности (`Additional Feats <https://2e.aonprd.com/Rules.aspx?ID=1432>`_)
 --------------------------------------------------------------------------------------------------------
@@ -68,6 +146,7 @@
 Когда выбрана таким способом, классовая способность, которая обычно имеет признак с названием класса, не обладает им.
 
 
+.. rst-class:: archetype-chapter
 .. _arhc--Spellcasting-Archetypes:
 
 Архетипы заклинателей (`Spellcasting Archetypes <https://2e.aonprd.com/Rules.aspx?ID=170>`_)
@@ -124,6 +203,7 @@
 
 
 
+.. rst-class:: archetype-chapter
 .. _arhc--Bounded-Spellcasting-Archetypes:
 
 Архетипы ограниченных заклинателей (`Bounded Spellcasting Archetype <https://2e.aonprd.com/Rules.aspx?ID=1485>`_)
@@ -132,12 +212,12 @@
 **Источник**: Secrets of Magic pg. 74
 
 Некоторые архетипы, такие как мультиклассовые архетипы магуса и призывателя, дают вам заклинательские умения основанные на том, как маг и призыватель сотворяют заклинания, хотя и с задержкой, по сравнению с персонажами этих классов.
-В книге "Секреты магии (Secrets of Magic)" такие архетипы представлены архетипами магуса и призывателя, но в других книгах могут появиться ограниченные заклинательские архетипы не являющиеся мультиклассовыми.
+В книге "Секреты магии (Secrets of Magic)" такие архетипы представлены архетипами :doc:`магуса </classes/archetypes/magus>` и :doc:`призывателя </classes/archetypes/summoner>`, но в других книгах могут появиться ограниченные заклинательские архетипы не являющиеся мультиклассовыми.
 Архетипы ограниченных заклинателей позволяют вам использовать свитки, посохи и волшебные палочки также, как и представителю заклинательского класса, а :ref:`arch--Basic-Bounded-Spellcasting` считается наличием заклинательской классовой особенности.
 
 Архетипы ограниченных заклинателей всегда имеют способности простого, экспертного и мастерского ограниченного колдовства.
 Эти способности имеют в своем названии имя архетипа.
-Например, способность мастерского колдовства магуса называется Master Magus Spellcasting (TODO ссылка).
+Например, способность мастерского колдовства магуса называется :ref:`arch-feat--Magus--Master-Spellcasting`.
 Все слоты заклинаний, которые вы получаете от архетипов ограниченных заклинателей имеют ограничения в зависимости от архетипа.
 Например, архетип призывателя дает вам слоты заклинаний, которые вы можете использовать только, чтобы сотворять заклинания из своего репертуара призывателя, даже если вы чародей с заклинаниями и репертуаром такого же магического обычая.
 
@@ -173,6 +253,7 @@
 
 
 
+.. rst-class:: archetype-chapter
 .. _arhc--Alchemical-Archetypes:
 
 Алхимические архетипы (`Alchemical Archetypes <https://2e.aonprd.com/Rules.aspx?ID=1435>`_)
@@ -192,6 +273,7 @@
 В предыдущем примере, уровень продвинутой алхимии травника для его умений - 1-й, однако для умений алхимика - 2-й.
 
 
+.. rst-class:: archetype-chapter
 .. _arhc--Temporary-Items:
 
 Временные предметы (`Temporary Items <https://2e.aonprd.com/Rules.aspx?ID=1436>`_)
@@ -209,6 +291,7 @@
 
 
 
+.. rst-class:: archetype-chapter
 .. _arch--Pathfinder-Society-Archetypes:
 
 Архетипы Общества Pathfinder (Pathfinder Society Archetypes)
@@ -219,8 +302,17 @@
 Эти архетипы являются необычными, но доступны членам :ref:`Общества Pathfinder <Faction--Pathfinder-Society>`.
 Квалифицированные персонажи с архетипом :ref:`archetype--Pathfinder-Agent` могут выбрать одну из этих способностей посвящения, даже если не получили нужное количество способностей из архетипа "Агент Pathfinder", и каждая из способностей этих архетипов удовлетворяет особые требования :ref:`arch-feat--Pathfinder-Agent--Dedication`, несмотря на то, что они не принадлежат архетипу "Агент Pathfinder".
 
+.. toctree::
+   :maxdepth: 1
+
+   dlc/pathfinder-agent
+   ├ Мастер свитков (Scrollmaster) <dlc/scrollmaster>
+   ├ Мастер заклинаний (Spellmaster) <dlc/spellmaster>
+   └ Мастер меча (Swordmaster) <dlc/swordmaster>
 
 
+
+.. rst-class:: archetype-chapter
 .. _arch--Hellknight-Archetypes:
 
 Архетипы Хеллнайтов (Hellknight Archetypes)
@@ -234,8 +326,17 @@
 
 Умения орденов Хеллнайтов описаны в разделе :ref:`archetype--Hellknight-Order-Abilities`.
 
+.. toctree::
+   :maxdepth: 1
+
+   dlc/hellknight-armiger
+   ├ Хеллнайт (Hellknight) <dlc/hellknight>
+   ├ Хеллнайт сигнифер (Hellknight Signifer) <dlc/hellknight-signifer>
+   └ Умения орденов Хеллнайтов (Hellknight Order Abilities) <dlc/hellknight-order-abilities>
 
 
+
+.. rst-class:: archetype-chapter
 .. _arch--Knights-of-Lastwall-Archetypes:
 
 Архетипы Рыцарей Ластволла (Knights of Lastwall Archetypes)
@@ -246,8 +347,16 @@
 Эти архетипы являются необычными, но доступны членам :ref:`Рыцарей Ластволла <Faction--Knights-of-Lastwall>`.
 Квалифицированные персонажи с архетипом :ref:`archetype--Lastwall-Sentry` могут выбрать одно из этих посвящений даже если еще не получили нужное количество способностей из архетипа "Часового Ластволла", и каждая из способностей этих архетипов удовлетворяет особые требования "Часового Ластволла", несмотря на то, что они не принадлежат архетипу "Часовой Ластволла".
 
+.. toctree::
+   :maxdepth: 1
+
+   dlc/lastwall-sentry
+   ├ Рыцарь Виджиланта (Knight Vigilant) <dlc/knight-vigilant>
+   └ Рыцарь-освободитель (Knight Reclaimant) <dlc/knight-reclaimant>
 
 
+
+.. rst-class:: archetype-chapter
 .. _arch--Magaambyan-Archetypes:
 
 Архетипы Магаамбии (Magaambyan Archetypes)
@@ -258,6 +367,12 @@
 Следующие архетипы представляют многих :ref:`Магаамбийцев <Faction--Magaambya>`.
 Эти архетипы необычные, но персонажи являющиеся Магаамбийцами, ранга хотя бы служителя, имеют к ним доступ.
 Игровые персонажи, которые начинают кампанию как члены Магаамбии, обычно начинают в ранге служителя и, следовательно, имеют доступ к этим архетипам.
+
+.. toctree::
+   :maxdepth: 1
+
+   dlc/magaambyan-attendant
+   └ Глас безмятежности (Halcyon Speaker) <dlc/halcyon-speaker>
 
 .. _arch--Magaambya--Halcyon-Spells:
 
@@ -281,112 +396,3 @@
 это делается в дополнение к любым другим заменам вашего класса, как когда заменяются заклинания в репертуаре чародея.
 Вы так же можете заменять безмятежные заклинания переобучением во время отдыха.
 Если у вас есть книга заклинаний, то когда вы заменяете безмятежное заклинание, то полностью теряете это старое заклинание из своей книги.
-
-
-
-
-
-.. _arch--List:
-
-Список архетипов 
-=================================================================================================
-
-.. toctree::
-   :maxdepth: 1
-
-   fighter
-   barbarian
-   champion
-   ranger
-   monk
-   rogue
-   swashbuckler
-
-   investigator
-   alchemist
-   
-   magus
-   summoner
-   
-   bard
-   cleric
-   druid
-   wizard
-   witch
-   sorcerer
-   oracle
-
-
-   acrobat
-   archaeologist
-   archer
-   assassin
-   bastion
-   beastmaster
-   blessed-one
-   bounty-hunter
-   cavalier
-   celebrity
-   dandy
-   dragon-disciple
-   dual-weapon-warrior
-   duelist
-   eldritch-archer
-   familiar-master
-   gladiator
-   herbalist
-   horizon-walker
-   linguist
-   loremaster
-   marshal
-   martial-artist
-   mauler
-   medic
-   pirate
-   poisoner
-   ritualist
-   scout
-   scroll-trickster
-   scrounger
-   sentinel
-   shadowdancer
-   snarecrafter
-   talisman-dabbler
-   vigilante
-   viking
-   weapon-improviser
-
-
-   Cathartic-Mage
-   Flexible-Spellcaster
-
-
-   dlc/aldori-duelist
-   dlc/runescarred
-   dlc/student-of-perfection
-   dlc/living-monolith
-   dlc/lion-blade
-   dlc/red-mantis-assassin
-   dlc/firebrand-braggart
-   dlc/magic-warrior
-
-   dlc/magaambyan-attendant
-   └ Глас безмятежности (Halcyon Speaker) <dlc/halcyon-speaker>
-
-   dlc/pathfinder-agent
-   ├ Мастер свитков (Scrollmaster) <dlc/scrollmaster>
-   ├ Мастер заклинаний (Spellmaster) <dlc/spellmaster>
-   └ Мастер меча (Swordmaster) <dlc/swordmaster>
-   
-   dlc/hellknight-armiger
-   ├ Хеллнайт (Hellknight) <dlc/hellknight>
-   ├ Хеллнайт сигнифер (Hellknight Signifer) <dlc/hellknight-signifer>
-   └ Умения орденов Хеллнайтов (Hellknight Order Abilities) <dlc/hellknight-order-abilities>
-
-   dlc/lastwall-sentry
-   ├ Рыцарь Виджиланта (Knight Vigilant) <dlc/knight-vigilant>
-   └ Рыцарь-освободитель (Knight Reclaimant) <dlc/knight-reclaimant>
-   
-   dlc/ghost-hunter
-   dlc/eldritch-researcher
-   dlc/drow-shootist
