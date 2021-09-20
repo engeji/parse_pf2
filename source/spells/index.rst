@@ -553,7 +553,7 @@
 .. rst-class:: description
 .. _action--Cast-a-Spell:
 
-Сотворение заклинания (`Cast A Spell <https://2e.aonprd.com/Actions.aspx?ID=72>`_)
+Сотворение заклинания (`Cast a Spell <https://2e.aonprd.com/Actions.aspx?ID=72>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Вы колдуете заклинание из своего репертуара или которое подготовили.
