@@ -358,6 +358,7 @@
 
 
    Cathartic-Mage
+   Flexible-Spellcaster
 
 
    dlc/aldori-duelist

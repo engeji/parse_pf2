@@ -237,3 +237,4 @@
    :maxdepth: 2
 
    Cathartic-Magic
+   Flexible-Preparation
