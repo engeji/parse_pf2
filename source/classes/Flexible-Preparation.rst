@@ -1,6 +1,6 @@
 .. include:: /helpers/roles.rst
 
-.. _Flexible-Preparation:
+.. _unlimited-magic--Flexible-Preparation:
 
 ============================================================================================================
 Гибкая подготовка (`Flexible Preparation <https://2e.aonprd.com/Rules.aspx?ID=1519>`_)

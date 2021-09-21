@@ -186,7 +186,7 @@
 
 
 
-.. rst-class:: archetype-info
+.. rst-class:: archetype-features
 .. _archetype--Cathartic-Mage--Emotional-States:
 
 Эмоциональные состояния (Emotional States)

@@ -1,10 +1,10 @@
 .. include:: /helpers/roles.rst
 
-.. rst-class:: archetype-class
+.. rst-class:: archetype-description
 .. _archetype--Flexible-Spellcaster:
 
 Гибкий заклинатель (`Flexible Spellcaster <https://2e.aonprd.com/Archetypes.aspx?ID=99>`_)
-------------------------------------------------------------------------------------------------------------
+============================================================================================================
 
 **Источник**: Secrets of Magic pg. 209
 
@@ -12,6 +12,11 @@
 
 Смотрите также :doc:`/classes/Flexible-Preparation`.
 
+
+.. rst-class:: archetype-features
+
+Особенности архетипа (Features)
+------------------------------------------------------------------------------------------------------------
 
 .. _arch-feature--Flexible-Spellcaster--Flexible-Spell-Preparation:
 
@@ -95,25 +100,6 @@
 	Ранящая сила работает аналогично, но с заклинанием :ref:`spell--h--Harm`.
 	Как волшебник-специалист, вы подготавливаете по 1 заклинанию своей школы на каждом уровне заклинаний, которые тоже не добавляются в вашу коллекцию заклинаний.
 
-.. rst-class:: description
-.. _arch-feat--Flexible-Spellcaster--Dedication:
-
-Посвящение гибкого заклинателя (`Flexible Spellcaster Dedication <https://2e.aonprd.com/Feats.aspx?ID=2994>`_) / 2
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- посвящение
-- класс
-- архетип
-
-**Предварительные условия**: гибкая подготовка заклинаний
-
-**Источник**: Secrets of Magic pg. 209
-
-----------
-
-Теперь у вас 4 чар в день вместо 3-х.
-На 4-м уровне у вас становится 5 чар в день вместо 4-х.
-
 
 
 Усиление заклинаний (Heightening Spells)
@@ -169,6 +155,31 @@
 
 * :ref:`class-feat--Witch--Rites-of-Convocation` :sup:`APG`
 * :ref:`class-feat--Witch--Rites-of-Transfiguration` :sup:`APG`
+
+
+
+.. rst-class:: archetype-feats
+
+Способности архетипа (Feats)
+------------------------------------------------------------------------------------------------------------
+
+.. _arch-feat--Flexible-Spellcaster--Dedication:
+
+Посвящение гибкого заклинателя (`Flexible Spellcaster Dedication <https://2e.aonprd.com/Feats.aspx?ID=2994>`_) / 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- посвящение
+- класс
+- архетип
+
+**Предварительные условия**: :ref:`arch-feature--Flexible-Spellcaster--Flexible-Spell-Preparation`
+
+**Источник**: Secrets of Magic pg. 209
+
+----------
+
+Теперь у вас 4 чар в день вместо 3-х.
+На 4-м уровне у вас становится 5 чар в день вместо 4-х.
 
 
 

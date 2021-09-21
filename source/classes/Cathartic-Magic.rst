@@ -1,6 +1,6 @@
 .. include:: /helpers/roles.rst
 
-.. _Cathartic-Magic:
+.. _unlimited-magic--Cathartic-Magic:
 
 ============================================================================================================
 Магия катарсиса (`Cathartic Magic <https://2e.aonprd.com/Rules.aspx?ID=1512>`_)
