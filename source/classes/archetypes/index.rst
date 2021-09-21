@@ -60,6 +60,7 @@
    :maxdepth: 1
 
    Flexible-Spellcaster
+   Elementalist
 
 
 

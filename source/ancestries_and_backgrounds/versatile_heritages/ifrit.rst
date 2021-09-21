@@ -217,7 +217,7 @@
 
 .. _ancestry-feat--Ifrit--Inner-Fire:
 
-Внутренний огонь (`Inner Fire <https://2e.aonprd.com/Feats.aspx?ID=2554>`_) / 1
+Внутренний огонь (`Inner Fire (ifrit) <https://2e.aonprd.com/Feats.aspx?ID=2554>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - ифрит

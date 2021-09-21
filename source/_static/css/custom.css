@@ -541,10 +541,8 @@ section.char-class h2,
 section.animal-companions h2,
 /*section.class-archetypes h3,*/
 section.archetype-multiclass h1,
-section.archetype-class h1,
 section.archetype h1,
 section.archetype-description h1,
-section.archetype-info h2,
 section.archetype-chapter h1,
 section.hellknight-order-abilities h1,
 section.equip-subchap h3,
@@ -594,9 +592,7 @@ section.char-class h3,
 section.animal-companions h3,
 /*section.class-archetypes h2,*/
 section.archetype-multiclass h2,
-section.archetype-class h2,
 section.archetype h4,
-section.archetype-info h3,
 section.archetype-chapter h2,
 section.hellknight-order-abilities h2,
 section.equip-subchap h4,
@@ -681,7 +677,6 @@ section.backgrounds h3 { /* в этом разделе нет вложеннос
 
 section.archetype h1,
 section.archetype-description h1,
-section.archetype-class h1,
 section.archetype-multiclass h1 {
 	margin-top: 0;
 }

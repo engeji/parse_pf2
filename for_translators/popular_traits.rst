@@ -23,6 +23,7 @@
 :w_versatile:`универсальное`
 :w_forceful:`силовое`
 :w_nonlethal:`несмертельное`
+:w_unarmed:`безоружное`
 
 :a_bulwark:`защитный`
 :a_comfort:`удобный`

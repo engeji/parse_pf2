@@ -270,3 +270,4 @@
 
    Cathartic-Magic
    Flexible-Preparation
+   Elementalism
