@@ -20,7 +20,7 @@
 
 .. _arch-feature--Flexible-Spellcaster--Flexible-Spell-Preparation:
 
-Гибкая подготовка заклинаний (Flexible Spell Preparation) / 1
+Гибкая подготовка заклинаний (Flexible Spell Preparation) / 1-й
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Secrets of Magic pg. 209

@@ -3,6 +3,7 @@
 
 CRB: "Основная книга правил (Core Rulebook)"
 APG: "Продвинутое руководство игрока (Advanced Player's Guide)"
+SOM: "Секреты магии (Secrets of Magic)"
 LOWG: "Утраченные пророчества: Руководство о мире (Lost Omens: World Guide)"
 LOCG: "Утраченные пророчества: Руководство по персонажам (Lost Omens: Character Guide)"
 
