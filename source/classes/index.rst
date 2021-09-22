@@ -257,7 +257,9 @@
 
 
 
-Книга безграничной магии (`Book Of Unlimited Magic <https://2e.aonprd.com/Rules.aspx?ID=1511>`_)
+.. _Book-of-Unlimited-Magic:
+
+Книга безграничной магии (`Book of Unlimited Magic <https://2e.aonprd.com/Rules.aspx?ID=1511>`_)
 ============================================================================================================
 
 **Источник**: Secrets of Magic pg. 193
