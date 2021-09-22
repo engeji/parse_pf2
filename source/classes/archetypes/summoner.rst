@@ -1,6 +1,6 @@
 .. include:: /helpers/roles.rst
 
-.. rst-class:: archetype multiclass
+.. rst-class:: archetype-multiclass
 .. _archetype--Summoner:
 
 Призыватель (`Summoner (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=96>`_)

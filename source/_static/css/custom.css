@@ -273,6 +273,15 @@ table.condensed-table td {
 	white-space: normal;
 }
 
+table.condensed-part-table td {
+	white-space: normal;
+}
+
+table.condensed-part-table td:last-child {
+	white-space: pre;
+}
+
+
 .rst-content table.docutils td {
 	padding: 0.3em 0.5em;
 }
@@ -506,7 +515,7 @@ section.versatile-heritages h2,
 section.languages h2,
 section.char-class h2,
 section.animal-companions h2,
-section.class-archetypes h2,
+/*section.class-archetypes h2,*/
 section.equip-subchap h2,
 /*section.gear-description h2,*/
 section.lo-index-subchap h2,
@@ -540,8 +549,10 @@ section.languages h3,
 section.char-class h2,
 section.animal-companions h2,
 /*section.class-archetypes h3,*/
-section.archetype.multiclass h1,
+section.archetype-multiclass h1,
 section.archetype h1,
+section.archetype-description h1,
+section.archetype-chapter h1,
 section.hellknight-order-abilities h1,
 section.equip-subchap h3,
 section.lo-culture h1,
@@ -588,9 +599,10 @@ section.char-creation-step h4,
 section.versatile-heritages h4,
 section.char-class h3,
 section.animal-companions h3,
-section.class-archetypes h2,
-section.archetype.multiclass h2,
+/*section.class-archetypes h2,*/
+section.archetype-multiclass h2,
 section.archetype h4,
+section.archetype-chapter h2,
 section.hellknight-order-abilities h2,
 section.equip-subchap h4,
 section.gear-description h2,
@@ -632,7 +644,7 @@ section.ancestry h5,
 section.versatile-heritages h5,
 section.char-class h4,
 section.animal-companions h4,
-section.class-archetypes h3,
+/*section.class-archetypes h3,*/
 section.equip-subchap h5,
 /*section.religion h5,*/
 section.lo-religion h3,
@@ -671,6 +683,12 @@ section.backgrounds h3 { /* в этом разделе нет вложеннос
 }
 
 
+
+section.archetype h1,
+section.archetype-description h1,
+section.archetype-multiclass h1 {
+	margin-top: 0;
+}
 
 
 
@@ -775,8 +793,9 @@ section.gen-skill-actions section > h4,
 section.skill-descr section > h4,
 section.feats-descr section > h3,
 section.animal > h4,
-section.archetype.multiclass section > h3,
+section.archetype-multiclass section > h3,
 section.archetype section > h2,
+section.archetype-feats section > h3,
 section.hellknight-order-abilities section > h3,
 section.expl-activities section > h4,
 section.spells-focus section > h2,
@@ -831,8 +850,9 @@ section.gen-skill-actions section hr,
 section.skill-descr section hr,
 section.feats-descr section hr,
 section.animal hr,
-section.archetype.multiclass section hr,
+section.archetype-multiclass section hr,
 section.archetype section hr,
+section.archetype-feats section hr,
 section.hellknight-order-abilities section hr,
 section.expl-activities section hr,
 section.spells-focus section hr,

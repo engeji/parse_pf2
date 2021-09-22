@@ -1,6 +1,6 @@
 .. include:: /helpers/roles.rst
 
-.. rst-class:: archetype multiclass
+.. rst-class:: archetype-multiclass
 .. _archetype--Oracle:
 
 Оракул (`Oracle (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=42>`_)

@@ -1,3 +1,4 @@
+:r_common:`обычный`
 :r_uncommon:`необычный`
 :r_rare:`редкий`
 :r_unique:`уникальный`
@@ -22,6 +23,7 @@
 :w_versatile:`универсальное`
 :w_forceful:`силовое`
 :w_nonlethal:`несмертельное`
+:w_unarmed:`безоружное`
 
 :a_bulwark:`защитный`
 :a_comfort:`удобный`

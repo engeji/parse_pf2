@@ -1,6 +1,6 @@
 .. include:: /helpers/roles.rst
 
-.. rst-class:: archetype multiclass
+.. rst-class:: archetype-multiclass
 .. _archetype--Sorcerer:
 
 Чародей (`Sorcerer (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=11>`_)

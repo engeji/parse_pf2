@@ -301,6 +301,10 @@
 
 .. role:: t_archetype
 
+.. role:: t_multiclass
+
+.. role:: t_class
+
 .. role:: t_auditory
 
 .. role:: t_bomb
@@ -382,8 +386,6 @@
 .. role:: t_metamagic
 
 .. role:: t_misfortune
-
-.. role:: t_multiclass
 
 .. role:: t_mutagen
 

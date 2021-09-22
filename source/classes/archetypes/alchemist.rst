@@ -1,6 +1,6 @@
 .. include:: /helpers/roles.rst
 
-.. rst-class:: archetype multiclass
+.. rst-class:: archetype-multiclass
 .. _archetype--Alchemist:
 
 Алхимик (`Alchemist (Archetype) <https://2e.aonprd.com/Archetypes.aspx?ID=1>`_)
