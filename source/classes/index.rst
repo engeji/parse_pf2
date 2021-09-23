@@ -273,3 +273,4 @@
    Cathartic-Magic
    Flexible-Preparation
    Elementalism
+   Shadow-Magic

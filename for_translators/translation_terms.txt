@@ -558,6 +558,8 @@ Locations:
 		Orv: Орв
 		Nar‑Voth: Нар-Вот
 	Mushfens: Месивые Топи (от слов месиво и топь)
+	Forest of Trials: Лес Испытаний
+	Valenhall: Валенхолл
 
 lesser cover: небольшое укрытие
 light: свет

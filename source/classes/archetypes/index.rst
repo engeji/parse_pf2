@@ -116,6 +116,7 @@
 
 
    Cathartic-Mage
+   Shadowcaster
 
 
    dlc/aldori-duelist
