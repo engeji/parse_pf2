@@ -514,7 +514,7 @@ section.versatile-heritages h2,
 /*section.backgrounds h2,*/
 section.languages h2,
 section.char-class h2,
-section.animal-companions h2,
+/*section.animal-companions h2,*/
 /*section.class-archetypes h2,*/
 section.equip-subchap h2,
 /*section.gear-description h2,*/
@@ -547,7 +547,8 @@ section.versatile-heritages h3,
 /*section.backgrounds h3,*/
 section.languages h3,
 section.char-class h2,
-section.animal-companions h2,
+section.companions h1,
+/*section.animal-companions h2,*/
 /*section.class-archetypes h3,*/
 section.archetype-multiclass h1,
 section.archetype h1,
@@ -598,7 +599,8 @@ section.char-creation-step h4,
 /*section.ancestry h4,*/
 section.versatile-heritages h4,
 section.char-class h3,
-section.animal-companions h3,
+section.companions h2,
+/*section.animal-companions h3,*/
 /*section.class-archetypes h2,*/
 section.archetype-multiclass h2,
 section.archetype h4,
@@ -643,7 +645,8 @@ section.char-creation-step h5,
 section.ancestry h5,
 section.versatile-heritages h5,
 section.char-class h4,
-section.animal-companions h4,
+section.companions h3,
+/*section.animal-companions h4,*/
 /*section.class-archetypes h3,*/
 section.equip-subchap h5,
 /*section.religion h5,*/
@@ -747,6 +750,7 @@ section.gen-skill-actions section > p,
 section.skill-descr section > p,
 section.feats-descr section > p,
 section.animal > p,
+section.companion > p,
 section.expl-activities section > p,
 section.spells-focus section > p,
 section.rituals-list section > p,
@@ -793,6 +797,7 @@ section.gen-skill-actions section > h4,
 section.skill-descr section > h4,
 section.feats-descr section > h3,
 section.animal > h4,
+section.companion > h3,
 section.archetype-multiclass section > h3,
 section.archetype section > h2,
 section.archetype-feats section > h3,
@@ -850,6 +855,7 @@ section.gen-skill-actions section hr,
 section.skill-descr section hr,
 section.feats-descr section hr,
 section.animal hr,
+section.companion hr,
 section.archetype-multiclass section hr,
 section.archetype section hr,
 section.archetype-feats section hr,
@@ -893,11 +899,13 @@ section.creature-abilities section hr {
 	margin: 1px 0;
 }
 
-section.animal {
+section.animal,
+section.companion {
 	margin-top: 1.5em;
 }
 
-section.animal h4 {
+section.animal h4,
+section.companion h3 {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;

@@ -558,6 +558,8 @@ Locations:
 		Orv: Орв
 		Nar‑Voth: Нар-Вот
 	Mushfens: Месивые Топи (от слов месиво и топь)
+	Forest of Trials: Лес Испытаний
+	Valenhall: Валенхолл
 
 lesser cover: небольшое укрытие
 light: свет
@@ -848,7 +850,7 @@ Titles:
 	City of Thorns: Терновый Город
 	Song-Wind City: город Поющего Ветра
 	Encarthan: Энкартан
-	Worldwound: Мировая Рана
+	Worldwound: Мировая Язва
 	Sky Citadel Janderhof: Небесная Цитадель Джандерхофф
 	Crystalrock: Кристальной Скале
 	Mindspin Mountains: Головокружительные Горы
