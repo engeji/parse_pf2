@@ -850,7 +850,7 @@ Titles:
 	City of Thorns: Терновый Город
 	Song-Wind City: город Поющего Ветра
 	Encarthan: Энкартан
-	Worldwound: Мировая Рана
+	Worldwound: Мировая Язва
 	Sky Citadel Janderhof: Небесная Цитадель Джандерхофф
 	Crystalrock: Кристальной Скале
 	Mindspin Mountains: Головокружительные Горы
