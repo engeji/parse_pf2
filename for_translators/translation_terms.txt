@@ -560,6 +560,7 @@ Locations:
 	Mushfens: Месивые Топи (от слов месиво и топь)
 	Forest of Trials: Лес Испытаний
 	Valenhall: Валенхолл
+	Crystal Womb: Кристальная Утроба
 
 lesser cover: небольшое укрытие
 light: свет

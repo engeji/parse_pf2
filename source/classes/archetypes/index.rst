@@ -116,6 +116,7 @@
 
 
    Cathartic-Mage
+   Geomancer
    Shadowcaster
 
 

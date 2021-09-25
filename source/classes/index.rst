@@ -283,4 +283,5 @@
    Cathartic-Magic
    Flexible-Preparation
    Elementalism
+   Geomancy
    Shadow-Magic
