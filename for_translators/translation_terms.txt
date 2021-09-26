@@ -368,7 +368,7 @@ feat: способность
 	Expeditious Search: Оперативный Обыск
 Flat check: Чистая проверка
 fleeing: убегающий
-focus spell: заклинание фокусировки (TODO уточнить)
+focus spell: заклинание фокусировки
 Focus Point: Очко Фокусировки
 focus pool: запас очков фокусировки
 
