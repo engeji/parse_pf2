@@ -55,7 +55,7 @@
 
 ----------
 
-Вы получете преимущества :ref:`arch--Basic-Spellcasting`.
+Вы получаете преимущества :ref:`arch--Basic-Spellcasting`.
 
 
 .. _arch-feat--Druid--Basic-Wilding:

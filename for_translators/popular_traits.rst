@@ -72,6 +72,7 @@
 :t_mutagen:`мутаген`
 :t_cursebound:`проклятое`
 :t_curse:`проклятие`
+:t_disease:`болезнь`
 :t_alchemical:`алхимический`
 
 

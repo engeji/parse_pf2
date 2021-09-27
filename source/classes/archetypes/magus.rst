@@ -125,7 +125,7 @@
 
 ----------
 
-Вы получете преимущества :ref:`arch--Basic-Bounded-Spellcasting`.
+Вы получаете преимущества :ref:`arch--Basic-Bounded-Spellcasting`.
 
 
 .. _arch-feat--Magus--Expert-Spellcasting:
