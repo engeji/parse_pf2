@@ -142,7 +142,8 @@
 
 
 
-
+.. rst-class:: condensed-part-table
+.. rst-class:: condensed-table
 .. _table--#-##:
 
 .. table:: Таблица #-##: title
