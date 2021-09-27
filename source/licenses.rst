@@ -103,7 +103,7 @@ Advanced Player's Guide
 
 **Genie, Marid from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
 
-**Pathfinder Advanced Player’s Guide** © 2020, Paizo Inc.; Authors: Amirali Attar Olyaee, Alexander Augunas, Kate Baker, Brian Bauman, Logan Bonner, Carlos Cabrera, James Case, Jessica Catalan, John Compton, Paris Crenshaw, Jesse Decker, Fabby Garza Marroquín, Steven Hammond, Sasha Laranoa Harving, Joan Hong, Nicolas Hornyak, Vanessa Hoskins, James Jacobs, Erik Keith, Lyz Liddell, Luis Loza, Ron Lundeen, Patchen Mortimer, Dennis Muldoon, Stephen Radney-MacFarland, Jessica Redekop, Mikhail Rekun, Alex Riggs, David N. Ross, Michael Sayre, Mark Seifter, Kendra Leigh Speedling, Jason Tondro, Clark Valentine, and Andrew White.
+**Pathfinder Advanced Player's Guide** © 2020, Paizo Inc.; Authors: Amirali Attar Olyaee, Alexander Augunas, Kate Baker, Brian Bauman, Logan Bonner, Carlos Cabrera, James Case, Jessica Catalan, John Compton, Paris Crenshaw, Jesse Decker, Fabby Garza Marroquín, Steven Hammond, Sasha Laranoa Harving, Joan Hong, Nicolas Hornyak, Vanessa Hoskins, James Jacobs, Erik Keith, Lyz Liddell, Luis Loza, Ron Lundeen, Patchen Mortimer, Dennis Muldoon, Stephen Radney-MacFarland, Jessica Redekop, Mikhail Rekun, Alex Riggs, David N. Ross, Michael Sayre, Mark Seifter, Kendra Leigh Speedling, Jason Tondro, Clark Valentine, and Andrew White.
 
 
 
@@ -422,13 +422,13 @@ Pathfinder #154: Siege of the Dinosaurs
 
 **Armies of the Abyss** © 2002, Green Ronin Publishing; Authors: Erik Mona and Chris Pramas.
 
-**The Avatar’s Handbook** © 2003, Green Ronin Publishing; Authors: Jesse Decker and Chris Thomasson.
+**The Avatar's Handbook** © 2003, Green Ronin Publishing; Authors: Jesse Decker and Chris Thomasson.
 
 **Book of the Righteous** © 2002, Aaron Loeb.
 
 **Legions of Hell** © 2001, Green Ronin Publishing; Author: Chris Pramas.
 
-**The Unholy Warrior’s Handbook** © 2003, Green Ronin Publishing; Author: Robert J. Schwalb.
+**The Unholy Warrior's Handbook** © 2003, Green Ronin Publishing; Author: Robert J. Schwalb.
 
 **Demon Lord, Pazuzu from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on material by Gary Gygax.
 

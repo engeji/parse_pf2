@@ -285,4 +285,5 @@
    Elementalism
    Geomancy
    Ley-Lines
+   Pervasive-Magic
    Shadow-Magic

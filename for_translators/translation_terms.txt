@@ -552,6 +552,7 @@ Languages: языки
 location: локация, место (в зависимости от контекста)
 Locations:
 	Irrisen: Иррисен
+	Lands of the Linnorm Kings: Земли Королей Линнормов
 	Impossible Lands: Невозможные земли
 	Darklands: Темноземье
 		Sekamina: Сэкамина
@@ -561,6 +562,8 @@ Locations:
 	Forest of Trials: Лес Испытаний
 	Valenhall: Валенхолл
 	Crystal Womb: Кристальная Утроба
+	Fangwood: Клыколесье
+	Gallowspire: Гэллоуспайр
 
 lesser cover: небольшое укрытие
 light: свет
@@ -957,6 +960,9 @@ Titles:
 	Darkblight: Темная Порча
 	Awaiting-Consumption: Ожидающее Поедание
 	Yanjira: Янджира
+	Mechitar: Мехитар
+	Barrowood: Барровуд
+	Winter Grove: Зимняя Роща
 
 trait: признак / особенность
 	оружие:

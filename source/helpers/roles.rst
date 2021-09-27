@@ -485,6 +485,8 @@
 
 .. role:: t_spellheart
 
+.. role:: t_pervasive_magic
+
 .. role:: t_alchemist
 
 .. role:: t_barbarian
