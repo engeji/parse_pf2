@@ -19,7 +19,7 @@ actions:
 	Step: Шаг :ref:`action--Step` / :ref:`Шагнуть (Step) <action--Step>`
 	Cast a Spell: Сотворение заклинания :ref:`action--Cast-a-Spell` / :ref:`Сотворяете (Cast) <action--Cast-a-Spell>` это заклинание
 	Sustain a Spell: Поддержание заклинания :ref:`action--Sustain-a-Spell` / :ref:`Поддерживаете (Sustain) <action--Sustain-a-Spell>` это заклинание
-	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
+	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss` / :ref:`Развеивая (Dismiss) <action--Dismiss>`
 	Refocus: Сфокусироваться :ref:`action--Refocus`
 	Aid: Помощь :ref:`action--Aid` / :ref:`Помогать (Aid) <action--Aid>`
 	Delay: Выждать :ref:`action--Delay`
@@ -368,7 +368,7 @@ feat: способность
 	Expeditious Search: Оперативный Обыск
 Flat check: Чистая проверка
 fleeing: убегающий
-focus spell: заклинание фокусировки (TODO уточнить)
+focus spell: заклинание фокусировки
 Focus Point: Очко Фокусировки
 focus pool: запас очков фокусировки
 
@@ -552,6 +552,7 @@ Languages: языки
 location: локация, место (в зависимости от контекста)
 Locations:
 	Irrisen: Иррисен
+	Lands of the Linnorm Kings: Земли Королей Линнормов
 	Impossible Lands: Невозможные земли
 	Darklands: Темноземье
 		Sekamina: Сэкамина
@@ -560,6 +561,9 @@ Locations:
 	Mushfens: Месивые Топи (от слов месиво и топь)
 	Forest of Trials: Лес Испытаний
 	Valenhall: Валенхолл
+	Crystal Womb: Кристальная Утроба
+	Fangwood: Клыколесье
+	Gallowspire: Гэллоуспайр
 
 lesser cover: небольшое укрытие
 light: свет
@@ -737,6 +741,15 @@ spellcasting: колдовство / сотворение заклинания
 		divine: сакральный
 		occult: оккультный
 		primal: природный
+Soulforged Armaments: Скованное душой вооружение
+	Soul Path: душевный путь
+	corruption: порок
+	Soulforged Corruption: Порок скованной души
+	corruption flaw: изъян порока
+	soulbound: душевные узы
+	Essence Power: сила эссенции
+
+
 Subordinate Actions: Вспомогательные Действия
 Swashbuckler
 	panache: кураж, самоуверенность
@@ -956,6 +969,9 @@ Titles:
 	Darkblight: Темная Порча
 	Awaiting-Consumption: Ожидающее Поедание
 	Yanjira: Янджира
+	Mechitar: Мехитар
+	Barrowood: Барровуд
+	Winter Grove: Зимняя Роща
 
 trait: признак / особенность
 	оружие:

@@ -148,7 +148,7 @@
 
 
 
-Теневой заклинатель (Shadowcaster (Archetype))
+Архетип теневого заклинателя (Shadowcaster (Archetype))
 --------------------------------------------------------------------------------------------------------
 
 **Источник**: Secrets of Magic pg. 226
@@ -186,8 +186,8 @@
 
 **Источник**: Secrets of Magic pg. 229
 
-* :ref:`Теневой шаг (Shadow Step) <familiar-ability--Shadow-Step>`
 * :ref:`Поедатель тьмы (Darkeater) <familiar-ability--Darkeater>`
+* :ref:`Теневой шаг (Shadow Step) <familiar-ability--Shadow-Step>`
 
 
 
