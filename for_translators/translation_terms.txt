@@ -19,7 +19,7 @@ actions:
 	Step: Шаг :ref:`action--Step` / :ref:`Шагнуть (Step) <action--Step>`
 	Cast a Spell: Сотворение заклинания :ref:`action--Cast-a-Spell` / :ref:`Сотворяете (Cast) <action--Cast-a-Spell>` это заклинание
 	Sustain a Spell: Поддержание заклинания :ref:`action--Sustain-a-Spell` / :ref:`Поддерживаете (Sustain) <action--Sustain-a-Spell>` это заклинание
-	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss`
+	Dismiss (о заклинании или эффекте): Развеять :ref:`action--Dismiss` / :ref:`Развеивая (Dismiss) <action--Dismiss>`
 	Refocus: Сфокусироваться :ref:`action--Refocus`
 	Aid: Помощь :ref:`action--Aid` / :ref:`Помогать (Aid) <action--Aid>`
 	Delay: Выждать :ref:`action--Delay`
