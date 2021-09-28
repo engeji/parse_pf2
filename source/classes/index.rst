@@ -284,6 +284,7 @@
    Flexible-Preparation
    Elementalism
    Geomancy
+   Shadow-Magic
+   Soulforged-Armaments
    Ley-Lines
    Pervasive-Magic
-   Shadow-Magic

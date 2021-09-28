@@ -118,6 +118,7 @@
    Cathartic-Mage
    Geomancer
    Shadowcaster
+   Soulforger
 
 
    dlc/aldori-duelist

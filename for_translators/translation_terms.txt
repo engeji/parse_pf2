@@ -741,6 +741,15 @@ spellcasting: колдовство / сотворение заклинания
 		divine: сакральный
 		occult: оккультный
 		primal: природный
+Soulforged Armaments: Скованное душой вооружение
+	Soul Path: душевный путь
+	corruption: порок
+	Soulforged Corruption: Порок скованной души
+	corruption flaw: изъян порока
+	soulbound: душевные узы
+	Essence Power: сила эссенции
+
+
 Subordinate Actions: Вспомогательные Действия
 Swashbuckler
 	panache: кураж, самоуверенность
