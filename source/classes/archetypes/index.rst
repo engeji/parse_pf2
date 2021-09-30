@@ -62,6 +62,7 @@
    Flexible-Spellcaster
    Elementalist
    Runelord
+   Wellspring-Mage
 
 
 

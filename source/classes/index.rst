@@ -287,5 +287,6 @@
    Shadow-Magic
    Soulforged-Armaments
    Thassilonian-Rune-Magic
+   Wellspring-Magic
    Ley-Lines
    Pervasive-Magic
