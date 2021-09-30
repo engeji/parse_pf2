@@ -384,26 +384,6 @@
 Вы изучили фундаментальную технику магуса, которая позволяет вам комбинировать магические и физические атаки вместе.
 Вы получаете активность "Зачарованный удар".
 
-.. sidebar:: Варианты для "Зачарованного удара" (Spellstrike Options)
-
-	Следующие чары и заклинания 1-го уровня требуют совершить бросок атаки заклинанием и поэтому могут быть использованы с "Зачарованным ударом".
-	Этот список поможет вам приступить к подбору своих заклинаний.
-
-	| **Чары**:
-	| :ref:`spell--a--Acid-Splash`
-	| :ref:`spell--p--Produce-Flame`
-	| :ref:`spell--r--Ray-of-Frost`
-	| :ref:`spell--t--Telekinetic-Projectile`
-	| :ref:`spell--t--Tanglefoot`
-	| :ref:`spell--Gouging-Claw` :sup:`SOM`
-	| **Заклинания 1-го уровня**:
-	| :ref:`spell--s--Shocking-Grasp`
-	| :ref:`spell--r--Ray-of-Enfeeblement`
-	| :ref:`spell--h--Hydraulic-Push`
-	| :ref:`spell--s--Snowball` :sup:`LOWG`
-	| :ref:`spell--Horizon-Thunder-Sphere` :sup:`SOM`
-
-
 .. rst-class:: description
 .. _class-feature--Magus--Spellstrike:
 
@@ -426,6 +406,26 @@
 
 После использования "Зачарованного удара", вы не сможете сделать это снова, пока не подзарядите "Зачарованный удар" одиночным действием, имеющим признак :t_concentrate:`концентрация`.
 Еще вы подзаряжаете свой "Зачарованный удар", когда сотворяете :ref:`class-feature--Magus--Conflux-Spells`, для которого требуется минимум 1 действие; сотворение заклинания фокусировки другого типа не заряжает ваш "Зачарованный удар".
+
+
+.. sidebar:: Варианты для "Зачарованного удара" (Spellstrike Options)
+
+	Следующие чары и заклинания 1-го уровня требуют совершить бросок атаки заклинанием и поэтому могут быть использованы с "Зачарованным ударом".
+	Этот список поможет вам приступить к подбору своих заклинаний.
+
+	| **Чары**:
+	| :ref:`spell--a--Acid-Splash`
+	| :ref:`spell--p--Produce-Flame`
+	| :ref:`spell--r--Ray-of-Frost`
+	| :ref:`spell--t--Telekinetic-Projectile`
+	| :ref:`spell--t--Tanglefoot`
+	| :ref:`spell--Gouging-Claw` :sup:`SOM`
+	| **Заклинания 1-го уровня**:
+	| :ref:`spell--s--Shocking-Grasp`
+	| :ref:`spell--r--Ray-of-Enfeeblement`
+	| :ref:`spell--h--Hydraulic-Push`
+	| :ref:`spell--s--Snowball` :sup:`LOWG`
+	| :ref:`spell--Horizon-Thunder-Sphere` :sup:`SOM`
 
 
 Особенности Зачарованного удара (Spellstrike Specifics)

@@ -61,6 +61,7 @@
 
    Flexible-Spellcaster
    Elementalist
+   Runelord
 
 
 
