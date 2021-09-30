@@ -1,6 +1,6 @@
 .. include:: /helpers/roles.rst
 
-.. _chapter--Thassilonian-Rune-Magic:
+.. _unlimited-magic--Thassilonian-Rune-Magic:
 
 ============================================================================================================
 Тассилонская рунная магия (`Thassilonian Rune Magic <https://2e.aonprd.com/Rules.aspx?ID=1567>`_)

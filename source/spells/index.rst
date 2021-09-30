@@ -1046,7 +1046,29 @@
 .. toctree::
    :maxdepth: 2
 
-   focus
+   focus/Bard
+   focus/Champion
+   focus/Cleric
+   focus/Druid
+   focus/Monk
+   focus/Sorcerer
+   focus/Wizard
+   focus/Ranger
+   focus/Witch
+   focus/Oracle
+   focus/Magus
+   focus/Summoner
+   focus/Elementalism
+   focus/Beastmaster
+   focus/Shadowdancer
+   focus/Shadowcaster
+   focus/Student-of-Perfection
+   focus/Red-Mantis-Assassin
+   focus/Magic-Warrior
+   focus/Scrollmaster
+   focus/Spellmaster
+   focus/Knights-of-Lastwall
+   focus/Runelord
 
 
 
