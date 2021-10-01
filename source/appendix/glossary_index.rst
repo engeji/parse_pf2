@@ -1938,6 +1938,15 @@ Lost Omens: World Guide pg. 134
 | :ref:`unlimited-magic--Pervasive-Magic`
 
 
+Истинное имя (признак) (`true name (trait) <https://2e.aonprd.com/Traits.aspx?ID=393>`_)
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+**Источник**: Secrets of Magic pg. 254
+
+Для использования элементов правил с этим признаком требуется знать истинное имя существа.
+
+| :ref:`unlimited-magic--True-Names`
+
 
 
 

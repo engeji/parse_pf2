@@ -72,11 +72,13 @@
    B/burning-hands
    C/Canticle-Of-Everlasting-Grief
    C/Cast-Into-Time
+   C/Catch-Your-Name
    C/Chromatic-Armor
    C/Chromatic-Image
    C/Chromatic-Ray
    C/Claim-Curse
    C/Clone-Companion
+   C/Compel-True-Name
    C/Concordant-Choir
    C/Coral-Eruption
    C/Corrosive-Body
@@ -283,6 +285,7 @@
    I/Instant-Armor
    I/Invisibility-Curtain
    I/Invoke-Spirits
+   I/Invoke-True-Name
    I/ice-storm
    I/ill-omen
    I/illusory-creature
