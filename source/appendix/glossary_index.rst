@@ -1935,7 +1935,7 @@ Lost Omens: World Guide pg. 134
 Этот элемент относится к правилам "Повсеместной магии (Pervasive Magic)".
 Он доступен в сеттинге специальных кампаний где мир перенасыщен магией.
 
-| :ref:`unlimited-magic--Pervasive-Magic`
+| :doc:`/classes/Pervasive-Magic`
 
 
 Истинное имя (признак) (`true name (trait) <https://2e.aonprd.com/Traits.aspx?ID=393>`_)
@@ -1945,7 +1945,7 @@ Lost Omens: World Guide pg. 134
 
 Для использования элементов правил с этим признаком требуется знать истинное имя существа.
 
-| :ref:`unlimited-magic--True-Names`
+| :doc:`/classes/True-Names`
 
 
 
