@@ -41,6 +41,7 @@
 :t_dragon:`дракон`
 :t_aberration:`аберрация`
 :t_fiend:`бес`
+:t_devil:`дьявол`
 :t_celestial:`небожитель`
 :t_angel:`ангел`
 :t_psychopomp:`психопомп`
@@ -73,6 +74,7 @@
 :t_cursebound:`проклятое`
 :t_curse:`проклятие`
 :t_disease:`болезнь`
+:t_sleep:`сон`
 :t_alchemical:`алхимический`
 
 
