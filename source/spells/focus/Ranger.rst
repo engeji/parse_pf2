@@ -1,6 +1,6 @@
 .. include:: /helpers/roles.rst
 
-.. title:: Заклинания фокусировки КЛАСС (Ranger Focus Spells)
+.. title:: Заклинания фокусировки рейнджера (Ranger Focus Spells)
 
 .. rst-class:: spells-focus
 .. _focus-spells--Ranger:
