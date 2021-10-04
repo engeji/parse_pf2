@@ -487,6 +487,8 @@
 
 .. role:: t_pervasive_magic
 
+.. role:: t_true_name
+
 .. role:: t_alchemist
 
 .. role:: t_barbarian

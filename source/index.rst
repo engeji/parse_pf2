@@ -3,10 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-09-22**
-| Секреты магии (Secrets Of Magic):
-| - Добавлены магические предметы из 4-й главы.
-| - Начинают появляться особые правила о магии, из :ref:`Книги безграничной магии <Book-of-Unlimited-Magic>`.
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-10-04**
+| Добавлен весь контент из книги "Секреты магии (Secrets Of Magic)".
+| - :ref:`Книга безграничной магии <Book-of-Unlimited-Magic>`
 
 | `Telegram канал <https://t.me/PF2e_RU_channel>`_ - подробные обновления и изменения
 | `Telegram чат <https://t.me/PF2e_RU>`_ - для обратной связи, обсуждения правил и т.п.

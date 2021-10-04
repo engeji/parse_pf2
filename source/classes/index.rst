@@ -286,5 +286,8 @@
    Geomancy
    Shadow-Magic
    Soulforged-Armaments
+   Thassilonian-Rune-Magic
+   Wellspring-Magic
+   True-Names
    Ley-Lines
    Pervasive-Magic

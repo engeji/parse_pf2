@@ -972,6 +972,10 @@ Titles:
 	Mechitar: Мехитар
 	Barrowood: Барровуд
 	Winter Grove: Зимняя Роща
+	Xanderghul: Зандергул
+	Belimarius: Белимария (она)
+	Sorshen: Соршен (она)
+	Eurythnia: Эвритния
 
 trait: признак / особенность
 	оружие:

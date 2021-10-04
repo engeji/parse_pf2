@@ -41,6 +41,7 @@
 :t_dragon:`дракон`
 :t_aberration:`аберрация`
 :t_fiend:`бес`
+:t_devil:`дьявол`
 :t_celestial:`небожитель`
 :t_angel:`ангел`
 :t_psychopomp:`психопомп`
@@ -73,6 +74,7 @@
 :t_cursebound:`проклятое`
 :t_curse:`проклятие`
 :t_disease:`болезнь`
+:t_sleep:`сон`
 :t_alchemical:`алхимический`
 
 
@@ -98,13 +100,13 @@
 :t_occult:`оккультный`
 :t_primal:`природный`
 :t_abjuration:`преграждение`
-:t_transmutation:`трансмутация`
-:t_evocation:`эвокация`
-:t_necromancy:`некромантия`
-:t_illusion:`иллюзия`
+:t_conjuration:`воплощение`
 :t_divination:`прорицание`
 :t_enchantment:`очарование`
-:t_conjuration:`воплощение`
+:t_evocation:`эвокация`
+:t_illusion:`иллюзия`
+:t_necromancy:`некромантия`
+:t_transmutation:`трансмутация`
 
 :t_metamagic:`метамагия`
 :t_healing:`исцеление`
