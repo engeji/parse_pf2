@@ -692,7 +692,7 @@
 
 
 
-
+.. rst-class:: sidebar-wide
 .. sidebar:: НАЗВАНИЕ (TITLE)
 
 	TEXT
