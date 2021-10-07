@@ -489,6 +489,8 @@
 
 .. role:: t_true_name
 
+.. role:: t_reckless
+
 .. role:: t_alchemist
 
 .. role:: t_barbarian
