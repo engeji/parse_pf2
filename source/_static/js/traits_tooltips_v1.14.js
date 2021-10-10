@@ -425,6 +425,7 @@ $(document).ready( function() {
 		"spellheart": "Сердце заклинания (spellheart): Это постоянные предметы, которые работают подобно талисманам. Вы прикрепляете сердце заклинания используя активность \"Прикрепить сердце заклинания (Affix a Spellheart)\", которая абсолютно идентична \"Прикрепить талисман (Affix a Talisman)\". Ограничение об одном талисмане на предмете остается - предмет может иметь только 1 сердце заклинания или талисман, не оба одновременно. При сотворении чар из сердца заклинания, если ваши бросок атаки заклинанием или КС заклинания больше, то можете использовать их. Создание (Crafting) сердца заклинания требует заклинаний, которые оно может сотворять.",
 		"pervasive-magic": "Повсеместная магия (pervasive magic): Этот элемент относится к правилам \"Повсеместной магии (Pervasive Magic)\". Он доступен в сеттинге специальных кампаний где мир перенасыщен магией.",
 		"true-name": "Истинное имя (true name): Для использования элементов правил с этим признаком требуется знать истинное имя существа.",
+		"reckless": "Безрассудство (reckless): Действия с признаком \"безрассудство\" могут привести к тому, что пилот потеряет управление транспортным средством. При выполнении безрассудного действия пилот должен сначала совершить подходящую проверку пилотирования, чтобы сохранить контроль над транспортным средством.",
 	}
 
 	// Редкость
@@ -758,6 +759,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("сердце заклинания")').tooltipster({content: traits_dict["spellheart"]});
 	$('ul.traits li:textEquals("повсеместная магия")').tooltipster({content: traits_dict["pervasive-magic"]});
 	$('ul.traits li:textEquals("истинное имя")').tooltipster({content: traits_dict["true-name"]});
+	$('ul.traits li:textEquals("безрассудство")').tooltipster({content: traits_dict["reckless"]});
 
 
 	$('span.t-attack').tooltipster({content: traits_dict["attack"]});
@@ -1055,4 +1057,5 @@ $(document).ready( function() {
 	$('span.t-spellheart').tooltipster({content: traits_dict["spellheart"]});
 	$('span.t-pervasive-magic').tooltipster({content: traits_dict["pervasive-magic"]});
 	$('span.t-true-name').tooltipster({content: traits_dict["true-name"]});
+	$('span.t-reckless').tooltipster({content: traits_dict["reckless"]});
 });

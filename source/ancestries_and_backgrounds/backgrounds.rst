@@ -1878,7 +1878,7 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 
 .. _bg--Chelish-Rebel:
 
-Челийский повстанцев (`Chelish Rebel <https://2e.aonprd.com/Backgrounds.aspx?ID=105>`_) / Предыстория
+Челийский повстанец (`Chelish Rebel <https://2e.aonprd.com/Backgrounds.aspx?ID=105>`_) / Предыстория
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: World Guide pg. 106
