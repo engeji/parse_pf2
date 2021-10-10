@@ -1193,6 +1193,16 @@
 
 
 
+:ref:`Способность КЛАССА <class-feature--CLASS_NAME--Class-Feat>`
+:ref:`Способность навыка <class-feature--CLASS_NAME--Skill-Feat>`
+
+:ref:`Общая способность <class-feature--CLASS_NAME--General-Feat>`
+:ref:`Увеличение навыка <class-feature--CLASS_NAME--Skill-Increase>`
+
+:ref:`Повышения характеристик <class-feature--CLASS_NAME--Ability-Boosts>`
+:ref:`Способность родословной <class-feature--CLASS_NAME--Ancestry-Feat>`
+
+
 
 ПОЛЕЗНЫЕ СИМВОЛЫ
 
