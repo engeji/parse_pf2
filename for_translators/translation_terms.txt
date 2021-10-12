@@ -13,7 +13,7 @@ Ability (об основных статах): характеристика
 	ability modifier: модификатор характеристики
 activity: активность
 actions:
-	Interact: Взаимодействовать :ref:`action--Interact`
+	Interact: Взаимодействовать :ref:`action--Interact` / :ref:`Взаимодействуйте (Interact) <action--Interact>`
 	Strike: Удар :ref:`action--Strike` / :ref:`Выстрел (Strike) <action--Strike>`
 	Stride: Перемещение :ref:`action--Stride` / :ref:`Переместиться (Stride) <action--Stride>`
 	Step: Шаг :ref:`action--Step` / :ref:`Шагнуть (Step) <action--Step>`
@@ -39,7 +39,7 @@ actions:
 	Earn Income: Заработать деньги :ref:`expl-activity--Earn-Income`
 	Leap: Прыжок :ref:`action--Leap` / :ref:`Прыгать (Leap) <action--Leap>`
 	Recall Knowledge: Вспомнить информацию :ref:`skill--Recall-Knowledge`
-	Learn A Spell: Выучить заклинание :ref:`expl-activity--Learn-a-Spell`
+	Learn a Spell: Выучить заклинание :ref:`expl-activity--Learn-a-Spell`
 	Raise a Shield: Поднять щит :ref:`action--Raise-a-Shield`
 	Release: Отпустить :ref:`action--Release`
 	Drop Prone: Упасть ничком :ref:`action--Drop-Prone`
@@ -57,7 +57,7 @@ actions:
 	Follow The Expert: Повторять за экспертом :ref:`expl-activity--Follow-The-Expert`
 	Hustle: Спешить :ref:`expl-activity--Hustle`
 	Investigate: Исследовать :ref:`expl-activity--Investigate`
-	Repeat A Spell: Повторять заклинание :ref:`expl-activity--Repeat-A-Spell`
+	Repeat a Spell: Повторять заклинание :ref:`expl-activity--Repeat-A-Spell`
 	Scout: Разведывать :ref:`expl-activity--Scout`
 	Search: Искать :ref:`expl-activity--Search`
 advanced alchemy: продвинутая алхимия
@@ -240,6 +240,7 @@ Creature: существо
 	soulbound shell: одушевленная оболочка
 	abrikandilu: абрикандил
 	gogiteth: гогитэт
+	dullahan: дуллахан
 
 counteract: Противодействие :ref:`ch9--Counteracting` / :ref:`противодействие <ch9--Counteracting>`
 Currency: Деньги

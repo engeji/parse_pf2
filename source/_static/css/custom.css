@@ -126,12 +126,6 @@ section > p {
 }
 
 
-hr.invisible-divider {
-	border: none !important;
-	margin: 0.3em 0 !important;
-}
-
-
 
 
 /*
@@ -268,15 +262,24 @@ section.feats-descr table td {
 	white-space: normal;
 }
 
-section.weapon-tables table th,
-section.weapon-tables table td:first-child {
+/*section.weapon-tables table td:first-child,
+section.weapon-tables table th {
 	white-space: normal;
-}
+}*/
 
-section.weapon-tables table td:last-child,
+/*section.weapon-tables table td:last-child,*/
 table.domains-table td:last-child {
 	white-space: pre;
 }
+
+
+section.weapon-tables table td {
+	white-space: pre;
+	line-height: 0.75em;
+	vertical-align: top !important;
+}
+
+
 
 table.condensed-table td {
 	white-space: normal;
@@ -288,6 +291,10 @@ table.condensed-part-table td {
 
 table.condensed-part-table td:last-child {
 	white-space: pre;
+}
+
+table.condensed-pre-table td {
+	white-space: pre !important;
 }
 
 
@@ -305,9 +312,12 @@ table.condensed-part-table td:last-child {
 }
 
 .rst-content table.docutils td div.line-block {
-	line-height: 1.4em;
+	/*line-height: 1.4em;*/
+	line-height: inherit;
 	margin-bottom: 0;
 }
+
+
 
 
 

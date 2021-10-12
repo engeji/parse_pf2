@@ -24,15 +24,17 @@
 :w_forceful:`силовое`
 :w_nonlethal:`несмертельное`
 :w_unarmed:`безоружное`
+:w_parry:`парирование`
+:w_fatal:`фатальное`
 
 :a_bulwark:`защитный`
 :a_comfort:`удобный`
 :a_flexible:`гибкий`
 :a_noisy:`шумный`
 
-:t_humanoid:`гуманоид`
 :t_minion:`миньон`
 :t_summoned:`призванный`
+:t_humanoid:`гуманоид`
 :t_plant:`растение`
 :t_animal:`животное`
 :t_beast:`чудовище`
@@ -52,6 +54,15 @@
 :t_elemental:`элементаль`
 :t_ooze:`слизь`
 :t_construct:`конструкт`
+:t_giant:`гигант`
+
+:t_incorporeal:`бестелесный`
+:t_amphibious:`земноводный`
+:t_aquatic:`водный`
+:t_incorporeal:`бестелесный`
+:t_mindless:`неразумный`
+:t_swarm:`рой`
+
 
 :t_skill:`навык`
 :t_lineage:`род`
@@ -115,8 +126,7 @@
 :t_death:`смерть`
 :t_possession:`одержимость`
 :t_teleportation:`телепортация`
-:t_incorporeal:`бестелесный`
- 
+
 :t_prediction:`предсказание`
 :t_scrying:`видение`
 :t_detection:`обнаружение`
@@ -127,11 +137,11 @@
 :t_shadow:`тень`
 
 
-:t_electricity:`электричество`
 :t_fire:`огонь`
 :t_water:`вода`
 :t_air:`воздух`
 :t_earth:`земля`
+:t_electricity:`электричество`
 :t_cold:`холод`
 :t_acid:`кислота`
 :t_sonic:`звук`

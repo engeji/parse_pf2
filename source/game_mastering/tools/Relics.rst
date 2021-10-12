@@ -33,7 +33,7 @@
 
 .. _Relics--Discovering-a-Relic:
 
-Обнаружение реликвии (`Discovering A Relic <https://2e.aonprd.com/Rules.aspx?ID=1097>`_)
+Обнаружение реликвии (`Discovering a Relic <https://2e.aonprd.com/Rules.aspx?ID=1097>`_)
 --------------------------------------------------------------------------------------------------------
 
 **Источник**: Gamemastery Guide pg. 94
