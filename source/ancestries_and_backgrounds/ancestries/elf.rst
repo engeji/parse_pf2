@@ -314,7 +314,7 @@
 Еще вы обучаетесь Эльфийским Знаниям (Elven Lore).
 
 
-.. _ancestry-feat--Elf--Elven-Weapon-Familiarity:
+.. _ancestry-feat--Elf--Weapon-Familiarity:
 
 Знакомство с эльфийским оружием (`Elven Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=14>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -558,12 +558,12 @@
 
 - эльф
 
-**Требования**: :ref:`ancestry-feat--Elf--Elven-Weapon-Familiarity`
+**Требования**: :ref:`ancestry-feat--Elf--Weapon-Familiarity`
 
 ----------
 
 Вы приспособились к обращению с оружием ваших эльфийских предков и становитесь особенно смертельны в обращении с ним.
-Когда вы критически попадаете используя эльфийское оружие, или одним из перечисленных в :ref:`ancestry-feat--Elf--Elven-Weapon-Familiarity`, то применяете эффект критической специализации оружия.
+Когда вы критически попадаете используя эльфийское оружие, или одним из перечисленных в :ref:`ancestry-feat--Elf--Weapon-Familiarity`, то применяете эффект критической специализации оружия.
 
 
 .. _ancestry-feat--Elf--Defiance-Unto-Death:
@@ -811,7 +811,7 @@
 
 - эльф
 
-**Требования**: :ref:`ancestry-feat--Elf--Elven-Weapon-Familiarity`
+**Требования**: :ref:`ancestry-feat--Elf--Weapon-Familiarity`
 
 ----------
 

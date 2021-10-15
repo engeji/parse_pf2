@@ -24,6 +24,7 @@
    swashbuckler
 
    investigator
+   Gunslinger
    alchemist
    
    magus

@@ -16,6 +16,7 @@
 :w_reach:`длинное`
 :w_thrown:`метательное`
 :w_deadly:`смертельное`
+:w_sweep:`размах`
 :w_disarm:`разоружение`
 :w_shove:`толчок`
 :w_trip:`опрокидывание`
@@ -25,7 +26,19 @@
 :w_nonlethal:`несмертельное`
 :w_unarmed:`безоружное`
 :w_parry:`парирование`
+:w_backstabber:`предательское`
 :w_fatal:`фатальное`
+
+
+:w_concussive:`сотрясающее`
+:w_kickback:`отдача`
+:w_scatter:`разброс`
+:w_double_barrel:`двуствольное`
+:w_capacity:`вместимость`
+:w_fatal_aim:`фатальное прицеливание`
+:w_repeating:`многозарядное`
+:w_combination:`комбинированное`
+:w_critical_fusion:`критическое слияние`
 
 :a_bulwark:`защитный`
 :a_comfort:`удобный`
@@ -59,7 +72,6 @@
 :t_incorporeal:`бестелесный`
 :t_amphibious:`земноводный`
 :t_aquatic:`водный`
-:t_incorporeal:`бестелесный`
 :t_mindless:`неразумный`
 :t_swarm:`рой`
 

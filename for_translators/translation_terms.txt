@@ -4,6 +4,7 @@
 CRB: "Основная книга правил (Core Rulebook)"
 APG: "Продвинутое руководство игрока (Advanced Player's Guide)"
 SOM: "Секреты магии (Secrets of Magic)"
+G&G: "Оружие и Шестерёнки (Guns & Gears)"
 LOWG: "Утраченные пророчества: Руководство о мире (Lost Omens: World Guide)"
 LOCG: "Утраченные пророчества: Руководство по персонажам (Lost Omens: Character Guide)"
 
@@ -374,6 +375,21 @@ Focus Point: Очко Фокусировки
 focus pool: запас очков фокусировки
 
 GM: Мастер
+Guns (термины огнестрельного оружия)
+	firearm: огнестрельное оружие
+	firing range: огневая дистанция, дистанция стрельбы
+	flintlock: ударно-кремневый замок
+	firing mechanism: спусковой механизм
+	frame: ствольная коробка
+	stock: ложе, приклад
+	muzzle: дуло
+	cartridge: патрон (прожектайл + порох)
+	round: патрон, заряд (прожектайл + порох)
+	wadding: пыж (слой материала между снарядом и пороховым зарядом)
+	bullet: пуля (часть патрона, поражающий снаряд)
+	pellet: пуля (в магазине репитера)
+	loose shot: засыпная дробь (в гладкоствольном оружии)
+	magical firearm ammunition: магическая огнестрельная амуниция
 
 Hardness: Твердость
 harm (spell/font): нанесение ран
@@ -565,6 +581,10 @@ Locations:
 	Crystal Womb: Кристальная Утроба
 	Fangwood: Клыколесье
 	Gallowspire: Гэллоуспайр
+	Dongun Hold: Холд Донган
+	Jinin: Джинин
+	Ling Shen: Лин Шен
+	Quain: Куэйн
 
 lesser cover: небольшое укрытие
 light: свет
@@ -775,6 +795,7 @@ Titles:
 	Garundi: Гарундиец
 	Mauxi: Маушиец
 	Tian Xia: Тянь Ся
+		tien: тиянский (человеческий этнос)
 	Tian-Dan: Тянь-Дань
 	Tian-Yae: Тянь-Йэ
 	Alijae: Алижеец
@@ -977,6 +998,7 @@ Titles:
 	Belimarius: Белимария (она)
 	Sorshen: Соршен (она)
 	Eurythnia: Эвритния
+	shield marshal: шилд-маршал
 
 trait: признак / особенность
 	оружие:

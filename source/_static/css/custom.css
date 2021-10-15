@@ -262,23 +262,28 @@ section.feats-descr table td {
 	white-space: normal;
 }
 
-/*section.weapon-tables table td:first-child,
-section.weapon-tables table th {
-	white-space: normal;
-}*/
 
-/*section.weapon-tables table td:last-child,*/
-table.domains-table td:last-child {
-	white-space: pre;
+table.weapon-table th {
+	white-space: normal;
 }
 
-
-section.weapon-tables table td {
+table.weapon-table td {
 	white-space: pre;
-	line-height: 0.75em;
+	line-height: 17px !important;
 	vertical-align: top !important;
 }
 
+table.weapon-table td:first-child {
+	white-space: normal;
+}
+
+table.weapon-table td p {
+	line-height: 17px !important;
+}
+
+table.weapon-ranged-table td:first-child {
+	white-space: pre;
+}
 
 
 table.condensed-table td {
@@ -491,6 +496,15 @@ p.h3.rubric + p img.game-icon {
 }
 
 
+
+/*
+	Надстрочный текст
+*/
+
+sup {
+	top: -0.4em;
+	font-size: 70%;
+}
 
 
 

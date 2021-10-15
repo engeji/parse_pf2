@@ -193,6 +193,25 @@
 
 .. role:: w_repeating
 
+.. role:: w_concussive
+
+.. role:: w_kickback
+
+.. role:: w_scatter
+
+.. role:: w_double_barrel
+
+.. role:: w_capacity
+
+.. role:: w_fatal_aim
+
+.. role:: w_repeating
+
+.. role:: w_combination
+
+.. role:: w_crit_fusion
+
+
 
 .. Признаки доспехов
 
@@ -526,6 +545,10 @@
 .. role:: t_magus
 
 .. role:: t_summoner
+
+.. role:: t_gunslinger
+
+.. role:: t_inventor
 
 .. role:: t_dwarf
 
