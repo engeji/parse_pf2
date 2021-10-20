@@ -1,7 +1,7 @@
 Перевод терминов
 ======================
 
-CRB: "Основная книга правил (Core Rulebook)"
+CR: "Основная книга правил (Core Rulebook)"
 APG: "Продвинутое руководство игрока (Advanced Player's Guide)"
 SOM: "Секреты магии (Secrets of Magic)"
 G&G: "Пушки и Шестерни (Guns & Gears)"
@@ -588,6 +588,7 @@ Locations:
 	Jinin: Джинин
 	Ling Shen: Лин Шен
 	Quain: Куэйн
+	Deadshot Lands: Земли Дэдшот
 
 lesser cover: небольшое укрытие
 light: свет

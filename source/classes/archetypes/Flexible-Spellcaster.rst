@@ -123,7 +123,7 @@
 Например, в :ref:`class-feat--Wizard--Counterspell` вы бы заменили в Триггере "подготовленное вами заклинание" на "заклинание в вашей коллекции" и "расходуете подготовленное заклинание" на "расходуете слот заклинания".
 Аналогично и в :ref:`class-feature--Wizard--Arcane-Bond` вы бы заменили "сотворяете 1 заклинание, которое сегодня подготовили и уже использовали" на "сотворяете 1 заклинание своей коллекции, которое уже использовали сегодня".
 
-В этих заменах нуждаются такие способности как :ref:`class-feat--Wizard--Counterspell` :sup:`CRB`, :ref:`class-feat--druid--Leyline-Conduit` :sup:`CRB`, а также :ref:`class-feat--Wizard--Form Retention` :sup:`APG`.
+В этих заменах нуждаются такие способности как :ref:`class-feat--Wizard--Counterspell` :sup:`CR`, :ref:`class-feat--druid--Leyline-Conduit` :sup:`CR`, а также :ref:`class-feat--Wizard--Form Retention` :sup:`APG`.
 Способность :ref:`class-feat--Wizard--Spell-Mastery` дает дополнительные ограниченные заклинания, как божественная сила или заклинания специалиста; вы можете ее взять, но она не увеличивает вашу коллекцию и работает как обычные подготавливаемые слоты.
 
 
@@ -137,14 +137,14 @@
 
 **Волшебник**
 
-* :ref:`class-feat--Wizard--Clever-Counterspell` :sup:`CRB`
-* :ref:`class-feat--Wizard--Infinite-Possibilities` :sup:`CRB`
-* :ref:`class-feat--Wizard--Reprepare-Spell` :sup:`CRB`
-* :ref:`class-feat--Wizard--Spell-Combination` :sup:`CRB`
+* :ref:`class-feat--Wizard--Clever-Counterspell` :sup:`CR`
+* :ref:`class-feat--Wizard--Infinite-Possibilities` :sup:`CR`
+* :ref:`class-feat--Wizard--Reprepare-Spell` :sup:`CR`
+* :ref:`class-feat--Wizard--Spell-Combination` :sup:`CR`
 
 **Друид**
 
-* :ref:`class-feat--Druid--Call-Of-The-Wild` :sup:`CRB`
+* :ref:`class-feat--Druid--Call-Of-The-Wild` :sup:`CR`
 * :ref:`class-feat--Druid--Elemental-Summons` :sup:`APG`
 
 **Жрец**
