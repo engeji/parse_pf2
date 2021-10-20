@@ -121,6 +121,14 @@ hr {
 	margin-bottom: 0.6em;
 }
 
+.toctree-wrapper ul li.toctree-l1 {
+	margin-left: 1em;
+}
+
+.toctree-wrapper ul li.toctree-l2 {
+	margin-left: 1em;
+}
+
 blockquote.epigraph p {
 	margin-bottom: 0.5em;
 }

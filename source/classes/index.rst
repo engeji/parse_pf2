@@ -315,3 +315,4 @@
    :maxdepth: 2
 
    Guns-and-Gears
+   Guns-characters

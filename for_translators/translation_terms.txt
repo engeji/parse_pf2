@@ -392,6 +392,7 @@ Guns (термины огнестрельного оружия)
 	pellet: пуля (в магазине репитера), дробинка (в "разбрасывающем"" оружии)
 	loose shot: засыпная дробь (в гладкоствольном оружии)
 	magical firearm ammunition: магическая огнестрельная амуниция
+	cannon team: пушечный расчёт
 
 Hardness: Твердость
 harm (spell/font): нанесение ран
@@ -583,7 +584,7 @@ Locations:
 	Crystal Womb: Кристальная Утроба
 	Fangwood: Клыколесье
 	Gallowspire: Гэллоуспайр
-	Dongun Hold: Холд Донган
+	Dongun Hold: Донган Холд
 	Jinin: Джинин
 	Ling Shen: Лин Шен
 	Quain: Куэйн
