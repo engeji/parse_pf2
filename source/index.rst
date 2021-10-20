@@ -26,7 +26,7 @@ Pathfinder 2E
    classes/index
    skills
    feats
-   equipment
+   equipment/index
    spells/index
    lost_omens/index
    playing_the_game
