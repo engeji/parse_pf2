@@ -1,6 +1,11 @@
 /* Всякое */
 
-h1, p.h1.rubric {
+h1,
+.h1 h2,
+.h1 h3,
+.h1 h4,
+.h1 h5,
+p.h1.rubric {
 	box-sizing: border-box;
 	color: #5e0000;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -10,7 +15,12 @@ h1, p.h1.rubric {
 	margin-top: 0;
 }
 
-h2, p.h2.rubric {
+h2,
+.h2 h1,
+.h2 h3,
+.h2 h4,
+.h2 h5,
+p.h2.rubric {
 	box-sizing: border-box;
 	color: #002664;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -20,7 +30,12 @@ h2, p.h2.rubric {
 	margin-top: 1em;
 }
 
-h3, p.h3.rubric {
+h3,
+.h3 h1,
+.h3 h2,
+.h3 h4,
+.h3 h5,
+p.h3.rubric {
 	box-sizing: border-box;
 	color: #5e0000;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -31,7 +46,12 @@ h3, p.h3.rubric {
 	text-transform: uppercase;
 }
 
-h4, p.h4.rubric {
+h4,
+.h4 h1,
+.h4 h2,
+.h4 h3,
+.h4 h5,
+p.h4.rubric {
 	box-sizing: border-box;
 	color: #a86753;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -41,7 +61,12 @@ h4, p.h4.rubric {
 	margin-top: 0.5em;
 }
 
-h5, p.h5.rubric {
+h5,
+.h5 h1,
+.h5 h2,
+.h5 h3,
+.h5 h4,
+p.h5.rubric {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;

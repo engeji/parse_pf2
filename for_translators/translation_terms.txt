@@ -4,7 +4,7 @@
 CRB: "Основная книга правил (Core Rulebook)"
 APG: "Продвинутое руководство игрока (Advanced Player's Guide)"
 SOM: "Секреты магии (Secrets of Magic)"
-G&G: "Оружие и Шестерёнки (Guns & Gears)"
+G&G: "Пушки и Шестерни (Guns & Gears)"
 LOWG: "Утраченные пророчества: Руководство о мире (Lost Omens: World Guide)"
 LOCG: "Утраченные пророчества: Руководство по персонажам (Lost Omens: Character Guide)"
 
@@ -870,6 +870,7 @@ Titles:
 	Kaoling: Каолин
 	Rakh Lo: Рак Ло
 	Belkzen: Белкзен
+		Hold of Belkzen: Холд Белкзен
 	Urgir: Ургир
 	orc hold: орочье владение
 	azarketi: азаркет, мн.число: azarketis: азаркеты
