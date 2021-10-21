@@ -357,7 +357,7 @@
 | **Критический провал**: Цель временно иммунна к попыткам использования "Гоблинской песенки" на 1 час
 
 
-.. _ancestry-feat--Goblin--Goblin-Weapon-Familiarity:
+.. _ancestry-feat--Goblin--Weapon-Familiarity:
 
 Знакомство с гоблинским оружием (`Goblin Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=43>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -516,7 +516,7 @@
 
 - гоблин
 
-**Предварительные условия**: :ref:`ancestry-feat--Goblin--Goblin-Weapon-Familiarity`
+**Предварительные условия**: :ref:`ancestry-feat--Goblin--Weapon-Familiarity`
 
 ----------
 
@@ -824,7 +824,7 @@
 
 - гоблин
 
-**Предварительные условия**: :ref:`ancestry-feat--Goblin--Goblin-Weapon-Familiarity`
+**Предварительные условия**: :ref:`ancestry-feat--Goblin--Weapon-Familiarity`
 
 ----------
 

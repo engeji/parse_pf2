@@ -40,6 +40,7 @@
 :w_repeating:`многозарядное`
 :w_combination:`комбинированное`
 :w_critical_fusion:`критическое слияние`
+:w_cobbled:`сварганенное`
 
 :a_bulwark:`защитный`
 :a_comfort:`удобный`

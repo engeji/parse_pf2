@@ -211,6 +211,8 @@
 
 .. role:: w_crit_fusion
 
+.. role:: w_cobbled
+
 
 
 .. Признаки доспехов
@@ -509,6 +511,12 @@
 .. role:: t_true_name
 
 .. role:: t_reckless
+
+.. role:: t_cursed
+
+.. role:: t_intelligent
+
+
 
 .. role:: t_alchemist
 

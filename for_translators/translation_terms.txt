@@ -1057,6 +1057,7 @@ trait: признак / особенность
 		Teleportation: телепортация
 		Flourish: размах
 		curse: проклятие
+		cursed: проклят, проклятый (предмет)
 		invested: инвестируемый
 		magical: магический
 		snare: силок
