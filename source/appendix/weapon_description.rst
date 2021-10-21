@@ -754,7 +754,7 @@
 
 
 
-.. Guns & Gears
+.. Guns
 
 .. _weapon--Air-Repeater:
 
