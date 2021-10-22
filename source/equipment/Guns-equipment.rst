@@ -94,12 +94,22 @@
 
 Репертуар ни одного стрелка или арбалетчика не может считаться полным без набора магической амуниции, усиливающей эффективность и воздействие их выстрелов.
 Хотя многие из приведенных ниже вариантов относятся только к огнестрельным патронам, другие работают с самой разной амуницией.
+
 Всю особую амуницию можно найти в разделе :ref:`ch11--Consumables--Ammunition`.
 В этой книге представлены:
 
-* TODO
-* TODO
-* TODO
+* :ref:`item--Black-Powder`
+* :ref:`item--Aromatic-Ammunition`
+* :ref:`item--Trustworthy-Round`
+* :ref:`item--Exsanguinating-Ammunition`
+* :ref:`item--Glue-Bullet`
+* :ref:`item--Eroding-Bullet`
+* :ref:`item--Fairy-Bullet`
+* :ref:`item--Meteor-Shot`
+* :ref:`item--Stepping-Stone-Shot`
+* :ref:`item--Silencing-Shot`
+* :ref:`item--Dreaming-Round`
+* :ref:`item--Awakened-Metal-Shot`
 
 
 
