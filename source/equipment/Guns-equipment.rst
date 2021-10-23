@@ -110,7 +110,7 @@
 * :ref:`item--Silencing-Shot`
 * :ref:`item--Dreaming-Round`
 * :ref:`item--Awakened-Metal-Shot`
-
+* :ref:`Амуниция из пера-символа (Feather Token Ammunition) <sidebar--Feather-Token-Ammunition>`
 
 
 .. _Guns--Weapon-Traits:
