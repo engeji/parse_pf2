@@ -338,13 +338,23 @@
 
 
 Талисманы (Talismans)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------------------------------------------------------
 
 **Источник**: Guns & Gears pg. 184
 
 Данные талисманы особенно полезны персонажам использующим огнестрельное оружие и арбалеты.
 
-
+* :ref:`item--Silver-Tripod`
+* :ref:`item--Adaptive-Cogwheel`
+* :ref:`item--Indomitable-Keepsake`
+* :ref:`item--Admonishing-Band`
+* :ref:`item--Energized-Cartridge`
+* :ref:`item--Snipers-Bead`
+* :ref:`item--Goblin-Eye-Orb`
+* :ref:`item--Peacemaker`
+* :ref:`item--Persistent-Lodestone`
+* :ref:`item--Ghostshot-Wrapping`
+* :ref:`item--Shrieking-Skull`
 
 
 
