@@ -30,7 +30,6 @@
 :w_modular:`модульное Д/К/Р`
 :w_fatal:`фатальное`
 
-
 :w_concussive:`сотрясающее`
 :w_kickback:`отдача`
 :w_scatter:`разброс`

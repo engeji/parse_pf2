@@ -64,6 +64,7 @@
    Elementalist
    Runelord
    Wellspring-Mage
+   Spellshot
 
 
 
@@ -124,6 +125,15 @@
    Soulforger
 
 
+   Beast-Gunner
+   Bullet-Dancer
+   Demolitionist
+   Firework-Technician
+   Pistol-Phenom
+   Sniping-Duo
+   Unexpected-Sharpshooter
+
+
    dlc/aldori-duelist
    dlc/runescarred
    dlc/student-of-perfection
@@ -132,6 +142,7 @@
    dlc/red-mantis-assassin
    dlc/firebrand-braggart
    dlc/magic-warrior
+
 
    dlc/ghost-hunter
    dlc/eldritch-researcher
