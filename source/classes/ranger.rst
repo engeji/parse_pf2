@@ -919,7 +919,7 @@
 
 .. _class-feat--ranger--Companions-Cry:
 
-Крик компаньона (`Companion's Cry <https://2e.aonprd.com/Feats.aspx?ID=500>`_) / 4
+Крик компаньону (`Companion's Cry <https://2e.aonprd.com/Feats.aspx?ID=500>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - рейнджер

@@ -796,6 +796,7 @@ section.craft-treasure-grimoires section,
 section.craft-treasure-tattooslist section,
 section.craft-treasure-spell-catalysts section,
 section.craft-treasure-spellhearts section,
+section.craft-customizations section,
 section.actions-descr section,
 section.creature-abilities section {
 	margin-top: 1.2em;
@@ -897,6 +898,7 @@ section.craft-treasure-grimoires section > h2,
 section.craft-treasure-tattooslist section > h3,
 section.craft-treasure-spell-catalysts section > h3,
 section.craft-treasure-spellhearts section > h2,
+section.craft-customizations section > h3,
 section.actions-descr section section > h5,
 section.creature-abilities section > h2 {
 	box-sizing: border-box;
@@ -957,6 +959,7 @@ section.craft-treasure-grimoires section hr,
 section.craft-treasure-tattooslist section hr,
 section.craft-treasure-spell-catalysts section hr,
 section.craft-treasure-spellhearts section hr,
+section.craft-customizations section hr,
 section.actions-descr section hr,
 section.eidolon hr,
 section.creature-abilities section hr {

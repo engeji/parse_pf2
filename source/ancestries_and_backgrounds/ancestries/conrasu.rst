@@ -346,7 +346,7 @@
 **Особенность**: Вы можете выбрать эту способность дважды, второй раз выбирая другую безоружную атаку.
 
 
-.. _ancestry-feat--Conrasu--Conrasu-Weapon-Familiarity:
+.. _ancestry-feat--Conrasu--Weapon-Familiarity:
 
 Знакомство с оружием конрасов (`Conrasu Weapon Familiarity <https://2e.aonprd.com/Feats.aspx?ID=2778>`_) / 1
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -424,7 +424,7 @@
 
 - конрас
 
-**Предварительные условия**: :ref:`ancestry-feat--Conrasu--Conrasu-Weapon-Familiarity`
+**Предварительные условия**: :ref:`ancestry-feat--Conrasu--Weapon-Familiarity`
 
 **Источник**: Lost Omens: The Mwangi Expanse pg. 109
 
@@ -511,20 +511,20 @@
 13-й уровень
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _ancestry-feat--Conrasu--Conrasu-Weapon-Expertise:
+.. _ancestry-feat--Conrasu--Weapon-Expertise:
 
 Эксперт оружия конрасов (`Conrasu Weapon Expertise <https://2e.aonprd.com/Feats.aspx?ID=2787>`_) / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - конрас
 
-**Предварительные условия**: :ref:`ancestry-feat--Conrasu--Conrasu-Weapon-Familiarity`
+**Предварительные условия**: :ref:`ancestry-feat--Conrasu--Weapon-Familiarity`
 
 **Источник**: Lost Omens: The Mwangi Expanse pg. 109
 
 ----------
 
-Всякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его для всего оружия, с которым вы обучены от :ref:`ancestry-feat--Grippli--Weapon-Familiarity`.
+Всякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его для всего оружия, с которым вы обучены от :ref:`ancestry-feat--Conrasu--Weapon-Familiarity`.
 
 
 .. _ancestry-feat--Conrasu--Ceremony-of-Growth:
