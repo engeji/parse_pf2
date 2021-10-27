@@ -575,7 +575,7 @@ div.versionadded span.versionmodified {
 section.ancestry h2,
 section.versatile-heritages h2,
 /*section.backgrounds h2,*/
-section.languages h2,
+/*section.languages h2,*/
 /*section.char-class h2,*/
 /*section.animal-companions h2,*/
 /*section.class-archetypes h2,*/
@@ -608,8 +608,8 @@ section.game-mode h2 {
 section.char-creation-step h3,
 section.ancestry h2,
 section.versatile-heritages h3,
-/*section.backgrounds h3,*/
-section.languages h3,
+section.backgrounds h1,
+/*section.languages h3,*/
 /*section.char-class h2,*/
 section.companions h1,
 /*section.animal-companions h2,*/
@@ -741,17 +741,6 @@ section.game-mode h5 {
 	text-transform: initial;
 }
 
-section.backgrounds h3 { /* в этом разделе нет вложенностей, h3 это уже описание предысторий */
-	box-sizing: border-box;
-	color: #404040;
-	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
-	font-size: 100%;
-	font-weight: 700;
-	margin-bottom: 0.3em;
-	margin-top: 0;
-	text-transform: uppercase;
-}
-
 
 
 section.archetype h1,
@@ -861,6 +850,7 @@ section.creature-abilities section > p {
 	text-indent: inherit;
 }
 
+section.backgrounds section > h2,
 section.ancestry-class-feats section > h4,
 section.spells-descr section > h4,
 section.spell > h1,

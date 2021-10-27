@@ -1005,6 +1005,9 @@ Titles:
 	Sorshen: Соршен (она)
 	Eurythnia: Эвритния
 	shield marshal: шилд-маршал
+	Alkenstar Gunworks: Алкенстарский Оружейный Завод
+	Goldhand Lodge: Ложа Золотой Руки
+	High King Anong Arunak: Верховный Король Анон Арунак
 
 trait: признак / особенность
 	оружие:
