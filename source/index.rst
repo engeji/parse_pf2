@@ -3,13 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-10-10**
-| Добавлено из "Руководства Мастера (Gamemastery Guide)"
-| - :ref:`ch10--Subsystems`
-| - :ref:`ch10--Variant-Rules`
-| Добавлен весь контент из книги "Секреты магии (Secrets Of Magic)".
-| - :ref:`Книга безграничной магии <Book-of-Unlimited-Magic>`
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-10-28**
 
+| :ref:`Пушки и Шестерни (Guns & Gears) <Guns-and-Gears>`
+| Часть книги про "Пушки", с опциями для персонажей и снаряжением (кроме осадных орудий и особого магического стрелкового оружия).
 
 | `Telegram канал <https://t.me/PF2e_RU_channel>`_ - подробные обновления и изменения
 | `Telegram чат <https://t.me/PF2e_RU>`_ - для обратной связи, обсуждения правил и т.п.
