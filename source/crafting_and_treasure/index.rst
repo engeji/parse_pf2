@@ -470,6 +470,7 @@
    spellhearts
    snares
    magical-tattoos
+   customizations
    adjustments
    materials
    structures

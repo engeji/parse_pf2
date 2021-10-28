@@ -1,9 +1,10 @@
 Перевод терминов
 ======================
 
-CRB: "Основная книга правил (Core Rulebook)"
+CR: "Основная книга правил (Core Rulebook)"
 APG: "Продвинутое руководство игрока (Advanced Player's Guide)"
 SOM: "Секреты магии (Secrets of Magic)"
+G&G: "Пушки и Шестерни (Guns & Gears)"
 LOWG: "Утраченные пророчества: Руководство о мире (Lost Omens: World Guide)"
 LOCG: "Утраченные пророчества: Руководство по персонажам (Lost Omens: Character Guide)"
 
@@ -13,7 +14,7 @@ Ability (об основных статах): характеристика
 	ability modifier: модификатор характеристики
 activity: активность
 actions:
-	Interact: Взаимодействовать :ref:`action--Interact`
+	Interact: Взаимодействовать :ref:`action--Interact` / :ref:`Взаимодействуйте (Interact) <action--Interact>`
 	Strike: Удар :ref:`action--Strike` / :ref:`Выстрел (Strike) <action--Strike>`
 	Stride: Перемещение :ref:`action--Stride` / :ref:`Переместиться (Stride) <action--Stride>`
 	Step: Шаг :ref:`action--Step` / :ref:`Шагнуть (Step) <action--Step>`
@@ -39,7 +40,7 @@ actions:
 	Earn Income: Заработать деньги :ref:`expl-activity--Earn-Income`
 	Leap: Прыжок :ref:`action--Leap` / :ref:`Прыгать (Leap) <action--Leap>`
 	Recall Knowledge: Вспомнить информацию :ref:`skill--Recall-Knowledge`
-	Learn A Spell: Выучить заклинание :ref:`expl-activity--Learn-a-Spell`
+	Learn a Spell: Выучить заклинание :ref:`expl-activity--Learn-a-Spell`
 	Raise a Shield: Поднять щит :ref:`action--Raise-a-Shield`
 	Release: Отпустить :ref:`action--Release`
 	Drop Prone: Упасть ничком :ref:`action--Drop-Prone`
@@ -57,7 +58,7 @@ actions:
 	Follow The Expert: Повторять за экспертом :ref:`expl-activity--Follow-The-Expert`
 	Hustle: Спешить :ref:`expl-activity--Hustle`
 	Investigate: Исследовать :ref:`expl-activity--Investigate`
-	Repeat A Spell: Повторять заклинание :ref:`expl-activity--Repeat-A-Spell`
+	Repeat a Spell: Повторять заклинание :ref:`expl-activity--Repeat-A-Spell`
 	Scout: Разведывать :ref:`expl-activity--Scout`
 	Search: Искать :ref:`expl-activity--Search`
 advanced alchemy: продвинутая алхимия
@@ -240,6 +241,7 @@ Creature: существо
 	soulbound shell: одушевленная оболочка
 	abrikandilu: абрикандил
 	gogiteth: гогитэт
+	dullahan: дуллахан
 
 counteract: Противодействие :ref:`ch9--Counteracting` / :ref:`противодействие <ch9--Counteracting>`
 Currency: Деньги
@@ -373,6 +375,25 @@ Focus Point: Очко Фокусировки
 focus pool: запас очков фокусировки
 
 GM: Мастер
+Guns (термины огнестрельного оружия)
+	firearm: огнестрельное оружие
+	firing range: огневая дистанция, дистанция стрельбы
+	flintlock: ударно-кремневый замок
+	matchlock: фитильный замок
+	firing mechanism: спусковой механизм
+	frame: ствольная коробка
+	stock: ложе, приклад
+	muzzle: дуло
+	chamber: патронник, камора
+	cartridge: патрон (прожектайл + порох)
+	round: патрон, заряд (прожектайл + порох), снаряд
+	black powder dose: порция черного пороха
+	wadding: пыж (слой материала между снарядом и пороховым зарядом)
+	bullet: пуля (часть патрона, поражающий снаряд)
+	pellet: пуля (в магазине репитера), дробинка (в "разбрасывающем"" оружии)
+	loose shot: засыпная дробь (в гладкоствольном оружии)
+	magical firearm ammunition: магическая огнестрельная амуниция
+	cannon team: пушечный расчёт
 
 Hardness: Твердость
 harm (spell/font): нанесение ран
@@ -564,6 +585,11 @@ Locations:
 	Crystal Womb: Кристальная Утроба
 	Fangwood: Клыколесье
 	Gallowspire: Гэллоуспайр
+	Dongun Hold: Донган Холд
+	Jinin: Джинин
+	Ling Shen: Лин Шен
+	Quain: Куэйн
+	Deadshot Lands: Земли Дэдшот
 
 lesser cover: небольшое укрытие
 light: свет
@@ -774,6 +800,7 @@ Titles:
 	Garundi: Гарундиец
 	Mauxi: Маушиец
 	Tian Xia: Тянь Ся
+		tien: тиянский (человеческий этнос)
 	Tian-Dan: Тянь-Дань
 	Tian-Yae: Тянь-Йэ
 	Alijae: Алижеец
@@ -846,6 +873,7 @@ Titles:
 	Kaoling: Каолин
 	Rakh Lo: Рак Ло
 	Belkzen: Белкзен
+		Hold of Belkzen: Холд Белкзен
 	Urgir: Ургир
 	orc hold: орочье владение
 	azarketi: азаркет, мн.число: azarketis: азаркеты
@@ -945,7 +973,7 @@ Titles:
 	Niloufar the Great: Нилуфар Великая
 	Auroric Palace: Дворец Сияния
 	Witchmarket: Ведьмовской Рынок
-	harrow: хэрроу (вариссийские карты по типу Таро)
+	Harrow: Харро (вариссийские карты по типу Таро)
 	Steward's Stone: Камень Наместника
 	Skyward Cliffs: Возвышающиеся Утесы
 	Iudica: Юдика
@@ -976,6 +1004,10 @@ Titles:
 	Belimarius: Белимария (она)
 	Sorshen: Соршен (она)
 	Eurythnia: Эвритния
+	shield marshal: шилд-маршал
+	Alkenstar Gunworks: Алкенстарский Оружейный Завод
+	Goldhand Lodge: Ложа Золотой Руки
+	High King Anong Arunak: Верховный Король Анон Арунак
 
 trait: признак / особенность
 	оружие:
@@ -1029,6 +1061,7 @@ trait: признак / особенность
 		Teleportation: телепортация
 		Flourish: размах
 		curse: проклятие
+		cursed: проклят, проклятый (предмет)
 		invested: инвестируемый
 		magical: магический
 		snare: силок

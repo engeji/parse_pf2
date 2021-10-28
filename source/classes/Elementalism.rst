@@ -122,7 +122,7 @@
 **Источник**: Secrets of Magic pg. 202
 
 Монахи управляют элементами внутри себя для проявления магии.
-:ref:`class-feat--monk--Mountain-Stance` :sup:`CRB` и :ref:`class-feat--monk--Wild-Winds-Initiate` :sup:`CRB` обеспечивают землю и воздух соответственно.
+:ref:`class-feat--monk--Mountain-Stance` :sup:`CR` и :ref:`class-feat--monk--Wild-Winds-Initiate` :sup:`CR` обеспечивают землю и воздух соответственно.
 
 * :ref:`class-feat--Monk--Reflective-Ripple-Stance`
 * :ref:`class-feat--Monk--Stoked-Flame-Stance`

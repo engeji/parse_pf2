@@ -719,7 +719,7 @@ Empty Graves pg. 64-65
 
 Следующие домены используются основными божествами Голариона.
 
-.. rst-class:: condensed-table domains-table
+.. rst-class:: condensed-table condensed-part-table
 .. _table--8-2:
 
 .. table:: Таблица 8-2: Домены

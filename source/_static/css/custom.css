@@ -1,59 +1,86 @@
 /* Всякое */
 
-h1, p.h1.rubric {
+h1,
+.h1 h2,
+.h1 h3,
+.h1 h4,
+.h1 h5,
+p.h1.rubric {
 	box-sizing: border-box;
 	color: #5e0000;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
 	font-size: 175%;
 	font-weight: bold;
+	margin-bottom: 0.35em;
 	margin-top: 0;
 }
 
-h2, p.h2.rubric {
+h2,
+.h2 h1,
+.h2 h3,
+.h2 h4,
+.h2 h5,
+p.h2.rubric {
 	box-sizing: border-box;
 	color: #002664;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
 	font-size: 150%;
 	font-weight: bold;
-	margin-bottom: 0.3em;
+	margin-bottom: 0.25em;
 	margin-top: 1em;
 }
 
-h3, p.h3.rubric {
+h3,
+.h3 h1,
+.h3 h2,
+.h3 h4,
+.h3 h5,
+p.h3.rubric {
 	box-sizing: border-box;
 	color: #5e0000;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
 	font-size: 100%;
 	font-weight: 700;
-	margin-bottom: 0.3em;
-	margin-top: 0.9em;
+	margin-bottom: 0.25em;
+	margin-top: 0.5em;
 	text-transform: uppercase;
 }
 
-h4, p.h4.rubric {
+h4,
+.h4 h1,
+.h4 h2,
+.h4 h3,
+.h4 h5,
+p.h4.rubric {
 	box-sizing: border-box;
 	color: #a86753;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
 	font-size: 100%;
 	font-weight: 700;
-	margin-bottom: 0.4em;
-	margin-top: 0;
+	margin-bottom: 0.25em;
+	margin-top: 0.5em;
 }
 
-h5, p.h5.rubric {
+h5,
+.h5 h1,
+.h5 h2,
+.h5 h3,
+.h5 h4,
+p.h5.rubric {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
 	font-size: 100%;
 	font-weight: 700;
-	margin-bottom: 0;
-	margin-top: 0;
+	margin-bottom: 0.15em;
+	margin-top: 0.3em;
 	text-transform: uppercase;
 }
 
 
 p {
 	line-height: 23px;
+	margin-bottom: 0.2em;
 }
 
 hr {
@@ -95,19 +122,26 @@ hr {
 	margin-bottom: 0.6em;
 }
 
+.toctree-wrapper ul li.toctree-l1 {
+	margin-left: 1em;
+}
+
+.toctree-wrapper ul li.toctree-l2 {
+	margin-left: 1em;
+}
+
 blockquote.epigraph p {
 	margin-bottom: 0.5em;
 }
 
-h1 + blockquote.epigraph,
-h2 + blockquote.epigraph {
+blockquote.epigraph,
+blockquote.epigraph {
 	margin-left: 0.2em;
 	margin-bottom: 0.2em;
 	color: #5e0000;
 }
 
-h1 + blockquote.epigraph + hr.docutils,
-h2 + blockquote.epigraph + hr.docutils {
+blockquote.epigraph + hr.docutils {
 	border-top: 1px solid;
 	margin: 0 0;
 	margin-bottom: 1em;
@@ -119,16 +153,6 @@ h2 + blockquote.epigraph + hr.docutils {
 
 section.wy-nav-content-wrap {
 	margin-top: 0;
-}
-
-section > p {
-	margin-bottom: 0.2em;
-}
-
-
-hr.invisible-divider {
-	border: none !important;
-	margin: 0.3em 0 !important;
 }
 
 
@@ -230,6 +254,7 @@ aside.sidebar div.line-block {
 	text-align: left;
 	text-transform: uppercase;
 	padding-bottom: 0.25em;
+	padding-top: 0.5em;
 }
 
 .rst-content table.docutils thead {
@@ -268,15 +293,29 @@ section.feats-descr table td {
 	white-space: normal;
 }
 
-section.weapon-tables table th,
-section.weapon-tables table td:first-child {
+
+table.weapon-table th {
 	white-space: normal;
 }
 
-section.weapon-tables table td:last-child,
-table.domains-table td:last-child {
+table.weapon-table td {
+	white-space: pre;
+	line-height: 17px !important;
+	vertical-align: top !important;
+}
+
+table.weapon-table td:first-child {
+	white-space: normal;
+}
+
+table.weapon-table td p {
+	line-height: 17px !important;
+}
+
+table.weapon-ranged-table td:first-child {
 	white-space: pre;
 }
+
 
 table.condensed-table td {
 	white-space: normal;
@@ -288,6 +327,10 @@ table.condensed-part-table td {
 
 table.condensed-part-table td:last-child {
 	white-space: pre;
+}
+
+table.condensed-pre-table td {
+	white-space: pre !important;
 }
 
 
@@ -305,9 +348,12 @@ table.condensed-part-table td:last-child {
 }
 
 .rst-content table.docutils td div.line-block {
-	line-height: 1.4em;
+	/*line-height: 1.4em;*/
+	line-height: inherit;
 	margin-bottom: 0;
 }
+
+
 
 
 
@@ -482,6 +528,15 @@ p.h3.rubric + p img.game-icon {
 
 
 
+/*
+	Надстрочный текст
+*/
+
+sup {
+	top: -0.4em;
+	font-size: 70%;
+}
+
 
 
 /*
@@ -520,8 +575,8 @@ div.versionadded span.versionmodified {
 section.ancestry h2,
 section.versatile-heritages h2,
 /*section.backgrounds h2,*/
-section.languages h2,
-section.char-class h2,
+/*section.languages h2,*/
+/*section.char-class h2,*/
 /*section.animal-companions h2,*/
 /*section.class-archetypes h2,*/
 section.equip-subchap h2,
@@ -542,9 +597,10 @@ section.game-mode h2 {
 	box-sizing: border-box;
 	color: #5e0000;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
-	font-size: 200%;
+	font-size: 175%;
 	font-weight: bold;
-	margin-top: 6em;
+	margin-bottom: 0.35em;
+	margin-top: 5em;
 	text-transform: initial;
 }
 
@@ -552,9 +608,9 @@ section.game-mode h2 {
 section.char-creation-step h3,
 section.ancestry h2,
 section.versatile-heritages h3,
-/*section.backgrounds h3,*/
-section.languages h3,
-section.char-class h2,
+section.backgrounds h1,
+/*section.languages h3,*/
+/*section.char-class h2,*/
 section.companions h1,
 /*section.animal-companions h2,*/
 /*section.class-archetypes h3,*/
@@ -563,7 +619,7 @@ section.archetype h1,
 section.archetype-description h1,
 section.archetype-chapter h1,
 section.hellknight-order-abilities h1,
-section.equip-subchap h3,
+section.equip-sub h1,
 section.lo-culture h1,
 section.lo-creatures h1,
 section.lo-faction h1,
@@ -598,7 +654,7 @@ section.creature-details h1 {
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
 	font-size: 150%;
 	font-weight: bold;
-	margin-bottom: 0.3em;
+	margin-bottom: 0.25em;
 	margin-top: 1em;
 	text-transform: initial;
 }
@@ -607,7 +663,7 @@ section.creature-details h1 {
 section.char-creation-step h4,
 /*section.ancestry h4,*/
 section.versatile-heritages h4,
-section.char-class h3,
+/*section.char-class h3,*/
 section.companions h2,
 /*section.animal-companions h3,*/
 /*section.class-archetypes h2,*/
@@ -615,7 +671,7 @@ section.archetype-multiclass h2,
 section.archetype h4,
 section.archetype-chapter h2,
 section.hellknight-order-abilities h2,
-section.equip-subchap h4,
+section.equip-sub h2,
 section.gear-description h2,
 section.lo-culture h2,
 section.lo-religion h2,
@@ -645,8 +701,8 @@ section.game-mode h4 {
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
 	font-size: 100%;
 	font-weight: 700;
-	margin-bottom: 0.3em;
-	margin-top: 0.9;
+	margin-bottom: 0.25em;
+	margin-top: 0.5em;
 	text-transform: uppercase;
 }
 
@@ -654,11 +710,11 @@ section.game-mode h4 {
 section.char-creation-step h5,
 section.ancestry h5,
 section.versatile-heritages h5,
-section.char-class h4,
+/*section.char-class h4,*/
 section.companions h3,
 /*section.animal-companions h4,*/
 /*section.class-archetypes h3,*/
-section.equip-subchap h5,
+section.equip-sub h3,
 /*section.religion h5,*/
 section.lo-religion h3,
 section.deity h3,
@@ -680,20 +736,9 @@ section.game-mode h5 {
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
 	font-size: 100%;
 	font-weight: 700;
-	margin-bottom: 0.3em;
-	margin-top: 0;
+	margin-bottom: 0.25em;
+	margin-top: 0.5em;
 	text-transform: initial;
-}
-
-section.backgrounds h3 { /* в этом разделе нет вложенностей, h3 это уже описание предысторий */
-	box-sizing: border-box;
-	color: #404040;
-	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
-	font-size: 100%;
-	font-weight: 700;
-	margin-bottom: 0.3em;
-	margin-top: 0;
-	text-transform: uppercase;
 }
 
 
@@ -751,6 +796,7 @@ section.craft-treasure-grimoires section,
 section.craft-treasure-tattooslist section,
 section.craft-treasure-spell-catalysts section,
 section.craft-treasure-spellhearts section,
+section.craft-customizations section,
 section.actions-descr section,
 section.creature-abilities section {
 	margin-top: 1.2em;
@@ -805,6 +851,7 @@ section.creature-abilities section > p {
 	text-indent: inherit;
 }
 
+section.backgrounds section > h2,
 section.ancestry-class-feats section > h4,
 section.spells-descr section > h4,
 section.spell > h1,
@@ -851,6 +898,7 @@ section.craft-treasure-grimoires section > h2,
 section.craft-treasure-tattooslist section > h3,
 section.craft-treasure-spell-catalysts section > h3,
 section.craft-treasure-spellhearts section > h2,
+section.craft-customizations section > h3,
 section.actions-descr section section > h5,
 section.creature-abilities section > h2 {
 	box-sizing: border-box;
@@ -911,6 +959,7 @@ section.craft-treasure-grimoires section hr,
 section.craft-treasure-tattooslist section hr,
 section.craft-treasure-spell-catalysts section hr,
 section.craft-treasure-spellhearts section hr,
+section.craft-customizations section hr,
 section.actions-descr section hr,
 section.eidolon hr,
 section.creature-abilities section hr {

@@ -1805,7 +1805,7 @@
 
 .. _class-feat--Monk--Blazing-Streak:
 
-Пылающая поток (`Blazing Streak <https://2e.aonprd.com/Feats.aspx?ID=2984>`_) |д-3| / 10
+Пылающий поток (`Blazing Streak <https://2e.aonprd.com/Feats.aspx?ID=2984>`_) |д-3| / 10
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - размах
