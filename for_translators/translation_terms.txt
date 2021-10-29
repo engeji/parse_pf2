@@ -590,6 +590,9 @@ Locations:
 	Ling Shen: Лин Шен
 	Quain: Куэйн
 	Deadshot Lands: Земли Дэдшот
+	Jistka Imperium: Империум Джистки
+	Eihlona: Эйлона
+	Uomoto: Уомото
 
 lesser cover: небольшое укрытие
 light: свет
@@ -1008,6 +1011,7 @@ Titles:
 	Alkenstar Gunworks: Алкенстарский Оружейный Завод
 	Goldhand Lodge: Ложа Золотой Руки
 	High King Anong Arunak: Верховный Король Анон Арунак
+	Clockwork Cathedral: Заводной Собор
 
 trait: признак / особенность
 	оружие:
