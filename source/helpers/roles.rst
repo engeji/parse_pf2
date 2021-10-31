@@ -516,6 +516,10 @@
 
 .. role:: t_intelligent
 
+.. role:: t_modification
+
+.. role:: t_unstable
+
 
 
 .. role:: t_alchemist

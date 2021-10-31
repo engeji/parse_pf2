@@ -25,6 +25,7 @@
 
    investigator
    Gunslinger
+   Inventor
    alchemist
    
    magus

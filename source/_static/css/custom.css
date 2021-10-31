@@ -319,6 +319,7 @@ table.weapon-ranged-table td:first-child {
 }
 
 
+table.condensed-table th,
 table.condensed-table td {
 	white-space: normal;
 }

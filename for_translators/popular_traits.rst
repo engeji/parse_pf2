@@ -14,6 +14,7 @@
 :w_agile:`быстрое`
 :w_finesse:`точное`
 :w_reach:`длинное`
+:w_two_hand:`двуручное`
 :w_thrown:`метательное`
 :w_deadly:`смертельное`
 :w_sweep:`размах`
@@ -27,6 +28,11 @@
 :w_unarmed:`безоружное`
 :w_parry:`парирование`
 :w_backstabber:`предательское`
+:w_backswing:`обратный замах`
+:w_propulsive:`тяговое`
+:w_volley:`залповое`
+:w_free_hand:`свободная рука`
+:w_attached:`прикрепляемое`
 :w_modular:`модульное Д/К/Р`
 :w_fatal:`фатальное`
 

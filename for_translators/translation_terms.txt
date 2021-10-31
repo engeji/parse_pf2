@@ -326,7 +326,7 @@ Deity: Божество
 	Milani: Милани
 
 difficult terrain: сложная местность
-Disrupting Actions: Прерывание действий
+Disrupting Actions: Прерывание действий / :ref:`прерываете <ch9--Disrupting-Actions>`
 divine (о заклинаниях): сакральный
 	divine font: божественная сила
 	divine focus: сакральное сосредоточение/фокус
@@ -375,6 +375,9 @@ Focus Point: Очко Фокусировки
 focus pool: запас очков фокусировки
 
 GM: Мастер
+Gears:
+	innovation: инновация
+	gizmo: штуковина
 Guns (термины огнестрельного оружия)
 	firearm: огнестрельное оружие
 	firing range: огневая дистанция, дистанция стрельбы
@@ -618,6 +621,11 @@ materials:
 	Mithral: мифрил, мифрильный
 	orichalcum: орихалк
 	darkwood: сумеречное дерево
+	abysium: абисиум
+	djezet: джезет
+	inubrix: инубрикс
+	noqual: ноквал
+	siccatite: сиккатит
 meld into stone: слияние с камнем
 mindless: неразумный
 minion: миньон
