@@ -378,6 +378,7 @@ GM: Мастер
 Gears:
 	innovation: инновация
 	gizmo: штуковина
+	stasian: стазиевый
 Guns (термины огнестрельного оружия)
 	firearm: огнестрельное оружие
 	firing range: огневая дистанция, дистанция стрельбы
@@ -948,7 +949,7 @@ Titles:
 	Nurvatcha: Нурватча
 	Domithari: Домифари
 	Majabi: Маджаби
-	Jitska Imperium: Джитский Империум
+	Jitska Imperium / Jistka: Джистский Империум
 	The Creche: (Ясли, Креш)
 	The Copses: Роща (Копсы)
 	Screaming Jungle: Кричащие Джунгли
