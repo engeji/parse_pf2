@@ -2566,6 +2566,16 @@ Lost Omens: World Guide pg. 134
 | :ref:`ancestry--Strix`
 
 
+Автоматон (признак) (`automaton (trait) <https://2e.aonprd.com/Traits.aspx?ID=398>`_)
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+**Источник**: Guns & Gears pg. 230
+
+Автоматоны это живые конструкты, поддерживаемые магическим ядром.
+
+| :doc:`/ancestries_and_backgrounds/ancestries/Automaton`
+
+
 
 
 

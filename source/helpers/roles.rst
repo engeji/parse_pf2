@@ -608,6 +608,8 @@
 
 .. role:: t_strix
 
+.. role:: t_automaton
+
 .. role:: t_aasimar
 
 .. role:: t_tiefling

@@ -310,6 +310,7 @@ $(document).ready( function() {
 		"lizardfolk": "Людоящер (lizardfolk): Чрезвычайно приспособленные и терпеливые рептилоидные гуманоиды. Также известные как ирукси.",
 		"sprite": "Спрайт (sprite): Родословная миниатюрных крылатых фей, сильно связанных с природной магией и Материальным планом.",
 		"strix": "Стрикс (strix): Крылатые гуманоиды, большинство из которых живут около Челии.",
+		"automaton": "Автоматон (Automaton): Автоматоны это живые конструкты, поддерживаемые магическим ядром.",
 		"aasimar": "Аазимар (aasimar): Существо с этим признаком обладает универсальным наследием аазимара. Аазимары являются планарными отпрысками происходящими от небожителей. Умение с этим признаком может быть использовано или выбрано только аазимарами.",
 		"tiefling": "Тифлинг (tiefling): Существо с этим признаком обладает универсальным наследием тифлинга. Тифлинги - планарные отпрыски произошедшие от бесов. Умение с этим признаком может быть использовано или выбрано только тифлингами.",
 		"aphorite": "Афорит (aphorite): Вид планарных отпрысков происходящих от сущностей из Осей, Плана порядка.",
@@ -655,6 +656,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("людоящер")').tooltipster({content: traits_dict["lizardfolk"]});
 	$('ul.traits li:textEquals("спрайт")').tooltipster({content: traits_dict["sprite"]});
 	$('ul.traits li:textEquals("стрикс")').tooltipster({content: traits_dict["strix"]});
+	$('ul.traits li:textEquals("автоматон")').tooltipster({content: traits_dict["automaton"]});
 	$('ul.traits li:textEquals("аазимар")').tooltipster({content: traits_dict["aasimar"]});
 	$('ul.traits li:textEquals("тифлинг")').tooltipster({content: traits_dict["tiefling"]});
 	$('ul.traits li:textEquals("афорит")').tooltipster({content: traits_dict["aphorite"]});
@@ -960,6 +962,7 @@ $(document).ready( function() {
 	$('span.t-lizardfolk').tooltipster({content: traits_dict["lizardfolk"]});
 	$('span.t-sprite').tooltipster({content: traits_dict["sprite"]});
 	$('span.t-strix').tooltipster({content: traits_dict["strix"]});
+	$('span.t-automaton').tooltipster({content: traits_dict["automaton"]});
 	$('span.t-aasimar').tooltipster({content: traits_dict["aasimar"]});
 	$('span.t-tiefling').tooltipster({content: traits_dict["tiefling"]});
 	$('span.t-aphorite').tooltipster({content: traits_dict["aphorite"]});

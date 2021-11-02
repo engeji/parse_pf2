@@ -18,7 +18,7 @@
 
 	.. rubric:: Источник
 
-	Lost Omens: 
+	SOURCE
 
 
 	.. rubric:: Редкость

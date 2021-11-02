@@ -211,8 +211,8 @@
 :c_quickened:`ускорен`
 :c_dying:`при смерти`
 :c_wounded:`ранен`
-:c_doomed:`обречен`
 :c_unconscious:`без сознания`
+:c_doomed:`обречен`
 :c_enfeebled:`ослаблен`
 :c_clumsy:`неуклюжесть`
 :c_drained:`истощен`

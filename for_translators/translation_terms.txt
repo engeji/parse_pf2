@@ -593,8 +593,8 @@ Locations:
 	Jinin: Джинин
 	Ling Shen: Лин Шен
 	Quain: Куэйн
+	Jitska Imperium / Jistka: Империум Джистки, Джистский Империум
 	Deadshot Lands: Земли Дэдшот
-	Jistka Imperium: Империум Джистки
 	Eihlona: Эйлона
 	Uomoto: Уомото
 
@@ -949,7 +949,6 @@ Titles:
 	Nurvatcha: Нурватча
 	Domithari: Домифари
 	Majabi: Маджаби
-	Jitska Imperium / Jistka: Джистский Империум
 	The Creche: (Ясли, Креш)
 	The Copses: Роща (Копсы)
 	Screaming Jungle: Кричащие Джунгли
@@ -1021,6 +1020,7 @@ Titles:
 	Goldhand Lodge: Ложа Золотой Руки
 	High King Anong Arunak: Верховный Король Анон Арунак
 	Clockwork Cathedral: Заводной Собор
+	Artificer Conclave: Конклав Мастеров (Джистка)
 
 trait: признак / особенность
 	оружие:
