@@ -34,6 +34,8 @@
 :w_free_hand:`свободная рука`
 :w_attached:`прикрепляемое`
 :w_modular:`модульное Д/К/Р`
+:w_concealable:`скрываемое`
+:w_injection:`инъекционное`
 :w_fatal:`фатальное`
 
 :w_concussive:`сотрясающее`

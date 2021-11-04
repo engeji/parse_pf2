@@ -193,6 +193,8 @@
 
 .. role:: w_repeating
 
+.. role:: w_injection
+
 .. role:: w_concussive
 
 .. role:: w_kickback

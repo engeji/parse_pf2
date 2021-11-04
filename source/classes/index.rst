@@ -318,5 +318,6 @@
 
    Guns-and-Gears
    Gears-characters
+   /equipment/Gears-equipment
    Guns-characters
    /equipment/Guns-equipment
