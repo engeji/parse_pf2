@@ -49,9 +49,9 @@ actions:
 	Maneuver in Flight: Маневрирование в полете :ref:`skill--Acrobatics--Maneuver-in-Flight`
 	Burrow: Рыть :ref:`action--Burrow`
 	Sense Motive: Понять намерения :ref:`action--Sense-Motive`
-	Activate an Item: Активировать предмет :ref:`activity--Activate-An-Item`
+	Activate an Item: Активировать предмет :ref:`activity--Activate-An-Item` / :ref:`Активируете (Activate) <activity--Activate-An-Item>`
 	Invest An Item: Инвестировать предмет :ref:`activity--Invest-An-Item`
-	Sustain an Activation: Поддержание активации :ref:`action--Sustain-an-Activation`
+	Sustain an Activation: Поддержание активации :ref:`action--Sustain-an-Activation` / :ref:`Поддерживать активацию (Sustain) <action--Sustain-an-Activation>`
 	Affix a Talisman: Прикрепить талисман :ref:`activity--Affix-a-Talisman`
 	Defend: Защищаться :ref:`expl-activity--Defend`
 	Detect Magic: Обнаружение магии :ref:`expl-activity--Detect-Magic`
@@ -437,7 +437,7 @@ items: предметы
 		lesser: малый
 		moderate: средний
 		greater: большой, отличный
-		major: сильный, старший
+		major: сильный, старший, превосходный
 		true: истинный
 		supreme: величайший
 
