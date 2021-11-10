@@ -1021,6 +1021,7 @@ Titles:
 	High King Anong Arunak: Верховный Король Анон Арунак
 	Clockwork Cathedral: Заводной Собор
 	Artificer Conclave: Конклав Мастеров (Джистка)
+		Anquira: Анкира, один из мастеров живущая как автоматон в Осях
 
 trait: признак / особенность
 	оружие:
