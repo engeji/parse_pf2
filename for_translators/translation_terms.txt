@@ -764,13 +764,13 @@ spell: заклинание
 	spells heightening: усиление заклинаний
 	signature spell: коронное заклинание (у спонтанных колдунов)
 	manifestation: проявление (визуальные, словесные, лучи там всякие, пиу-пиу)
-component: компонент
-	material: материальный
-	somatic: жестовый
-	verbal: словесный
-	focus: фокусировка
-	command: команда
-	envision: вообразить
+	component: компонент
+		material: материальный
+		somatic: жестовый
+		verbal: словесный
+		focus: фокусировка
+		command: команда
+		envision: вообразить
 spellcasting: колдовство / сотворение заклинания
 	spellcasting ability modifier: модификатор характеристики колдовства (TODO перевод)
 	spellcasting class feature: особенность заклинательского класса
@@ -786,14 +786,14 @@ Soulforged Armaments: Скованное душой вооружение
 	corruption flaw: изъян порока
 	soulbound: душевные узы
 	Essence Power: сила эссенции
-
-
 Subordinate Actions: Вспомогательные Действия
 Swashbuckler
 	panache: кураж, самоуверенность
 	flair: талант, стиль (про совершение ударов)
 
 tap into: погрузиться в, подключиться к
+tinker, tinkerer: умелец, мастер
+	tinkering: возня
 Titles:
 	Earthfall: Землепад
 	Jadwiga: Ядвига
