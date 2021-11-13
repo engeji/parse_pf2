@@ -258,6 +258,7 @@ $(document).ready( function() {
 		"talisman": "Талисман (talisman): Талисман это небольшой объект прикрепленный к доспеху, щиту или оружию (и называется прикрепленным предметом). Чтобы активировать прикрепленный талисман, вы должны владеть предметом или носить его надетым. После активации талисман тут же сгорает.",
 		"teleportation": "Телепортация (teleportation): Эффекты телепортации позволяют вам мгновенно перемещаться из одного пространства в другое. Обычно телепортация не провоцирует реакции основанные на движении.",
 		"trap": "Ловушка (trap): Опасность или предмет с этой чертой созданы, чтобы помешать злоумышленникам.",
+		"steam": "Паровой (Steam): Вещи с этим признаком приводятся в действие двигателями, которые кипятят воду для получения пара и движения своими компонентами.",
 		"virulent": "Вирулентный (virulent): От недугов с признаком \"вирулентный\" тяжелее избавиться. Чтобы снизить стадию вирулентного недуга на 1, вам необходимо совершить подряд два успешных спасброска. Критический успех снижает стадию вирулентного небуга только на 1 а не на 2.",
 		"visual": "Визуальный (visual): Визуальный эффект может воздействовать только на существ которые могут его видеть. На усмотрение Мастера, это применяется только к видимым частям эффекта.",
 		"wand": "Палочка (wand): Волшебная палочка содержит одно заклинание, которое вы можете сотворять раз в день.",
@@ -603,6 +604,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("талисман")').tooltipster({content: traits_dict["talisman"]});
 	$('ul.traits li:textEquals("телепортация")').tooltipster({content: traits_dict["teleportation"]});
 	$('ul.traits li:textEquals("ловушка")').tooltipster({content: traits_dict["trap"]});
+	$('ul.traits li:textEquals("паровой")').tooltipster({content: traits_dict["steam"]});
 	$('ul.traits li:textEquals("вирулентный")').tooltipster({content: traits_dict["virulent"]});
 	$('ul.traits li:textEquals("визуальный")').tooltipster({content: traits_dict["visual"]});
 	$('ul.traits li:textEquals("палочка")').tooltipster({content: traits_dict["wand"]});
@@ -909,6 +911,7 @@ $(document).ready( function() {
 	$('span.t-talisman').tooltipster({content: traits_dict["talisman"]});
 	$('span.t-teleportation').tooltipster({content: traits_dict["teleportation"]});
 	$('span.t-trap').tooltipster({content: traits_dict["trap"]});
+	$('span.t-steam').tooltipster({content: traits_dict["steam"]});
 	$('span.t-virulent').tooltipster({content: traits_dict["virulent"]});
 	$('span.t-visual').tooltipster({content: traits_dict["visual"]});
 	$('span.t-wand').tooltipster({content: traits_dict["wand"]});
