@@ -379,6 +379,7 @@ Gears:
 	innovation: инновация
 	gizmo: штуковина
 	stasian: стазиевый
+		spirit singers: духовные сингеры
 Guns (термины огнестрельного оружия)
 	firearm: огнестрельное оружие
 	firing range: огневая дистанция, дистанция стрельбы
@@ -630,6 +631,7 @@ materials:
 meld into stone: слияние с камнем
 mindless: неразумный
 minion: миньон
+movement: передвижение
 multiple attack penalty: штраф множественных атак / штраф за множественные атаки
 
 negative: негативное
