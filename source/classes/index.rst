@@ -190,6 +190,7 @@
 
    investigator
    Gunslinger
+   Inventor
    alchemist
    
    magus
@@ -221,6 +222,7 @@
    :maxdepth: 2
 
    Animal-Companions
+   Construct-Companions
    Familiars
 
 
@@ -315,5 +317,7 @@
    :maxdepth: 2
 
    Guns-and-Gears
+   Gears-characters
+   /equipment/Gears-equipment
    Guns-characters
    /equipment/Guns-equipment

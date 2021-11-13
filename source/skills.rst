@@ -1675,7 +1675,7 @@
 	* Шахтерские (Mining)
 	* Мореходные (Sailing)
 	* Разведки (Scouting)
-	* Гравировка (Scribing)
+	* Письменность, гравировка (Scribing)
 	* Конные (Stabling)
 	* Дубление (Tanning)
 	* Театральные (Theater)

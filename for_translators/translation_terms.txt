@@ -49,9 +49,9 @@ actions:
 	Maneuver in Flight: Маневрирование в полете :ref:`skill--Acrobatics--Maneuver-in-Flight`
 	Burrow: Рыть :ref:`action--Burrow`
 	Sense Motive: Понять намерения :ref:`action--Sense-Motive`
-	Activate an Item: Активировать предмет :ref:`activity--Activate-An-Item`
+	Activate an Item: Активировать предмет :ref:`activity--Activate-An-Item` / :ref:`Активируете (Activate) <activity--Activate-An-Item>`
 	Invest An Item: Инвестировать предмет :ref:`activity--Invest-An-Item`
-	Sustain an Activation: Поддержание активации :ref:`action--Sustain-an-Activation`
+	Sustain an Activation: Поддержание активации :ref:`action--Sustain-an-Activation` / :ref:`Поддерживать активацию (Sustain) <action--Sustain-an-Activation>`
 	Affix a Talisman: Прикрепить талисман :ref:`activity--Affix-a-Talisman`
 	Defend: Защищаться :ref:`expl-activity--Defend`
 	Detect Magic: Обнаружение магии :ref:`expl-activity--Detect-Magic`
@@ -326,7 +326,7 @@ Deity: Божество
 	Milani: Милани
 
 difficult terrain: сложная местность
-Disrupting Actions: Прерывание действий
+Disrupting Actions: Прерывание действий / :ref:`прерываете <ch9--Disrupting-Actions>`
 divine (о заклинаниях): сакральный
 	divine font: божественная сила
 	divine focus: сакральное сосредоточение/фокус
@@ -375,6 +375,11 @@ Focus Point: Очко Фокусировки
 focus pool: запас очков фокусировки
 
 GM: Мастер
+Gears:
+	innovation: инновация
+	gizmo: штуковина
+	stasian: стазиевый
+		spirit singers: духовные сингеры
 Guns (термины огнестрельного оружия)
 	firearm: огнестрельное оружие
 	firing range: огневая дистанция, дистанция стрельбы
@@ -433,7 +438,7 @@ items: предметы
 		lesser: малый
 		moderate: средний
 		greater: большой, отличный
-		major: сильный, старший
+		major: сильный, старший, превосходный
 		true: истинный
 		supreme: величайший
 
@@ -589,7 +594,10 @@ Locations:
 	Jinin: Джинин
 	Ling Shen: Лин Шен
 	Quain: Куэйн
+	Jitska Imperium / Jistka: Империум Джистки, Джистский Империум
 	Deadshot Lands: Земли Дэдшот
+	Eihlona: Эйлона
+	Uomoto: Уомото
 
 lesser cover: небольшое укрытие
 light: свет
@@ -615,9 +623,15 @@ materials:
 	Mithral: мифрил, мифрильный
 	orichalcum: орихалк
 	darkwood: сумеречное дерево
+	abysium: абисиум
+	djezet: джезет
+	inubrix: инубрикс
+	noqual: ноквал
+	siccatite: сиккатит
 meld into stone: слияние с камнем
 mindless: неразумный
 minion: миньон
+movement: передвижение
 multiple attack penalty: штраф множественных атак / штраф за множественные атаки
 
 negative: негативное
@@ -752,13 +766,13 @@ spell: заклинание
 	spells heightening: усиление заклинаний
 	signature spell: коронное заклинание (у спонтанных колдунов)
 	manifestation: проявление (визуальные, словесные, лучи там всякие, пиу-пиу)
-component: компонент
-	material: материальный
-	somatic: жестовый
-	verbal: словесный
-	focus: фокусировка
-	command: команда
-	envision: вообразить
+	component: компонент
+		material: материальный
+		somatic: жестовый
+		verbal: словесный
+		focus: фокусировка
+		command: команда
+		envision: вообразить
 spellcasting: колдовство / сотворение заклинания
 	spellcasting ability modifier: модификатор характеристики колдовства (TODO перевод)
 	spellcasting class feature: особенность заклинательского класса
@@ -774,14 +788,14 @@ Soulforged Armaments: Скованное душой вооружение
 	corruption flaw: изъян порока
 	soulbound: душевные узы
 	Essence Power: сила эссенции
-
-
 Subordinate Actions: Вспомогательные Действия
 Swashbuckler
 	panache: кураж, самоуверенность
 	flair: талант, стиль (про совершение ударов)
 
 tap into: погрузиться в, подключиться к
+tinker, tinkerer: умелец, мастер
+	tinkering: возня
 Titles:
 	Earthfall: Землепад
 	Jadwiga: Ядвига
@@ -937,7 +951,6 @@ Titles:
 	Nurvatcha: Нурватча
 	Domithari: Домифари
 	Majabi: Маджаби
-	Jitska Imperium: Джитский Империум
 	The Creche: (Ясли, Креш)
 	The Copses: Роща (Копсы)
 	Screaming Jungle: Кричащие Джунгли
@@ -1008,6 +1021,9 @@ Titles:
 	Alkenstar Gunworks: Алкенстарский Оружейный Завод
 	Goldhand Lodge: Ложа Золотой Руки
 	High King Anong Arunak: Верховный Король Анон Арунак
+	Clockwork Cathedral: Заводной Собор
+	Artificer Conclave: Конклав Мастеров (Джистка)
+		Anquira: Анкира, один из мастеров живущая как автоматон в Осях
 
 trait: признак / особенность
 	оружие:

@@ -25,6 +25,7 @@
 
    investigator
    Gunslinger
+   Inventor
    alchemist
    
    magus
@@ -124,7 +125,9 @@
    Shadowcaster
    Soulforger
 
-
+   Overwatch
+   Sterling-Dynamo
+   Trapsmith
    Beast-Gunner
    Bullet-Dancer
    Demolitionist

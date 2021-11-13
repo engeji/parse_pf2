@@ -118,7 +118,8 @@
 магия,
 огонь,
 яд,
-:ref:`разум роя <cr_ability--Swarm-Mind>`
+:ref:`разум роя <cr_ability--Swarm-Mind>`,
+:ref:`иммунитеты объекта <ch6--Object-Immunities>`
 
 **Сопротивления**:
 колющий 111111,

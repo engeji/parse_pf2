@@ -193,6 +193,8 @@
 
 .. role:: w_repeating
 
+.. role:: w_injection
+
 .. role:: w_concussive
 
 .. role:: w_kickback
@@ -516,6 +518,10 @@
 
 .. role:: t_intelligent
 
+.. role:: t_modification
+
+.. role:: t_unstable
+
 
 
 .. role:: t_alchemist
@@ -603,6 +609,8 @@
 .. role:: t_sprite
 
 .. role:: t_strix
+
+.. role:: t_automaton
 
 .. role:: t_aasimar
 

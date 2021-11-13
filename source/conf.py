@@ -23,7 +23,7 @@ copyright = '2021, Balt'
 author = 'Balt'
 
 # The full version, including alpha/beta/rc tags
-release = '1.6.0'
+release = '1.6.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -78,7 +78,7 @@ html_css_files = [
 html_js_files = [
 	'https://cdnjs.cloudflare.com/ajax/libs/tooltipster/4.2.8/js/tooltipster.bundle.min.js',
 	'js/custom.js',
-	'js/traits_tooltips_v1.15.js',
+	'js/traits_tooltips_v1.16.js',
 ]
 
 html_scaled_image_link = False
