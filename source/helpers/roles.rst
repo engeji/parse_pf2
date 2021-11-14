@@ -520,6 +520,8 @@
 
 .. role:: t_modification
 
+.. role:: t_gadget
+
 .. role:: t_unstable
 
 
