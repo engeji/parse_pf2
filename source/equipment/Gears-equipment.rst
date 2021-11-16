@@ -194,7 +194,45 @@
 * :ref:`item--Violet-Ray`
 
 
+.. _Gears--Equip--Utility-Gear:
 
+Вспомогательное снаряжение (Utility Gear)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Источник**: Guns & Gears pg. 84
+
+Оружие может быть одной из самых ярких форм заводной технологии, но далеко не единственной.
+На каждого изобретателя, посвятившего свои труды созданию заводных орудий разрушения, приходится десяток других, сосредоточенных на создании устройств, которые обычные люди могут использовать, чтобы сделать жизнь проще и приятнее.
+
+Эти машины, созданные для общества, а не для искателей приключений, пожалуй, более действенны, чем даже самое мощное оружие, поскольку ежедневно влияют на тысячи жизней.
+Крупные торговые центры пожинают эти плоды, поскольку изобретатели из дальних стран встречаются и делятся своими методами и разработками.
+Поскольку инновации из разных регионов смешиваются, каждый прорыв позволяет ускорить следующий.
+
+**Предметы быта/производства**:
+
+* :ref:`item--Timepiece`
+* :ref:`item--Clockwork-Bookshelf`
+* :ref:`item--Clockwork-Box-Packer`
+* :ref:`item--Clockwork-Megaphone`
+* :ref:`item--Nightbreeze-Machine`
+* :ref:`item--Aquarium-Lamp`
+* :ref:`item--Paper-Shredder`
+* :ref:`item--Printing-Press`
+* :ref:`item--Steam-Winch`
+* :ref:`item--Light-Writer`
+
+**Предметы которые могут пригодиться в приключениях**:
+
+* :ref:`item--Ignitor`
+* :ref:`item--Day-Goggles`
+* :ref:`item--Extendable-Pincer`
+* :ref:`item--Mechanical-Torch`
+* :ref:`item--Holy-Steam-Ball`
+* :ref:`item--Clockwork-Disguise`
+* :ref:`item--Clockwork-Diving-Suit`
+* :ref:`item--Heated-Cloak`
+* :ref:`item--Steamflight-Pack`
+* :ref:`item--Electrocable`
 
 
 
