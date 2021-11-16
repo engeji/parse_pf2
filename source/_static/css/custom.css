@@ -43,7 +43,7 @@ p.h3.rubric {
 	font-size: 100%;
 	font-weight: 700;
 	margin-bottom: 0.25em;
-	margin-top: 0.5em;
+	margin-top: 0.6em;
 	text-transform: uppercase;
 }
 
@@ -59,7 +59,7 @@ p.h4.rubric {
 	font-size: 100%;
 	font-weight: 700;
 	margin-bottom: 0.25em;
-	margin-top: 0.5em;
+	margin-top: 0.6em;
 	text-transform: initial;
 }
 
@@ -75,7 +75,7 @@ p.h5.rubric {
 	font-size: 100%;
 	font-weight: 700;
 	margin-bottom: 0.15em;
-	margin-top: 0.3em;
+	margin-top: 0.4em;
 	text-transform: uppercase;
 }
 
@@ -848,6 +848,7 @@ section.craft-treasure-adjustment section > p,
 section.craft-treasure-grimoires section > p,
 section.craft-treasure-tattooslist section > p,
 section.craft-treasure-spell-catalysts section > p,
+section.craft-treasure-wheelchairs section > p,
 section.craft-treasure-spellhearts section > p,
 section.actions-descr section section > p,
 section.eidolon section section > p,
@@ -903,6 +904,7 @@ section.craft-treasure-adjustment section > h2,
 section.craft-treasure-grimoires section > h2,
 section.craft-treasure-tattooslist section > h3,
 section.craft-treasure-spell-catalysts section > h3,
+section.craft-treasure-wheelchairs section > h4,
 section.craft-treasure-spellhearts section > h2,
 section.craft-customizations section > h3,
 section.actions-descr section section > h5,
@@ -913,7 +915,7 @@ section.creature-abilities section > h2 {
 	font-size: 100%;
 	font-weight: 700;
 	margin-bottom: 0.3em;
-	margin-top: 0.9em;
+	margin-top: 0.8em;
 	text-transform: uppercase;
 }
 
@@ -965,6 +967,7 @@ section.craft-treasure-adjustment section hr,
 section.craft-treasure-grimoires section hr,
 section.craft-treasure-tattooslist section hr,
 section.craft-treasure-spell-catalysts section hr,
+section.craft-treasure-wheelchairs section hr,
 section.craft-treasure-spellhearts section hr,
 section.craft-customizations section hr,
 section.actions-descr section hr,

@@ -472,6 +472,7 @@
    magical-tattoos
    customizations
    adjustments
+   assistive
    materials
    structures
    artifact
