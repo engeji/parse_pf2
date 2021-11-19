@@ -126,7 +126,7 @@
 	| | Природа        | Мудрость        | | :ref:`skill--Nature--Command-an-Animal` |д-1|        | | :ref:`expl-activity--Identify-Magic` :sup:`И, Общ`    |
 	| | (Nature)       |                 | | :ref:`skill--Recall-Knowledge` :sup:`Общ` |д-1|      | | :ref:`expl-activity--Learn-a-Spell` :sup:`И, Общ`     |
 	+------------------+-----------------+--------------------------------------------------------+---------------------------------------------------------+
-	| | Оккультизм     | Мудрость        | :ref:`skill--Recall-Knowledge` :sup:`Общ` |д-1|        | | :ref:`activity--gen--Decipher-Writing` :sup:`И, Общ`  |
+	| | Оккультизм     | Интеллект       | :ref:`skill--Recall-Knowledge` :sup:`Общ` |д-1|        | | :ref:`activity--gen--Decipher-Writing` :sup:`И, Общ`  |
 	| | (Occultism)    |                 |                                                        | | :ref:`expl-activity--Identify-Magic` :sup:`И, Общ`    |
 	|                  |                 |                                                        | | :ref:`expl-activity--Learn-a-Spell` :sup:`И, Общ`     |
 	+------------------+-----------------+--------------------------------------------------------+---------------------------------------------------------+

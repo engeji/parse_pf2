@@ -277,6 +277,32 @@
 К вспомогательным устройствам для передвижения из книги "Пушек и Шестерней" относятся инвалидные кресла, которые можно найти в разделе :ref:`Assistive--Wheelchairs`.
 
 
+.. _Gears--Equip--Siege-Weapons:
+
+Осадные орудия (`Siege Weapons <https://2e.aonprd.com/Rules.aspx?ID=1622>`_)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Источник**: Guns & Gears pg. 72
+
+Осадные орудия описаны в соответствующем разделе - :doc:`/crafting_and_treasure/Siege-Weapons`.
+
+**Стационарные**:
+
+* :ref:`Siege-Weapon--Ballista`
+* :ref:`Siege-Weapon--Catapult`
+* :ref:`Siege-Weapon--Heavy-Ballista`
+* :ref:`Siege-Weapon--Springald`
+* :ref:`Siege-Weapon--Trebuchet`
+
+**Переносные**:
+
+* :ref:`Siege-Weapon--Door-Ram`
+* :ref:`Siege-Weapon--Battering-Ram`
+
+**Осадные башни**:
+
+* :ref:`vehicle--Siege-Tower`
+* :ref:`vehicle--Helepolis`
 
 
 
