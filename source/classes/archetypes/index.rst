@@ -137,6 +137,7 @@
    Pistol-Phenom
    Sniping-Duo
    Unexpected-Sharpshooter
+   Artillerist
 
 
    dlc/aldori-duelist
