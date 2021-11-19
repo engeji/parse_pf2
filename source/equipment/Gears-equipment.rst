@@ -299,7 +299,7 @@
 * :ref:`Siege-Weapon--Door-Ram`
 * :ref:`Siege-Weapon--Battering-Ram`
 
-**Осадные башни**:
+**Осадные приспособления**:
 
 * :ref:`vehicle--Siege-Tower`
 * :ref:`vehicle--Helepolis`

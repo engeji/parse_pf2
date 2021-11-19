@@ -362,6 +362,39 @@
 
 
 
+.. _Guns--Siege-Weapons:
+
+Осадные орудия (`Siege Weapons <https://2e.aonprd.com/Rules.aspx?ID=1656>`_)
+--------------------------------------------------------------------------------------------------------
+
+**Источник**: Guns & Gears pg. 172
+
+Осадные орудия описаны в соответствующем разделе - :doc:`/crafting_and_treasure/Siege-Weapons`.
+
+**Стационарные**:
+
+* :ref:`Siege-Weapon--Alchemical-Springald`
+* :ref:`Siege-Weapon--Bombard`
+* :ref:`Siege-Weapon--Cannon`
+* :ref:`Siege-Weapon--Fiends-Mouth-Cannon`
+* :ref:`Siege-Weapon--Firedrake`
+* :ref:`Siege-Weapon--Steelheart-21`
+* :ref:`Siege-Weapon--Heavy-Bombard`
+* :ref:`Siege-Weapon--Hwacha`
+* :ref:`Siege-Weapon--Mortar`
+* :ref:`Siege-Weapon--Alkenstar Cannon`
+
+**Переносные**:
+
+* :ref:`Siege-Weapon--Blasting-Ram`
+
+**Осадные приспособления**:
+
+* :ref:`vehicle--Battery-Tower`
+* :ref:`item--Sambuca`
+
+
+
 
 
 .. include:: /helpers/actions.rst
