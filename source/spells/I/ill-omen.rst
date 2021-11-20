@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--i--Ill-Omen:
 
-Дурная примета (`Ill Omen <https://2e.aonprd.com/Spells.aspx?ID=578>`_) / Закл. 1
+Дурная примета (`Ill Omen <https://2e.aonprd.com/Spells.aspx?ID=696>`_) / Закл. 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - прорицание
