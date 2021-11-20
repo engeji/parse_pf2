@@ -257,8 +257,8 @@
 Основные правила применения транспорта и сами транспортные средства можно найти в разделе из "Руководства Мастера" - :doc:`/game_mastering/subsystems/Vehicles`.
 
 * :ref:`vehicle--Automated-Cycle`
-* :ref:`vehicle--Adaptable-Paddleboat`
 * :ref:`vehicle--Clunkerjunker`
+* :ref:`vehicle--Adaptable-Paddleboat`
 * :ref:`vehicle--Steam-Cart`
 * :ref:`vehicle--Clockwork-Wagon`
 * :ref:`vehicle--Sand-Diver`
