@@ -775,7 +775,7 @@ spell: заклинание
 		command: команда
 		envision: вообразить
 spellcasting: колдовство / сотворение заклинания
-	spellcasting ability modifier: модификатор характеристики колдовства (TODO перевод)
+	spellcasting ability modifier: модификатор характеристики колдовства
 	spellcasting class feature: особенность заклинательского класса
 	tradition: обычай, колдовской обычай, магический обычай
 		arcane: арканный
