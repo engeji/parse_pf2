@@ -403,7 +403,7 @@
 
 .. _cr_ability--Light-Blindness:
 
-Слепящий свет (`Light Blindness <https://2e.aonprd.com/MonsterAbilities.aspx?ID=22>`_)
+Световая слепота (`Light Blindness <https://2e.aonprd.com/MonsterAbilities.aspx?ID=22>`_)
 ==========================================================================================================
 
 **Источник**: Bestiary pg. 343

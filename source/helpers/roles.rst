@@ -520,7 +520,15 @@
 
 .. role:: t_modification
 
+.. role:: t_gadget
+
 .. role:: t_unstable
+
+.. role:: t_steam
+
+.. role:: t_mounted
+
+.. role:: t_portable
 
 
 

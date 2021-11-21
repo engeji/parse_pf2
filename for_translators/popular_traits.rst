@@ -108,6 +108,7 @@
 :t_disease:`болезнь`
 :t_sleep:`сон`
 :t_alchemical:`алхимический`
+:t_clockwork:`заводной`
 
 
 :t_attack:`атака`
@@ -147,6 +148,7 @@
 :t_death:`смерть`
 :t_possession:`одержимость`
 :t_teleportation:`телепортация`
+:t_aura:`аура`
 
 :t_prediction:`предсказание`
 :t_scrying:`видение`

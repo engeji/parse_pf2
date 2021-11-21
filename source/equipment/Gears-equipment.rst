@@ -87,7 +87,7 @@
 В зависимости от того, как вы хотите добавлять технологии своему персонажу и в игру, вы можете смешивать эти разделы и выбирать правильный для себя.
 
 
-.. _Gears--Combat-Gear:
+.. _Gears--Equip--Combat-Gear:
 
 Боевое снаряжение (Combat Gear)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -117,7 +117,7 @@
 Его описание можно найти в соответствующем разделе, начиная с :ref:`item--Blade-Launcher`, или по клику на переведенное название в сводной таблице.
 
 
-.. _Gears--Gadgets:
+.. _Gears--Equip--Gadgets:
 
 Гаджеты (`Gadgets <https://2e.aonprd.com/Rules.aspx?ID=1621>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,7 +130,7 @@
 Гаджеты находятся в соответствующем разделе расходуемых предметов - :ref:`ch11--Consumables--Gadgets`.
 
 
-.. _Gears--Snares:
+.. _Gears--Equip--Snares:
 
 Силки (Snares)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -162,7 +162,7 @@
 * :ref:`item--Death-Coil`
 
 
-.. _Gears--Hazards:
+.. _Gears--Equip--Hazards:
 
 Опасности (Hazards)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -176,14 +176,133 @@
 * :ref:`hazard--Malevolent-Mannequins`
 
 
+.. _Gears--Equip--Stasian-Technology:
+
+Стазиевая технология (Stasian Technology)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Источник**: Guns & Gears pg. 61, 82
+
+Стазиевые технологии используют электричество для получения странных и непредсказуемых эффектов, иногда, но не всегда, в сочетании с магией.
+Стазиевые катушки, необходимые для питания такой технологии, ограничены и их трудно добыть, что делает стазиевые технологические предметы чрезвычайно редкими.
+Однако медленный импорт и контрабанда в Усталав привели к разработке предметов, основанных на этой технологии, что делает эти предметы более доступными, чем другие редкие предметы, если знать, где искать.
+
+* :ref:`item--Galvasphere` (:t_gadget:`гаджет`)
+* :ref:`item--Spirit-Singer`
+* :ref:`item--Galvanic-Mortal-Coil`
+* :ref:`item--Shockguard-Coil` (:t_talisman:`талисман`)
+* :ref:`item--Violet-Ray`
 
 
+.. _Gears--Equip--Utility-Gear:
+
+Вспомогательное снаряжение (Utility Gear)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Источник**: Guns & Gears pg. 84
+
+Оружие может быть одной из самых ярких форм заводной технологии, но далеко не единственной.
+На каждого изобретателя, посвятившего свои труды созданию заводных орудий разрушения, приходится десяток других, сосредоточенных на создании устройств, которые обычные люди могут использовать, чтобы сделать жизнь проще и приятнее.
+
+Эти машины, созданные для общества, а не для искателей приключений, пожалуй, более действенны, чем даже самое мощное оружие, потому что ежедневно влияют на тысячи жизней.
+Крупные торговые центры пожинают эти плоды, поскольку изобретатели из дальних стран встречаются и делятся своими методами и разработками.
+Так как инновации из разных регионов смешиваются, каждый прорыв позволяет ускорить следующий.
+
+**Предметы быта/производства**:
+
+* :ref:`item--Timepiece`
+* :ref:`item--Clockwork-Bookshelf`
+* :ref:`item--Clockwork-Box-Packer`
+* :ref:`item--Clockwork-Megaphone`
+* :ref:`item--Nightbreeze-Machine`
+* :ref:`item--Aquarium-Lamp`
+* :ref:`item--Paper-Shredder`
+* :ref:`item--Printing-Press`
+* :ref:`item--Steam-Winch`
+* :ref:`item--Light-Writer`
+
+**Предметы которые могут пригодиться в приключениях**:
+
+* :ref:`item--Ignitor`
+* :ref:`item--Day-Goggles`
+* :ref:`item--Extendable-Pincer`
+* :ref:`item--Mechanical-Torch`
+* :ref:`item--Holy-Steam-Ball`
+* :ref:`item--Clockwork-Disguise`
+* :ref:`item--Clockwork-Diving-Suit`
+* :ref:`item--Heated-Cloak`
+* :ref:`item--Steamflight-Pack`
+* :ref:`item--Electrocable`
 
 
+.. _Gears--Equip--Mobility-Devices:
+
+Устройства для передвижения (Mobility Devices)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Источник**: Guns & Gears pg. 61
+
+К вспомогательным устройствам для передвижения из книги "Пушек и Шестерней" относятся инвалидные кресла, которые можно найти в разделе :ref:`Assistive--Wheelchairs`.
 
 
+.. _Gears--Equip--Vehicles:
+
+Транспортные средства (Vehicles)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Источник**: Guns & Gears pg. 61
+
+Транспорт позволяет вам путешествовать со стилем, используя новые изобретения на основе последних технологий, которые могут ускорить ваше приключение.
+
+Основные правила применения транспорта и сами транспортные средства можно найти в разделе из "Руководства Мастера" - :doc:`/game_mastering/subsystems/Vehicles`.
+
+* :ref:`vehicle--Automated-Cycle`
+* :ref:`vehicle--Clunkerjunker`
+* :ref:`vehicle--Adaptable-Paddleboat`
+* :ref:`vehicle--Steam-Cart`
+* :ref:`vehicle--Clockwork-Wagon`
+* :ref:`vehicle--Sand-Diver`
+* :ref:`vehicle--Steam-Trolley`
+* :ref:`vehicle--Armored-Carriage`
+* :ref:`vehicle--Firefly`
+* :ref:`vehicle--Clockwork-Hopper`
+* :ref:`vehicle--Snail-Coach`
+* :ref:`vehicle--Mobile-Inn`
+* :ref:`vehicle--Clockwork-Borer`
+* :ref:`vehicle--Speedster`
+* :ref:`vehicle--Apparatus-of-the-Octopus`
+* :ref:`vehicle--Ambling-Surveyor`
+* :ref:`vehicle--Titanic-Stomper`
+* :ref:`vehicle--Clockwork-Castle`
+* :ref:`vehicle--Vonthoss-Golden-Bridge`
 
 
+.. _Gears--Equip--Siege-Weapons:
+
+Осадные орудия (`Siege Weapons <https://2e.aonprd.com/Rules.aspx?ID=1622>`_)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Источник**: Guns & Gears pg. 72
+
+Осадные орудия описаны в соответствующем разделе - :doc:`/crafting_and_treasure/Siege-Weapons`.
+
+**Стационарные**:
+
+* :ref:`Siege-Weapon--Ballista`
+* :ref:`Siege-Weapon--Catapult`
+* :ref:`Siege-Weapon--Springald`
+* :ref:`Siege-Weapon--Heavy-Ballista`
+* :ref:`Siege-Weapon--Trebuchet`
+
+**Переносные**:
+
+* :ref:`Siege-Weapon--Door-Ram`
+* :ref:`Siege-Weapon--Battering-Ram`
+
+**Осадные приспособления**:
+
+* :ref:`vehicle--Siege-Tower`
+* :ref:`vehicle--Helepolis`
 
 
 

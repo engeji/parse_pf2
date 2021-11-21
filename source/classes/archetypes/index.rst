@@ -128,6 +128,8 @@
    Overwatch
    Sterling-Dynamo
    Trapsmith
+   Trick-Driver
+   Vehicle-Mechanic
    Beast-Gunner
    Bullet-Dancer
    Demolitionist
@@ -135,6 +137,7 @@
    Pistol-Phenom
    Sniping-Duo
    Unexpected-Sharpshooter
+   Artillerist
 
 
    dlc/aldori-duelist
