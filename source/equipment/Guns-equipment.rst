@@ -364,8 +364,8 @@
 
 .. _Guns--Siege-Weapons:
 
-Осадные орудия (`Siege Weapons <https://2e.aonprd.com/Rules.aspx?ID=1656>`_)
---------------------------------------------------------------------------------------------------------
+Осадные орудия на черном порохе (`Black Powder Siege Weapons <https://2e.aonprd.com/Rules.aspx?ID=1656>`_)
+----------------------------------------------------------------------------------------------------------
 
 **Источник**: Guns & Gears pg. 172
 
@@ -373,15 +373,15 @@
 
 **Стационарные**:
 
-* :ref:`Siege-Weapon--Alchemical-Springald`
-* :ref:`Siege-Weapon--Bombard`
-* :ref:`Siege-Weapon--Cannon`
-* :ref:`Siege-Weapon--Fiends-Mouth-Cannon`
-* :ref:`Siege-Weapon--Firedrake`
-* :ref:`Siege-Weapon--Steelheart-21`
-* :ref:`Siege-Weapon--Heavy-Bombard`
 * :ref:`Siege-Weapon--Hwacha`
+* :ref:`Siege-Weapon--Bombard`
 * :ref:`Siege-Weapon--Mortar`
+* :ref:`Siege-Weapon--Cannon`
+* :ref:`Siege-Weapon--Firedrake`
+* :ref:`Siege-Weapon--Heavy-Bombard`
+* :ref:`Siege-Weapon--Fiends-Mouth-Cannon`
+* :ref:`Siege-Weapon--Alchemical-Springald`
+* :ref:`Siege-Weapon--Steelheart-21`
 * :ref:`Siege-Weapon--Alkenstar Cannon`
 
 **Переносные**:
@@ -390,8 +390,8 @@
 
 **Осадные приспособления**:
 
-* :ref:`vehicle--Battery-Tower`
 * :ref:`item--Sambuca`
+* :ref:`vehicle--Battery-Tower`
 
 
 

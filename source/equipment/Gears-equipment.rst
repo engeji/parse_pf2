@@ -290,8 +290,8 @@
 
 * :ref:`Siege-Weapon--Ballista`
 * :ref:`Siege-Weapon--Catapult`
-* :ref:`Siege-Weapon--Heavy-Ballista`
 * :ref:`Siege-Weapon--Springald`
+* :ref:`Siege-Weapon--Heavy-Ballista`
 * :ref:`Siege-Weapon--Trebuchet`
 
 **Переносные**:
@@ -303,10 +303,6 @@
 
 * :ref:`vehicle--Siege-Tower`
 * :ref:`vehicle--Helepolis`
-
-
-
-
 
 
 
