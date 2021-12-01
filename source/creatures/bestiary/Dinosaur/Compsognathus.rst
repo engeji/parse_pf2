@@ -12,7 +12,7 @@
 
 	Для компсогната-фамильяра подходящими способностями могут быть:
 	:ref:`скалолаз <familiar-ability--Climber>`,
-	:ref:`избежание урона <familiar-ability--Damage-Avoidance>`,
+	:ref:`избегание урона <familiar-ability--Damage-Avoidance>`,
 	:ref:`быстрое движение <familiar-ability--Fast-Movement>`,
 	:ref:`родственная речь <familiar-ability--Kinspeech>`,
 	:ref:`ловкость рук <familiar-ability--Manual-Dexterity>`,
