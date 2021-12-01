@@ -332,6 +332,14 @@ table.condensed-part-table td:last-child {
 	white-space: pre;
 }
 
+table.condensed-ftd-table td {
+	white-space: normal;
+}
+
+table.condensed-ftd-table td:first-child {
+	white-space: pre;
+}
+
 table.condensed-pre-table td {
 	white-space: pre !important;
 }
