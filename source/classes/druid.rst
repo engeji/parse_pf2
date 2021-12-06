@@ -1161,7 +1161,7 @@
 
 .. _class-feat--Druid--Natural-Swimmer:
 
-Прирожденные пловец (`Natural Swimmer <https://2e.aonprd.com/Feats.aspx?ID=2974>`_) / 4
+Прирожденный пловец (`Natural Swimmer <https://2e.aonprd.com/Feats.aspx?ID=2974>`_) / 4
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - друид

@@ -66,6 +66,7 @@
 :t_aberration:`аберрация`
 :t_fiend:`бес`
 :t_devil:`дьявол`
+:t_demon:`демон`
 :t_celestial:`небожитель`
 :t_angel:`ангел`
 :t_psychopomp:`психопомп`

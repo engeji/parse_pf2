@@ -242,6 +242,16 @@ Creature: существо
 	abrikandilu: абрикандил
 	gogiteth: гогитэт
 	dullahan: дуллахан
+	linnorm: линнорм
+		cairn: каирновый
+		crag: утёсов
+		fjord: фьордов
+		ice: ледяной
+		shoal: мелководья
+		taiga: таёжный
+		tarn: каровый
+		tor: горных пиков
+
 
 counteract: Противодействие :ref:`ch9--Counteracting` / :ref:`противодействие <ch9--Counteracting>`
 Currency: Деньги
@@ -418,6 +428,7 @@ heritage: наследственность
 hex: сглаз
 hit point: очко здоровья
 
+iconic: знаковый
 immunity: иммунитет
 infernal contract: инфернальный контракт
 infused: насыщенный (о реагентах)
@@ -562,7 +573,7 @@ Languages: языки
 	Goblin: Гоблинский
 	Halfling: полуросличий
 	Orcish: Орочий
-	Jotun: Джотун
+	Jotun: Йотун
 	Sylvan: Сильван
 	Undercommon: подземный
 	Draconic: Драконий
@@ -599,6 +610,7 @@ Locations:
 	Deadshot Lands: Земли Дэдшот
 	Eihlona: Эйлона
 	Uomoto: Уомото
+	Blythir College: Колледж Блайтир
 
 lesser cover: небольшое укрытие
 light: свет
@@ -1025,6 +1037,8 @@ Titles:
 	Clockwork Cathedral: Заводной Собор
 	Artificer Conclave: Конклав Мастеров (Джистка)
 		Anquira: Анкира, один из мастеров живущая как автоматон в Осях
+	Briarbough: Брайарбау
+	Zenj: Зенж
 
 trait: признак / особенность
 	оружие:

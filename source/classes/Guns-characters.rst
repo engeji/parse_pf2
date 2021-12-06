@@ -104,6 +104,31 @@
    /classes/archetypes/Artillerist
 
 
+.. rst-class:: h3
+.. _Guns--Characters--Ancestry:
+
+Родословная
+--------------------------------------------------------------------------------------------------------
+
+**Источник**: Guns & Gears pg. 200
+
+Данная книга расширяет дварфийскую родословную :r_uncommon:`необычными` способностями, к которым имеют доступ :doc:`дварфы </ancestries_and_backgrounds/ancestries/dwarf>` из Донган Холда или Алкенстара.
+
+* :ref:`ancestry-feat--Dwarf--Adaptive-Vision`
+* :ref:`ancestry-feat--Dwarf--Clan-Pistol`
+* :ref:`ancestry-feat--Dwarf--Dongun-Education`
+* :ref:`ancestry-feat--Dwarf--Explosive-Savant`
+* :ref:`ancestry-feat--Dwarf--Fire-Savvy`
+* :ref:`ancestry-feat--Dwarf--Blast-Resistance`
+* :ref:`ancestry-feat--Dwarf--Spark-Fist`
+* :ref:`ancestry-feat--Dwarf--Demolitionist`
+* :ref:`ancestry-feat--Dwarf--Smoke-Sight`
+* :ref:`ancestry-feat--Dwarf--Crafters-Instinct`
+* :ref:`ancestry-feat--Dwarf--Explosive-Expert`
+* :ref:`ancestry-feat--Dwarf--Scrutinizing Gaze`
+* :ref:`ancestry-feat--Dwarf--Forge-Blessed-Shot`
+
+
 
 .. rst-class:: h3
 .. _Guns--Characters--Backgrounds:
