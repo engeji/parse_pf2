@@ -119,7 +119,6 @@
    viking
    weapon-improviser
 
-
    Cathartic-Mage
    Geomancer
    Shadowcaster
@@ -138,6 +137,10 @@
    Sniping-Duo
    Unexpected-Sharpshooter
    Artillerist
+
+   Captivator
+   Spell-Trickster
+   Wrestler
 
 
    dlc/aldori-duelist
