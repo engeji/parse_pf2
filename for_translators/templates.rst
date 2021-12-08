@@ -1052,12 +1052,23 @@
 -----------------------------------------------------------------
 
 .. rst-class:: companion
+.. _specific-familiar--TITLE:
 .. _companion--TITLE:
 
 название (`TITLE <https>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычный`
+
+**Требуемое кол-во способностей**: 9999999999
+
+**Полученные способности**:
+:ref:`летун <familiar-ability--Flier>`,
+:ref:`ночное зрение <familiar-ability--Darkvision>`,
+:ref:`ловкость рук <familiar-ability--Manual-Dexterity>`,
+:ref:`сопротивление <familiar-ability--Resistance>`,
+:ref:`речь <familiar-ability--Speech>`,
+:ref:`умелый <familiar-ability--Skilled>`,
 
 **Доступ**: 
 
@@ -1067,6 +1078,8 @@
 ----------
 
 Ваш компаньон это ---------
+
+**УМЕНИЕ (ABILITY)**: 
 
 **Размер**: 
 
