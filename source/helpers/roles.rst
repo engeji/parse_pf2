@@ -620,6 +620,8 @@
 
 .. role:: t_automaton
 
+.. role:: t_poppet
+
 .. role:: t_aasimar
 
 .. role:: t_tiefling

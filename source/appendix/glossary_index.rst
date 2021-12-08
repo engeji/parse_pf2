@@ -2618,6 +2618,17 @@ Lost Omens: World Guide pg. 134
 | :doc:`/ancestries_and_backgrounds/ancestries/Automaton`
 
 
+Кукла (признак) (`poppet (trait) <https://2e.aonprd.com/Traits.aspx?ID=418>`_)
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+**Источник**: Lost Omens: Grand Bazaar pg. 134
+
+Маленькие конструкты, изначально созданные для того, чтобы служить в качестве компаньонов или слуг.
+Иногда они получают значительную искру жизни, превращаясь в независимых разумных существ.
+
+| :doc:`/ancestries_and_backgrounds/ancestries/Poppet`
+
+
 
 
 
