@@ -5970,7 +5970,7 @@ d4, d6, d8, d10, d12, d20, и d%
 
 Зверь-компаньон с этим спец.умением поддерживает своего всадника.
 
-| :ref:`ch3--classes--Animal-Companions--Riding`
+| :ref:`Animal-Companions--Riding`
 
 
 Бой верхом (mounted combat)
