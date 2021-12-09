@@ -662,6 +662,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("спрайт")').tooltipster({content: traits_dict["sprite"]});
 	$('ul.traits li:textEquals("стрикс")').tooltipster({content: traits_dict["strix"]});
 	$('ul.traits li:textEquals("автоматон")').tooltipster({content: traits_dict["automaton"]});
+	$('ul.traits li:textEquals("кукла")').tooltipster({content: traits_dict["poppet"]});
 	$('ul.traits li:textEquals("аазимар")').tooltipster({content: traits_dict["aasimar"]});
 	$('ul.traits li:textEquals("тифлинг")').tooltipster({content: traits_dict["tiefling"]});
 	$('ul.traits li:textEquals("афорит")').tooltipster({content: traits_dict["aphorite"]});
@@ -971,6 +972,7 @@ $(document).ready( function() {
 	$('span.t-sprite').tooltipster({content: traits_dict["sprite"]});
 	$('span.t-strix').tooltipster({content: traits_dict["strix"]});
 	$('span.t-automaton').tooltipster({content: traits_dict["automaton"]});
+	$('span.t-poppet').tooltipster({content: traits_dict["poppet"]});
 	$('span.t-aasimar').tooltipster({content: traits_dict["aasimar"]});
 	$('span.t-tiefling').tooltipster({content: traits_dict["tiefling"]});
 	$('span.t-aphorite').tooltipster({content: traits_dict["aphorite"]});

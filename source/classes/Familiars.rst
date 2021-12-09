@@ -428,7 +428,7 @@
 
 
 .. rst-class:: companions
-.. _ch3--classes--Familiars-Spec:
+.. _Familiars--Specific:
 
 Особенные фамильяры (`Specific Familiars <https://2e.aonprd.com/Familiars.aspx?Specific=true>`_)
 --------------------------------------------------------------------------------------------------------
