@@ -611,6 +611,8 @@ Locations:
 	Eihlona: Эйлона
 	Uomoto: Уомото
 	Blythir College: Колледж Блайтир
+	Iblydos: Иблидос
+		Iblydan: иблидский (звучит просто оху#нно)
 
 lesser cover: небольшое укрытие
 light: свет

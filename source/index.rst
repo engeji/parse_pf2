@@ -3,10 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-11-21**
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-12-09**
 
-| :ref:`Пушки и Шестерни (Guns & Gears) <Guns-and-Gears>`
-| Добавлено остальное снаряжение "Шестерней", осадные орудия и транспорт с их архетипами.
+| Из **Lost Omens: Grand Bazaar** добавлены родословная :doc:`кукол </ancestries_and_backgrounds/ancestries/Poppet>`, 3 архетипа, фамильяры (особые, способности) и звери-компаньоны.
 
 | `Telegram канал <https://t.me/PF2e_RU_channel>`_ - подробные обновления и изменения
 | `Telegram чат <https://t.me/PF2e_RU>`_ - для обратной связи, обсуждения правил и т.п.

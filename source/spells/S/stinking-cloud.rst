@@ -3,7 +3,7 @@
 .. rst-class:: spell
 .. _spell--s--Stinking-Cloud:
 
-Вонючее облако (`Stinking Cloud <https://2e.aonprd.com/Spells.aspx?ID=309>`_) / Закл. 3
+Зловонное облако (`Stinking Cloud <https://2e.aonprd.com/Spells.aspx?ID=309>`_) / Закл. 3
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - воплощение
