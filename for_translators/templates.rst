@@ -1065,9 +1065,9 @@
 **Полученные способности**:
 :ref:`летун <familiar-ability--Flier>`,
 :ref:`ночное зрение <familiar-ability--Darkvision>`,
-:ref:`ловкость рук <familiar-ability--Manual-Dexterity>`,
-:ref:`сопротивление <familiar-ability--Resistance>`,
 :ref:`речь <familiar-ability--Speech>`,
+:ref:`сопротивление <familiar-ability--Resistance>`,
+:ref:`ловкость рук <familiar-ability--Manual-Dexterity>`,
 :ref:`умелый <familiar-ability--Skilled>`,
 
 **Доступ**: 
