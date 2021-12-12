@@ -27,6 +27,7 @@
 :w_nonlethal:`несмертельное`
 :w_unarmed:`безоружное`
 :w_parry:`парирование`
+:w_twin:`парное`
 :w_backstabber:`предательское`
 :w_backswing:`обратный замах`
 :w_propulsive:`тяговое`
