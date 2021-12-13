@@ -374,10 +374,6 @@ feat: способность
 	archetype dedication feat: способность посвящения архетипа
 	multiclass dedication feat: способность посвящения мультикласса
 	archetype class feat: классовая способность архетипа
-	Untrained Improvisation: Импровизация без тренировки
-	Toughness: Живучесть
-	Ride: Езда верхом
-	Expeditious Search: Оперативный Обыск
 Flat check: Чистая проверка
 fleeing: убегающий
 focus spell: заклинание фокусировки
