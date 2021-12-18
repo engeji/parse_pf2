@@ -71,7 +71,7 @@
 + :ref:`cr_ability--Improved-Grab`
 
 
-:ref:`cr_ability--Swallow-Whole` |д-1| Большой, 2d12+7 дробящий, Разрыв 30
+:ref:`cr_ability--Swallow-Whole` |д-1| :s_large:`большой`, 2d12+7 дробящий, Разрыв 30
 
 
 **Опрокидывание (Capsize)** |д-1|

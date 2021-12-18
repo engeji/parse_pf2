@@ -142,6 +142,10 @@ condition: состояние
 	Unfriendly: Недружественный
 	Unnoticed: Незамеченный
 	Wounded: Ранен
+cover: укрытие
+	lesser: небольшое
+	standard: стандартное
+	greater: большое
 
 Creature: существо
 	animal: животное, зверь
@@ -162,8 +166,8 @@ Creature: существо
 		hezrou: хезру
 		nabasu: набасу
 		vrock: врок
-		sarglagon: осилут
-		osyluth: сарлагон
+		sarglagon: сарлагон
+		osyluth: осилут
 	fungus: грибковый
 	fungi: гриб
 	ooze: слизь
@@ -589,6 +593,7 @@ Languages: языки
 
 location: локация, место (в зависимости от контекста)
 Locations:
+	the Pit: Преисподняя
 	Irrisen: Иррисен
 	Lands of the Linnorm Kings: Земли Королей Линнормов
 	Impossible Lands: Невозможные земли
@@ -612,7 +617,6 @@ Locations:
 	Uomoto: Уомото
 	Blythir College: Колледж Блайтир
 
-lesser cover: небольшое укрытие
 light: свет
 	bright: яркий
 	dim: тусклый
@@ -1103,7 +1107,6 @@ trait: признак / особенность
 	существа
 		amphibious: земноводный
 trigger: триггер (в описании способностей), провоцировать (о срабатывании триггера)
-the Pit: Преисподняя
 
 willing: готовый / готовность
 warden: наблюдатель, смотритель

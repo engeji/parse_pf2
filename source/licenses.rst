@@ -409,6 +409,13 @@ Adventure Path
 ==========================================================================================================
 
 
+Pathfinder #147: Tomorrow Must Burn
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Adventure Path #147: Tomorrow Must Burn** © 2019, Paizo Inc.; Authors: Ron Lundeen and Stephanie Lundeen, with Lyz Liddell and James Sutter.
+
+
+
 Pathfinder #148: Fires of the Haunted City
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

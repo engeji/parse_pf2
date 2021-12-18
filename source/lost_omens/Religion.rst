@@ -348,6 +348,7 @@
 
 
 .. rst-class:: lo-other-deity
+.. _Deities--Other--Archdevils:
 
 Архидьяволы (`Archdevils <https://2e.aonprd.com/DeityCategories.aspx?ID=4>`_)
 ----------------------------------------------------------------------------------------------------------
@@ -364,6 +365,7 @@
 
 
 .. rst-class:: lo-other-deity
+.. _Deities--Other--Queens-of-the-Night:
 
 Королевы Ночи (`Queens of the Night <https://2e.aonprd.com/DeityCategories.aspx?ID=14>`_)
 ----------------------------------------------------------------------------------------------------------
