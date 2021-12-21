@@ -940,7 +940,7 @@ Titles:
 	Sczarni: Скарни
 	Dominion of the Black: "Доминион черноты"
 	Leng: Лэнг
-	Dimension of Dreams: Измерение снов
+	Dimension of Dreams: Измерение Грёз
 	Stone Roads: "Каменные дороги"
 	Onyx Vault: "Ониксовое убежище"
 	Artokus Kirran: Арток Кирран
