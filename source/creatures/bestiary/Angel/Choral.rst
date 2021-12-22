@@ -109,7 +109,7 @@
 | **Постоянные (5-й уровень)**
 | :ref:`spell--t--Tongues`
 
-**Сакральные ритуалы** КС 23; :ref:`ritual--Angelic-Messenger`
+**Ритуалы** КС 23; :ref:`ritual--Angelic-Messenger`
 
 
 **Гармонизация (Harmonize)** |д-1|
