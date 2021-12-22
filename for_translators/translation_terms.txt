@@ -150,8 +150,8 @@ cover: укрытие
 Creature: существо
 	animal: животное, зверь
 	angel: ангел
-		monadic deva: монадический дэв
-		movanic deva: мованический дэв
+		monadic deva: монадический дэва
+		movanic deva: мованический дэва
 	beast: чудовище
 	fiends: бесы (демоны, дьяволы, ...)
 		devil: дьявол
@@ -197,7 +197,7 @@ Creature: существо
 	protean: протей
 	celestial
 		Cassisian: кассисиан
-		Balisse: баллис
+		Balisse: балисc
 		archon: архонт
 	psychopomp: психопомп
 		sahkil: сахкил (злые экс-психопомпы)
