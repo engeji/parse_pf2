@@ -67,13 +67,13 @@
 Потаенная тьма шепчет вам, обучая вас секретам тени за гранью других заклинателей вашего обычая.
 Добавьте в свой список заклинаний:
 
-* :ref:`spell--Shadow-Projectile` :sup:`SOM`
-* :ref:`spell--Replicate` :sup:`SOM`
+* :ref:`spell--Shadow-Projectile` :sup:`SoM`
+* :ref:`spell--Replicate` :sup:`SoM`
 * :ref:`spell--s--Shadow-Blast`
 * :ref:`spell--s--Shadow-Siphon`
 * :ref:`spell--s--Shadow-Walk`
-* :ref:`spell--Shadow-Raid` :sup:`SOM`
-* :ref:`spell--Shadow-Army` :sup:`SOM`
+* :ref:`spell--Shadow-Raid` :sup:`SoM`
+* :ref:`spell--Shadow-Army` :sup:`SoM`
 
 Таким образом, вы потенциально можете изучить эти заклинания, даже, если обычно их нет в списке заклинаний вашего обычая.
 

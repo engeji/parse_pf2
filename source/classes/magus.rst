@@ -418,13 +418,13 @@
 	| :ref:`spell--r--Ray-of-Frost`
 	| :ref:`spell--t--Telekinetic-Projectile`
 	| :ref:`spell--t--Tanglefoot`
-	| :ref:`spell--Gouging-Claw` :sup:`SOM`
+	| :ref:`spell--Gouging-Claw` :sup:`SoM`
 	| **Заклинания 1-го уровня**:
 	| :ref:`spell--s--Shocking-Grasp`
 	| :ref:`spell--r--Ray-of-Enfeeblement`
 	| :ref:`spell--h--Hydraulic-Push`
 	| :ref:`spell--s--Snowball` :sup:`LOWG`
-	| :ref:`spell--Horizon-Thunder-Sphere` :sup:`SOM`
+	| :ref:`spell--Horizon-Thunder-Sphere` :sup:`SoM`
 
 
 Особенности Зачарованного удара (Spellstrike Specifics)
