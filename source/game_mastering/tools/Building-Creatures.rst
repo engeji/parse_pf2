@@ -2238,7 +2238,7 @@
 
 **Сопротивления**: физическое (кроме :ref:`серебра <material--Silver>`), :t_poison:`яд`
 
-**Умение инфернальной иерархии**: Каждый дьявол обладает умением соотносящимся с выполняемой им ролью в инфернальной иерархии, обычно сосредоточенной вокруг контроля или подчинения, от "Покорности (Subservience)" низшего ле́муря (`lemure <https://2e.aonprd.com/Monsters.aspx?ID=108>`_) до "Тактика Коцита (Tactician of Cocytus)" гелугона (`gelugon <https://2e.aonprd.com/Monsters.aspx?ID=113>`_) и "Формирование дьявола (Devil Shaping)" исчадия преисподней (`pit fiend <https://2e.aonprd.com/Monsters.aspx?ID=114>`_).
+**Умение инфернальной иерархии**: Каждый дьявол обладает умением соотносящимся с выполняемой им ролью в инфернальной иерархии, обычно сосредоточенной вокруг контроля или подчинения, от "Покорности (Subservience)" низшего :doc:`ле́муря </creatures/bestiary/Devil/Lemure>` до "Тактика Коцита (Tactician of Cocytus)" :doc:`гелюгона </creatures/bestiary/Devil/Gelugon>` и "Формирование дьявола (Devil Shaping)" :doc:`исчадия преисподней </creatures/bestiary/Devil/Pit-Fiend>`.
 
 **Врожденные сакральные заклинания**: Обычно :ref:`spell--d--Dimension-Door` 5-го уровня и :ref:`spell--d--Dimension-Door` 4-го уровня по желанию
 

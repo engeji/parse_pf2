@@ -142,12 +142,16 @@ condition: состояние
 	Unfriendly: Недружественный
 	Unnoticed: Незамеченный
 	Wounded: Ранен
+cover: укрытие
+	lesser: небольшое
+	standard: стандартное
+	greater: большое
 
 Creature: существо
 	animal: животное, зверь
 	angel: ангел
-		monadic deva: монадический дэв
-		movanic deva: мованический дэв
+		monadic deva: монадический дэва
+		movanic deva: мованический дэва
 	beast: чудовище
 	fiends: бесы (демоны, дьяволы, ...)
 		devil: дьявол
@@ -162,8 +166,8 @@ Creature: существо
 		hezrou: хезру
 		nabasu: набасу
 		vrock: врок
-		sarglagon: осилут
-		osyluth: сарлагон
+		sarglagon: сарлагон
+		osyluth: осилут
 	fungus: грибковый
 	fungi: гриб
 	ooze: слизь
@@ -193,7 +197,7 @@ Creature: существо
 	protean: протей
 	celestial
 		Cassisian: кассисиан
-		Balisse: баллис
+		Balisse: балисc
 		archon: архонт
 	psychopomp: психопомп
 		sahkil: сахкил (злые экс-психопомпы)
@@ -585,6 +589,7 @@ Languages: языки
 
 location: локация, место (в зависимости от контекста)
 Locations:
+	the Pit: Преисподняя
 	Irrisen: Иррисен
 	Lands of the Linnorm Kings: Земли Королей Линнормов
 	Impossible Lands: Невозможные земли
@@ -610,7 +615,6 @@ Locations:
 	Iblydos: Иблидос
 		Iblydan: иблидский (звучит просто оху#нно)
 
-lesser cover: небольшое укрытие
 light: свет
 	bright: яркий
 	dim: тусклый
@@ -934,7 +938,7 @@ Titles:
 	Sczarni: Скарни
 	Dominion of the Black: "Доминион черноты"
 	Leng: Лэнг
-	Dimension of Dreams: Измерение снов
+	Dimension of Dreams: Измерение Грёз
 	Stone Roads: "Каменные дороги"
 	Onyx Vault: "Ониксовое убежище"
 	Artokus Kirran: Арток Кирран
@@ -1101,7 +1105,6 @@ trait: признак / особенность
 	существа
 		amphibious: земноводный
 trigger: триггер (в описании способностей), провоцировать (о срабатывании триггера)
-the Pit: Преисподняя
 
 willing: готовый / готовность
 warden: наблюдатель, смотритель

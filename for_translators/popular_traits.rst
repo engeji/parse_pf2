@@ -68,6 +68,7 @@
 :t_fiend:`бес`
 :t_devil:`дьявол`
 :t_demon:`демон`
+:t_daemon:`дэймон`
 :t_celestial:`небожитель`
 :t_angel:`ангел`
 :t_psychopomp:`психопомп`
@@ -108,6 +109,7 @@
 :t_cursebound:`проклятое`
 :t_curse:`проклятие`
 :t_disease:`болезнь`
+:t_virulent:`вирулентный`
 :t_sleep:`сон`
 :t_alchemical:`алхимический`
 :t_clockwork:`заводной`
