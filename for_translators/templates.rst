@@ -1518,6 +1518,12 @@ d aaaaaaaaa, bbbbbbbbbbb, КС 696969 СПАС
 .. versionchanged:: /errata-LOGM-2
 	изменено
 
+.. versionchanged:: /errata-LOAG-2
+	изменено
+
+.. versionadded:: /errata-LOAG-2
+	изменено
+
 
 .. versionchanged:: /PFS-notes
 	изменено
