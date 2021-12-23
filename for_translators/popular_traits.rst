@@ -10,6 +10,9 @@
 :s_small:`маленький`
 :s_tiny:`крошечный`
 
+:s_medium:`Средний`
+:s_small:`Маленький`
+
 
 :w_agile:`быстрое`
 :w_finesse:`точное`
@@ -27,6 +30,7 @@
 :w_nonlethal:`несмертельное`
 :w_unarmed:`безоружное`
 :w_parry:`парирование`
+:w_twin:`парное`
 :w_backstabber:`предательское`
 :w_backswing:`обратный замах`
 :w_propulsive:`тяговое`
@@ -67,6 +71,7 @@
 :t_fiend:`бес`
 :t_devil:`дьявол`
 :t_demon:`демон`
+:t_daemon:`дэймон`
 :t_celestial:`небожитель`
 :t_angel:`ангел`
 :t_psychopomp:`психопомп`
@@ -107,6 +112,7 @@
 :t_cursebound:`проклятое`
 :t_curse:`проклятие`
 :t_disease:`болезнь`
+:t_virulent:`вирулентный`
 :t_sleep:`сон`
 :t_alchemical:`алхимический`
 :t_clockwork:`заводной`

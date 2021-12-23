@@ -1113,6 +1113,9 @@ section.creature hr {
 	margin: 1px 0;
 }
 
+section.creature p a:first-child[href*="ability_glossary"] {
+	font-weight: bold;
+}
 
 section.creature-details aside.sidebar {
 	background-color: #efede9;

@@ -3,9 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-12-09**
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-12-24**
 
-| Из **Lost Omens: Grand Bazaar** добавлены родословная :doc:`кукол </ancestries_and_backgrounds/ancestries/Poppet>`, 3 архетипа, фамильяры (особые, способности) и звери-компаньоны.
+| Из **Lost Omens: Grand Bazaar** добавлено...  :ref:`всякое <changelog--LOGB--2021-12-24>`.
+| Для данного обновления просто появилась :ref:`changelog--2021-12-24`.
 
 | `Telegram канал <https://t.me/PF2e_RU_channel>`_ - подробные обновления и изменения
 | `Telegram чат <https://t.me/PF2e_RU>`_ - для обратной связи, обсуждения правил и т.п.
@@ -31,3 +32,8 @@ Pathfinder 2E
    creatures/index
    appendix/index
    licenses
+
+.. toctree::
+   :maxdepth: 1
+      
+   changelog
