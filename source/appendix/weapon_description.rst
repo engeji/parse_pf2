@@ -1354,7 +1354,7 @@
 
 .. _weapon--Piranha-Kiss:
 
-Поцелую пираньи (`Piranha Kiss <https://2e.aonprd.com/Weapons.aspx?ID=239>`_)
+Поцелуй пираньи (`Piranha Kiss <https://2e.aonprd.com/Weapons.aspx?ID=239>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Доступ**: Член :ref:`Смутьянов <Faction--Firebrands>`
