@@ -28,12 +28,17 @@ Lost Omens: Grand Bazaar
 
 **Особое**
 
+* :ref:`item--Vampiric-Scythe`
+
 
 
 **ДОСПЕХИ**
 
 
 **ЩИТЫ**
+
+* :ref:`item--Rampart-Shield`
+* :ref:`item--Amaranthine-Pavise`
 
 
 
@@ -50,6 +55,7 @@ Lost Omens: Grand Bazaar
 **УДЕРЖИВАЕМЫЕ**
 
 * :ref:`item--Coin-of-Comfort`
+* :ref:`item--Drum-of-Upheaval`
 
 
 
@@ -58,6 +64,12 @@ Lost Omens: Grand Bazaar
 
 
 **ВОЛШЕБНЫЕ ПАЛОЧКИ**
+
+
+
+**ПОСОХИ**
+
+* :ref:`item--Staff-of-Final-Rest`
 
 
 
@@ -77,6 +89,9 @@ Lost Omens: Grand Bazaar
 **РАСХОДНИКИ**
 
 **Амуниция**
+
+* :ref:`item--Rhino-Shot`
+* :ref:`item--Transposition-Ammunition`
 
 **Зелья**
 
@@ -99,6 +114,7 @@ Lost Omens: Grand Bazaar
 
 **СТРОЕНИЕ**
 
+* :ref:`item--Private-Workshop`
 * :ref:`item--Portable-Gaming-Hall`
 
 
