@@ -11,6 +11,13 @@
 DATE
 =====================================================================================================
 
+.. _changelog--edits--DATE:
+
+Исправления
+---------------------------------------------------------------------------------------------
+
+:ref:`class-feat--Gunslinger--Called-Shot`. Штраф от эффект критического попадания по **ногам** исправлен с -1 фута, на -5 футов.
+
 
 .. _changelog--LOGB--DATE:
 
@@ -108,6 +115,14 @@ Lost Omens: Grand Bazaar
 
 
 **РАСХОДНИКИ**
+
+* :ref:`item--Dragons-Blood-Pudding`
+* :ref:`item--Impossible-Cake`
+* :ref:`item--Fire-and-Iceberg`
+* :ref:`item--Brewers-Regret`
+* :ref:`item--Follypops`
+* :ref:`item--Servers-Stew`
+* :ref:`item--Thrice-Fried-Mudwings`
 
 **Амуниция**
 
