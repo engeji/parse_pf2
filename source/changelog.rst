@@ -39,6 +39,7 @@ Lost Omens: Grand Bazaar
 
 * :ref:`item--Rampart-Shield`
 * :ref:`item--Amaranthine-Pavise`
+* :ref:`item--Krakens-Guard`
 
 
 
@@ -46,6 +47,8 @@ Lost Omens: Grand Bazaar
 **РУНА**
 
 **Доспеха**
+
+* :ref:`item--Stanching`
 
 
 **Оружия**
@@ -55,11 +58,20 @@ Lost Omens: Grand Bazaar
 **УДЕРЖИВАЕМЫЕ**
 
 * :ref:`item--Coin-of-Comfort`
+* :ref:`item--Queasy-Lantern`
 * :ref:`item--Drum-of-Upheaval`
 
 
 
 **НАДЕВАЕМЫЕ**
+
+
+**ТАТУИРОВКИ**
+
+* :ref:`item--Enveloping-Light`
+* :ref:`item--Reflexive-Tattoo`
+* :ref:`item--Crown-of-Insight`
+* :ref:`item--Arctic-Vigor`
 
 
 
@@ -116,6 +128,7 @@ Lost Omens: Grand Bazaar
 
 * :ref:`item--Private-Workshop`
 * :ref:`item--Portable-Gaming-Hall`
+* :ref:`item--Stone-Circle`
 
 
 
