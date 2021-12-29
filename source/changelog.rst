@@ -34,9 +34,12 @@ Lost Omens: Grand Bazaar
 
 **ДОСПЕХИ**
 
+* :ref:`item--Psychic-Brigandine`
+
 
 **ЩИТЫ**
 
+* :ref:`item--Pillow-Shield`
 * :ref:`item--Rampart-Shield`
 * :ref:`item--Amaranthine-Pavise`
 * :ref:`item--Krakens-Guard`
@@ -50,8 +53,10 @@ Lost Omens: Grand Bazaar
 
 * :ref:`item--Stanching`
 
-
 **Оружия**
+
+* :ref:`item--Crushing`
+* :ref:`item--Bloodthirsty`
 
 
 
@@ -64,6 +69,10 @@ Lost Omens: Grand Bazaar
 
 
 **НАДЕВАЕМЫЕ**
+
+* :ref:`item--Dinosaur-Boots`
+* :ref:`item--Quick-Runners-Shirt`
+* :ref:`item--Silhouette-Cloak`
 
 
 **ТАТУИРОВКИ**
@@ -104,6 +113,7 @@ Lost Omens: Grand Bazaar
 
 * :ref:`item--Rhino-Shot`
 * :ref:`item--Transposition-Ammunition`
+* :ref:`item--Singularity-Ammunition`
 
 **Зелья**
 
@@ -116,11 +126,16 @@ Lost Omens: Grand Bazaar
 
 **СИЛКИ**
 
+* :ref:`item--Static-Snare`
+* :ref:`item--Rock-Ripper-Snare`
+* :ref:`item--Pummeling-Snare`
+* :ref:`item--Raining-Knives-Snare`
 * :ref:`item--Glittering-Snare`
 * :ref:`item--Tar-Rocket-Snare`
 * :ref:`item--Wet-Shock-Snare`
 * :ref:`item--Mirror-Ball-Snare`
 * :ref:`item--Burning-Badger-Guts-Snare`
+* :ref:`item--Avalanche-of-Stones-Snare`
 
 
 
