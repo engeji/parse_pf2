@@ -26,6 +26,19 @@ Lost Omens: Grand Bazaar
 
 **СНАРЯЖЕНИЕ**
 
+* :ref:`item--Ball`
+* :ref:`item--Bandalore`
+* :ref:`item--Blocks`
+* :ref:`item--Clay`
+* :ref:`item--Doll`
+* :ref:`item--Games`
+* :ref:`item--Kite`
+* :ref:`item--Magnetic-Construction-Set`
+* :ref:`item--Marbles`
+* :ref:`item--Paint-Set`
+* :ref:`item--Pinwheel`
+* :ref:`item--Puzzle-Box`
+* :ref:`item--Toy-Carriage`
 * :ref:`item--Pickpockets-Tailoring`
 
 
@@ -124,6 +137,9 @@ Lost Omens: Grand Bazaar
 
 
 **Инструменты**
+
+* :ref:`item--Popdust`
+* :ref:`item--Sneezing-Powder`
 
 
 
