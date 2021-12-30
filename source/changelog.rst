@@ -26,6 +26,7 @@ Lost Omens: Grand Bazaar
 
 **СНАРЯЖЕНИЕ**
 
+* :ref:`item--Pickpockets-Tailoring`
 
 
 **ОРУЖИЕ**
@@ -70,14 +71,20 @@ Lost Omens: Grand Bazaar
 **УДЕРЖИВАЕМЫЕ**
 
 * :ref:`item--Coin-of-Comfort`
+* :ref:`item--Wardrobe-Stone`
 * :ref:`item--Queasy-Lantern`
 * :ref:`item--Drum-of-Upheaval`
 
 
-
 **НАДЕВАЕМЫЕ**
 
+* :ref:`item--Dweomerweave-Robe`
+* :ref:`item--Quick-Wig`
+* :ref:`item--Wig-of-Holding`
+* :ref:`item--Shade-Hat`
 * :ref:`item--Dinosaur-Boots`
+* :ref:`item--Energy-Robe`
+* :ref:`item--Mirror-Robe`
 * :ref:`item--Quick-Runners-Shirt`
 * :ref:`item--Silhouette-Cloak`
 

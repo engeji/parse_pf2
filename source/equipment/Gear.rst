@@ -428,8 +428,8 @@
 	| :ref:`Научный журнал <item--Scholarly-Journal>` (уровень 3)                      | 6 зм   | Л     | 1    |
 	| (`Scholarly journal <https://2e.aonprd.com/Equipment.aspx?ID=64>`_)              |        |       |      |
 	|                                                                                  |        |       |      |
-	| | Сборник научных журналов (уровень 3)                                           | 30 зм  | Л     | 2    |
-	| | (Scholarly journal compendium)                                                 |        |       |      |
+	| ] Сборник научных журналов (уровень 3)                                           | 30 зм  | Л     | 2    |
+	| ] (Scholarly journal compendium)                                                 |        |       |      |
 	+----------------------------------------------------------------------------------+--------+-------+------+
 	| :ref:`Обзорная карта <item--Survey-Map>` (уровень 3)                             | 10 зм  | Л     | 1    |
 	| (`Survey map <https://2e.aonprd.com/Equipment.aspx?ID=65>`_)                     |        |       |      |
@@ -454,14 +454,14 @@
 	| :ref:`Развертываемое укрытие <item--Deployable-Cover>` (уровень 1)               | 15 зм  | 1     | 2    |
 	| (`Deployable cover <https://2e.aonprd.com/Equipment.aspx?ID=1098>`_) :sup:`G&G`  |        |       |      |
 	|                                                                                  |        |       |      |
-	| | Развертываемое укрытие, баллистическое                                         | 35 зм  | 1     | 2    |
-	| | (Deployable cover, ballistic) (уровень 2)                                      |        |       |      |
+	| ] Развертываемое укрытие, баллистическое                                         | 35 зм  | 1     | 2    |
+	| ] (Deployable cover, ballistic) (уровень 2)                                      |        |       |      |
 	+----------------------------------------------------------------------------------+--------+-------+------+
 	| :ref:`Абордажный пистолет <item--Grappling-Gun>`                                 | 3 зм   | 1     | 2    |
 	| (`Grappling gun <https://2e.aonprd.com/Equipment.aspx?ID=1099>`_) :sup:`G&G`     |        |       |      |
 	|                                                                                  |        |       |      |
-	| | Абордажный пистолет, заводной                                                  | 15 зм  | 1     | 2    |
-	| | (Grappling gun, clockwork) (уровень 1)                                         |        |       |      |
+	| ] Абордажный пистолет, заводной                                                  | 15 зм  | 1     | 2    |
+	| ] (Grappling gun, clockwork) (уровень 1)                                         |        |       |      |
 	+----------------------------------------------------------------------------------+--------+-------+------+
 	| :ref:`Лампа-аквариум <item--Aquarium-Lamp>` (уровень 8)                          | 1.500  | 20    | —    |
 	| (`Aquarium lamp <https://2e.aonprd.com/Equipment.aspx?ID=1140>`_) :sup:`G&G`     | зм     |       |      |
@@ -515,8 +515,8 @@
 	| (`Camouflage Suit <https://2e.aonprd.com/Equipment.aspx?ID=1201>`_)              |        |       |      |
 	| :sup:`G&G`                                                                       |        |       |      |
 	|                                                                                  |        |       |      |
-	| | Превосходный камуфляжный костюм (уровень 9)                                    | 140 зм | Л     | —    |
-	| | (Superb camouflage suit) :sup:`G&G`                                            |        |       |      |
+	| ] Превосходный камуфляжный костюм (уровень 9)                                    | 140 зм | Л     | —    |
+	| ] (Superb camouflage suit) :sup:`G&G`                                            |        |       |      |
 	+----------------------------------------------------------------------------------+--------+-------+------+
 	| :ref:`Скрытая кобура <item--Concealed-Holster>` (уровень 3)                      | 25 зм  | Л     | —    |
 	| (`Concealed Holster <https://2e.aonprd.com/Equipment.aspx?ID=1202>`_)            |        |       |      |
@@ -541,6 +541,9 @@
 	|                                                                                  |        |       |      |
 	| (`Waterproof firearm carrying case                                               |        |       |      |
 	| <https://2e.aonprd.com/Equipment.aspx?ID=1208>`_) :sup:`G&G`                     |        |       |      |
+	+----------------------------------------------------------------------------------+--------+-------+------+
+	| :ref:`Пошив карманника <item--Pickpockets-Tailoring>` (уровень 4)                | 100 зм | —     | —    |
+	| (`Pickpocket's Tailoring <https://2e.aonprd.com/Equipment.aspx?ID=1320>`_)       |        |       |      |
 	+----------------------------------------------------------------------------------+--------+-------+------+
 	| :ref:`Бандольер меткого стрелка <item--Shootist-Bandolier>`                      | 1 зм   | —     | —    |
 	| (`Shootist bandolier <https://2e.aonprd.com/Equipment.aspx?ID=937>`_)            |        |       |      |
