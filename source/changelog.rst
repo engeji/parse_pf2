@@ -88,6 +88,12 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Quick-Runners-Shirt`
 * :ref:`item--Silhouette-Cloak`
 
+**Компаньон**
+
+* :ref:`item--Hosteling-Statuette`
+* :ref:`item--Waverider-Barding`
+* :ref:`item--Swarmform-Collar`
+
 
 **ТАТУИРОВКИ**
 
