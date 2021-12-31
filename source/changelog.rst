@@ -18,6 +18,8 @@ DATE
 
 :ref:`class-feat--Gunslinger--Called-Shot`. Штраф от эффект критического попадания по **ногам** исправлен с -1 фута, на -5 футов.
 
+В :doc:`/classes/Animal-Companions` раздел :ref:`animal-comp--specs` перенесен для удобства над списком зверей.
+
 
 .. _changelog--LOGB--DATE:
 
@@ -192,6 +194,38 @@ Lost Omens: Grand Bazaar
 
 
 **ТРАНСПОРТ**
+
+
+**ВСПОМОГАТЕЛЬНЫЕ ПРЕДМЕТЫ**
+
+* :ref:`item--Basic-Cane`
+* :ref:`item--Basic-Crutch`
+* :ref:`item--Griffon-Cane`
+* :ref:`item--Probing-Cane`
+* :ref:`item--Basic-Hearing-Aid`
+* :ref:`item--Magical-Hearing-Aid`
+* :ref:`item--Enhanced-Hearing-Aid`
+* :ref:`item--Splint`
+* :ref:`item--Support`
+* :ref:`item--Basic Prosthesis`
+* :ref:`item--Reading-Ring`
+* :ref:`item--Basic-Corrective-Lenses`
+* :ref:`item--Maestros-Chair`
+* :ref:`item--Minotaur-Chair`
+* :ref:`item--Amphibious-Chair`
+* :ref:`item--Chair-Storage`
+* :ref:`item--Reinforced-Wheels`
+* :ref:`item--Wheel-Blades`
+* :ref:`item--Wheel-Spikes`
+* :ref:`item--Impulse-Control`
+* :ref:`item--Amphibious-Chair`
+* :ref:`companion--Legchair` (зверь-компаньон)
+* :ref:`item--Horned-Hand-Rests`
+* :ref:`item--Blast-Foot`
+* :ref:`item--Shifter-Prosthesis`
+* :ref:`item--Eye-of-the-Unseen`
+* :ref:`item--Immovable-Arm`
+
 
 
 
