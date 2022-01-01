@@ -52,6 +52,7 @@ Lost Omens: Grand Bazaar
 **Особое**
 
 * :ref:`item--Vampiric-Scythe`
+* :ref:`item--Vine-of-Roses`
 
 
 
@@ -59,6 +60,8 @@ Lost Omens: Grand Bazaar
 
 * :ref:`item--Sarkorian-God-Caller-Garb`
 * :ref:`item--Psychic-Brigandine`
+* :ref:`item--Harmonic-Hauberk`
+* :ref:`item--Prismatic-Plate`
 
 
 **ЩИТЫ**
@@ -85,6 +88,7 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Hauling`
 * :ref:`item--Anchoring`
 * :ref:`item--Implacable`
+* :ref:`item--Hopeful`
 
 
 
@@ -94,6 +98,7 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Wardrobe-Stone`
 * :ref:`item--Queasy-Lantern`
 * :ref:`item--Drum-of-Upheaval`
+* :ref:`item--Alluring-Scarf`
 
 
 **НАДЕВАЕМЫЕ**
@@ -127,6 +132,7 @@ Lost Omens: Grand Bazaar
 **ВОЛШЕБНЫЕ ПАЛОЧКИ**
 
 * :ref:`item--Wand-of-Fey-Flames`
+* :ref:`item--Wand-of-Thundering-Echoes`
 
 
 **ПОСОХИ**
@@ -191,14 +197,13 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Avalanche-of-Stones-Snare`
 
 
-
 **СТРОЕНИЕ**
 
 * :ref:`item--Private-Workshop`
 * :ref:`item--Portable-Gaming-Hall`
 * :ref:`item--Stone-Circle`
 * :ref:`item--Memory-Palace`
-
+* :ref:`item--Pocket-Gala`
 
 
 **ТРАНСПОРТ**
