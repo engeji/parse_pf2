@@ -90,6 +90,16 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Implacable`
 * :ref:`item--Hopeful`
 
+**Аксессуара**
+
+* :ref:`item--Called`
+* :ref:`item--Presentable`
+* :ref:`item--Snagging`
+* :ref:`item--Soft-Landing`
+* :ref:`item--Dragons-Breath`
+* :ref:`item--Paired`
+* :ref:`item--Wind-Catcher`
+* :ref:`item--Spell-Bastion`
 
 
 **УДЕРЖИВАЕМЫЕ**
