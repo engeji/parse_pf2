@@ -57,11 +57,13 @@ Lost Omens: Grand Bazaar
 
 **ДОСПЕХИ**
 
+* :ref:`item--Sarkorian-God-Caller-Garb`
 * :ref:`item--Psychic-Brigandine`
 
 
 **ЩИТЫ**
 
+* :ref:`item--Wovenwood-Shield`
 * :ref:`item--Pillow-Shield`
 * :ref:`item--Rampart-Shield`
 * :ref:`item--Amaranthine-Pavise`
@@ -80,6 +82,9 @@ Lost Omens: Grand Bazaar
 
 * :ref:`item--Crushing`
 * :ref:`item--Bloodthirsty`
+* :ref:`item--Hauling`
+* :ref:`item--Anchoring`
+* :ref:`item--Implacable`
 
 
 
@@ -121,6 +126,7 @@ Lost Omens: Grand Bazaar
 
 **ВОЛШЕБНЫЕ ПАЛОЧКИ**
 
+* :ref:`item--Wand-of-Fey-Flames`
 
 
 **ПОСОХИ**
@@ -160,6 +166,7 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Rhino-Shot`
 * :ref:`item--Transposition-Ammunition`
 * :ref:`item--Singularity-Ammunition`
+* :ref:`item--Sky-Serpent-Bolt`
 
 **Зелья**
 
@@ -190,6 +197,7 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Private-Workshop`
 * :ref:`item--Portable-Gaming-Hall`
 * :ref:`item--Stone-Circle`
+* :ref:`item--Memory-Palace`
 
 
 
