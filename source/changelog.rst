@@ -73,8 +73,9 @@ Lost Omens: Grand Bazaar
 
 * :ref:`item--Vampiric-Scythe`
 * :ref:`item--Vine-of-Roses`
+* :ref:`item--Skyrider-Sword`
 
-**Драг.металлическое**
+**Драгоценное**
 
 * :ref:`item--Abysium-Weapon`
 * :ref:`item--Djezet-Weapon`
@@ -112,6 +113,17 @@ Lost Omens: Grand Bazaar
 
 
 
+**ВОЛШЕБНЫЕ ПАЛОЧКИ**
+
+* :ref:`item--Wand-of-Fey-Flames`
+* :ref:`item--Wand-of-Thundering-Echoes`
+
+
+**ПОСОХИ**
+
+* :ref:`item--Staff-of-Final-Rest`
+
+
 
 **РУНА**
 
@@ -121,6 +133,7 @@ Lost Omens: Grand Bazaar
 
 **Оружия**
 
+* :ref:`item--Fanged`
 * :ref:`item--Crushing`
 * :ref:`item--Bloodthirsty`
 * :ref:`item--Hauling`
@@ -128,7 +141,7 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Implacable`
 * :ref:`item--Hopeful`
 
-**Аксессуара**
+**Аксессуара** (:ref:`новинка <Runes--Accessory>`)
 
 * :ref:`item--Called`
 * :ref:`item--Presentable`
@@ -168,24 +181,22 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Swarmform-Collar`
 
 
+**ПРИСПОСОБЛЕНИЯ** (можно сказать, что :doc:`новинка </crafting_and_treasure/adjustments>`)
+
+* :ref:`item--Reinforced-Surcoat`
+* :ref:`item--Shield-Augmentation`
+* :ref:`item--Burnished-Plating`
+* :ref:`item--Dragons-Crest`
+* :ref:`item--Twining-Chains`
+
+
+
 **ТАТУИРОВКИ**
 
 * :ref:`item--Enveloping-Light`
 * :ref:`item--Reflexive-Tattoo`
 * :ref:`item--Crown-of-Insight`
 * :ref:`item--Arctic-Vigor`
-
-
-
-**ВОЛШЕБНЫЕ ПАЛОЧКИ**
-
-* :ref:`item--Wand-of-Fey-Flames`
-* :ref:`item--Wand-of-Thundering-Echoes`
-
-
-**ПОСОХИ**
-
-* :ref:`item--Staff-of-Final-Rest`
 
 
 
@@ -197,7 +208,6 @@ Lost Omens: Grand Bazaar
 
 * :ref:`item--Toadskin-Salve`
 * :ref:`item--Abysium-Powder`
-
 
 **Инструменты**
 
@@ -247,6 +257,7 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Avalanche-of-Stones-Snare`
 
 
+
 **СТРОЕНИЕ**
 
 * :ref:`item--Private-Workshop`
@@ -255,8 +266,6 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Memory-Palace`
 * :ref:`item--Pocket-Gala`
 
-
-**ТРАНСПОРТ**
 
 
 **ВСПОМОГАТЕЛЬНЫЕ ПРЕДМЕТЫ**
