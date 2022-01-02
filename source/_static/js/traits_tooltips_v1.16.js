@@ -450,6 +450,7 @@ $(document).ready( function() {
 		"steam": "Паровой (Steam): Вещи с этим признаком приводятся в действие двигателями, которые кипятят воду для получения пара и движения своими компонентами.",
 		"mounted": "Стационарное (Mounted): Стационарные осадные орудия занимают определенный размер и имеют габариты, и обычно имеют показатели чтобы их можно позволяющие атаковать их. Они используются для крупномасштабных военных действий.",
 		"portable": "Переносное (Portable): Переносные осадные орудия, такие как тараны, можно легче переносить, и они играют важную роль как в военных действиях, так и в небольших конфликтах или во время исследования.",
+		"adjustment": "Приспособление (Adjustment): Предметы с этим признаком нужны для изменения существующего снаряжения, обычно доспехов, щитов и оружия. Данный предмет будет помечать, какой вид снаряжения он модифицирует. Приспособление, модифицирующее доспех не может модифицировать одежду исследователя. Одновременно, на единицу снаряжения может воздействовать только 1 приспособление. Если не указано иначе, то для добавления или снятия приспособления требуется использование 10-минутной активности и набор для ремонта.",
 	}
 
 	// Редкость
@@ -800,6 +801,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("паровой")').tooltipster({content: traits_dict["steam"]});
 	$('ul.traits li:textEquals("стационарное")').tooltipster({content: traits_dict["mounted"]});
 	$('ul.traits li:textEquals("переносное")').tooltipster({content: traits_dict["portable"]});
+	$('ul.traits li:textEquals("приспособление")').tooltipster({content: traits_dict["adjustment"]});
 
 
 	$('span.t-attack').tooltipster({content: traits_dict["attack"]});
@@ -1110,4 +1112,5 @@ $(document).ready( function() {
 	$('span.t-steam').tooltipster({content: traits_dict["steam"]});
 	$('span.t-mounted').tooltipster({content: traits_dict["mounted"]});
 	$('span.t-portable').tooltipster({content: traits_dict["portable"]});
+	$('span.t-adjustment').tooltipster({content: traits_dict["adjustment"]});
 });

@@ -55,6 +55,15 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Wheelbarrow`
 
 
+**МАТЕРИАЛЫ**
+
+* :ref:`material--Abysium`
+* :ref:`material--Djezet`
+* :ref:`material--Inubrix`
+* :ref:`material--Noqual`
+* :ref:`material--Siccatite`
+
+
 **ОРУЖИЕ**
 
 **Базовое**
@@ -65,6 +74,14 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Vampiric-Scythe`
 * :ref:`item--Vine-of-Roses`
 
+**Драг.металлическое**
+
+* :ref:`item--Abysium-Weapon`
+* :ref:`item--Djezet-Weapon`
+* :ref:`item--Inubrix-Weapon`
+* :ref:`item--Noqual-Weapon`
+* :ref:`item--Siccatite-Weapon`
+
 
 
 **ДОСПЕХИ**
@@ -73,6 +90,11 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Psychic-Brigandine`
 * :ref:`item--Harmonic-Hauberk`
 * :ref:`item--Prismatic-Plate`
+* :ref:`item--Abysium-Armor`
+* :ref:`item--Djezet-Armor`
+* :ref:`item--Inubrix-Armor`
+* :ref:`item--Noqual-Armor`
+* :ref:`item--Siccatite-Armor`
 
 
 **ЩИТЫ**
@@ -82,6 +104,11 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Rampart-Shield`
 * :ref:`item--Amaranthine-Pavise`
 * :ref:`item--Krakens-Guard`
+* :ref:`item--Abysium-Shield`
+* :ref:`item--Djezet-Shield`
+* :ref:`item--Inubrix-Shield`
+* :ref:`item--Noqual-Shield`
+* :ref:`item--Siccatite-Shield`
 
 
 
@@ -169,6 +196,7 @@ Lost Omens: Grand Bazaar
 **Яд**
 
 * :ref:`item--Toadskin-Salve`
+* :ref:`item--Abysium-Powder`
 
 
 **Инструменты**
@@ -187,6 +215,7 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Follypops`
 * :ref:`item--Servers-Stew`
 * :ref:`item--Thrice-Fried-Mudwings`
+* :ref:`item--Djezet-Dose`
 
 **Амуниция**
 
