@@ -42,6 +42,17 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Puzzle-Box`
 * :ref:`item--Toy-Carriage`
 * :ref:`item--Pickpockets-Tailoring`
+* :ref:`item--Air-Bladder`
+* :ref:`item--Fake-Blood-Pack`
+* :ref:`item--Folding-Ladder`
+* :ref:`item--Mask`
+* :ref:`item--Portable-Ram`
+* :ref:`item--Powder`
+* :ref:`item--Smoked-Goggles`
+* :ref:`item--Swarmsuit`
+* :ref:`item--Tear-Away-Clothing`
+* :ref:`item--Waffle-Iron`
+* :ref:`item--Wheelbarrow`
 
 
 **ОРУЖИЕ**
