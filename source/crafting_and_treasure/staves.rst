@@ -1319,6 +1319,69 @@
 **Требования для создания**: Предоставить одно сотворение всех указанных уровней всех перечисленных заклинаний.
 
 
+.. _item--Staff-of-the-Dreamlands:
+
+Посох Мира Грёз (`Staff of the Dreamlands <https://2e.aonprd.com/Equipment.aspx?ID=1440>`_) / Предмет 6+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- :uncommon:`необычный`
+- посох
+- магический
+- очарование
+
+**Использование**: удерживаемый в 1 руке;
+**Масса**: 1
+
+**Источник**: Lost Omens: Grand Bazaar pg. 111
+
+----------
+
+Вырезанная рука ночной карги (`night hag <https://2e.aonprd.com/Monsters.aspx?ID=257>`_) на конце этого посоха из сандалового дерева сжимает необработанный самоцвет.
+*Посох Мира Грёз* облегчает навигацию и выживание в Мире Грёз, а также узнавание их обитателей.
+Владея этим посохом вы получаете бонус обстоятельства +1 к проверкам Выживания в Мире Грёз и к проверкам :ref:`skill--Recall-Knowledge` существ с признаком :t_dream:`сновидение`.
+
+**Активация**: :ref:`action--Cast-a-Spell`
+
+**Эффект**: Вы тратите количество зарядов из посоха, чтобы сотворить заклинание из его списка
+
+----------
+
+**Вид**: *посох Мира Грёз (staff of the Dreamlands)*
+
+**Уровень**: 6;
+**Цена**: 250 зм
+
+* **Чары**: :ref:`spell--d--Daze`
+* **1-й**: :ref:`spell--a--Alarm`, :ref:`spell--d--Deja-Vu`, :ref:`spell--s--Sleep`
+* **2-й**: :ref:`spell--p--Phantasmal-Treasure`, :ref:`spell--s--Silence`
+
+----------
+
+**Вид**: *отличный посох Мира Грёз (greater staff of the Dreamlands)*
+
+**Уровень**: 12;
+**Цена**: 2.000 зм
+
+* **3-й**: :ref:`spell--d--Dream-Message`
+* **4-й**: :ref:`spell--n--Nightmare`, :ref:`spell--d--Dream-Message`, :ref:`spell--s--Sleep`
+* **5-й**: :ref:`spell--d--Dreaming-Potential`, :ref:`spell--i--Illusory-Scene`
+
+----------
+
+**Вид**: *превосходный посох Мира Грёз (major staff of the Dreamlands)*
+
+**Уровень**: 18;
+**Цена**: 24.000 зм
+
+* **6-й**: :ref:`spell--i--Illusory-Scene`
+* **7-й**: :ref:`spell--p--Project-Image`, :ref:`spell--v--Visions-of-Danger`
+* **8-й**: :ref:`spell--d--Dream-Council`, :ref:`spell--m--Maze`, :ref:`spell--v--Visions-of-Danger`
+
+----------
+
+**Требования для создания**: Предоставить одно сотворение всех указанных уровней всех перечисленных заклинаний.
+
+
 .. _item--Staff-of-Natures-Cunning:
 
 Посох хитрости природы (`Staff of Nature's Cunning <https://2e.aonprd.com/Equipment.aspx?ID=1002>`_) / Предмет 7+

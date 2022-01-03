@@ -74,6 +74,7 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Vampiric-Scythe`
 * :ref:`item--Vine-of-Roses`
 * :ref:`item--Skyrider-Sword`
+* :ref:`item--Ladys-Knife`
 
 **Драгоценное**
 
@@ -122,6 +123,7 @@ Lost Omens: Grand Bazaar
 **ПОСОХИ**
 
 * :ref:`item--Staff-of-Final-Rest`
+* :ref:`item--Staff-of-the-Dreamlands`
 
 
 
@@ -160,6 +162,7 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Queasy-Lantern`
 * :ref:`item--Drum-of-Upheaval`
 * :ref:`item--Alluring-Scarf`
+* :ref:`item--Magnifying-Glass-of-Elucidation`
 
 
 **НАДЕВАЕМЫЕ**
@@ -173,6 +176,10 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Mirror-Robe`
 * :ref:`item--Quick-Runners-Shirt`
 * :ref:`item--Silhouette-Cloak`
+* :ref:`item--Brooch-of-Inspiration`
+* :ref:`item--Crown-of-the-Fire-Eater`
+* :ref:`item--Fleshgem`
+* :ref:`item--Mirror-of-Sleeping-Vigil`
 
 **Компаньон**
 
