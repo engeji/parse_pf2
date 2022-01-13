@@ -6,6 +6,325 @@
 История изменений (Changelog)
 **********************************************************************************************************
 
+.. _changelog--2022-01-13:
+
+2022-01-13
+=====================================================================================================
+
+.. _changelog--edits--2022-01-13:
+
+Исправления
+---------------------------------------------------------------------------------------------
+
+Различные исправления
+
+- **Стрелок**. :ref:`class-feat--Gunslinger--Called-Shot`. Штраф от эффекта критического попадания по **ногам** исправлен с -1 фута, на -5 футов.
+
+- **Монах**. :ref:`class-feat--monk--Peafowl-Stance`. Было написано "безоружные Удары мечом" вместо "ближнего боя".
+
+- **Сорвиголова**. :ref:`class-feat--Swashbuckler--Tumble-Behind`. Была ошибочно указана способностью 1-го уровня, как у плута.
+
+- :doc:`/classes/Animal-Companions`. Раздел :ref:`animal-comp--specs` перенесен для удобства над списком зверей.
+
+- В таблице сокровищ, щит из орихалка был указан как "баклер" (только рус. название). Ссылка все равно ведет на единый предмет "Щит из орихалка".
+
+- В :doc:`списке заклинаний </spells/spell-lists>` у :ref:`spell--s--Sleep` и :ref:`spell--s--Soothe` исправлена пометка о том, что это усиливаемые (:sup:`У`), а не :r_uncommon:`необычные` (:sup:`Н`) заклинания.
+
+- В сводных таблицах оружия, изменена ссылка для патронов и магазинов оружия из "Guns & Gears". Она теперь ведет не на :ref:`item--Black-Powder`, а на общее описание огнестрельной :ref:`амуниции <Guns--Firearms-Ammunition>` и требований для ее изготовления.
+
+
+
+.. _changelog--LOGB--2022-01-13:
+
+Lost Omens: Grand Bazaar
+---------------------------------------------------------------------------------------------
+
+Этим обновлением добавлены все остальные вещи из LOGB.
+
+**СНАРЯЖЕНИЕ** (:ref:`здесь <ch6--Adventuring-Gear>`)
+
+* :ref:`item--Ball`
+* :ref:`item--Bandalore`
+* :ref:`item--Blocks`
+* :ref:`item--Clay`
+* :ref:`item--Doll`
+* :ref:`item--Games`
+* :ref:`item--Kite`
+* :ref:`item--Marbles`
+* :ref:`item--Paint-Set`
+* :ref:`item--Pinwheel`
+* :ref:`item--Puzzle-Box`
+* :ref:`item--Toy-Carriage`
+* :ref:`item--Magnetic-Construction-Set`
+* :ref:`item--Pickpockets-Tailoring`
+* :ref:`item--Air-Bladder`
+* :ref:`item--Fake-Blood-Pack`
+* :ref:`item--Folding-Ladder`
+* :ref:`item--Mask`
+* :ref:`item--Portable-Ram`
+* :ref:`item--Powder`
+* :ref:`item--Smoked-Goggles`
+* :ref:`item--Swarmsuit`
+* :ref:`item--Tear-Away-Clothing`
+* :ref:`item--Waffle-Iron`
+* :ref:`item--Wheelbarrow`
+
+
+**МАТЕРИАЛЫ**
+
+* :ref:`material--Abysium`
+* :ref:`material--Djezet`
+* :ref:`material--Inubrix`
+* :ref:`material--Noqual`
+* :ref:`material--Siccatite`
+
+
+**ОРУЖИЕ**
+
+**Особое**
+
+* :ref:`item--Ladys-Knife`
+* :ref:`item--Vine-of-Roses`
+* :ref:`item--Vampiric-Scythe`
+* :ref:`item--Skyrider-Sword`
+
+**Драгоценное**
+
+* :ref:`item--Inubrix-Weapon`
+* :ref:`item--Siccatite-Weapon`
+* :ref:`item--Abysium-Weapon`
+* :ref:`item--Djezet-Weapon`
+* :ref:`item--Noqual-Weapon`
+
+
+**ДОСПЕХИ**
+
+**Особые**
+
+* :ref:`item--Sarkorian-God-Caller-Garb`
+* :ref:`item--Psychic-Brigandine`
+* :ref:`item--Harmonic-Hauberk`
+* :ref:`item--Prismatic-Plate`
+
+**Драгоценные**
+
+* :ref:`item--Inubrix-Armor`
+* :ref:`item--Abysium-Armor`
+* :ref:`item--Djezet-Armor`
+* :ref:`item--Noqual-Armor`
+* :ref:`item--Siccatite-Armor`
+
+
+**ЩИТЫ**
+
+**Особые**
+
+* :ref:`item--Wovenwood-Shield`
+* :ref:`item--Pillow-Shield`
+* :ref:`item--Amaranthine-Pavise`
+* :ref:`item--Rampart-Shield`
+* :ref:`item--Krakens-Guard`
+
+**Драгоценные**
+
+* :ref:`item--Inubrix-Shield`
+* :ref:`item--Abysium-Shield`
+* :ref:`item--Siccatite-Shield`
+* :ref:`item--Djezet-Shield`
+* :ref:`item--Noqual-Shield`
+
+
+**ВОЛШЕБНЫЕ ПАЛОЧКИ**
+
+* :ref:`item--Wand-of-Fey-Flames`
+* :ref:`item--Wand-of-Thundering-Echoes`
+
+
+**ПОСОХИ**
+
+* :ref:`item--Staff-of-Final-Rest`
+* :ref:`item--Staff-of-the-Dreamlands`
+
+
+**РУНЫ**
+
+**Доспеха**
+
+* :ref:`item--Stanching`
+
+**Оружия**
+
+* :ref:`item--Fanged`
+* :ref:`item--Crushing`
+* :ref:`item--Hauling`
+* :ref:`item--Anchoring`
+* :ref:`item--Implacable`
+* :ref:`item--Hopeful`
+* :ref:`item--Bloodthirsty`
+
+**Аксессуара** (:ref:`новинка <Runes--Accessory>`)
+
+* :ref:`item--Called`
+* :ref:`item--Presentable`
+* :ref:`item--Snagging`
+* :ref:`item--Soft-Landing`
+* :ref:`item--Dragons-Breath`
+* :ref:`item--Paired`
+* :ref:`item--Wind-Catcher`
+* :ref:`item--Spell-Bastion`
+
+
+**УДЕРЖИВАЕМЫЕ**
+
+* :ref:`item--Coin-of-Comfort`
+* :ref:`item--Wardrobe-Stone`
+* :ref:`item--Magnifying-Glass-of-Elucidation`
+* :ref:`item--Queasy-Lantern`
+* :ref:`item--Alluring-Scarf`
+* :ref:`item--Drum-of-Upheaval`
+
+
+**НАДЕВАЕМЫЕ**
+
+* :ref:`item--Dweomerweave-Robe`
+* :ref:`item--Experimental-Clothing`
+* :ref:`item--Quick-Wig`
+* :ref:`item--Wig-of-Holding`
+* :ref:`item--Mirror-Robe`
+* :ref:`item--Shade-Hat`
+* :ref:`item--Quick-Runners-Shirt`
+* :ref:`item--Fleshgem`
+* :ref:`item--Energy-Robe`
+* :ref:`item--Mirror-of-Sleeping-Vigil`
+* :ref:`item--Brooch-of-Inspiration`
+* :ref:`item--Crown-of-the-Fire-Eater`
+* :ref:`item--Dinosaur-Boots`
+* :ref:`item--Silhouette-Cloak`
+
+**Компаньон**
+
+* :ref:`item--Hosteling-Statuette`
+* :ref:`item--Waverider-Barding`
+* :ref:`item--Swarmform-Collar`
+
+
+**ПРИСПОСОБЛЕНИЯ** (можно сказать, что :doc:`новинка </crafting_and_treasure/adjustments>`)
+
+* :ref:`item--Reinforced-Surcoat`
+* :ref:`item--Shield-Augmentation`
+* :ref:`item--Burnished-Plating`
+* :ref:`item--Dragons-Crest`
+* :ref:`item--Twining-Chains`
+
+
+
+**ТАТУИРОВКИ**
+
+* :ref:`item--Enveloping-Light`
+* :ref:`item--Reflexive-Tattoo`
+* :ref:`item--Crown-of-Insight`
+* :ref:`item--Arctic-Vigor`
+
+
+**АЛХИМИЯ**
+
+**Бомбы**
+
+* :ref:`item--Vexing-Vapor`
+
+**Яды**
+
+* :ref:`item--Toadskin-Salve`
+* :ref:`item--Abysium-Powder`
+
+**Расходники**
+
+* :ref:`item--Dragons-Blood-Pudding`
+* :ref:`item--Impossible-Cake`
+* :ref:`item--Fire-and-Iceberg`
+* :ref:`item--Brewers-Regret`
+
+**Инструменты**
+
+* :ref:`item--Popdust`
+* :ref:`item--Sneezing-Powder`
+
+
+**РАСХОДНИКИ**
+
+* :ref:`item--Servers-Stew`
+* :ref:`item--Follypops`
+* :ref:`item--Thrice-Fried-Mudwings`
+* :ref:`item--Djezet-Dose`
+
+**Амуниция**
+
+* :ref:`item--Rhino-Shot`
+* :ref:`item--Sky-Serpent-Bolt`
+* :ref:`item--Transposition-Ammunition`
+* :ref:`item--Singularity-Ammunition`
+
+**Зелья**
+
+* :ref:`item--Dragonfly-Potion`
+
+
+**СИЛКИ**
+
+* :ref:`item--Static-Snare`
+* :ref:`item--Rock-Ripper-Snare`
+* :ref:`item--Glittering-Snare`
+* :ref:`item--Tar-Rocket-Snare`
+* :ref:`item--Pummeling-Snare`
+* :ref:`item--Wet-Shock-Snare`
+* :ref:`item--Mirror-Ball-Snare`
+* :ref:`item--Raining-Knives-Snare`
+* :ref:`item--Burning-Badger-Guts-Snare`
+* :ref:`item--Avalanche-of-Stones-Snare`
+
+
+**СТРОЕНИЕ**
+
+* :ref:`item--Private-Workshop`
+* :ref:`item--Portable-Gaming-Hall`
+* :ref:`item--Stone-Circle`
+* :ref:`item--Memory-Palace`
+* :ref:`item--Pocket-Gala`
+
+
+**ВСПОМОГАТЕЛЬНЫЕ ПРЕДМЕТЫ** (:doc:`раздел </crafting_and_treasure/assistive>`)
+
+* :ref:`item--Basic-Cane`
+* :ref:`item--Basic-Crutch`
+* :ref:`item--Griffon-Cane`
+* :ref:`item--Probing-Cane`
+* :ref:`item--Basic-Hearing-Aid`
+* :ref:`item--Magical-Hearing-Aid`
+* :ref:`item--Enhanced-Hearing-Aid`
+* :ref:`item--Splint`
+* :ref:`item--Support`
+* :ref:`item--Basic Prosthesis`
+* :ref:`item--Reading-Ring`
+* :ref:`item--Basic-Corrective-Lenses`
+* :ref:`item--Maestros-Chair`
+* :ref:`item--Minotaur-Chair`
+* :ref:`item--Chair-Storage`
+* :ref:`item--Reinforced-Wheels`
+* :ref:`item--Wheel-Blades`
+* :ref:`item--Wheel-Spikes`
+* :ref:`item--Impulse-Control`
+* :ref:`item--Amphibious-Chair`
+* :ref:`companion--Legchair` (зверь-компаньон)
+* :ref:`item--Horned-Hand-Rests`
+* :ref:`item--Blast-Foot`
+* :ref:`item--Shifter-Prosthesis`
+* :ref:`item--Eye-of-the-Unseen`
+* :ref:`item--Immovable-Arm`
+
+
+
+
+
 
 .. _changelog--2021-12-24:
 

@@ -614,6 +614,7 @@ Locations:
 	Blythir College: Колледж Блайтир
 	Iblydos: Иблидос
 		Iblydan: иблидский (звучит просто оху#нно)
+	Xin-Edasseril: Зин-Эдассерил
 
 light: свет
 	bright: яркий
@@ -1041,6 +1042,9 @@ Titles:
 		Anquira: Анкира, один из мастеров живущая как автоматон в Осях
 	Briarbough: Брайарбау
 	Zenj: Зенж
+	Ekujae: Экуджей
+	Kevoth‑Kul, the Black Sovereign of Numeria: Кевот-Кул, Черный Повелитель Нумерии
+	
 
 trait: признак / особенность
 	оружие:
