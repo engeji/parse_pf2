@@ -3,10 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2021-12-24**
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-01-13**
 
-| Из **Lost Omens: Grand Bazaar** добавлено...  :ref:`всякое <changelog--LOGB--2021-12-24>`.
-| Для данного обновления просто появилась :ref:`история изменений <changelog--2021-12-24>`.
+| Добавлен остальной контент **Lost Omens: Grand Bazaar** одним большим обновлением. Подробности в :ref:`истории изменений <changelog--2022-01-13>`.
 
 | `Telegram канал <https://t.me/PF2e_RU_channel>`_ - подробные обновления и изменения
 | `Telegram чат <https://t.me/PF2e_RU>`_ - для обратной связи, обсуждения правил и т.п.
