@@ -6,22 +6,30 @@
 История изменений (Changelog)
 **********************************************************************************************************
 
-.. _changelog--DATE:
+.. _changelog--2022-01-13:
 
-DATE
+2022-01-13
 =====================================================================================================
 
-.. _changelog--edits--DATE:
+.. _changelog--edits--2022-01-13:
 
 Исправления
 ---------------------------------------------------------------------------------------------
 
-:ref:`class-feat--Gunslinger--Called-Shot`. Штраф от эффект критического попадания по **ногам** исправлен с -1 фута, на -5 футов.
+**Стрелок**. :ref:`class-feat--Gunslinger--Called-Shot`. Штраф от эффекта критического попадания по **ногам** исправлен с -1 фута, на -5 футов.
 
-В :doc:`/classes/Animal-Companions` раздел :ref:`animal-comp--specs` перенесен для удобства над списком зверей.
+**Монах**. :ref:`class-feat--monk--Peafowl-Stance`. Было написано "безоружные Удары мечом" вместо "ближнего боя".
+
+**Сорвиголова**. :ref:`class-feat--Swashbuckler--Tumble-Behind`. Была ошибочно указана способностью 1-го уровня.
+
+:doc:`/classes/Animal-Companions`. Раздел :ref:`animal-comp--specs` перенесен для удобства над списком зверей.
+
+В таблице сокровищ, щит из орихалка был указан как "баклер" (только рус. название). Ссылка все равно ведет на единый предмет "Щит из орихалка".
+
+В :doc:`списке заклинаний </spells/spell-lists>` у :ref:`spell--s--Sleep` и :ref:`spell--s--Soothe` исправлена пометка о том, что это усиливаемые заклинания (:sup:`У`), а не :r_uncommon:`необычные` (:sup:`Н`).
 
 
-.. _changelog--LOGB--DATE:
+.. _changelog--LOGB--2022-01-13:
 
 Lost Omens: Grand Bazaar
 ---------------------------------------------------------------------------------------------
@@ -35,12 +43,12 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Doll`
 * :ref:`item--Games`
 * :ref:`item--Kite`
-* :ref:`item--Magnetic-Construction-Set`
 * :ref:`item--Marbles`
 * :ref:`item--Paint-Set`
 * :ref:`item--Pinwheel`
 * :ref:`item--Puzzle-Box`
 * :ref:`item--Toy-Carriage`
+* :ref:`item--Magnetic-Construction-Set`
 * :ref:`item--Pickpockets-Tailoring`
 * :ref:`item--Air-Bladder`
 * :ref:`item--Fake-Blood-Pack`
@@ -66,52 +74,57 @@ Lost Omens: Grand Bazaar
 
 **ОРУЖИЕ**
 
-**Базовое**
-
-
 **Особое**
 
-* :ref:`item--Vampiric-Scythe`
-* :ref:`item--Vine-of-Roses`
-* :ref:`item--Skyrider-Sword`
 * :ref:`item--Ladys-Knife`
+* :ref:`item--Vine-of-Roses`
+* :ref:`item--Vampiric-Scythe`
+* :ref:`item--Skyrider-Sword`
 
 **Драгоценное**
 
+* :ref:`item--Inubrix-Weapon`
+* :ref:`item--Siccatite-Weapon`
 * :ref:`item--Abysium-Weapon`
 * :ref:`item--Djezet-Weapon`
-* :ref:`item--Inubrix-Weapon`
 * :ref:`item--Noqual-Weapon`
-* :ref:`item--Siccatite-Weapon`
-
 
 
 **ДОСПЕХИ**
+
+**Особые**
 
 * :ref:`item--Sarkorian-God-Caller-Garb`
 * :ref:`item--Psychic-Brigandine`
 * :ref:`item--Harmonic-Hauberk`
 * :ref:`item--Prismatic-Plate`
+
+**Драгоценные**
+
+* :ref:`item--Inubrix-Armor`
 * :ref:`item--Abysium-Armor`
 * :ref:`item--Djezet-Armor`
-* :ref:`item--Inubrix-Armor`
 * :ref:`item--Noqual-Armor`
 * :ref:`item--Siccatite-Armor`
 
 
 **ЩИТЫ**
 
+**Особые**
+
 * :ref:`item--Wovenwood-Shield`
 * :ref:`item--Pillow-Shield`
-* :ref:`item--Rampart-Shield`
 * :ref:`item--Amaranthine-Pavise`
+* :ref:`item--Rampart-Shield`
 * :ref:`item--Krakens-Guard`
-* :ref:`item--Abysium-Shield`
-* :ref:`item--Djezet-Shield`
-* :ref:`item--Inubrix-Shield`
-* :ref:`item--Noqual-Shield`
-* :ref:`item--Siccatite-Shield`
 
+**Драгоценные**
+
+* :ref:`item--Inubrix-Shield`
+* :ref:`item--Abysium-Shield`
+* :ref:`item--Siccatite-Shield`
+* :ref:`item--Djezet-Shield`
+* :ref:`item--Noqual-Shield`
 
 
 **ВОЛШЕБНЫЕ ПАЛОЧКИ**
@@ -126,8 +139,7 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Staff-of-the-Dreamlands`
 
 
-
-**РУНА**
+**РУНЫ**
 
 **Доспеха**
 
@@ -137,11 +149,11 @@ Lost Omens: Grand Bazaar
 
 * :ref:`item--Fanged`
 * :ref:`item--Crushing`
-* :ref:`item--Bloodthirsty`
 * :ref:`item--Hauling`
 * :ref:`item--Anchoring`
 * :ref:`item--Implacable`
 * :ref:`item--Hopeful`
+* :ref:`item--Bloodthirsty`
 
 **Аксессуара** (:ref:`новинка <Runes--Accessory>`)
 
@@ -159,27 +171,28 @@ Lost Omens: Grand Bazaar
 
 * :ref:`item--Coin-of-Comfort`
 * :ref:`item--Wardrobe-Stone`
-* :ref:`item--Queasy-Lantern`
-* :ref:`item--Drum-of-Upheaval`
-* :ref:`item--Alluring-Scarf`
 * :ref:`item--Magnifying-Glass-of-Elucidation`
+* :ref:`item--Queasy-Lantern`
+* :ref:`item--Alluring-Scarf`
+* :ref:`item--Drum-of-Upheaval`
 
 
 **НАДЕВАЕМЫЕ**
 
 * :ref:`item--Dweomerweave-Robe`
+* :ref:`item--Experimental-Clothing`
 * :ref:`item--Quick-Wig`
 * :ref:`item--Wig-of-Holding`
-* :ref:`item--Shade-Hat`
-* :ref:`item--Dinosaur-Boots`
-* :ref:`item--Energy-Robe`
 * :ref:`item--Mirror-Robe`
+* :ref:`item--Shade-Hat`
 * :ref:`item--Quick-Runners-Shirt`
-* :ref:`item--Silhouette-Cloak`
+* :ref:`item--Fleshgem`
+* :ref:`item--Energy-Robe`
+* :ref:`item--Mirror-of-Sleeping-Vigil`
 * :ref:`item--Brooch-of-Inspiration`
 * :ref:`item--Crown-of-the-Fire-Eater`
-* :ref:`item--Fleshgem`
-* :ref:`item--Mirror-of-Sleeping-Vigil`
+* :ref:`item--Dinosaur-Boots`
+* :ref:`item--Silhouette-Cloak`
 
 **Компаньон**
 
@@ -206,15 +219,23 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Arctic-Vigor`
 
 
-
 **АЛХИМИЯ**
 
-**Бомба**
+**Бомбы**
 
-**Яд**
+* :ref:`item--Vexing-Vapor`
+
+**Яды**
 
 * :ref:`item--Toadskin-Salve`
 * :ref:`item--Abysium-Powder`
+
+**Расходники**
+
+* :ref:`item--Dragons-Blood-Pudding`
+* :ref:`item--Impossible-Cake`
+* :ref:`item--Fire-and-Iceberg`
+* :ref:`item--Brewers-Regret`
 
 **Инструменты**
 
@@ -222,47 +243,37 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Sneezing-Powder`
 
 
-
 **РАСХОДНИКИ**
 
-* :ref:`item--Dragons-Blood-Pudding`
-* :ref:`item--Impossible-Cake`
-* :ref:`item--Fire-and-Iceberg`
-* :ref:`item--Brewers-Regret`
-* :ref:`item--Follypops`
 * :ref:`item--Servers-Stew`
+* :ref:`item--Follypops`
 * :ref:`item--Thrice-Fried-Mudwings`
 * :ref:`item--Djezet-Dose`
 
 **Амуниция**
 
 * :ref:`item--Rhino-Shot`
+* :ref:`item--Sky-Serpent-Bolt`
 * :ref:`item--Transposition-Ammunition`
 * :ref:`item--Singularity-Ammunition`
-* :ref:`item--Sky-Serpent-Bolt`
 
 **Зелья**
 
 * :ref:`item--Dragonfly-Potion`
 
 
-**Гаджеты**
-
-
-
 **СИЛКИ**
 
 * :ref:`item--Static-Snare`
 * :ref:`item--Rock-Ripper-Snare`
-* :ref:`item--Pummeling-Snare`
-* :ref:`item--Raining-Knives-Snare`
 * :ref:`item--Glittering-Snare`
 * :ref:`item--Tar-Rocket-Snare`
+* :ref:`item--Pummeling-Snare`
 * :ref:`item--Wet-Shock-Snare`
 * :ref:`item--Mirror-Ball-Snare`
+* :ref:`item--Raining-Knives-Snare`
 * :ref:`item--Burning-Badger-Guts-Snare`
 * :ref:`item--Avalanche-of-Stones-Snare`
-
 
 
 **СТРОЕНИЕ**
@@ -274,8 +285,7 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Pocket-Gala`
 
 
-
-**ВСПОМОГАТЕЛЬНЫЕ ПРЕДМЕТЫ**
+**ВСПОМОГАТЕЛЬНЫЕ ПРЕДМЕТЫ** (:doc:`раздел </crafting_and_treasure/assistive>`)
 
 * :ref:`item--Basic-Cane`
 * :ref:`item--Basic-Crutch`
@@ -291,7 +301,6 @@ Lost Omens: Grand Bazaar
 * :ref:`item--Basic-Corrective-Lenses`
 * :ref:`item--Maestros-Chair`
 * :ref:`item--Minotaur-Chair`
-* :ref:`item--Amphibious-Chair`
 * :ref:`item--Chair-Storage`
 * :ref:`item--Reinforced-Wheels`
 * :ref:`item--Wheel-Blades`

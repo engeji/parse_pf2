@@ -1298,7 +1298,7 @@
 
 Бонус обстоятельства к броскам урона равен +2.
 
-* **3-й**: :ref:`spell--h--Heal`, :ref:`spell--d--Disrupting-Weapons`, :ref:`spell--b--Bind-Undead`
+* **3-й**: :ref:`spell--b--Bind-Undead`, :ref:`spell--h--Heal`, :ref:`spell--d--Disrupting-Weapons`
 * **4-й**: :ref:`spell--h--Holy-Cascade`, :ref:`spell--h--Heal`
 
 ----------
