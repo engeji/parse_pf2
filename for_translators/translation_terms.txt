@@ -30,7 +30,7 @@ actions:
 	Point Out: Указать :ref:`action--Point-Out`
 	Take Cover: Укрыться :ref:`action--Take-Cover`
 	Stand: Встать :ref:`action--Stand`
-	Escape: Вырваться :ref:`action--Escape`
+	Escape: Вырваться :ref:`action--Escape` / :ref:`Вырваться (Escape) <action--Escape>`
 	Grab an Edge: Схватиться за уступ :ref:`action--Grab-an-Edge`
 	Crawl: Ползти :ref:`action--Crawl`
 	Mount: Оседлать :ref:`action--Mount`
