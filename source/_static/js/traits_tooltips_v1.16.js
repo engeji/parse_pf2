@@ -371,7 +371,7 @@ $(document).ready( function() {
 		"dero": "Дэро (dero): Это семейство гуманоидов являются потомками существ-фей, которые пали во тьму и смятение после того, как были брошены в Темноземье. Они невосприимчивы к \"замешательству\" и уязвимы для солнечного света.",
 		"genie": "Гений (genie): Разнообразные семейства гениев занимают видное положение на Стихийных планах. Они обладают мощными магическими способностями.",
 		"ghost": "Привидение (ghost): Заблудшие души, которые бродят по миру как бестелесная нежить называются привидениями.",
-		"ghoul": "Упырь (ghoul): Упыри - злобная нежить, которая поедает плоть.",
+		"ghoul": "Гуль (ghoul): Гули - злобная нежить, которая поедает плоть.",
 		"gnoll": "Гнолл (gnoll): Гноллы - гуманоиды напоминающие гиен.",
 		"golem": "Голем (golem): Големы - особый вид конструктов. Големы иммунны почти к любой магии, но у большинства есть слабость к определенным заклинаниям.",
 		"gremlin": "Гремлин (gremlin): Будучи жестокими и вредными феями, гремлины привыкли к жизни на Материальном плане.",
@@ -722,7 +722,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("дэро")').tooltipster({content: traits_dict["dero"]});
 	$('ul.traits li:textEquals("гений")').tooltipster({content: traits_dict["genie"]});
 	$('ul.traits li:textEquals("привидение")').tooltipster({content: traits_dict["ghost"]});
-	$('ul.traits li:textEquals("упырь")').tooltipster({content: traits_dict["ghoul"]});
+	$('ul.traits li:textEquals("гуль")').tooltipster({content: traits_dict["ghoul"]});
 	$('ul.traits li:textEquals("гнолл")').tooltipster({content: traits_dict["gnoll"]});
 	$('ul.traits li:textEquals("голем")').tooltipster({content: traits_dict["golem"]});
 	$('ul.traits li:textEquals("гремлин")').tooltipster({content: traits_dict["gremlin"]});

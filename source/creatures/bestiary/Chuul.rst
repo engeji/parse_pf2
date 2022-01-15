@@ -73,7 +73,7 @@
 
 **ОЗ**: 100
 
-**Иммунитеты**: яд
+**Иммунитеты**: :t_poison:`яд`
 
 :ref:`cr_ability--Attack-of-Opportunity` |д-р|
 

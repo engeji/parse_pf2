@@ -47,17 +47,17 @@
 **Твердость**: 14
 
 **Иммунитеты**:
+:w_nonlethal:`несмертельные` атаки,
 эффекты :t_death:`смерти`,
+:t_necromancy:`некромантия`,
+:t_healing:`исцеление`,
+:t_mental:`ментальный`,
 :t_disease:`болезнь`,
+:t_poison:`яд`,
 :c_doomed:`обреченность`,
 :c_drained:`истощение`,
 :c_fatigued:`утомление`,
-:t_healing:`исцеление`,
-:t_mental:`ментальный`,
-:t_necromancy:`некромантия`,
-:w_nonlethal:`несмертельные` атаки,
 :c_paralyzed:`паралич`,
-:t_poison:`яд`,
 :c_sickened:`тошнота`,
 :c_unconscious:`без сознания`
 

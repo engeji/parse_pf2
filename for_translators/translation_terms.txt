@@ -237,7 +237,7 @@ Creature: существо
 	asura rana: асура рана
 	charau-ka: чарау-ка
 	nalfeshnee: нальфешни
-	lacedon: ласэдан (упырь-утопец, водный)
+	lacedon: ласэдан (гуль-утопец, водный)
 	agrawgh: эграг
 	grioth: гриот
 	мitflit: митфлиты

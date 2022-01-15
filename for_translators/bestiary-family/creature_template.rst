@@ -111,16 +111,18 @@
 бонус состояния +9999 ко всем спасброскам против магии
 
 **ОЗ**: 999999,
-:ref:`быстрое исцеление <cr_ability--Fast-Healing>` 5
+:ref:`быстрое исцеление <cr_ability--Fast-Healing>` 5,
+:ref:`негативное исцеление <cr_ability--Negative-Healing>`
 
 **Иммунитеты**:
+:ref:`критические попадания <ch9--Damage--Immunity--Critical-Hit>`,
+точный урон,
 колющий,
 рубящий,
 дробящий,
-точный урон,
 магия,
 огонь,
-яд,
+:t_poison:`яд`,
 :ref:`разум роя <cr_ability--Swarm-Mind>`,
 :ref:`иммунитеты объекта <ch6--Object-Immunities>`
 
