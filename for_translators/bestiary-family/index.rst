@@ -8,8 +8,8 @@
 
 **Источник**: Bestiary # pg. ##
 
-.. sidebar:: |rules|
 .. sidebar:: |lore|
+.. sidebar:: |rules|
 .. sidebar:: |locations|
 .. sidebar:: |creatures|
 .. sidebar:: |treasure|
@@ -33,8 +33,8 @@
 .. rst-class:: h3
 .. rubric:: ЗАГОЛОВОК (HEADER)
 
-|rules|
 |lore|
+|rules|
 |locations|
 |creatures|
 |treasure|

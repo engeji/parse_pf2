@@ -6,8 +6,8 @@
 НАЗВАНИЕ (TITLE)
 ============================================================================================================
 
-.. sidebar:: |rules|
 .. sidebar:: |lore|
+.. sidebar:: |rules|
 .. sidebar:: |locations|
 .. sidebar:: |creatures|
 .. sidebar:: |treasure|
@@ -57,6 +57,7 @@
 :ref:`жизнечувствительность <cr_ability--Lifesense>`,
 :ref:`нюх <cr_ability--Scent>` (точное / неточное) ## футов,
 :ref:`волночувствительность <cr_ability--Wavesense>` (точное / неточное) ## футов,
+:ref:`жизнечувствительность <cr_ability--Lifesense>` 60 футов,
 :ref:`link <11111>`,
 :ref:`spell--t--True-Seeing`,
 *истинное зрение*,
@@ -147,6 +148,10 @@
 
 **АВТОМАТИЧЕСКИЕ_УМЕНИЯ (ABILITY_TITLE)**
 (признак0)
+
+:ref:`cr_ability--Frightful-Presence`
+(:t_aura:`аура`, :t_fear:`страх`, :t_emotion:`эмоция`, :t_mental:`ментальный`)
+11111111111111 футов, КС 22222222222222222222
 
 
 :ref:`cr_ability--Attack-of-Opportunity` |д-р|
