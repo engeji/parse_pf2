@@ -3477,8 +3477,8 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 
 .. _bg--Alkenstar-Tinker:
 
-Алкенстарский изобретатель (`Alkenstar Tinker <https://2e.aonprd.com/Backgrounds.aspx?ID=88>`_) / Предыстория
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Алкенстарский умелец (`Alkenstar Tinker <https://2e.aonprd.com/Backgrounds.aspx?ID=88>`_) / Предыстория
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: World Guide pg. 82
 
@@ -3511,7 +3511,7 @@ Cчетовод (`Bookkeeper <https://2e.aonprd.com/Backgrounds.aspx?ID=167>`_) 
 
 .. _bg--Mana-Wastes-Refugee:
 
-Беженец Пустошей маны (`Mana Wastes Refugee <https://2e.aonprd.com/Backgrounds.aspx?ID=90>`_) / Предыстория
+Беженец Пустошей Маны (`Mana Wastes Refugee <https://2e.aonprd.com/Backgrounds.aspx?ID=90>`_) / Предыстория
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Lost Omens: World Guide pg. 82
