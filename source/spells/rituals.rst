@@ -940,7 +940,7 @@
 | **4-й уровень**: :doc:`/creatures/bestiary/Will-o-Wisp`
 | **5-й уровень**: Пожиратель душ (`Soul eater <https://2e.aonprd.com/Monsters.aspx?ID=811>`_)
 | **6-й уровень**: Сгусток пустоты (`Voidglutton <https://2e.aonprd.com/Monsters.aspx?ID=1041>`_)
-| **7-й уровень**: Ужасающий рэйф (`Dread wraith <https://2e.aonprd.com/Monsters.aspx?ID=865>`_)
+| **7-й уровень**: :doc:`/creatures/bestiary/Wraith/Dread-Wraith`
 | **8-й уровень**: Привидение мага (`Ghost mage <https://2e.aonprd.com/Monsters.aspx?ID=217>`_)
 | **9-й уровень**: Госрег (`Gosreg <https://2e.aonprd.com/Monsters.aspx?ID=687>`_)
 | **10-й уровень**: Сияющее дитя (`Shining Child <https://2e.aonprd.com/Monsters.aspx?ID=367>`_)
