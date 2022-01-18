@@ -1158,4 +1158,4 @@ weapons:
 	polytool: мультитул
 	Tekko-kagi: сюко
 
-worshipper: верующий
+worshipper: поклоняющийся, верующий
