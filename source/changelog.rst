@@ -6,6 +6,56 @@
 История изменений (Changelog)
 **********************************************************************************************************
 
+.. _changelog--DATE:
+
+DATE
+=====================================================================================================
+
+.. _changelog--changes--DATE:
+
+Изменения
+---------------------------------------------------------------------------------------------
+
+Изменения:
+
+- Признак "сновидение" переименован в :t_dream:`грёзы`.
+
+
+.. _changelog--edits--DATE:
+
+Исправления
+---------------------------------------------------------------------------------------------
+
+ОПИСАНИЕ
+
+
+.. _changelog--creatures--DATE:
+
+Бестиарий
+---------------------------------------------------------------------------------------------
+
+Новые семейства существ:
+
+* :doc:`/creatures/bestiary/Demon/index` (17) Бестиарии 1-3
+* :doc:`/creatures/bestiary/Kobold/index` (3) Бестиарий 1
+* :doc:`/creatures/bestiary/Goblin/index` (4) Бестиарий 1
+* :doc:`/creatures/bestiary/Hobgoblin/index` (3) Бестиарий 1
+* :doc:`/creatures/bestiary/Bugbear/index` (2) Бестиарий 1
+* :doc:`/creatures/bestiary/Barghest/index` (2) Бестиарий 1
+* :doc:`/creatures/bestiary/Wight/index` (2) Бестиарий 1-2
+* :doc:`/creatures/bestiary/Ghost/index` (2) Бестиарий 1 + правила из AP165
+* :doc:`/creatures/bestiary/Shadow/index` (2) Бестиарий 1
+* :doc:`/creatures/bestiary/Wraith/index` (2) Бестиарий 1-2
+
+Новые отдельные существа:
+
+* :doc:`/creatures/bestiary/Dullahan` Бестиарий 1
+* :doc:`/creatures/bestiary/Goblin-Dog` Бестиарий 1
+
+
+
+
+
 .. _changelog--2022-01-13:
 
 2022-01-13

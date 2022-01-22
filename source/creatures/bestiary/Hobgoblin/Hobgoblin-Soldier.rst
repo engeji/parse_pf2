@@ -84,4 +84,3 @@
 
 
 .. include:: /helpers/actions.rst
-.. include:: /helpers/bestiary-icons.rst

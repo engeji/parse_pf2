@@ -67,7 +67,7 @@
 
 **Уязвимость к чистоте (Purity Vulnerability)**:
 Хезру наслаждается источаемым им нечистотами, и приходит в смятение, когда очищаются загрязнения.
-Когда первый раз в раунд в пределах 30 футов от хезру очищается загрязнение (например, с помощью :ref:`spell--p--Purify-Food-And-Drink`) или нейтрализуется токсин (например, с помощью :ref:`spell--n--Neutralize-Poison`) демон получает 6d6 ментального урона.
+Когда первый раз в раунд, в пределах 30 футов от хезру очищается загрязнение (например, с помощью :ref:`spell--p--Purify-Food-And-Drink`) или нейтрализуется токсин (например, с помощью :ref:`spell--n--Neutralize-Poison`) демон получает 6d6 ментального урона.
 
 
 **Вонь (Stench)**
@@ -110,11 +110,13 @@
 | :ref:`spell--d--Divine-Wrath` (по желанию)
 | :ref:`spell--g--Gaseous-Form`
 
-**Ритуалы** КС 27; :ref:`ritual--Abyssal-Pact`
+**Ритуалы** КС 27
+
+| :ref:`ritual--Abyssal-Pact`
+| :ref:`ritual--Blight`
 
 
 
 
 
 .. include:: /helpers/actions.rst
-.. include:: /helpers/bestiary-icons.rst

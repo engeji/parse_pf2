@@ -142,6 +142,7 @@ condition: состояние
 	Unfriendly: Недружественный
 	Unnoticed: Незамеченный
 	Wounded: Ранен
+corporeal: материальный (о существе)
 cover: укрытие
 	lesser: небольшое
 	standard: стандартное

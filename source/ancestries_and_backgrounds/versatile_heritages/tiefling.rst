@@ -341,7 +341,7 @@
 Вы получаете сопротивление 5 этому типу урона.
 
 Хоть вы и можете выбрать любой из этих типов энергетического урона, обычно он соответствует бесу связанному с вашим родом.
-Например, :ref:`ancestry-feat--Tiefling--Hellspawn` может выбрать сопротивление огню, или :ref:`ancestry-feat--Tiefling--Pitborn` с предком :ref:`вроком </creatures/bestiary/Demon/Vrock>` может выбрать сопротивление электричеству.
+Например, :ref:`ancestry-feat--Tiefling--Hellspawn` может выбрать сопротивление огню, или :ref:`ancestry-feat--Tiefling--Pitborn` с предком :doc:`вроком </creatures/bestiary/Demon/Vrock>` может выбрать сопротивление электричеству.
 
 
 .. _ancestry-feat--Tiefling--Malicious-Bane:

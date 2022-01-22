@@ -1120,7 +1120,8 @@ section.creature hr {
 	margin: 1px 0;
 }
 
-section.creature p a:first-child[href*="ability_glossary"] {
+section.creature p a:first-child[href*="ability_glossary"],
+section.creature-details p a:first-child[href*="ability_glossary"] {
 	font-weight: bold;
 }
 
