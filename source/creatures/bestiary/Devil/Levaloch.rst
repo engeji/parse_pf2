@@ -72,12 +72,12 @@
 
 **Иммунитеты**:
 :w_nonlethal:`несмертельные` атаки,
-:t_disease:`болезнь`,
-:t_poison:`яд`,
 эффекты :t_death:`смерти`,
 :t_fire:`огонь`,
 :t_necromancy:`некромантия`,
 :t_healing:`исцеление`,
+:t_disease:`болезнь`,
+:t_poison:`яд`,
 :c_doomed:`обречен`,
 :c_drained:`истощен`,
 :c_fatigued:`утомление`,

@@ -30,7 +30,7 @@ actions:
 	Point Out: Указать :ref:`action--Point-Out`
 	Take Cover: Укрыться :ref:`action--Take-Cover`
 	Stand: Встать :ref:`action--Stand`
-	Escape: Вырваться :ref:`action--Escape`
+	Escape: Вырваться :ref:`action--Escape` / :ref:`Вырваться (Escape) <action--Escape>`
 	Grab an Edge: Схватиться за уступ :ref:`action--Grab-an-Edge`
 	Crawl: Ползти :ref:`action--Crawl`
 	Mount: Оседлать :ref:`action--Mount`
@@ -142,6 +142,7 @@ condition: состояние
 	Unfriendly: Недружественный
 	Unnoticed: Незамеченный
 	Wounded: Ранен
+corporeal: материальный (о существе)
 cover: укрытие
 	lesser: небольшое
 	standard: стандартное
@@ -237,7 +238,7 @@ Creature: существо
 	asura rana: асура рана
 	charau-ka: чарау-ка
 	nalfeshnee: нальфешни
-	lacedon: ласэдан (упырь-утопец, водный)
+	lacedon: ласэдан (гуль-утопец, водный)
 	agrawgh: эграг
 	grioth: гриот
 	мitflit: митфлиты
@@ -1158,4 +1159,4 @@ weapons:
 	polytool: мультитул
 	Tekko-kagi: сюко
 
-worshipper: верующий
+worshipper: поклоняющийся, верующий

@@ -382,6 +382,7 @@
 
 
 .. rst-class:: lo-other-deity
+.. _Deities--Other--Demon-Lords:
 
 Повелители демонов (`Demon Lords <https://2e.aonprd.com/DeityCategories.aspx?ID=5>`_)
 ----------------------------------------------------------------------------------------------------------

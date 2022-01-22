@@ -6,8 +6,8 @@
 НАЗВАНИЕ (TITLE)
 ============================================================================================================
 
-.. sidebar:: |rules|
 .. sidebar:: |lore|
+.. sidebar:: |rules|
 .. sidebar:: |locations|
 .. sidebar:: |creatures|
 .. sidebar:: |treasure|
@@ -54,7 +54,7 @@
 :ref:`сильное ночное зрение <cr_ability--Darkvision>`,
 :ref:`сумеречное зрение <cr_ability--Low-Light-Vision>`,
 :ref:`виброчувствительность <cr_ability--Tremorsense>` (неточное точное) 999999 футов,
-:ref:`жизнечувствительность <cr_ability--Lifesense>`,
+:ref:`жизнечувствительность <cr_ability--Lifesense>` ## футов,
 :ref:`нюх <cr_ability--Scent>` (точное / неточное) ## футов,
 :ref:`волночувствительность <cr_ability--Wavesense>` (точное / неточное) ## футов,
 :ref:`link <11111>`,
@@ -111,16 +111,18 @@
 бонус состояния +9999 ко всем спасброскам против магии
 
 **ОЗ**: 999999,
-:ref:`быстрое исцеление <cr_ability--Fast-Healing>` 5
+:ref:`быстрое исцеление <cr_ability--Fast-Healing>` 5,
+:ref:`негативное исцеление <cr_ability--Negative-Healing>`
 
 **Иммунитеты**:
+:ref:`критические попадания <ch9--Damage--Immunity--Critical-Hit>`,
+точный урон,
 колющий,
 рубящий,
 дробящий,
-точный урон,
 магия,
 огонь,
-яд,
+:t_poison:`яд`,
 :ref:`разум роя <cr_ability--Swarm-Mind>`,
 :ref:`иммунитеты объекта <ch6--Object-Immunities>`
 
@@ -145,6 +147,10 @@
 
 **АВТОМАТИЧЕСКИЕ_УМЕНИЯ (ABILITY_TITLE)**
 (признак0)
+
+:ref:`cr_ability--Frightful-Presence`
+(:t_aura:`аура`, :t_fear:`страх`, :t_emotion:`эмоция`, :t_mental:`ментальный`)
+11111111111111 футов, КС 22222222222222222222
 
 
 :ref:`cr_ability--Attack-of-Opportunity` |д-р|

@@ -371,7 +371,7 @@ $(document).ready( function() {
 		"dero": "Дэро (dero): Это семейство гуманоидов являются потомками существ-фей, которые пали во тьму и смятение после того, как были брошены в Темноземье. Они невосприимчивы к \"замешательству\" и уязвимы для солнечного света.",
 		"genie": "Гений (genie): Разнообразные семейства гениев занимают видное положение на Стихийных планах. Они обладают мощными магическими способностями.",
 		"ghost": "Привидение (ghost): Заблудшие души, которые бродят по миру как бестелесная нежить называются привидениями.",
-		"ghoul": "Упырь (ghoul): Упыри - злобная нежить, которая поедает плоть.",
+		"ghoul": "Гуль (ghoul): Гули - злобная нежить, которая поедает плоть.",
 		"gnoll": "Гнолл (gnoll): Гноллы - гуманоиды напоминающие гиен.",
 		"golem": "Голем (golem): Големы - особый вид конструктов. Големы иммунны почти к любой магии, но у большинства есть слабость к определенным заклинаниям.",
 		"gremlin": "Гремлин (gremlin): Будучи жестокими и вредными феями, гремлины привыкли к жизни на Материальном плане.",
@@ -391,7 +391,7 @@ $(document).ready( function() {
 		"xulgath": "Зулгат (xulgath): Эти подземные рептилоидные существа, как правило, обладают ночным зрением и ужасно пахнут.",
 		"zombie": "Зомби (zombie): Эта нежить - неразумные гниющие тела, жаждущие живой плоти.",
 		"couatl": "Коатль (couatl): Семейство сверхъестественных пернатых змей, которые на Материальном плане служат хранителями и посланниками для различных божеств доброго мировоззрения.",
-		"dream": "Сновидение (dream): Существа, обитающие в \"Измерении Cнов\", могут быть любого мировоззрения и обладать разнообразными умениями, хотя те, что связаны с царством кошмаров Лэнг, почти всегда злые и невосприимчивы к отрицательным температурам этой реальности.",
+		"dream": "Грёзы (dream): Существа, обитающие в \"Измерении Грёз\", могут быть любого мировоззрения и обладать разнообразными умениями, хотя те, что связаны с царством кошмаров Лэнг, почти всегда злые и иммунны к отрицательным температурам этой реальности.",
 		"morlock": "Морлок (morlock): Морлоки это семейство бледных, живущих под землей гуманоидов, которые несколько поколений назад были обычными людьми.",
 		"petitioner": "Проситель (petitioner): Просители это души умерших смертных, которые были осуждены и затем отправлены на план лучше всего отражающий прожитую ими жизнь, а также они преобразовываются в существ населяющих эти планы. Просители могут пережить основные эффекты окружающей среды своего родного плана.",
 		"serpentfolk": "Змеелюд (serpentfolk): Змеелюди это семейство змеевидных гуманоидов.",
@@ -722,7 +722,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("дэро")').tooltipster({content: traits_dict["dero"]});
 	$('ul.traits li:textEquals("гений")').tooltipster({content: traits_dict["genie"]});
 	$('ul.traits li:textEquals("привидение")').tooltipster({content: traits_dict["ghost"]});
-	$('ul.traits li:textEquals("упырь")').tooltipster({content: traits_dict["ghoul"]});
+	$('ul.traits li:textEquals("гуль")').tooltipster({content: traits_dict["ghoul"]});
 	$('ul.traits li:textEquals("гнолл")').tooltipster({content: traits_dict["gnoll"]});
 	$('ul.traits li:textEquals("голем")').tooltipster({content: traits_dict["golem"]});
 	$('ul.traits li:textEquals("гремлин")').tooltipster({content: traits_dict["gremlin"]});
@@ -742,7 +742,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("зулгат")').tooltipster({content: traits_dict["xulgath"]});
 	$('ul.traits li:textEquals("зомби")').tooltipster({content: traits_dict["zombie"]});
 	$('ul.traits li:textEquals("коатль")').tooltipster({content: traits_dict["couatl"]});
-	$('ul.traits li:textEquals("сновидение")').tooltipster({content: traits_dict["dream"]});
+	$('ul.traits li:textEquals("грёзы")').tooltipster({content: traits_dict["dream"]});
 	$('ul.traits li:textEquals("морлок")').tooltipster({content: traits_dict["morlock"]});
 	$('ul.traits li:textEquals("проситель")').tooltipster({content: traits_dict["petitioner"]});
 	$('ul.traits li:textEquals("змеелюд")').tooltipster({content: traits_dict["serpentfolk"]});
