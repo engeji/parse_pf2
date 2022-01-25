@@ -444,6 +444,20 @@ $(document).ready( function() {
 		"reckless": "Безрассудство (reckless): Действия с признаком \"безрассудство\" могут привести к тому, что пилот потеряет управление транспортным средством. При выполнении безрассудного действия пилот должен сначала совершить подходящую проверку пилотирования, чтобы сохранить контроль над транспортным средством.",
 		"cursed": "Проклятый (cursed): Предмет с этим признаком проклят, чтобы причинять неприятности своему хозяину. Проклятие не обнаруживается при идентификации предмета, но критический успех показывает наличие и точную природу проклятия. Проклятые предметы нельзя выбросить после того, как они сработали или были инвестированы в первый раз. Убрать предмет можно только в том случае, если снято проклятие.",
 		"intelligent": "Разумный (intelligent): Предмет с этим признаком является разумным и обладает собственной волей и личностью, а также рядом характеристик, которых нет у большинства предметов. Разумные предметы нельзя создать обычным способом, и они всегда редкие или уникальные.",
+		"finite": "Конечный (finite): Планы с этим признаком состоят из ограниченного пространства.",
+		"immeasurable": "Неизмеримый (immeasurable): Планы с этим признаком неизмеримо велики, возможно, бесконечны.",
+		"unbounded": "Безграничный (unbounded): Планы с этим признаком закольцовываются на себе, когда существо достигает \"края\" плана.",
+		"high-gravity": "Высокая гравитация (high gravity): На планах с этим признаком гравитационные силы намного сильнее, чем на Материальном Плане.",
+		"low-gravity": "Низкая гравитация (low gravity): На планах с этим признаком гравитационные силы намного слабее, чем на Материальном Плане.",
+		"microgravity": "Микрогравитация (microgravity): На планах с этим признаком практически отсутствует гравитация.",
+		"strange-gravity": "Странная гравитация (strange gravity): На планах с этим признаком, все массивные тела, вне зависимости от размера, являются центрами притяжения с примерно одинаковой силой.",
+		"subjective-gravity": "Субъективная гравитация (subjective gravity): На планах с этим признаком все массивные тела могут быть центрами притяжения с одинаковой силой, но только если не \"неразумное\" существо пожелает этого.",
+		"erratic": "Неустойчивый (erratic): У планов с этим признаком течение времени замедляется или ускоряется относительно других планов.",
+		"flowing": "Текущий (flowing): У планов с этим признаком течение времени постоянно быстрее или медленнее, чем у других планов.",
+		"timeless": "Вневременной (timeless): На планах с этим признаком время все еще идет, но его влияние уменьшается.",
+		"metamorphic": "Метаморфный (metamorphic): На планах с этим признаком физическая природа плана может быть изменена не только физической силой или магией.",
+		"sentient": "Чувствующий (sentient): Планы с этим признаком могут изменять свою физическую природу по собственному желанию.",
+		"static": "Статичный (static): Физическая природа плана с этим признаком не может быть изменена никаким образом.",
 		"gadget": "Гаджет (Gadget): Гаджеты это расходуемые технологические изобретения с инновационным применением.",
 		"modification": "Модификация (Modification): Способность с этим признаком изменяет конструкцию вашей инновации. Если у вас есть классовая особенность Перенастройка (Reconfigure) / 3-й, то вы можете легче переобучиться такой способности.",
 		"unstable": "Нестабильный (Unstable): Нестабильные действия используют экспериментальное применение вашей инновации, которое даже вы не можете полностью предсказать, и которое опасно для вашей инновации (и возможно для вас). Когда вы совершаете нестабильное действие, сразу же после применения его эффектов выполните чистую проверку КС 17. При провале, инновация выходит из строя, захватывающим образом (хотя и безвредным), например, извергается дым или сноп искр, и ее нельзя применять для дальнейших нестабильных действий. При критическом провале, вы еще получаете урон огнем, равный своему уровню. Как создатель инновации, вы можете провести 10 минут за ремонтом и внесением изменений в инновацию, чтобы вернуть ее функциональность, после чего вы снова сможете использовать с этой инновацией нестабильные действия. Чтобы выполнить нестабильное действие, вы должны использовать свою инновацию (например, носить инновационные доспехи или владеть инновационным оружием). Если у вас есть инновационный миньон, некоторые нестабильные действия вместо вас совершает миньон. В этих случаях только миньон может совершить это действие, и миньону надо Командовать в этот ход, чтобы он совершил это действие. Если вы критически проваливаете чистую проверку, миньон получает урон вместо вас. Некоторые действия имеют запись \"Нестабильная функция (Unstable Function)\", которую вы можете использовать для добавления признака \"нестабильный\", чтобы получить значительную выгоду. Если вы не можете использовать нестабильные действия, вы все равно можете применять такое действие в нормальном режиме, но не можете использовать нестабильную функцию.",
@@ -795,6 +809,20 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("безрассудство")').tooltipster({content: traits_dict["reckless"]});
 	$('ul.traits li:textEquals("проклятый")').tooltipster({content: traits_dict["cursed"]});
 	$('ul.traits li:textEquals("разумный")').tooltipster({content: traits_dict["intelligent"]});
+	$('ul.traits li:textEquals("конечный")').tooltipster({content: traits_dict["finite"]});
+	$('ul.traits li:textEquals("неизмеримый")').tooltipster({content: traits_dict["immeasurable"]});
+	$('ul.traits li:textEquals("безграничный")').tooltipster({content: traits_dict["unbounded"]});
+	$('ul.traits li:textEquals("высокая гравитация")').tooltipster({content: traits_dict["high-gravity"]});
+	$('ul.traits li:textEquals("низкая гравитация")').tooltipster({content: traits_dict["low-gravity"]});
+	$('ul.traits li:textEquals("микрогравитация")').tooltipster({content: traits_dict["microgravity"]});
+	$('ul.traits li:textEquals("странная гравитация")').tooltipster({content: traits_dict["strange-gravity"]});
+	$('ul.traits li:textEquals("субъективная гравитация")').tooltipster({content: traits_dict["subjective-gravity"]});
+	$('ul.traits li:textEquals("неустойчивый")').tooltipster({content: traits_dict["erratic"]});
+	$('ul.traits li:textEquals("текущий")').tooltipster({content: traits_dict["flowing"]});
+	$('ul.traits li:textEquals("вневременной")').tooltipster({content: traits_dict["timeless"]});
+	$('ul.traits li:textEquals("метаморфный")').tooltipster({content: traits_dict["metamorphic"]});
+	$('ul.traits li:textEquals("чувствующий")').tooltipster({content: traits_dict["sentient"]});
+	$('ul.traits li:textEquals("статичный")').tooltipster({content: traits_dict["static"]});
 	$('ul.traits li:textEquals("гаджет")').tooltipster({content: traits_dict["gadget"]});
 	$('ul.traits li:textEquals("модификация")').tooltipster({content: traits_dict["modification"]});
 	$('ul.traits li:textEquals("нестабильный")').tooltipster({content: traits_dict["unstable"]});
@@ -1106,6 +1134,20 @@ $(document).ready( function() {
 	$('span.t-reckless').tooltipster({content: traits_dict["reckless"]});
 	$('span.t-cursed').tooltipster({content: traits_dict["cursed"]});
 	$('span.t-intelligent').tooltipster({content: traits_dict["intelligent"]});
+	$('span.t-finite').tooltipster({content: traits_dict["finite"]});
+	$('span.t-immeasurable').tooltipster({content: traits_dict["immeasurable"]});
+	$('span.t-unbounded').tooltipster({content: traits_dict["unbounded"]});
+	$('span.t-high-gravity').tooltipster({content: traits_dict["high-gravity"]});
+	$('span.t-low-gravity').tooltipster({content: traits_dict["low-gravity"]});
+	$('span.t-microgravity').tooltipster({content: traits_dict["microgravity"]});
+	$('span.t-strange-gravity').tooltipster({content: traits_dict["strange-gravity"]});
+	$('span.t-subjective-gravity').tooltipster({content: traits_dict["subjective-gravity"]});
+	$('span.t-erratic').tooltipster({content: traits_dict["erratic"]});
+	$('span.t-flowing').tooltipster({content: traits_dict["flowing"]});
+	$('span.t-timeless').tooltipster({content: traits_dict["timeless"]});
+	$('span.t-metamorphic').tooltipster({content: traits_dict["metamorphic"]});
+	$('span.t-sentient').tooltipster({content: traits_dict["sentient"]});
+	$('span.t-static').tooltipster({content: traits_dict["static"]});
 	$('span.t-gadget').tooltipster({content: traits_dict["gadget"]});
 	$('span.t-modification').tooltipster({content: traits_dict["modification"]});
 	$('span.t-unstable').tooltipster({content: traits_dict["unstable"]});

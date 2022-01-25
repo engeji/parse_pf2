@@ -176,7 +176,7 @@ Creature: существо
 	spirit: дух
 	hag: карга
 		annis: эннис
-	extraplanar: межпланарный
+	extraplanar: экстрапланарный
 	monitor: наблюдатель
 	lizardfolk: людоящер
 	dragon
@@ -616,6 +616,7 @@ Locations:
 	Iblydos: Иблидос
 		Iblydan: иблидский (звучит просто оху#нно)
 	Xin-Edasseril: Зин-Эдассерил
+	Dark Tapestry: Темный Гобелен
 
 light: свет
 	bright: яркий
@@ -660,11 +661,18 @@ proficiency bonus: бонус мастерства
 plane: план
 	Great Beyond: Великое Запределье
 	Demiplane: демиплан
+		Cynosure: Путеводная Звезда
+		Refuge of Nex: Прибежище Некса
+		Hao‑Jin Tapestry: Гобелен Хао-Джин
+		Akashic Record: Акашийская Хроника; Хроника Акаши
+		The Prison of the Laughing Fiend: Тюрьма Смеющегося Беса
+		Dead Vault: Мертвое Хранилище
 	Outer Sphere: Внешняя Сфера
 	Hell: Ад
 	Abyss: Бездна
 	Abaddon: Абаддон
 	Astral: Астральный
+		Silver Sea: Серебряное Море
 	Heaven: Небесный
 	Elysium: Элизиум
 	Elemental: Стихийный
@@ -673,6 +681,12 @@ plane: план
 	Ethereal: Эфирный
 	Boneyard: Могильник
 	Maelstrom: Мальстрем
+		Cerulean Void: Лазурная Пустота
+		Borderlands: Пограничья
+		Galisemni: Галисемни
+	Nirvana: Нирвана
+		High Ninshabur: Высокий Ниншабур
+		Llourith: Ллоурит
 	Dreamlands: Мир Грёз
 	Bloodrot: Бладрот
 	Immortal Ambulatory: Вечное Странствие
@@ -889,7 +903,6 @@ Titles:
 	Shining Crusade: Сияющий Поход
 	Firebrands: Смутьяны
 	Magaambyan: Магаамбия
-	Akashic Record: Акашийская Хроника; Хроника Акаши
 	Fleshwarp: Искажение плоти
 	Fleshforges of Nex: Формирующие плоть Некса
 	Ravounel: Равунел
@@ -938,7 +951,7 @@ Titles:
 	Rasp: Расп
 	Vidrian: Видриан
 	Sczarni: Скарни
-	Dominion of the Black: "Доминион черноты"
+	Dominion of the Black: Доминион Черноты
 	Leng: Лэнг
 	Dimension of Dreams: Измерение Грёз
 	Stone Roads: "Каменные дороги"
@@ -1045,6 +1058,7 @@ Titles:
 	Zenj: Зенж
 	Ekujae: Экуджей
 	Kevoth‑Kul, the Black Sovereign of Numeria: Кевот-Кул, Черный Повелитель Нумерии
+	Speakers of the Depths: Ораторы Глубин
 	
 
 trait: признак / особенность

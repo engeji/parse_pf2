@@ -2519,6 +2519,8 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 Игровым персонажам в водной среде нужен способ дышать (обычно с помощью заклинания :ref:`spell--w--Water-Breathing`) и обычно нужно :ref:`Плавать (Swim) <skill--Athletics--Swim>`, чтобы двигаться, однако персонажи опускающиеся на дно могут неуклюже ходить, используя правила сложной местности.
 Персонажи в водной среде часто используют правила для :ref:`ch9--Aquatic-Combat` и :ref:`ch9--Enc--Drowning-Suffocation`.
 
+Смотрите также :ref:`Давление воды в игре (Water Pressure in Gaming) <sidebar--Water-Pressure-in-Gaming>` :sup:`LOGB`.
+
 .. _ch10--Environment--Currents:
 
 Течения и текущая вода (Currents and Flowing Water)
