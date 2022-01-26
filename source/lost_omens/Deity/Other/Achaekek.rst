@@ -27,10 +27,9 @@
 
 **Мировоззрение последователей**: ПН, ПЗ, НЗ (LN, LE, NE)
 
-**Отношения**:
-:doc:`Grandmother-Spider` (сестра)
+**Отношения**: :doc:`Grandmother-Spider` (сестра)
 
-**Царство**: Кровавая Долина (Могильник)
+**Царство**: Кровавая Долина (:ref:`plane--Boneyard`)
 
 **Верующие**: :ref:`Faction--Red-Mantis`, :ref:`archetype--Red-Mantis-Assassin`, ассасины
 

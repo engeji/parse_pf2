@@ -22,7 +22,8 @@
 **Продолжительность**: 1 минута
 
 **Божества**:
-:doc:`/lost_omens/Deity/Monitor-Demigod/Imot`
+:doc:`/lost_omens/Deity/Monitor-Demigod/Imot`,
+:doc:`/lost_omens/Deity/Other/More/Gyronna`
 
 ----------
 

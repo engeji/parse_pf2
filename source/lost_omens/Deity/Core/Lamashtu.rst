@@ -30,7 +30,7 @@
 
 **Мировоззрение последователей**: ХЗ (CE)
 
-**Царство**: Иркалла (Kurnugia) (Бездна)
+**Царство**: Иркалла (Kurnugia) (:ref:`plane--Abyss`)
 
 **Союзники**: :doc:`/lost_omens/Deity/Other/Ghlaunder`
 

@@ -860,7 +860,7 @@
 :doc:`/lost_omens/Deity/Core/Lamashtu`,
 :ref:`Deities--Other--Demon-Lords`,
 :doc:`/lost_omens/Deity/Other/Ghlaunder`,
-Gyronna (TODO https://2e.aonprd.com/Deities.aspx?ID=153),
+:doc:`/lost_omens/Deity/Other/More/Gyronna`,
 :doc:`/lost_omens/Deity/Dwarven-God/Droskar`,
 :doc:`/lost_omens/Deity/Tian-God/Lady-Nanbyo`,
 Камасоц (Camazotz),

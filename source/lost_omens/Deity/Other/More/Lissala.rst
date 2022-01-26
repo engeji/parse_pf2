@@ -32,6 +32,8 @@
 
 **Мировоззрение последователей**: ПН, ПЗ (LN, LE)
 
+**Царство**: :ref:`plane--Axis`
+
 **Источник**:
 Lost Omens: Gods & Magic pg. 130-131,
 The Flooded Cathedral pg. 71,

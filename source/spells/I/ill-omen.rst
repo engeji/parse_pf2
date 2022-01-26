@@ -28,7 +28,8 @@
 :doc:`/lost_omens/Deity/Outer-God-and-Great-Old-One/Azathoth`,
 :doc:`/lost_omens/Deity/Other/More/Ahriman`,
 :doc:`/lost_omens/Deity/Other/More/Lubaiko`,
-:doc:`/lost_omens/Deity/Other/More/Zyphus`
+:doc:`/lost_omens/Deity/Other/More/Zyphus`,
+:doc:`/lost_omens/Deity/Other/More/Gyronna`
 
 **Источник**: Advanced Player's Guide pg. 221, Lost Omens: Gods & Magic pg. 108
 
