@@ -3450,10 +3450,17 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 Здесь представлены различные инструменты, которые помогут вам легко и быстро создавать для игры свои собственные элементы, а также некоторые специальные типы правил, которые вы можете внедрить в свою игру, например, больше опасностей и странных магических предметов.
 
 .. toctree::
-   :glob:
    :maxdepth: 2
 
-   tools/*
+   tools/Building-Creatures
+   tools/Building-Hazards
+   tools/Building-Items
+   tools/Item-Quirks
+   tools/Intelligent-Items
+   tools/Cursed-Items
+   tools/Relics
+   tools/The-Planes
+   tools/Artifacts
 
 
 
