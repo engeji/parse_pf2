@@ -3459,8 +3459,8 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
    tools/Intelligent-Items
    tools/Cursed-Items
    tools/Relics
-   tools/The-Planes
    tools/Artifacts
+   tools/The-Planes
 
 
 
