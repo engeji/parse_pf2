@@ -932,7 +932,7 @@ Titles:
 	Pathfinder Society: Общество Pathfinder
 	Aspis Consortium: Консорциум Асписов
 	Eye of Dread: Око ужаса
-	Gravelands: Могильные земли
+	Gravelands: Могильные Земли
 	Everstand: Эверстэнд
 	Ozem: Озэм
 	Shining Crusade: Сияющий Поход
