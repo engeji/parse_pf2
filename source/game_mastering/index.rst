@@ -3462,6 +3462,8 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
    tools/Artifacts
    tools/Gems-Art-Objects
    tools/Afflictions
+   tools/Building-Worlds
+   tools/Nations
    tools/The-Planes
 
 
