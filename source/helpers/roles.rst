@@ -235,6 +235,8 @@
 
 .. role:: t_aura
 
+.. role:: settlement_type
+
 
 .. role:: t_attack
 

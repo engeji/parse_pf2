@@ -1368,7 +1368,14 @@ section > h2 + ul li p span.size,
 section > h3 + ul li p span.size,
 section > h4 + ul li p span.size,
 section > h5 + ul li p span.size,
-section > h6 + ul li p span.size {
+section > h6 + ul li p span.size,
+ul.traits li p span.settlement_type,
+section > h1 + ul li p span.settlement-type,
+section > h2 + ul li p span.settlement-type,
+section > h3 + ul li p span.settlement-type,
+section > h4 + ul li p span.settlement-type,
+section > h5 + ul li p span.settlement-type,
+section > h6 + ul li p span.settlement-type {
 	background-color: #3b7b59;
 	box-sizing: content-box;
 	display: inline-block;
