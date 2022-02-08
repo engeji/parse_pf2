@@ -444,6 +444,7 @@ $(document).ready( function() {
 		"reckless": "Безрассудство (reckless): Действия с признаком \"безрассудство\" могут привести к тому, что пилот потеряет управление транспортным средством. При выполнении безрассудного действия пилот должен сначала совершить подходящую проверку пилотирования, чтобы сохранить контроль над транспортным средством.",
 		"cursed": "Проклятый (cursed): Предмет с этим признаком проклят, чтобы причинять неприятности своему хозяину. Проклятие не обнаруживается при идентификации предмета, но критический успех показывает наличие и точную природу проклятия. Проклятые предметы нельзя выбросить после того, как они сработали или были инвестированы в первый раз. Убрать предмет можно только в том случае, если снято проклятие.",
 		"intelligent": "Разумный (intelligent): Предмет с этим признаком является разумным и обладает собственной волей и личностью, а также рядом характеристик, которых нет у большинства предметов. Разумные предметы нельзя создать обычным способом, и они всегда редкие или уникальные.",
+		"drug": "Наркотик (drug): Предмет с этим признаком является наркотиком, ядом который дает кратковременные преимущества в дополнение к вредным побочным эффектам и долговременным последствиям. Каждый раз, когда существо принимает наркотик, оно должно совершить спасбросок против зависимости к этому наркотику.",
 		"finite": "Конечный (finite): Планы с этим признаком состоят из ограниченного пространства.",
 		"immeasurable": "Неизмеримый (immeasurable): Планы с этим признаком неизмеримо велики, возможно, бесконечны.",
 		"unbounded": "Безграничный (unbounded): Планы с этим признаком закольцовываются на себе, когда существо достигает \"края\" плана.",
@@ -809,6 +810,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("безрассудство")').tooltipster({content: traits_dict["reckless"]});
 	$('ul.traits li:textEquals("проклятый")').tooltipster({content: traits_dict["cursed"]});
 	$('ul.traits li:textEquals("разумный")').tooltipster({content: traits_dict["intelligent"]});
+	$('ul.traits li:textEquals("наркотик")').tooltipster({content: traits_dict["drug"]});
 	$('ul.traits li:textEquals("конечный")').tooltipster({content: traits_dict["finite"]});
 	$('ul.traits li:textEquals("неизмеримый")').tooltipster({content: traits_dict["immeasurable"]});
 	$('ul.traits li:textEquals("безграничный")').tooltipster({content: traits_dict["unbounded"]});
@@ -1134,6 +1136,7 @@ $(document).ready( function() {
 	$('span.t-reckless').tooltipster({content: traits_dict["reckless"]});
 	$('span.t-cursed').tooltipster({content: traits_dict["cursed"]});
 	$('span.t-intelligent').tooltipster({content: traits_dict["intelligent"]});
+	$('span.t-drug').tooltipster({content: traits_dict["drug"]});
 	$('span.t-finite').tooltipster({content: traits_dict["finite"]});
 	$('span.t-immeasurable').tooltipster({content: traits_dict["immeasurable"]});
 	$('span.t-unbounded').tooltipster({content: traits_dict["unbounded"]});
