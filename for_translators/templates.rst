@@ -147,8 +147,10 @@
 .. rst-class:: condensed-part-table
 .. rst-class:: condensed-table
 .. _table--#-##:
+.. _table--GMG--#-##:
 
 .. table:: Таблица #-##: НАЗВАНИЕ (TITLE)
+.. table:: Таблица GMG #-##: НАЗВАНИЕ (TITLE)
 
 	+---------+------+-------+------+
 	| Предмет | Цена | Масса | Стр. |

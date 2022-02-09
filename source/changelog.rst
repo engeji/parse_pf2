@@ -6,6 +6,90 @@
 История изменений (Changelog)
 **********************************************************************************************************
 
+.. _changelog--DATE:
+
+DATE
+=====================================================================================================
+
+.. _changelog--changes--DATE:
+
+Изменения
+---------------------------------------------------------------------------------------------
+
+ОПИСАНИЕ
+
+
+.. _changelog--edits--DATE:
+
+Исправления
+---------------------------------------------------------------------------------------------
+
+Исправления
+
+- В заклинании :ref:`spell--a--Avatar` было 2 формы для :doc:`/lost_omens/Deity/Other/More/Adanye` с разными характеристиками. Вторая форма принадлежит :doc:`Балумбдару </lost_omens/Deity/Other/More/Balumbdar>`.
+- :ref:`spell--d--Divine-Vessel`. "Если вы были среднего или маленького размера" исправлено на "среднего размера или менее".
+
+
+.. _changelog--BOOKACRONYM--DATE:
+
+BOOKTITLE
+---------------------------------------------------------------------------------------------
+
+ОПИСАНИЕ
+
+Инструментарий
+
+- :doc:`/game_mastering/tools/Building-Hazards`
+- :doc:`/game_mastering/tools/Building-Items`
+- :doc:`/game_mastering/tools/Item-Quirks`
+- :doc:`/game_mastering/tools/Artifacts`
+- :doc:`/game_mastering/tools/Gems-Art-Objects`
+- :doc:`/game_mastering/tools/Afflictions`
+- :doc:`/game_mastering/tools/Building-Worlds`
+- :doc:`/game_mastering/tools/Nations`
+- :doc:`/game_mastering/tools/Settlements`
+- :doc:`/game_mastering/tools/The-Planes`
+
+
+ОПАСНОСТИ
+
+Простые
+
+- :ref:`hazard--Shrieker`
+- :ref:`hazard--Snowfall`
+- :ref:`hazard--Hampering-Web`
+- :ref:`hazard--Brown-Mold`
+- :ref:`hazard--Treacherous-Scree`
+- :ref:`hazard--Titanic-Flytrap`
+- :ref:`hazard--Spectral-Reflection`
+- :ref:`hazard--Ghostly-Choir`
+- :ref:`hazard--Green-Slime`
+- :ref:`hazard--Jealous-Abjurer`
+- :ref:`hazard--Plummeting-Doom`
+- :ref:`hazard--Grasp-of-the-Damned`
+
+Комплексные
+
+- :ref:`hazard--Eternal-Flame`
+- :ref:`hazard--Confounding-Betrayal`
+- :ref:`hazard--Perilous-Flash-Flood`
+- :ref:`hazard--Flensing-Blades`
+- :ref:`hazard--Dance-of-Death`
+
+
+.. _changelog--other--DATE:
+
+Остальное
+---------------------------------------------------------------------------------------------
+
+Добавлены:
+
+- Из книги "Gods & Magic" было пропущено божество :doc:`/lost_omens/Deity/Other/More/Gyronna`.
+
+
+
+
+
 .. _changelog--2022-01-22:
 
 2022-01-22
