@@ -28,16 +28,35 @@ DATE
 
 - В заклинании :ref:`spell--a--Avatar` было 2 формы для :doc:`/lost_omens/Deity/Other/More/Adanye` с разными характеристиками. Вторая форма принадлежит :doc:`Балумбдару </lost_omens/Deity/Other/More/Balumbdar>`.
 - :ref:`spell--d--Divine-Vessel`. "Если вы были среднего или маленького размера" исправлено на "среднего размера или менее".
+- В сноске :ref:`Месяцы и дни (Months And Days) <sidebar--Months-And-Days>` исправлено оригинальное название пятницы на "fireday".
 
 
-.. _changelog--BOOKACRONYM--DATE:
+.. _changelog--GMG--DATE:
 
-BOOKTITLE
+Руководство игрового мастера (Gamemastery Guide)
 ---------------------------------------------------------------------------------------------
 
 ОПИСАНИЕ
 
-Инструментарий
+Добавлен раздел :ref:`GMG--Gamemastery-Basics`:
+
+- :doc:`/game_mastering/GMG-Basics/Introduction`
+- :doc:`/game_mastering/GMG-Basics/General-Advice`
+- :doc:`/game_mastering/GMG-Basics/Running-Encounters`
+- :doc:`/game_mastering/GMG-Basics/Running-Exploration`
+- :doc:`/game_mastering/GMG-Basics/Running-Downtime`
+- :doc:`/game_mastering/GMG-Basics/Adjudicating-Rules`
+- :doc:`/game_mastering/GMG-Basics/Resolving-Problems`
+- :doc:`/game_mastering/GMG-Basics/Narrative-Collaboration`
+- :doc:`/game_mastering/GMG-Basics/Special-Circumstances`
+- :doc:`/game_mastering/GMG-Basics/Rarity-in-Your-Game`
+- :doc:`/game_mastering/GMG-Basics/Campaign-Structure`
+- :doc:`/game_mastering/GMG-Basics/Adventure-Design`
+- :doc:`/game_mastering/GMG-Basics/Encounter-Design`
+- :doc:`/game_mastering/GMG-Basics/Drawing-Maps`
+
+
+В :ref:`GMG--Tools` добавлены разделы:
 
 - :doc:`/game_mastering/tools/Building-Hazards`
 - :doc:`/game_mastering/tools/Building-Items`
@@ -51,9 +70,9 @@ BOOKTITLE
 - :doc:`/game_mastering/tools/The-Planes`
 
 
-ОПАСНОСТИ
+Добавлены :doc:`опасности </game_mastering/hazards>` изи GMG:
 
-Простые
+**Простые**
 
 - :ref:`hazard--Shrieker`
 - :ref:`hazard--Snowfall`
@@ -68,7 +87,7 @@ BOOKTITLE
 - :ref:`hazard--Plummeting-Doom`
 - :ref:`hazard--Grasp-of-the-Damned`
 
-Комплексные
+**Комплексные**
 
 - :ref:`hazard--Eternal-Flame`
 - :ref:`hazard--Confounding-Betrayal`

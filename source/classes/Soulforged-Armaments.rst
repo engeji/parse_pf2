@@ -71,7 +71,7 @@
 
 .. _Soulforged-Armaments--Special-Armament--Specific Items:
 
-Особый предмет (Specific Items)
+Особые предметы (Specific Items)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 **Источник**: Secrets of Magic pg. 233

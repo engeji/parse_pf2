@@ -3458,7 +3458,7 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 
 **Источник**: Gamemastery Guide
 
-Далее представлены главы
+Далее представлено содержимое 1-й главы "Руководства игрового мастера".
 
 .. toctree::
    :maxdepth: 2
