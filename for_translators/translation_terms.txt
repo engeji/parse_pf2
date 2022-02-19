@@ -778,7 +778,7 @@ Skill: Навык
 		Trip: Опрокинуть :ref:`skill--Athletics--Trip`; :ref:`Опрокидывание (Trip) <skill--Athletics--Trip>`
 		Disarm: Разоружить :ref:`skill--Athletics--Disarm`
 	Crafting: Ремесло
-		Craft: Создать :ref:`skill--Crafting--Craft`
+		Craft: Создать :ref:`skill--Crafting--Craft` / :ref:`Создание (Craft) <skill--Crafting--Craft>`
 		Repair: Ремонт :ref:`skill--Crafting--Repair`
 		formula: рецепт
 			common: обычный

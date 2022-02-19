@@ -184,6 +184,8 @@ Pathfinder это приключенческая игра в жанре фэнт
 Ваши усилия являются частью долгосрочного процесса по созданию игр и игровой культуры благоприятной для всех.
 Работая вместе, мы можем создать сообщество, в котором игроки любой самоидентификации и опыта будут чувствовать себя безопасно.
 
+.. _ch10--Objectionable-Content:
+
 Нежелательный контент (Objectionable Content)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -329,6 +331,8 @@ Pathfinder это приключенческая игра в жанре фэнт
 
 
 
+.. _ch10--Creating-Adventures:
+
 Создание приключений (Creating Adventures)
 -----------------------------------------------------------------------------------------------------
 
@@ -340,6 +344,7 @@ Pathfinder это приключенческая игра в жанре фэнт
 Как вариант, вы можете начать с интересного места для исследования, а затем заселить его противниками и проблемами, соответствующими сеттингу.
 
 
+.. _sidebar--Using-Rarity-And-Access:
 .. rst-class:: sidebar-wide
 .. sidebar:: Использование редкости и доступа (Using Rarity And Access)
 
@@ -557,6 +562,8 @@ Pathfinder это приключенческая игра в жанре фэнт
 
 
 
+.. _ch10--Running-a-Game-Session--Starting:
+
 Начало сессии (Starting a Session)
 -----------------------------------------------------------------------------------------------------
 
@@ -610,6 +617,8 @@ Pathfinder это приключенческая игра в жанре фэнт
 Если игрок какое-то время не был вовлечен в происходящее, то спросите: "Что ваш персонаж делает в данный момент?"
 Если игрок не уверен, добавьте в сцену подробностей или неигрового персонажа, который может заинтересовать игрока.
 
+.. _ch10--Distractions-and-Interrupting:
+
 Отвлечение и прерывания (Distractions and Interrupting)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -643,6 +652,8 @@ Pathfinder это приключенческая игра в жанре фэнт
 Если персонажа игрока нет в сцене, возможно, сейчас самое подходящее время для игрока использовать мобильное устройство.
 
 
+
+.. _ch10--Adjudicating-the-Rules:
 
 Принятие решений по правилам (Adjudicating the Rules)
 -----------------------------------------------------------------------------------------------------
@@ -798,6 +809,8 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 Реакции могут возникать в социальных ситуациях, однако их триггеры обычно более описательны и менее тактичны.
 
 
+.. _ch10--Running--Encounters--Choosing-Adversaries-Actions:
+
 Выбор действий врагов (Choosing Adversaries' Actions)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -835,6 +848,7 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 Во-первых, поищите в приключении другое подходящее место для размещения информации или предмета.
 Если это имеет смысл, переместите исходное столкновение в другую часть приключения и в первую очередь, дайте игровым персонажам опыт за большое достижение, за избегание столкновения.
 
+.. _sidebar--Playing-without-a-Grid:
 .. sidebar:: Играть без поля с клетками (Playing without a Grid)
 
    Правила Pathfinder созданы, чтобы играть боевые столкновения на поле размеченном 1-дюймовой сеткой, но вы можете играть без разметки или карты.
@@ -1173,6 +1187,7 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 Например, активированная сложная ловушка может сделать атаку своей реакцией до начала порядка инициативы.
 В этих случаях, определите все результаты реакции до просьбы кинуть инициативу.
 
+.. _ch10--Rolling-Initiative--Choosing-the-Type:
 
 Выбор вида броска (Choosing the Type of Roll)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -1360,6 +1375,8 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 Если что-то может применяться постоянно или так часто, что с таким же успехом может быть постоянным, то это с большей вероятностью будет использоваться для проверок в режиме отдыха.
 
 
+
+.. _ch10--Downtime--Longer-Periods-of-Downtime:
 
 Более длинные периоды отдыха (Longer Periods of Downtime)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1983,7 +2000,7 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 Обычно, когда игровой персонаж достигает 1.000 опыта или более, он повышает уровень, снижает свой опыт на 1.000 и начинает продвижение к следующему уровню.
 Другие способы прогрессии описаны далее в сноске "Скорости прогрессии (Advancement Speeds)".
 
-
+.. _sidebar--Advancement-Speeds:
 .. rst-class:: sidebar-wide
 .. sidebar:: Скорости прогрессии (Advancement Speeds)
 
@@ -3434,7 +3451,39 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 
 
 .. rst-class:: gm-subchap
-.. _ch10--Tools:
+.. _GMG--Gamemastery-Basics:
+
+Основы управления игрой (`Gamemastery Basics <https://2e.aonprd.com/Rules.aspx?ID=813>`_)
+==========================================================================================================
+
+**Источник**: Gamemastery Guide
+
+Далее представлены главы
+
+.. toctree::
+   :maxdepth: 2
+
+   GMG-Basics/Introduction
+   GMG-Basics/General-Advice
+   GMG-Basics/Running-Encounters
+   GMG-Basics/Running-Exploration
+   GMG-Basics/Running-Downtime
+   GMG-Basics/Adjudicating-Rules
+   GMG-Basics/Resolving-Problems
+   GMG-Basics/Narrative-Collaboration
+   GMG-Basics/Special-Circumstances
+   GMG-Basics/Rarity-in-Your-Game
+   GMG-Basics/Campaign-Structure
+   GMG-Basics/Adventure-Design
+   GMG-Basics/Encounter-Design
+   GMG-Basics/Drawing-Maps
+
+
+
+
+
+.. rst-class:: gm-subchap
+.. _GMG--Tools:
 
 Инструментарий (`Tools <https://2e.aonprd.com/Rules.aspx?ID=994>`_)
 ==========================================================================================================
@@ -3470,8 +3519,9 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 
 
 
+
 .. rst-class:: gm-subchap
-.. _ch10--Subsystems:
+.. _GMG--Subsystems:
 
 Подсистемы (`Subsystems <https://2e.aonprd.com/Rules.aspx?ID=1187>`_)
 ==========================================================================================================
@@ -3530,8 +3580,9 @@ Pathfinder Society (`Pathfinder Society <https://2e.aonprd.com/Rules.aspx?ID=510
 
 
 
+
 .. rst-class:: gm-subchap
-.. _ch10--Variant-Rules:
+.. _GMG--Variant-Rules:
 
 Разновидности правил (`Variant Rules <https://2e.aonprd.com/Rules.aspx?ID=1297>`_)
 ==========================================================================================================

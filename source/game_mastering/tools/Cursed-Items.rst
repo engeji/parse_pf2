@@ -1,6 +1,6 @@
 .. include:: /helpers/roles.rst
 
-.. _chapter--Cursed-Items:
+.. _GMG--Cursed-Items:
 
 ============================================================================================================
 Проклятые предметы (`Cursed Items <https://2e.aonprd.com/Rules.aspx?ID=1094>`_)
