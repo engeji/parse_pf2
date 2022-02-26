@@ -70,7 +70,7 @@ DATE
 - :doc:`/game_mastering/tools/The-Planes`
 
 
-Добавлены :doc:`опасности </game_mastering/hazards>` изи GMG:
+Добавлены :doc:`опасности </game_mastering/hazards>` из GMG:
 
 **Простые**
 
