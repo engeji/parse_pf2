@@ -1247,6 +1247,8 @@
 .. rst-class:: sidebar-wide
 .. sidebar:: НАЗВАНИЕ (TITLE)
 
+	**Источник**: 
+
 	TEXT
 
 	.. rubric:: ПОДЗАГОЛОВОК (SUBTITLE)

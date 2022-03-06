@@ -1681,7 +1681,7 @@
 	* Разведки (Scouting)
 	* Письменность, гравировка (Scribing)
 	* Конные (Stabling)
-	* Дубление (Tanning)
+	* Кожевенные (Tanning)
 	* Театральные (Theater)
 	* Преступного мира (Underworld)
 	* Военного дела (Warfare)

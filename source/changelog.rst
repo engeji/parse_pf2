@@ -29,6 +29,11 @@ DATE
 - В заклинании :ref:`spell--a--Avatar` было 2 формы для :doc:`/lost_omens/Deity/Other/More/Adanye` с разными характеристиками. Вторая форма принадлежит :doc:`Балумбдару </lost_omens/Deity/Other/More/Balumbdar>`.
 - :ref:`spell--d--Divine-Vessel`. "Если вы были среднего или маленького размера" исправлено на "среднего размера или менее".
 - В сноске :ref:`Месяцы и дни (Months And Days) <sidebar--Months-And-Days>` исправлено оригинальное название пятницы на "fireday".
+- В :ref:`item--Armor-Potency` был копипастный текст про улучшение руны **оружия**.
+- В описании руны доспеха :ref:`item--Invisibility` упоминалось заклинание :ref:`spell--s--See-Invisibility` вместо :ref:`spell--i--Invisibility`.
+- :ref:`item--Biting-snare`. В результатах крит.провала не было указано что штраф "состояния".
+- :ref:`item--Malyass-Root-Paste`. В 3-й стадии было пропущено состояние  :c_flat_footed:`застигнут врасплох`.
+- :ref:`item--Sleep-Arrow`. Не были указаны требования для создания.
 
 
 .. _changelog--GMG--DATE:
@@ -68,6 +73,16 @@ DATE
 - :doc:`/game_mastering/tools/Nations`
 - :doc:`/game_mastering/tools/Settlements`
 - :doc:`/game_mastering/tools/The-Planes`
+
+
+В :ref:`GMG--Variant-Rules` добавлены разделы:
+
+- :doc:`/game_mastering/variant-rules/Ability-Score-Variants`
+- :doc:`/game_mastering/variant-rules/Alignment-Variants`
+- :doc:`/game_mastering/variant-rules/Deep-Backgrounds`
+- :doc:`/game_mastering/variant-rules/Level-0-Characters`
+- :doc:`/game_mastering/variant-rules/Magic-Item-Variants`
+- :doc:`/game_mastering/variant-rules/Skill-Points`
 
 
 Добавлены :doc:`опасности </game_mastering/hazards>` из GMG:
