@@ -659,7 +659,8 @@ section.hazards-list h1,
 /*section.glossary h3,*/
 section.appendix-traits h3,
 section.game-mode h3,
-section.creature-details h1 {
+section.creature-details h1,
+section.using-npc-gallery h1 {
 	box-sizing: border-box;
 	color: #002664;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -707,7 +708,8 @@ section.hazards h2,
 /*section.conditions h2,*/
 /*section.glossary h4,*/
 section.appendix-traits h4,
-section.game-mode h4 {
+section.game-mode h4,
+section.using-npc-gallery h2 {
 	box-sizing: border-box;
 	color: #5e0000;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -742,7 +744,8 @@ section.craft-treasure-wands h3,
 section.craft-treasure-materials h3,
 section.gm-subchap h5,
 section.hazards h3,
-section.game-mode h5 {
+section.game-mode h5,
+section.using-npc-gallery h3 {
 	box-sizing: border-box;
 	color: #a86753;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -817,8 +820,7 @@ section.craft-treasure-tattooslist section,
 section.craft-treasure-spell-catalysts section,
 section.craft-treasure-spellhearts section,
 section.craft-customizations section,
-section.actions-descr section,
-section.creature-abilities section {
+section.actions-descr section {
 	margin-top: 1.2em;
 }
 
@@ -875,8 +877,7 @@ section.craft-treasure-assistive section > p,
 section.craft-treasure-wheelchairs section > p,
 section.craft-treasure-spellhearts section > p,
 section.actions-descr section section > p,
-section.eidolon section section > p,
-section.creature-abilities section > p {
+section.eidolon section section > p {
 	margin-bottom: 0.1em;
 	text-indent: inherit;
 }
@@ -939,8 +940,7 @@ section.craft-treasure-assistive section > h3,
 section.craft-treasure-wheelchairs section > h4,
 section.craft-treasure-spellhearts section > h2,
 section.craft-customizations section > h3,
-section.actions-descr section section > h5,
-section.creature-abilities section > h2 {
+section.actions-descr section section > h5 {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -1011,8 +1011,7 @@ section.craft-treasure-wheelchairs section hr,
 section.craft-treasure-spellhearts section hr,
 section.craft-customizations section hr,
 section.actions-descr section hr,
-section.eidolon hr,
-section.creature-abilities section hr {
+section.eidolon hr {
 	border-top: 1px solid #404040;
 	margin: 1px 0;
 }
@@ -1079,6 +1078,7 @@ section.description > p {
 	text-indent: inherit;
 }
 
+section.description > h1,
 section.description > h2,
 section.description > h3,
 section.description > h4,
