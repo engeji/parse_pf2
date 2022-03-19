@@ -421,7 +421,24 @@
    :glob:
    :maxdepth: 3
    
+   npc/Courtiers/index
    npc/Criminals/index
+   npc/Devotees/index
+   npc/Downtrodden/index
+   npc/Explorers/index
+   npc/Foresters/index
+   npc/Healers/index
+   npc/Laborers/index
+   npc/Magistrates/index
+   npc/Mercenaries/index
+   npc/Mystics/index
+   npc/Officers/index
+   npc/Performers/index
+   npc/Publicans/index
+   npc/Scholars/index
+   npc/Seafarers/index
+   npc/Tradespeople/index
+   npc/Villains/index
 
 
 

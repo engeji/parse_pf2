@@ -933,6 +933,7 @@ Titles:
 	Aspis Consortium: Консорциум Асписов
 	Eye of Dread: Око ужаса
 	Gravelands: Могильные Земли
+	Crystalhurst: Кристалхёрст
 	Everstand: Эверстэнд
 	Ozem: Озэм
 	Shining Crusade: Сияющий Поход
@@ -1085,6 +1086,7 @@ Titles:
 	Kevoth‑Kul, the Black Sovereign of Numeria: Кевот-Кул, Черный Повелитель Нумерии
 	Speakers of the Depths: Ораторы Глубин
 	Great Abandonment: Великое Забвение (отсутствие обычного цикла душ в Первом Мире)
+	Wildwood Lodge: Ложа Дикого Леса
 	
 
 trait: признак / особенность
