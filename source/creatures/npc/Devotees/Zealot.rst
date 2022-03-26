@@ -7,7 +7,7 @@
 ============================================================================================================
 
 Фанатики выискивают заговоры против своей религии и добиваются справедливости для последователей своей церкви.
-Этот фанатик служит :doc:`Асмодею </lost_omens/Deity/Core/Asmodeus>`, но другие могут служить :doc:`Абадару </lost_omens/Deity/Core/Abadar>`, :ref:`Калистрии <Deity--Calistria>`, :doc:`/lost_omens/Deity/Core/Iomedae`, :doc:`Норгорберу </lost_omens/Deity/Core/Norgorber>`, :doc:`Фаразме </lost_omens/Deity/Core/Pharasma>`, :doc:`/lost_omens/Deity/Core/Sarenrae` или :doc:`Зон-Кутону </lost_omens/Deity/Core/Zon-Kuthon>`.
+Этот фанатик служит :doc:`Асмодею </lost_omens/Deity/Core/Asmodeus>`, но другие могут служить :doc:`Абадару </lost_omens/Deity/Core/Abadar>`, :doc:`Калистрии </lost_omens/Deity/Core/Calistria>`, :doc:`/lost_omens/Deity/Core/Iomedae`, :doc:`Норгорберу </lost_omens/Deity/Core/Norgorber>`, :doc:`Фаразме </lost_omens/Deity/Core/Pharasma>`, :doc:`/lost_omens/Deity/Core/Sarenrae` или :doc:`Зон-Кутону </lost_omens/Deity/Core/Zon-Kuthon>`.
 Они часто ездят на :doc:`боевом коне </creatures/bestiary/Horse/War-Horse>` с легким бардом.
 Этот конь является в бою дополнительным монстром.
 

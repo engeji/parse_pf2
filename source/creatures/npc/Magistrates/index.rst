@@ -45,7 +45,7 @@
 
 Магистраты могут призывать других на службу на различные должности.
 
-**Начальник порта**: Bosun, :doc:`/creatures/npc/Laborers/Dockhand`, :doc:`/creatures/npc/Officers/Guard`, ship captain
+**Начальник порта**: :doc:`/creatures/npc/Seafarers/Bosun`, :doc:`/creatures/npc/Laborers/Dockhand`, :doc:`/creatures/npc/Officers/Guard`, :doc:`/creatures/npc/Seafarers/Ship-Captain`
 
 **Судья**: :doc:`/creatures/npc/Officers/Captain-of-the-Guard`, :doc:`/creatures/npc/Officers/Executioner`, :doc:`/creatures/npc/Officers/Guard`, :doc:`/creatures/npc/Officers/Jailer`
 

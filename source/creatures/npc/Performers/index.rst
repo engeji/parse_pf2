@@ -21,7 +21,7 @@
 
 
 .. rst-class:: h3
-.. rubric:: ЗАГОЛОВОК (Let's See A Show)
+.. rubric:: Посмотрим шоу (Let's See A Show)
 
 |rules|
 

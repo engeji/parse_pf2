@@ -44,7 +44,7 @@
 
 **Предметы**:
 :ref:`Эликсир жизни, слабый (Elixir of life, minor) <item--Elixir-of-Life>` (2),
-набор лекаря,
+:ref:`item--Healers-Tools`,
 медицинские записи
 
 

@@ -47,7 +47,7 @@
 посох,
 :ref:`Зелье невидимости (Invisibility potion) <item--Invisibility-Potion>`,
 книга заклинаний,
-инструменты вора
+:ref:`item--Thieves-Tools`
 
 ----------
 

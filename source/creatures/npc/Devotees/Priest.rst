@@ -73,9 +73,9 @@
 **Подготавливаемые сакральные заклинания** КС 24, атака +16
 
 | **3 ур.**
+| :ref:`spell--c--Circle-Of-Protection`
 | :ref:`spell--h--Heal` (x3)
 | :ref:`spell--s--Searing-Light` (x2)
-| :ref:`spell--c--Circle-Of-Protection`
 | **2 ур.**
 | :ref:`spell--g--Gentle-Repose`
 | :ref:`spell--s--Silence`
@@ -94,7 +94,7 @@
 
 **Доменные заклинания жреца** 1 Очко Фокусировки, КС 24
 
-| **1 ур.** :ref:`spell--focus--Deaths-Call`
+| **3 ур.** :ref:`spell--focus--Deaths-Call`
 
 **Ритуалы** КС 24; :ref:`ritual--Consecrate`
 

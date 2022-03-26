@@ -39,7 +39,7 @@
 Общество +17,
 Скрытность +9,
 Воровство +9,
-Знания преступного мира (Underworld) +6
+Знания преступного мира (Underworld) +17
 
 **Сил** +0,
 **Лвк** +3,
@@ -57,7 +57,7 @@
 
 
 **Разностороннее выступление (Versatile Performance)**:
-Шарлатан можете использовать Выступление вместо Дипломатии, чтобы :ref:`skill--Diplomacy--Make-an-Impression` и вместо Запугивания, чтобы :ref:`skill--Intimidation--Demoralize`.
+Тайный лидер можете использовать Выступление вместо Дипломатии, чтобы :ref:`skill--Diplomacy--Make-an-Impression` и вместо Запугивания, чтобы :ref:`skill--Intimidation--Demoralize`.
 Еще он может использовать актёрское Выступление вместо Обмана, чтобы :ref:`skill--Deception--Impersonate`.
 
 

@@ -1087,6 +1087,7 @@ Titles:
 	Speakers of the Depths: Ораторы Глубин
 	Great Abandonment: Великое Забвение (отсутствие обычного цикла душ в Первом Мире)
 	Wildwood Lodge: Ложа Дикого Леса
+	Knights of the Aeon Star: Рыцари Звезды Вечности
 	
 
 trait: признак / особенность

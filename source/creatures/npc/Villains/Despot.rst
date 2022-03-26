@@ -85,10 +85,10 @@
 | :ref:`spell--s--See-Invisibility`
 | :ref:`spell--u--Undetectable-Alignment`
 | **1 ур.** (4 слота)
-| :ref:`spell--s--Sanctuary`
 | :ref:`spell--c--Charm`
 | :ref:`spell--c--Command`
 | :ref:`spell--f--Fear`
+| :ref:`spell--s--Sanctuary`
 | **Чары (3 ур.)**
 | :ref:`spell--c--Chill-Touch`
 | :ref:`spell--d--Daze`
