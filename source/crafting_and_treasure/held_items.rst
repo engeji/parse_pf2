@@ -233,7 +233,7 @@
 **Использование**: удерживаемый в 1 руке;
 **Масса**: —
 
-**Доступ**: Член :ref:`Общества Pathfinder <Faction--Pathfinder-Society>`
+**Доступ**: Член :ref:`Общества Патфайндер <Faction--Pathfinder-Society>`
 
 **Источник**: Lost Omens: Character Guide pg. 110
 
@@ -775,7 +775,7 @@
 **Использование**: удерживаемый в 1 руке;
 **Масса**: —
 
-**Доступ**: Член :ref:`Общества Pathfinder <Faction--Pathfinder-Society>`
+**Доступ**: Член :ref:`Общества Патфайндер <Faction--Pathfinder-Society>`
 
 **Источник**: Lost Omens: Character Guide pg. 111
 

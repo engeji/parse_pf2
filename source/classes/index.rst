@@ -187,22 +187,24 @@
    monk
    rogue
    swashbuckler
-
-   investigator
    Gunslinger
-   Inventor
+
    alchemist
-   
-   magus
-   summoner
+   investigator
+   Inventor
    
    bard
    cleric
    druid
    wizard
-   witch
    sorcerer
+   witch
    oracle
+   
+   magus
+   summoner
+   
+
 
 
 

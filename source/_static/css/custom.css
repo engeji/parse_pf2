@@ -99,7 +99,7 @@ hr {
 .rst-content ul.simple,
 .rst-content ol.simple,
 .rst-content .line-block {
-	margin-bottom: 0.3em;
+	margin-bottom: 0.3em !important;
 }
 
 .rst-content ul.simple {

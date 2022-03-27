@@ -83,7 +83,7 @@
 
 ----------
 
-Вы получаете реакцию :ref:`class-feature--fighter--Attack-Of-Opportunity`.
+Вы получаете реакцию :ref:`action--fighter--Attack-Of-Opportunity`.
 
 
 .. _arch-feat--Fighter--Advanced-Maneuver:

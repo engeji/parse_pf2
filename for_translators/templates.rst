@@ -982,7 +982,7 @@
 +=====================+===========+======+======+
 | **Тонкие предметы** | ]ls]      | ]ls] | ]ls] |
 |                     |           |      |      |
-| Низкосорный         |           |      |      |
+| Низкосортный        |           |      |      |
 |                     |           |      |      |
 | Стандартный         |           |      |      |
 |                     |           |      |      |
@@ -990,7 +990,7 @@
 +---------------------+-----------+------+------+
 | **Предметы**        | ]ls]      | ]ls] | ]ls] |
 |                     |           |      |      |
-| Низкосорный         |           |      |      |
+| Низкосортный        |           |      |      |
 |                     |           |      |      |
 | Стандартный         |           |      |      |
 |                     |           |      |      |
@@ -998,7 +998,7 @@
 +---------------------+-----------+------+------+
 | **Строения**        | ]ls]      | ]ls] | ]ls] |
 |                     |           |      |      |
-| Низкосорный         |           |      |      |
+| Низкосортный        |           |      |      |
 |                     |           |      |      |
 | Стандартный         |           |      |      |
 |                     |           |      |      |
@@ -1853,14 +1853,27 @@ d aaaaaaaaa, bbbbbbbbbbb, КС 696969 СПАС
 
 
 
+.. _class-feature--CLASS_NAME--TITLE:
+
+.. _class-feature--CLASS_NAME--Class-Feat:
+.. _class-feature--CLASS_NAME--Skill-Feat:
+
 :ref:`Способность КЛАССА <class-feature--CLASS_NAME--Class-Feat>`
 :ref:`Способность навыка <class-feature--CLASS_NAME--Skill-Feat>`
+
+.. _class-feature--CLASS_NAME--General-Feat:
+.. _class-feature--CLASS_NAME--Skill-Increase:
 
 :ref:`Общая способность <class-feature--CLASS_NAME--General-Feat>`
 :ref:`Увеличение навыка <class-feature--CLASS_NAME--Skill-Increase>`
 
+.. _class-feature--CLASS_NAME--Ability-Boosts:
+.. _class-feature--CLASS_NAME--Ancestry-Feat:
+
 :ref:`Повышения характеристик <class-feature--CLASS_NAME--Ability-Boosts>`
 :ref:`Способность родословной <class-feature--CLASS_NAME--Ancestry-Feat>`
+
+
 
 
 
