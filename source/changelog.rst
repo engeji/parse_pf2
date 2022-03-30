@@ -6,42 +6,53 @@
 История изменений (Changelog)
 **********************************************************************************************************
 
-.. _changelog--DATE:
+.. _changelog--2022-03-30:
 
-DATE
+2022-03-30
 =====================================================================================================
 
-.. _changelog--changes--DATE:
-
-Изменения
----------------------------------------------------------------------------------------------
-
-ОПИСАНИЕ
+Это обновление целиком и полностью посвящено "Руководству игрового мастера".
 
 
-.. _changelog--edits--DATE:
+.. _changelog--edits--2022-03-30:
 
 Исправления
 ---------------------------------------------------------------------------------------------
 
-Исправления
+Помимо всех найденных орфографических ошибок и опечаток, к важным исправлениям затрагивающим игровую механику относятся:
 
-- В заклинании :ref:`spell--a--Avatar` было 2 формы для :doc:`/lost_omens/Deity/Other/More/Adanye` с разными характеристиками. Вторая форма принадлежит :doc:`Балумбдару </lost_omens/Deity/Other/More/Balumbdar>`.
+- В классовой особенности Стрелка :ref:`class-feature--Gunslinger--Gunslinging-Legend` исправлена подтвержденная ошибка с прогрессией простого и воинского неогнестрельного оружия и безоружных атак до мастера, а не эксперта.
+- :ref:`spell--Inner-Radiance-Torrent`. Урон при усилении исправлен на 2d4 так как подтвержден разработчиками.
+- :ref:`spell--a--Avatar`. 2 формы были указаны для :doc:`/lost_omens/Deity/Other/More/Adanye` с разными характеристиками. Вторая форма принадлежит :doc:`Балумбдару </lost_omens/Deity/Other/More/Balumbdar>`.
 - :ref:`spell--d--Divine-Vessel`. "Если вы были среднего или маленького размера" исправлено на "среднего размера или менее".
-- В сноске :ref:`Месяцы и дни (Months And Days) <sidebar--Months-And-Days>` исправлено оригинальное название пятницы на "fireday".
-- В :ref:`item--Armor-Potency` был копипастный текст про улучшение руны **оружия**.
+- :ref:`item--Armor-Potency` был копипастный текст про улучшение руны "оружия".
 - В описании руны доспеха :ref:`item--Invisibility` упоминалось заклинание :ref:`spell--s--See-Invisibility` вместо :ref:`spell--i--Invisibility`.
+- :ref:`item--Caltrop-snare`. Добавлено пропущенное предложение про выбор квадрата, куда будет высыпаться чеснок.
+- :ref:`item--Spike-snare`. Уточнено, что кидается простой спасбросок.
 - :ref:`item--Biting-snare`. В результатах крит.провала не было указано что штраф "состояния".
 - :ref:`item--Malyass-Root-Paste`. В 3-й стадии было пропущено состояние  :c_flat_footed:`застигнут врасплох`.
 - :ref:`item--Sleep-Arrow`. Не были указаны требования для создания.
+- :ref:`item--Snapleaf`. Запись "триггер" называлась "частота".
+- :ref:`item--Gallows-Tooth`. Запись "требования" называлась "эффект".
+- :ref:`ancestry-feat--Dwarf--Dwarven-Doughtiness`. Название изменено с "Дварфская отвага" на "Дварфийская".
+- У наследий крови чародея минимально перефразированы эффекты магии крови.
+- В сноске :ref:`Месяцы и дни (Months And Days) <sidebar--Months-And-Days>` исправлено оригинальное название пятницы на "fireday".
+
+----------
+
+**Другое**:
+
+- Добавлено пропущенное божество из книги "Gods & Magic" - :doc:`/lost_omens/Deity/Other/More/Gyronna`.
+- В :doc:`Глоссарии умений (Ability Glossary) </creatures/ability_glossary>` убран лишний уровень заголовков.
 
 
-.. _changelog--GMG--DATE:
+.. _changelog--GMG--2022-03-30:
 
 Руководство игрового мастера (Gamemastery Guide)
 ---------------------------------------------------------------------------------------------
 
-ОПИСАНИЕ
+Добавлен весь остальной остальной контент из данной книги.
+Далее идут детальные подробности появившихся и дополненных разделов.
 
 Добавлен раздел :ref:`GMG--Gamemastery-Basics`:
 
@@ -60,8 +71,9 @@ DATE
 - :doc:`/game_mastering/GMG-Basics/Encounter-Design`
 - :doc:`/game_mastering/GMG-Basics/Drawing-Maps`
 
+----------
 
-В :ref:`GMG--Tools` добавлены разделы:
+В :ref:`GMG--Tools` добавлены:
 
 - :doc:`/game_mastering/tools/Building-Hazards`
 - :doc:`/game_mastering/tools/Building-Items`
@@ -74,8 +86,9 @@ DATE
 - :doc:`/game_mastering/tools/Settlements`
 - :doc:`/game_mastering/tools/The-Planes`
 
+----------
 
-В :ref:`GMG--Variant-Rules` добавлены разделы:
+В :ref:`GMG--Variant-Rules` добавлены:
 
 - :doc:`/game_mastering/variant-rules/Ability-Score-Variants`
 - :doc:`/game_mastering/variant-rules/Alignment-Variants`
@@ -84,8 +97,15 @@ DATE
 - :doc:`/game_mastering/variant-rules/Magic-Item-Variants`
 - :doc:`/game_mastering/variant-rules/Skill-Points`
 
+----------
 
-Добавлены :doc:`опасности </game_mastering/hazards>` из GMG:
+В раздел про :ref:`неигровых персонажей (NPC) <Creatures--NPCs>` добавлены правила по их :doc:`использованию </creatures/npc/index>`, а так же все NPC из GMG.
+
+- В :doc:`тематические шаблоны NPC </creatures/npc/Theme-Templates/index>` добавлен шаблон :doc:`/creatures/npc/Theme-Templates/Deity-Follower` из LOGM.
+
+----------
+
+Добавлены :doc:`Опасности (Hazards) </game_mastering/hazards>` из GMG:
 
 **Простые**
 
@@ -109,16 +129,6 @@ DATE
 - :ref:`hazard--Perilous-Flash-Flood`
 - :ref:`hazard--Flensing-Blades`
 - :ref:`hazard--Dance-of-Death`
-
-
-.. _changelog--other--DATE:
-
-Остальное
----------------------------------------------------------------------------------------------
-
-Добавлены:
-
-- Из книги "Gods & Magic" было пропущено божество :doc:`/lost_omens/Deity/Other/More/Gyronna`.
 
 
 

@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-01-13**
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-03-30**
 
-| Добавлен остальной контент **Lost Omens: Grand Bazaar** одним большим обновлением. Подробности в :ref:`истории изменений <changelog--2022-01-13>`.
+| Завершен полный перевод **Gamemastery Guide**. Подробности в :ref:`истории изменений <changelog--2022-03-29>`.
 
-| `Telegram канал <https://t.me/PF2e_RU_channel>`_ - подробные обновления и изменения
-| `Telegram чат <https://t.me/PF2e_RU>`_ - для обратной связи, обсуждения правил и т.п.
+| `Telegram канал <https://t.me/PF2e_RU_channel>`_ - уведомления об обновлениях и изменения.
+| `Telegram чат <https://t.me/+UuDJ_hPEOGoySmY3>`_ - обратная связь, обсуждаем правила и просто трындим про PF2E.
 
 
 Pathfinder 2E
