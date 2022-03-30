@@ -31,7 +31,7 @@
 :doc:`/lost_omens/Deity/Core/Erastil` (отец),
 :doc:`/lost_omens/Deity/Other/More/Jaidi` (мать)
 
-**Царство**: Брайрбау (Элизиум)
+**Царство**: Брайрбау (:ref:`plane--Elysium`)
 
 **Источник**: Lost Omens: Gods & Magic pg. 128-129
 

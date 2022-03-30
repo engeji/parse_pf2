@@ -19,11 +19,11 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Pathfinder 2E'
-copyright = '2021, Balt'
+copyright = '2022, Yuri "Balt" Voronin'
 author = 'Balt'
 
 # The full version, including alpha/beta/rc tags
-release = '1.7.1'
+release = '1.8.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -78,7 +78,7 @@ html_css_files = [
 html_js_files = [
 	'https://cdnjs.cloudflare.com/ajax/libs/tooltipster/4.2.8/js/tooltipster.bundle.min.js',
 	'js/custom.js',
-	'js/traits_tooltips_v1.16.js',
+	'js/traits_tooltips_v1.17.js',
 ]
 
 html_scaled_image_link = False

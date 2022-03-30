@@ -23,6 +23,8 @@
 
 
 
+.. _Barghest--Hero-Gods:
+
 .. rst-class:: h3
 .. rubric:: Баргесты боги-герои (Barghest Hero-Gods)
 

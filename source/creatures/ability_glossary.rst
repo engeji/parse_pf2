@@ -1,18 +1,19 @@
 .. include:: /helpers/roles.rst
 
+.. title:: Глоссарий умений (Ability Glossary)
 
-.. rst-class:: creature-abilities
 
-***********************************************************************************************************
-Глоссарий умений (`Ability Glossary <https://2e.aonprd.com/MonsterAbilities.aspx>`_)
-***********************************************************************************************************
+.. rst-class:: h2
+.. rubric:: Глоссарий умений (`Ability Glossary <https://2e.aonprd.com/MonsterAbilities.aspx>`_)
 
 Следующие умения существ перечислены здесь, потому что они являются общими для большого количества существ, либо очень сложны.
 Характеристики отдельных существ могут изменять признаки, количество действий или другие правила этих умений.
-Все, что указано в блоке характеристик конкретного существа, переопределяет общие правила умения представленные далее.
+Все, что указано в блоке характеристик конкретного существа, переопределяет общие правила приведенного далее умения.
 В этих умениях термин "монстр" используется для существа, обладающего этим умением, чтобы отличать его от любых других существ, на которые это умение может влиять.
 
 
+
+.. rst-class:: description
 .. _cr_ability--All-Around-Vision:
 
 Круговое зрение (`All-Around Vision <https://2e.aonprd.com/MonsterAbilities.aspx?ID=1>`_)
@@ -23,6 +24,7 @@
 Этот монстр может видеть одновременно во всех направлениях и поэтому не может быть взят в тиски.
 
 
+.. rst-class:: description
 .. _cr_ability--Aquatic-Ambush:
 
 Водная засада (`Aquatic Ambush <https://2e.aonprd.com/MonsterAbilities.aspx?ID=2>`_) |д-1|
@@ -39,6 +41,7 @@
 Существо застигнуто врасплох против этого Удара.
 
 
+.. rst-class:: description
 .. _cr_ability--Attack-of-Opportunity:
 
 Возможность для атаки (`Attack of Opportunity <https://2e.aonprd.com/MonsterAbilities.aspx?ID=3>`_) |д-р|
@@ -55,6 +58,7 @@
 Этот Удар не считается к штрафу множественной атаки монстра и его штраф множественной атаки не применяется к этому Удару.
 
 
+.. rst-class:: description
 .. _cr_ability--At-Will-Spells:
 
 Заклинания по желанию (`At-Will Spells <https://2e.aonprd.com/MonsterAbilities.aspx?ID=4>`_)
@@ -65,6 +69,7 @@
 Монстр может сотворять свои "заклинания по желанию" сколько угодно раз, не используя слоты заклинаний.
 
 
+.. rst-class:: description
 .. _cr_ability--Aura:
 
 Аура (`Aura <https://2e.aonprd.com/MonsterAbilities.aspx?ID=5>`_)
@@ -83,6 +88,7 @@
 Например, существо может быть иммунно к устрашающему присутствию монстра, если они были вместе достаточно долгое время.
 
 
+.. rst-class:: description
 .. _cr_ability--Buck:
 
 Брыкаться (`Buck <https://2e.aonprd.com/MonsterAbilities.aspx?ID=6>`_) |д-р|
@@ -100,6 +106,7 @@
 Если спасбросок был крит.провалом, то спровоцировавшее существо еще получает 1d6 дробящего урона в дополнение к обычному урону от падения.
 
 
+.. rst-class:: description
 .. _cr_ability--Catch-Rock:
 
 Поймать камень (`Catch Rock <https://2e.aonprd.com/MonsterAbilities.aspx?ID=7>`_) |д-р|
@@ -117,6 +124,7 @@
 Если атака промазывает или монстр успешно защищается от падающего камня, то он ловит этот камень, не получает урон и теперь держит камень.
 
 
+.. rst-class:: description
 .. _cr_ability--Change-Shape:
 
 Изменение формы (`Change Shape <https://2e.aonprd.com/MonsterAbilities.aspx?ID=8>`_) |д-1|
@@ -142,6 +150,7 @@
 Любые изменения перечислены в его блоке характеристик.
 
 
+.. rst-class:: description
 .. _cr_ability--Constant-Spells:
 
 Постоянные заклинания (`Constant Spells <https://2e.aonprd.com/MonsterAbilities.aspx?ID=9>`_)
@@ -153,6 +162,7 @@
 Если постоянному заклинанию противодействовали, то монстр может повторно активировать его потратив обычное количество заклинательских действий требуемых этим заклинанием.
 
 
+.. rst-class:: description
 .. _cr_ability--Constrict:
 
 Сжимать (`Constrict <https://2e.aonprd.com/MonsterAbilities.aspx?ID=10>`_) |д-1|
@@ -164,6 +174,7 @@
 Каждое из этих существ может совершить простой спасбросок Стойкости с указанным КС.
 
 
+.. rst-class:: description
 .. _cr_ability--Greater-Constrict:
 
 Сильно сжимать (`Greater Constrict <https://2e.aonprd.com/MonsterAbilities.aspx?ID=19>`_) |д-1|
@@ -176,6 +187,7 @@
 Существо провалившее этот спасбросок теряет сознание, а преуспевшее существо после этого на 1 минуту временно иммунно к потере сознания от "Сильного сжатия".
 
 
+.. rst-class:: description
 .. _cr_ability--Coven:
 
 Ковен (`Coven <https://2e.aonprd.com/MonsterAbilities.aspx?ID=11>`_)
@@ -216,6 +228,7 @@
 Если член ковена покидает ковен или смерть члена ковена приводит к тому, что число участников ковена становится менее 3, то остальные члены сохраняют свою элитную корректировку 24 часа, но без достаточного количества участников делающих свой вклад в виде действий, они не могут сотворять заклинания ковена.
 
 
+.. rst-class:: description
 .. _cr_ability--Darkvision:
 
 Ночное зрение (`Darkvision <https://2e.aonprd.com/MonsterAbilities.aspx?ID=12>`_)
@@ -228,6 +241,7 @@
 Однако, монстр с сильным ночным зрением может видеть даже через эти формы магической тьмы.
 
 
+.. rst-class:: description
 .. _cr_ability--Disease:
 
 Болезнь (`Disease <https://2e.aonprd.com/MonsterAbilities.aspx?ID=13>`_) |д-2|
@@ -240,6 +254,7 @@
 Болезнь следует правилам из раздела :ref:`ch9--Afflictions`.
 
 
+.. rst-class:: description
 .. _cr_ability--Engulf:
 
 Поглотить (`Engulf <https://2e.aonprd.com/MonsterAbilities.aspx?ID=14>`_) |д-2|
@@ -266,6 +281,7 @@
 Если монстр умирает, то все поглощенные им существа автоматически освобождаются, так как форма монстра теряет целостность.
 
 
+.. rst-class:: description
 .. _cr_ability--Swallow-Whole:
 
 Проглотить целиком (`Swallow Whole <https://2e.aonprd.com/MonsterAbilities.aspx?ID=35>`_) |д-1|
@@ -297,6 +313,7 @@
 Если монстр умирает, то проглоченное существо может быть освобождено существами находящимися рядом с трупом монстра, если потратят в общем 3 действия разрезая монстра оружием или безоружными атаками наносящими колющий или рубящий урон.
 
 
+.. rst-class:: description
 .. _cr_ability--Fast-Healing:
 
 Быстрое исцеление (`Fast Healing <https://2e.aonprd.com/MonsterAbilities.aspx?ID=15>`_)
@@ -307,6 +324,7 @@
 Монстр с этим умением восстанавливает указанное количество Очков Здоровья каждый раунд в начале своего хода.
 
 
+.. rst-class:: description
 .. _cr_ability--Ferocity:
 
 Свирепость (`Ferocity <https://2e.aonprd.com/MonsterAbilities.aspx?ID=16>`_) |д-р|
@@ -322,6 +340,7 @@
 Когда он :c_wounded:`ранен 3`, то больше не может использовать это умение.
 
 
+.. rst-class:: description
 .. _cr_ability--Form-Up:
 
 Построение (`Form Up <https://2e.aonprd.com/MonsterAbilities.aspx?ID=43>`_) |д-1|
@@ -335,6 +354,7 @@
 Отряд не может делить свое пространство с другими существами.
 
 
+.. rst-class:: description
 .. _cr_ability--Frightful-Presence:
 
 Устрашающее присутствие (`Frightful Presence <https://2e.aonprd.com/MonsterAbilities.aspx?ID=17>`_)
@@ -358,6 +378,7 @@
 | **Критический провал**: Существо получает состояние :c_frightened:`напуган 4`
 
 
+.. rst-class:: description
 .. _cr_ability--Grab:
 
 Захват (`Grab <https://2e.aonprd.com/MonsterAbilities.aspx?ID=18>`_) |д-1|
@@ -376,6 +397,7 @@
 Схваченное существо может :ref:`action--Escape`, чтобы освободиться из хватки, и Захват заканчивается для схваченного существа, если монстр отходит от него.
 
 
+.. rst-class:: description
 .. _cr_ability--Improved-Grab:
 
 Улучшенный захват (`Improved Grab <https://2e.aonprd.com/MonsterAbilities.aspx?ID=27>`_) |д-св|
@@ -387,6 +409,7 @@
 Монстру с "Улучшенным захватом" все еще надо потратить действие, чтобы продлить продолжительность для уже схваченных им существ.
 
 
+.. rst-class:: description
 .. _cr_ability--Knockdown:
 
 Нокдаун (`Knockdown <https://2e.aonprd.com/MonsterAbilities.aspx?ID=20>`_) |д-1|
@@ -401,6 +424,7 @@
 Монстр сбивает цель на землю ничком.
 
 
+.. rst-class:: description
 .. _cr_ability--Improved-Knockdown:
 
 Улучшенный нокдаун (`Improved Knockdown <https://2e.aonprd.com/MonsterAbilities.aspx?ID=28>`_) |д-св|
@@ -411,6 +435,7 @@
 Монстр может использовать :ref:`cr_ability--Knockdown` свободным действием, спровоцированным попаданием изначальной атакой.
 
 
+.. rst-class:: description
 .. _cr_ability--Push:
 
 Толчок (`Push <https://2e.aonprd.com/MonsterAbilities.aspx?ID=25>`_) |д-1|
@@ -427,6 +452,7 @@
 Если атака была критическим попаданием, это расстояние удваивается.
 
 
+.. rst-class:: description
 .. _cr_ability--Improved-Push:
 
 Улучшенный толчок (`Improved Push <https://2e.aonprd.com/MonsterAbilities.aspx?ID=29>`_) |д-св|
@@ -437,6 +463,7 @@
 Монстр может использовать :ref:`cr_ability--Push` свободным действием, спровоцированным попаданием изначальной атакой.
 
 
+.. rst-class:: description
 .. _cr_ability--Lifesense:
 
 Жизнечувствительность (`Lifesense <https://2e.aonprd.com/MonsterAbilities.aspx?ID=21>`_)
@@ -448,6 +475,7 @@
 Это чувство может различать позитивную энергию оживляющую живых существ, и негативную энергию оживляющую нежить, так же, как зрение различает цвета.
 
 
+.. rst-class:: description
 .. _cr_ability--Light-Blindness:
 
 Световая слепота (`Light Blindness <https://2e.aonprd.com/MonsterAbilities.aspx?ID=22>`_)
@@ -460,6 +488,7 @@
 Однако, пока монстр находится в области яркого света, он имеет состояние :c_dazzled:`ослеплен`.
 
 
+.. rst-class:: description
 .. _cr_ability--Low-Light-Vision:
 
 Сумеречное зрение (`Low-Light Vision <https://2e.aonprd.com/MonsterAbilities.aspx?ID=23>`_)
@@ -470,6 +499,7 @@
 Монстр может видеть при тусклом свете как если бы это был яркий свет, так что он игнорирует состояние :c_concealed:`скрыт` из-за тусклого света.
 
 
+.. rst-class:: description
 .. _cr_ability--Negative-Healing:
 
 Негативное исцеление (`Negative Healing <https://2e.aonprd.com/MonsterAbilities.aspx?ID=42>`_)
@@ -482,6 +512,7 @@
 Оно не получает негативный урон и исцеляется :t_negative:`негативными` эффектами, исцеляющими нежить.
 
 
+.. rst-class:: description
 .. _cr_ability--Poison:
 
 Яд (`Poison <https://2e.aonprd.com/MonsterAbilities.aspx?ID=24>`_)
@@ -494,6 +525,7 @@
 Яд следует правилам из раздела :ref:`ch9--Afflictions`.
 
 
+.. rst-class:: description
 .. _cr_ability--Regeneration:
 
 Регенерация (`Regeneration <https://2e.aonprd.com/MonsterAbilities.aspx?ID=26>`_)
@@ -507,6 +539,7 @@
 Деактивируйте регенерацию до применения любого урона перечисленного типа, так как этот урон может убить монстра сделав его :c_dying:`при смерти 4`.
 
 
+.. rst-class:: description
 .. _cr_ability--Rend:
 
 Раздирать (`Rend <https://2e.aonprd.com/MonsterAbilities.aspx?ID=30>`_) |д-1|
@@ -523,6 +556,7 @@
 Монстр автоматически наносит врагу урон указанного Удара.
 
 
+.. rst-class:: description
 .. _cr_ability--Retributive-Strike:
 
 Карающий удар (`Retributive Strike <https://2e.aonprd.com/MonsterAbilities.aspx?ID=31>`_) |д-р|
@@ -538,6 +572,7 @@
 Если враг в пределах досягаемости, монстр совершает по нему :ref:`action--Strike` ближнего боя.
 
 
+.. rst-class:: description
 .. _cr_ability--Scent:
 
 Нюх (`Scent <https://2e.aonprd.com/MonsterAbilities.aspx?ID=33>`_)
@@ -551,6 +586,7 @@
 Если существо источает сильный запах или находится против ветра, Мастер может удвоить или даже утроить дистанцию нюха, чтобы обнаружить это существо, а так же уменьшить ее, если существо находится с подветренной стороны.
 
 
+.. rst-class:: description
 .. _cr_ability--Shield-Block:
 
 Блок щитом (`Shield Block <https://2e.aonprd.com/MonsterAbilities.aspx?ID=32>`_) |д-р|
@@ -567,6 +603,7 @@
 Щит и монстра, вместе получают любой оставшийся непоглощенный урон, возможно в результате чего щит ломается или уничтожается.
 
 
+.. rst-class:: description
 .. _cr_ability--Swarm-Mind:
 
 Разум роя (`Swarm Mind <https://2e.aonprd.com/MonsterAbilities.aspx?ID=36>`_)
@@ -578,6 +615,7 @@
 Он все еще подвергается ментальным эффектам, которые воздействуют на всех существ в области.
 
 
+.. rst-class:: description
 .. _cr_ability--Telepathy:
 
 Телепатия (`Telepathy <https://2e.aonprd.com/MonsterAbilities.aspx?ID=37>`_)
@@ -595,6 +633,7 @@
 Это не дает никакого особого доступа к их мыслям и не передает больше информации, чем могла бы сделать нормальная речь.
 
 
+.. rst-class:: description
 .. _cr_ability--Throw-Rock:
 
 Бросок камня (`Throw Rock <https://2e.aonprd.com/MonsterAbilities.aspx?ID=38>`_) |д-1|
@@ -605,6 +644,7 @@
 Монстр взаимодействует, чтобы подобрать камень в пределах досягаемости или берет убранный камень и кидает его, совершая дистанционный :ref:`action--Strike`.
 
 
+.. rst-class:: description
 .. _cr_ability--Trample:
 
 Растоптать (`Trample <https://2e.aonprd.com/MonsterAbilities.aspx?ID=39>`_) |д-3|
@@ -617,6 +657,7 @@
 Монстр наносит урон указанного :ref:`Удара (Strike) <action--Strike>`, но растоптанные существа могут совершить простой спасбросок Рефлекса с указанным КС (не получая урона при крит.успехе, половину урона при успехе, двойной урон при крит.провале).
 
 
+.. rst-class:: description
 .. _cr_ability--Tremorsense:
 
 Виброчувствительность (`Tremorsense <https://2e.aonprd.com/MonsterAbilities.aspx?ID=40>`_)
@@ -629,6 +670,7 @@
 Виброчувствительность работает только, если монстр и субъект на одной и той же поверхности и только, если субъект движется по поверхности (или зарывается в нее).
 
 
+.. rst-class:: description
 .. _cr_ability--Troop-Defenses:
 
 Защита отряда (`Troop Defenses <https://2e.aonprd.com/MonsterAbilities.aspx?ID=44>`_)
@@ -654,6 +696,7 @@
 Если лишь одного урона было недостаточно для пересечения порога, тогда потом снижайте ОЗ для преодоления порога из-за эффекта недееспособности.
 
 
+.. rst-class:: description
 .. _cr_ability--Wavesense:
 
 Волночувствительность (`Wavesense <https://2e.aonprd.com/MonsterAbilities.aspx?ID=41>`_)

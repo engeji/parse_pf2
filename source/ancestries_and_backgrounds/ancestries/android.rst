@@ -166,7 +166,7 @@
 Большинство андроидов нейтральны.
 Они заботятся о своей безопасности, а также своих товарищей и себе подобных.
 Андроиды, интересующиеся религией, обычно поклоняются :doc:`/lost_omens/Deity/Other/Casandalee` или :doc:`/lost_omens/Deity/Other/Brigh`, богиням, объединяющим изобретательство и жизнь.
-Другие популярные божества - :ref:`Deity--Desna`, :ref:`Deity--Irori` и :ref:`Deity--Gozreh`.
+Другие популярные божества - :doc:`/lost_omens/Deity/Core/Desna`, :doc:`/lost_omens/Deity/Core/Irori` и :doc:`/lost_omens/Deity/Core/Gozreh`.
 
 
 

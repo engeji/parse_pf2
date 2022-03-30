@@ -110,7 +110,7 @@
 
 Ваша преданность "Божественной деснице" граничит с преданностью жреца.
 Вы получаете способность жреца :ref:`class-feat--Cleric--Domain-Initiate`, но должны выбрать домен совершенства, защиты, тирании или рвения.
-Также, в качестве божественного фокуса, вы можете использовать любой из религиозных символов :ref:`Абадара <Deity--Abadar>`, :ref:`Асмодея <Deity--Asmodeus>`, :ref:`Айомедэй <Deity--Iomedae>`, :ref:`Ирори <Deity--Irori>` или :ref:`Торага <Deity--Torag>`.
+Также, в качестве божественного фокуса, вы можете использовать любой из религиозных символов :doc:`Абадара </lost_omens/Deity/Core/Abadar>`, :doc:`Асмодея </lost_omens/Deity/Core/Asmodeus>`, :doc:`Айомедэй </lost_omens/Deity/Core/Iomedae>`, :doc:`Ирори </lost_omens/Deity/Core/Irori>` или :doc:`Торага </lost_omens/Deity/Core/Torag>`.
 
 
 .. Hellknight-Order--Benefit--Blessing-of-the-Five:

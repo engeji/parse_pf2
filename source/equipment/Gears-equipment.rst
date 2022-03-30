@@ -169,7 +169,7 @@
 
 **Источник**: Guns & Gears pg. 61, 81
 
-Опасности использующие новые технологии находятся в разделе :doc:`/game_mastering/hazards` и для удобства перечислены далее.
+Опасности использующие новые технологии находятся в разделе :doc:`Опасности (Hazards) </game_mastering/hazards>` и для удобства перечислены далее.
 
 * :ref:`hazard--Steam-Vents`
 * :ref:`hazard--Insistent-Privacy-Fence`

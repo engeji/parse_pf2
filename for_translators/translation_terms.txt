@@ -68,13 +68,13 @@ ancestry: родословная
 animal companion: зверь-компаньон
 atone ritual: ритуал искупления
 attack roll: атака
-Attack of Opportunity: Возможность для Атаки :ref:`class-feature--fighter--Attack-Of-Opportunity`
+Attack of Opportunity: Возможность для Атаки :ref:`action--Attack-of-Opportunity`
 area: область
 	area of effect: область действия (эффекта)
 	area effect: эффект по области
 artifacts:
-	rod of cancellation: жезл отмены (APG 262)
-	sphere of annihilation: сфера аннигиляции (GMG 113)
+	rod of cancellation: жезл отмены
+	sphere of annihilation: сфера аннигиляции
 Armor: доспех (когда речь о предмете, комплекте доспехов)
 	unarmored: без брони
 	Half-plate: полулатный
@@ -176,7 +176,7 @@ Creature: существо
 	spirit: дух
 	hag: карга
 		annis: эннис
-	extraplanar: межпланарный
+	extraplanar: экстрапланарный
 	monitor: наблюдатель
 	lizardfolk: людоящер
 	dragon
@@ -201,6 +201,7 @@ Creature: существо
 		Balisse: балисc
 		archon: архонт
 	psychopomp: психопомп
+		ushers: психопомпы помощники
 		sahkil: сахкил (злые экс-психопомпы)
 	clockwork: заводной
 	vetalaran: веталаран, веталараны
@@ -660,20 +661,68 @@ proficiency bonus: бонус мастерства
 plane: план
 	Great Beyond: Великое Запределье
 	Demiplane: демиплан
+		Cynosure: Путеводная Звезда
+		Refuge of Nex: Прибежище Некса
+		Hao‑Jin Tapestry: Гобелен Хао-Джин
+		Akashic Record: Акашийская Хроника; Хроника Акаши
+		The Prison of the Laughing Fiend: Тюрьма Смеющегося Беса
+		Dead Vault: Мертвое Хранилище
 	Outer Sphere: Внешняя Сфера
 	Hell: Ад
+		Cocytus: Коцит
+		Avernus: Аверн
+		Phlegethon: Флегетон
+		Stygia: Стигия
+		Erebus: Эреб
+		Caina: Ка́ина
+		Malebolge: Мэлболдж
+		Voiporl: Войпул
+		Nessus: Несс
 	Abyss: Бездна
+		 Midnight Isles: Полуночные Острова
+		 Alushinyrra: Алушинирра
+		 Pleroma: Плерома
+		 Diovengia: Диовенжа
 	Abaddon: Абаддон
-	Astral: Астральный
+		Awaiting-Consumption: Ожидание-Потребление (торговый город)
+	Axis: Оси (aka Perfect City: Идеальный Город)
+	Astral: Астральный (aka Silver Sea: Серебряное Море)
 	Heaven: Небесный
-	Elysium: Элизиум
+	Elysium: Элизиум (aka Promised Land: Земля Обетованная)
+		Wandering City of Emerald Song: Блуждающий Город Изумрудной Песни
+		Heaven's Shore: Берега Небес
 	Elemental: Стихийный
 	Material: Материальный
+		Dark Tapestry: Темный Гобелен
 	Shadow: Теневой
-	Ethereal: Эфирный
+	Ethereal: Эфирный (aka Space Between Spaces: Пространство Между Мест)
+		House of the Itinerant Soul: Дом Странствующей Души
 	Boneyard: Могильник
+		Graveyard of Souls: Кладбище Душ
+		Spirelands: Земли Шпиля
 	Maelstrom: Мальстрем
+		Cerulean Void: Лазурная Пустота
+		Borderlands: Пограничья
+		Galisemni: Галисемни
+	Nirvana: Нирвана
+		High Ninshabur: Высокий Ниншабур
+		Llourith: Ллоурит
 	Dreamlands: Мир Грёз
+	Negative (aka The Void)
+		Malikar's Keep: Убежище Маликара
+		Fallen Duromak: Падший Дуромак
+		Eternity's Doorstep: Порог Вечности
+	Positive:
+		Arudrellisiir: Арудреллисир
+	Air: Воздуха
+		Armun Kelisk: Армун Келиск (столица джиннов)
+	Earth: Земли (aka Eternal Delve: Вечная Впадина)
+		Opaline Vault: Опаловый Свод (столица шайтанов)
+		Blistering Labyrinth: Раскаленный Лабиринт (владения Айрзула)
+	Fire: Огня
+		City of Brass: Латунный Город
+	Water: Воды
+		Vialesk: Виалеск (город ундин)
 	Bloodrot: Бладрот
 	Immortal Ambulatory: Вечное Странствие
 	Back Alleys: Переулки
@@ -729,7 +778,7 @@ Skill: Навык
 		Trip: Опрокинуть :ref:`skill--Athletics--Trip`; :ref:`Опрокидывание (Trip) <skill--Athletics--Trip>`
 		Disarm: Разоружить :ref:`skill--Athletics--Disarm`
 	Crafting: Ремесло
-		Craft: Создать :ref:`skill--Crafting--Craft`
+		Craft: Создать :ref:`skill--Crafting--Craft` / :ref:`Создание (Craft) <skill--Crafting--Craft>`
 		Repair: Ремонт :ref:`skill--Crafting--Repair`
 		formula: рецепт
 			common: обычный
@@ -883,13 +932,13 @@ Titles:
 	Pathfinder Society: Общество Pathfinder
 	Aspis Consortium: Консорциум Асписов
 	Eye of Dread: Око ужаса
-	Gravelands: Могильные земли
+	Gravelands: Могильные Земли
+	Crystalhurst: Кристалхёрст
 	Everstand: Эверстэнд
 	Ozem: Озэм
 	Shining Crusade: Сияющий Поход
 	Firebrands: Смутьяны
 	Magaambyan: Магаамбия
-	Akashic Record: Акашийская Хроника; Хроника Акаши
 	Fleshwarp: Искажение плоти
 	Fleshforges of Nex: Формирующие плоть Некса
 	Ravounel: Равунел
@@ -938,7 +987,7 @@ Titles:
 	Rasp: Расп
 	Vidrian: Видриан
 	Sczarni: Скарни
-	Dominion of the Black: "Доминион черноты"
+	Dominion of the Black: Доминион Черноты
 	Leng: Лэнг
 	Dimension of Dreams: Измерение Грёз
 	Stone Roads: "Каменные дороги"
@@ -955,7 +1004,6 @@ Titles:
 	Goblinblood Wars: Войны Гоблинской крови
 	Galt: Голт
 	Aktun: Актун
-	Nessus: Несс
 	Clashing Shore: Грохочущий Берег
 	Forgeheart: Сердце Кузни
 	Xovaikain: Зовайкейн
@@ -977,15 +1025,6 @@ Titles:
 	Argent Gate: Серебристые Врата
 	Bzuulzeel: Бьюлзел
 	Razatlani Empire: Разатланская Империя
-	Cocytus: Коцит
-	Avernus: Аверн
-	Phlegethon: Флегетон
-	Stygia: Стигия
-	Erebus: Эреб
-	Caina: Ка́ина
-	Malebolge: Мэлболдж
-	Voiporl: Войпул
-	Diovengia: Диовенжа
 	Ahvoth-Kor: Анвот-Кор
 	Jeharlu: Джеарлу
 	Everglut: Эвеглат
@@ -1045,6 +1084,10 @@ Titles:
 	Zenj: Зенж
 	Ekujae: Экуджей
 	Kevoth‑Kul, the Black Sovereign of Numeria: Кевот-Кул, Черный Повелитель Нумерии
+	Speakers of the Depths: Ораторы Глубин
+	Great Abandonment: Великое Забвение (отсутствие обычного цикла душ в Первом Мире)
+	Wildwood Lodge: Ложа Дикого Леса
+	Knights of the Aeon Star: Рыцари Звезды Вечности
 	
 
 trait: признак / особенность

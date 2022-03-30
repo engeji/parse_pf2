@@ -235,6 +235,8 @@
 
 .. role:: t_aura
 
+.. role:: settlement_type
+
 
 .. role:: t_attack
 
@@ -517,6 +519,34 @@
 .. role:: t_cursed
 
 .. role:: t_intelligent
+
+.. role:: t_finite
+
+.. role:: t_immeasurable
+
+.. role:: t_unbounded
+
+.. role:: t_high_gravity
+
+.. role:: t_low_gravity
+
+.. role:: t_microgravity
+
+.. role:: t_strange_gravity
+
+.. role:: t_subjective_gravity
+
+.. role:: t_erratic
+
+.. role:: t_flowing
+
+.. role:: t_timeless
+
+.. role:: t_metamorphic
+
+.. role:: t_sentient
+
+.. role:: t_static
 
 .. role:: t_modification
 

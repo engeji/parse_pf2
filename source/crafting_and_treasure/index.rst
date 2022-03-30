@@ -475,7 +475,6 @@
    assistive
    materials
    structures
-   artifact
    Siege-Weapons
 
 

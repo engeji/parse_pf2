@@ -22,22 +22,24 @@
    monk
    rogue
    swashbuckler
-
-   investigator
    Gunslinger
-   Inventor
+
    alchemist
-   
-   magus
-   summoner
-   
+   investigator
+   Inventor
+
    bard
    cleric
    druid
    wizard
-   witch
    sorcerer
+   witch
    oracle
+   
+   magus
+   summoner
+   
+
 
 
 
@@ -321,13 +323,13 @@
 .. rst-class:: archetype-chapter
 .. _arch--Pathfinder-Society-Archetypes:
 
-Архетипы Общества Pathfinder (Pathfinder Society Archetypes)
+Архетипы Общества Патфайндер (Pathfinder Society Archetypes)
 --------------------------------------------------------------------------------------------------------
 
 **Источник**: Lost Omens: Character Guide pg. 112
 
-Эти архетипы являются необычными, но доступны членам :ref:`Общества Pathfinder <Faction--Pathfinder-Society>`.
-Квалифицированные персонажи с архетипом :ref:`archetype--Pathfinder-Agent` могут выбрать одну из этих способностей посвящения, даже если не получили нужное количество способностей из архетипа "Агент Pathfinder", и каждая из способностей этих архетипов удовлетворяет особые требования :ref:`arch-feat--Pathfinder-Agent--Dedication`, несмотря на то, что они не принадлежат архетипу "Агент Pathfinder".
+Эти архетипы являются необычными, но доступны членам :ref:`Общества Патфайндер <Faction--Pathfinder-Society>`.
+Квалифицированные персонажи с архетипом :ref:`archetype--Pathfinder-Agent` могут выбрать одну из этих способностей посвящения, даже если не получили нужное количество способностей из архетипа "Агент Патфайндер", и каждая из способностей этих архетипов удовлетворяет особые требования :ref:`arch-feat--Pathfinder-Agent--Dedication`, несмотря на то, что они не принадлежат архетипу "Агент Патфайндер".
 
 .. toctree::
    :maxdepth: 1

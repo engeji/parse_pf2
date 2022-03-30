@@ -32,6 +32,8 @@
 
 **Мировоззрение последователей**: ХД, ХН, ХЗ (CG, CN, CE)
 
+**Царство**: :ref:`plane--Maelstrom`
+
 **Источник**:
 Lost Omens: Gods & Magic pg. 132-133,
 Dragon Empires Gazetteer pg. 63

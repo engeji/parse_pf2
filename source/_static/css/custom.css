@@ -99,7 +99,7 @@ hr {
 .rst-content ul.simple,
 .rst-content ol.simple,
 .rst-content .line-block {
-	margin-bottom: 0.3em;
+	margin-bottom: 0.3em !important;
 }
 
 .rst-content ul.simple {
@@ -659,7 +659,8 @@ section.hazards-list h1,
 /*section.glossary h3,*/
 section.appendix-traits h3,
 section.game-mode h3,
-section.creature-details h1 {
+section.creature-details h1,
+section.using-npc-gallery h1 {
 	box-sizing: border-box;
 	color: #002664;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -701,12 +702,14 @@ section.craft-treasure-wands h2,
 section.craft-treasure-armor h2,
 section.craft-treasure-materials h2,
 section.gm-subchap h4,
+section.planes h2,
 section.hazards h2,
 /*section.relic-gifts h2,*/
 /*section.conditions h2,*/
 /*section.glossary h4,*/
 section.appendix-traits h4,
-section.game-mode h4 {
+section.game-mode h4,
+section.using-npc-gallery h2 {
 	box-sizing: border-box;
 	color: #5e0000;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -741,7 +744,8 @@ section.craft-treasure-wands h3,
 section.craft-treasure-materials h3,
 section.gm-subchap h5,
 section.hazards h3,
-section.game-mode h5 {
+section.game-mode h5,
+section.using-npc-gallery h3 {
 	box-sizing: border-box;
 	color: #a86753;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -782,6 +786,9 @@ section.siege-weapons-list section,
 section.relic-gifts section,
 section.gmg-intelligent-items section,
 section.gmg-cursed-items section,
+section.artifacts-list section,
+section.afflictions-list section,
+section.planes section,
 section.craft-treasure-bombs section,
 section.craft-treasure-elixirs section,
 section.craft-treasure-poisons section,
@@ -813,8 +820,7 @@ section.craft-treasure-tattooslist section,
 section.craft-treasure-spell-catalysts section,
 section.craft-treasure-spellhearts section,
 section.craft-customizations section,
-section.actions-descr section,
-section.creature-abilities section {
+section.actions-descr section {
 	margin-top: 1.2em;
 }
 
@@ -835,6 +841,9 @@ section.siege-weapons-list section > p,
 section.relic-gifts section > p,
 section.gmg-intelligent-items section > p,
 section.gmg-cursed-items section > p,
+section.artifacts-list section > p,
+section.afflictions-list section > p,
+section.planes section > p,
 section.craft-treasure-bombs section > p,
 section.craft-treasure-elixirs section, > p,
 section.craft-treasure-poisons section, > p,
@@ -868,8 +877,7 @@ section.craft-treasure-assistive section > p,
 section.craft-treasure-wheelchairs section > p,
 section.craft-treasure-spellhearts section > p,
 section.actions-descr section section > p,
-section.eidolon section section > p,
-section.creature-abilities section > p {
+section.eidolon section section > p {
 	margin-bottom: 0.1em;
 	text-indent: inherit;
 }
@@ -896,6 +904,9 @@ section.siege-weapons-list section > h3,
 section.relic-gifts section > h3,
 section.gmg-intelligent-items section > h3,
 section.gmg-cursed-items section > h3,
+section.artifacts-list section > h3,
+section.afflictions-list section > h3,
+section.planes section > h3,
 section.craft-treasure-bombs section > h4,
 section.craft-treasure-elixirs section > h4,
 section.craft-treasure-poisons section > h4,
@@ -929,8 +940,7 @@ section.craft-treasure-assistive section > h3,
 section.craft-treasure-wheelchairs section > h4,
 section.craft-treasure-spellhearts section > h2,
 section.craft-customizations section > h3,
-section.actions-descr section section > h5,
-section.creature-abilities section > h2 {
+section.actions-descr section section > h5 {
 	box-sizing: border-box;
 	color: #404040;
 	font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
@@ -964,6 +974,9 @@ section.siege-weapons-list section hr,
 section.relic-gifts section hr,
 section.gmg-intelligent-items section hr,
 section.gmg-cursed-items section hr,
+section.artifacts-list section hr,
+section.afflictions-list section hr,
+section.planes section hr,
 section.craft-treasure-bombs section hr,
 section.craft-treasure-elixirs section hr,
 section.craft-treasure-poisons section hr,
@@ -998,8 +1011,7 @@ section.craft-treasure-wheelchairs section hr,
 section.craft-treasure-spellhearts section hr,
 section.craft-customizations section hr,
 section.actions-descr section hr,
-section.eidolon hr,
-section.creature-abilities section hr {
+section.eidolon hr {
 	border-top: 1px solid #404040;
 	margin: 1px 0;
 }
@@ -1066,6 +1078,7 @@ section.description > p {
 	text-indent: inherit;
 }
 
+section.description > h1,
 section.description > h2,
 section.description > h3,
 section.description > h4,
@@ -1355,7 +1368,14 @@ section > h2 + ul li p span.size,
 section > h3 + ul li p span.size,
 section > h4 + ul li p span.size,
 section > h5 + ul li p span.size,
-section > h6 + ul li p span.size {
+section > h6 + ul li p span.size,
+ul.traits li p span.settlement_type,
+section > h1 + ul li p span.settlement-type,
+section > h2 + ul li p span.settlement-type,
+section > h3 + ul li p span.settlement-type,
+section > h4 + ul li p span.settlement-type,
+section > h5 + ul li p span.settlement-type,
+section > h6 + ul li p span.settlement-type {
 	background-color: #3b7b59;
 	box-sizing: content-box;
 	display: inline-block;

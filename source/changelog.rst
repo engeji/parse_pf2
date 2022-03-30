@@ -6,6 +6,134 @@
 История изменений (Changelog)
 **********************************************************************************************************
 
+.. _changelog--2022-03-30:
+
+2022-03-30
+=====================================================================================================
+
+Это обновление целиком и полностью посвящено "Руководству игрового мастера".
+
+
+.. _changelog--edits--2022-03-30:
+
+Исправления
+---------------------------------------------------------------------------------------------
+
+Помимо всех найденных орфографических ошибок и опечаток, к важным исправлениям затрагивающим игровую механику относятся:
+
+- В классовой особенности Стрелка :ref:`class-feature--Gunslinger--Gunslinging-Legend` исправлена подтвержденная ошибка с прогрессией простого и воинского неогнестрельного оружия и безоружных атак до мастера, а не эксперта.
+- :ref:`spell--Inner-Radiance-Torrent`. Урон при усилении исправлен на 2d4 так как подтвержден разработчиками.
+- :ref:`spell--a--Avatar`. 2 формы были указаны для :doc:`/lost_omens/Deity/Other/More/Adanye` с разными характеристиками. Вторая форма принадлежит :doc:`Балумбдару </lost_omens/Deity/Other/More/Balumbdar>`.
+- :ref:`spell--d--Divine-Vessel`. "Если вы были среднего или маленького размера" исправлено на "среднего размера или менее".
+- :ref:`item--Armor-Potency` был копипастный текст про улучшение руны "оружия".
+- В описании руны доспеха :ref:`item--Invisibility` упоминалось заклинание :ref:`spell--s--See-Invisibility` вместо :ref:`spell--i--Invisibility`.
+- :ref:`item--Caltrop-snare`. Добавлено пропущенное предложение про выбор квадрата, куда будет высыпаться чеснок.
+- :ref:`item--Spike-snare`. Уточнено, что кидается простой спасбросок.
+- :ref:`item--Biting-snare`. В результатах крит.провала не было указано что штраф "состояния".
+- :ref:`item--Malyass-Root-Paste`. В 3-й стадии было пропущено состояние  :c_flat_footed:`застигнут врасплох`.
+- :ref:`item--Sleep-Arrow`. Не были указаны требования для создания.
+- :ref:`item--Snapleaf`. Запись "триггер" называлась "частота".
+- :ref:`item--Gallows-Tooth`. Запись "требования" называлась "эффект".
+- :ref:`ancestry-feat--Dwarf--Dwarven-Doughtiness`. Название изменено с "Дварфская отвага" на "Дварфийская".
+- У наследий крови чародея минимально перефразированы эффекты магии крови.
+- В сноске :ref:`Месяцы и дни (Months And Days) <sidebar--Months-And-Days>` исправлено оригинальное название пятницы на "fireday".
+
+----------
+
+**Другое**:
+
+- Добавлено пропущенное божество из книги "Gods & Magic" - :doc:`/lost_omens/Deity/Other/More/Gyronna`.
+- В :doc:`Глоссарии умений (Ability Glossary) </creatures/ability_glossary>` убран лишний уровень заголовков.
+
+
+.. _changelog--GMG--2022-03-30:
+
+Руководство игрового мастера (Gamemastery Guide)
+---------------------------------------------------------------------------------------------
+
+Добавлен весь остальной остальной контент из данной книги.
+Далее идут детальные подробности появившихся и дополненных разделов.
+
+Добавлен раздел :ref:`GMG--Gamemastery-Basics`:
+
+- :doc:`/game_mastering/GMG-Basics/Introduction`
+- :doc:`/game_mastering/GMG-Basics/General-Advice`
+- :doc:`/game_mastering/GMG-Basics/Running-Encounters`
+- :doc:`/game_mastering/GMG-Basics/Running-Exploration`
+- :doc:`/game_mastering/GMG-Basics/Running-Downtime`
+- :doc:`/game_mastering/GMG-Basics/Adjudicating-Rules`
+- :doc:`/game_mastering/GMG-Basics/Resolving-Problems`
+- :doc:`/game_mastering/GMG-Basics/Narrative-Collaboration`
+- :doc:`/game_mastering/GMG-Basics/Special-Circumstances`
+- :doc:`/game_mastering/GMG-Basics/Rarity-in-Your-Game`
+- :doc:`/game_mastering/GMG-Basics/Campaign-Structure`
+- :doc:`/game_mastering/GMG-Basics/Adventure-Design`
+- :doc:`/game_mastering/GMG-Basics/Encounter-Design`
+- :doc:`/game_mastering/GMG-Basics/Drawing-Maps`
+
+----------
+
+В :ref:`GMG--Tools` добавлены:
+
+- :doc:`/game_mastering/tools/Building-Hazards`
+- :doc:`/game_mastering/tools/Building-Items`
+- :doc:`/game_mastering/tools/Item-Quirks`
+- :doc:`/game_mastering/tools/Artifacts`
+- :doc:`/game_mastering/tools/Gems-Art-Objects`
+- :doc:`/game_mastering/tools/Afflictions`
+- :doc:`/game_mastering/tools/Building-Worlds`
+- :doc:`/game_mastering/tools/Nations`
+- :doc:`/game_mastering/tools/Settlements`
+- :doc:`/game_mastering/tools/The-Planes`
+
+----------
+
+В :ref:`GMG--Variant-Rules` добавлены:
+
+- :doc:`/game_mastering/variant-rules/Ability-Score-Variants`
+- :doc:`/game_mastering/variant-rules/Alignment-Variants`
+- :doc:`/game_mastering/variant-rules/Deep-Backgrounds`
+- :doc:`/game_mastering/variant-rules/Level-0-Characters`
+- :doc:`/game_mastering/variant-rules/Magic-Item-Variants`
+- :doc:`/game_mastering/variant-rules/Skill-Points`
+
+----------
+
+В раздел про :ref:`неигровых персонажей (NPC) <Creatures--NPCs>` добавлены правила по их :doc:`использованию </creatures/npc/index>`, а так же все NPC из GMG.
+
+- В :doc:`тематические шаблоны NPC </creatures/npc/Theme-Templates/index>` добавлен шаблон :doc:`/creatures/npc/Theme-Templates/Deity-Follower` из LOGM.
+
+----------
+
+Добавлены :doc:`Опасности (Hazards) </game_mastering/hazards>` из GMG:
+
+**Простые**
+
+- :ref:`hazard--Shrieker`
+- :ref:`hazard--Snowfall`
+- :ref:`hazard--Hampering-Web`
+- :ref:`hazard--Brown-Mold`
+- :ref:`hazard--Treacherous-Scree`
+- :ref:`hazard--Titanic-Flytrap`
+- :ref:`hazard--Spectral-Reflection`
+- :ref:`hazard--Ghostly-Choir`
+- :ref:`hazard--Green-Slime`
+- :ref:`hazard--Jealous-Abjurer`
+- :ref:`hazard--Plummeting-Doom`
+- :ref:`hazard--Grasp-of-the-Damned`
+
+**Комплексные**
+
+- :ref:`hazard--Eternal-Flame`
+- :ref:`hazard--Confounding-Betrayal`
+- :ref:`hazard--Perilous-Flash-Flood`
+- :ref:`hazard--Flensing-Blades`
+- :ref:`hazard--Dance-of-Death`
+
+
+
+
+
 .. _changelog--2022-01-22:
 
 2022-01-22
