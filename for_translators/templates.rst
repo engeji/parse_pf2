@@ -1798,6 +1798,13 @@ d aaaaaaaaa, bbbbbbbbbbb, КС 696969 СПАС
 	изменено
 
 
+.. versionadded:: /errata-APG-r2
+	добавлено
+
+.. versionchanged:: /errata-APG-r2
+	изменено
+
+
 .. versionchanged:: /errata-LOGM-2
 	изменено
 
@@ -1805,6 +1812,10 @@ d aaaaaaaaa, bbbbbbbbbbb, КС 696969 СПАС
 	изменено
 
 .. versionadded:: /errata-LOAG-2
+	изменено
+
+
+.. versionchanged:: /errata-Bestiary2-2
 	изменено
 
 
@@ -1824,6 +1835,7 @@ d aaaaaaaaa, bbbbbbbbbbb, КС 696969 СПАС
 
 
 * :sup:`APG` - Источник "Продвинутое руководство игрока (Advanced Player's Guide)"
+* :sup:`SoM` - Secrets Of Magic (Секреты магии)
 * :sup:`LOWG` - Источник "Утраченные пророчества: Руководство о мире (Lost Omens: World Guide)"
 * :sup:`LOCG` - Источник "Утраченные пророчества: Руководство по персонажам (Lost Omens: Character Guide)"
 * :sup:`LOGM` - Источник "Утраченные пророчества: Боги и Магия (Lost Omens: Gods & Magic)"

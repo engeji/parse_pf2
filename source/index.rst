@@ -3,8 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-03-30**
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-04-16**
 
+| Внесены официальные :ref:`исправления <changelog--2022-04-16>` **Advanced Player's Guide**.
 | Завершен полный перевод **Gamemastery Guide**. Подробности в :ref:`истории изменений <changelog--2022-03-30>`.
 
 | `Telegram канал <https://t.me/PF2e_RU_channel>`_ - уведомления об обновлениях и изменения.
