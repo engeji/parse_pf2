@@ -486,6 +486,15 @@ Pathfinder #161: Belly of the Black Whale
 
 
 
+Pathfinder #162: Ruins of the Radiant Siege
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Adventure Path #162: Ruins of the Radiant Siege** © 2020, Paizo Inc.; Authors: Amber Stewart, with Carlos Cabrera, Benjamin U. Fields, Kim Frandsen, Jim Groves, John S. Roberts, and Diego Valdez.
+
+
+
 Abomination Vaults Player's Guide
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
