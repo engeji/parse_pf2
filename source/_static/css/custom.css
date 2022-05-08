@@ -196,6 +196,7 @@ section.wy-nav-content-wrap {
 	margin-bottom: 0.1em;
 	margin-top: 0.8em;
 	text-indent: initial;
+	text-transform: uppercase;
 }
 
 .rst-content aside.sidebar-char-ancestry-class {

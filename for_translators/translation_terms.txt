@@ -257,6 +257,7 @@ Creature: существо
 		taiga: таёжный
 		tarn: каровый
 		tor: горных пиков
+	jorogumo: йорогумо
 
 
 counteract: Противодействие :ref:`ch9--Counteracting` / :ref:`противодействие <ch9--Counteracting>`
@@ -596,7 +597,7 @@ Locations:
 	Lands of the Linnorm Kings: Земли Королей Линнормов
 	Impossible Lands: Невозможные земли
 	Darklands: Темноземье
-		Sekamina: Сэкамина
+		Sekamina: Сэкамайна
 		Orv: Орв
 		Nar‑Voth: Нар-Вот
 	Mushfens: Месивые Топи (от слов месиво и топь)
@@ -881,6 +882,7 @@ Titles:
 	Mauxi: Маушиец
 	Tian Xia: Тянь Ся
 		tien: тиянский (человеческий этнос)
+		Shenmen: Шенмэн
 	Tian-Dan: Тянь-Дань
 	Tian-Yae: Тянь-Йэ
 	Alijae: Алижеец
@@ -1088,6 +1090,8 @@ Titles:
 	Great Abandonment: Великое Забвение (отсутствие обычного цикла душ в Первом Мире)
 	Wildwood Lodge: Ложа Дикого Леса
 	Knights of the Aeon Star: Рыцари Звезды Вечности
+	Razatlani empire: Разатланская империя
+	Ivory Reapers: Костяные Жнецы
 	
 
 trait: признак / особенность

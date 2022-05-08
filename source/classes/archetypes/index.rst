@@ -144,6 +144,11 @@
    Spell-Trickster
    Wrestler
 
+   Exorcist
+   Hallowed-Necromancer
+   Soul-Warden
+   Undead-Slayer
+   
 
    dlc/aldori-duelist
    dlc/runescarred

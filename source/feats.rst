@@ -1727,7 +1727,7 @@
 
 .. _feat--Eye-of-the-Arclords:
 
-Око верховных лордов (`Eye of the Arclords <https://2e.aonprd.com/Feats.aspx?ID=870>`_) |д-1| / 2
+Око Верховных Лордов (`Eye of the Arclords <https://2e.aonprd.com/Feats.aspx?ID=870>`_) |д-1| / 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :uncommon:`необычный`
