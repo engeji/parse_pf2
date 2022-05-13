@@ -347,4 +347,4 @@
 .. toctree::
    :maxdepth: 2
 
-   Book-of-the-Dead/Prayers-For-The-Living
+   Book-of-the-Dead/Prayers-for-the-Living

@@ -18,6 +18,7 @@
 
 
 
+.. _ch11--Staves--Casting-Spells-from-a-Staff:
 
 Сотворение заклинаний из посоха (`Casting Spells from a Staff <https://2e.aonprd.com/Rules.aspx?ID=749>`_)
 ----------------------------------------------------------------------------------------------------------
