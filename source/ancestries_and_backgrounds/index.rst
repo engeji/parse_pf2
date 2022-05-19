@@ -220,6 +220,7 @@
    ancestries/shisk
    ancestries/Automaton
    ancestries/Poppet
+   ancestries/Skeleton
 
 
 

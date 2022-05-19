@@ -148,7 +148,16 @@
    Hallowed-Necromancer
    Soul-Warden
    Undead-Slayer
+   Reanimator
+   Undead-Master
    
+   Ghost
+   Ghoul
+   Lich
+   Mummy
+   Vampire
+   Zombie
+
 
    dlc/aldori-duelist
    dlc/runescarred

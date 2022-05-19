@@ -225,6 +225,7 @@
 
    Animal-Companions
    Construct-Companions
+   Undead-Companions
    Familiars
 
 
@@ -348,3 +349,4 @@
    :maxdepth: 2
 
    Book-of-the-Dead/Prayers-for-the-Living
+   Book-of-the-Dead/Hymns-for-the-Dead
