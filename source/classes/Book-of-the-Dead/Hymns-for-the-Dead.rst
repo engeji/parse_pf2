@@ -370,4 +370,76 @@
 
 
 
+
+
+
+
+
+.. _Book-of-the-Dead--Haunts:
+
+============================================================================================================
+Призраки (Haunts)
+============================================================================================================
+
+.. epigraph::
+
+	*Призраки это духовные опасности, которые образуются, когда эмоции или дух личности настолько сильны, что запечатлеваются в месте или объекте.
+	Как правило, смерть выступает катализатором, превращая эти эмоции в призрак.*
+
+-----------------------------------------------------------------------------
+
+**Источник**: Book of the Dead pg. 64
+
+Призраки обычно не имеют физических частей или обладают только :t_incorporeal:`бестелесными` частями.
+Религия и Оккультизм - наиболее распространенные навыки, используемые для обезвреживания призраков.
+Однако, подобно :t_ghost:`привидению`, :t_haunt:`призраки` постоянны и со временем появляются заново, пока дух призрака не будет полностью изгнан, или его затянувшиеся эмоции и тоска не будут разрешены.
+Как правило, изгнание или отключение призрака дает подсказки о его желаниях и методах уничтожения.
+
+
+.. _BotD--Haunts--Simple-Hazards:
+
+Простые опасности (Simple Hazards)
+--------------------------------------------------------------------------------------------------------
+
+**Источник**: Book of the Dead pg. 64
+
+* :ref:`hazard--Locking-Door`
+* :ref:`hazard--Phantom-Footsteps`
+* :ref:`hazard--Blood-Soaked-Soil`
+* :ref:`hazard--Disembodied-Voices`
+* :ref:`hazard--Cold-Spot`
+* :ref:`hazard--Shattered-Window`
+* :ref:`hazard--Bloodthirsty-Toy`
+* :ref:`hazard--Toppling-Furniture`
+* :ref:`hazard--Phantom-Jailer`
+* :ref:`hazard--Violent-Shove`
+* :ref:`hazard--Final-Words`
+* :ref:`hazard--Ectoplasmic-Grasp`
+* :ref:`hazard--Weight-of-Guilt`
+* :ref:`hazard--Frenetic-Musician`
+* :ref:`hazard--Blood-Tears`
+* :ref:`hazard--Desperate-Hunger`
+* :ref:`hazard--Cannibalistic-Echoes`
+* :ref:`hazard--Flood-of-Spirits`
+* :ref:`hazard--Glimpse-Grave`
+
+
+.. _BotD--Haunts--Complex-Hazards:
+
+Комплексные опасности (Complex Hazards)
+--------------------------------------------------------------------------------------------------------
+
+**Источник**: Book of the Dead pg. 67
+
+* :ref:`hazard--Entombed-Spirit`
+* :ref:`hazard--Sadistic-Conductor`
+* :ref:`hazard--Grasping-Dead`
+* :ref:`hazard--Spirit-Cyclone`
+* :ref:`hazard--Ghost-Stampede`
+* :ref:`hazard--Siphoning-Spirit`
+
+
+
+
+
 .. include:: /helpers/actions.rst
