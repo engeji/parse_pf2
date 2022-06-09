@@ -88,7 +88,7 @@
 исцеляется от :t_electricity:`электричества` (область 2d4 ОЗ);
 :c_slowed:`замедляется` от :t_cold:`холода`
 
-**Уязвим к (Vulnerable to Flesh to Stone)**:
+**Уязвим к "Плоти в камень" (Vulnerable to Flesh to Stone)**:
 Сотворение :ref:`spell--f--Flesh-to-Stone` на голема из плоти действует на него нормально.
 
 

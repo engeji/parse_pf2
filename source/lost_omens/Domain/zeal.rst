@@ -39,6 +39,7 @@
 	* :doc:`/lost_omens/Deity/Empyreal-Lord/Tanagaar`
 	* :doc:`/lost_omens/Deity/Dwarven-God/Angradd`
 	* :doc:`/lost_omens/Deity/Other/More/Dahak`
+	* :doc:`/lost_omens/Deity/Other/More/Gyronna`
 	* :doc:`/lost_omens/Deity/Other/More/Lubaiko`
 	* :doc:`/lost_omens/Deity/Other/More/Ydersius`
 	* :doc:`/lost_omens/Deity/Old-Sun-God/Chohar`

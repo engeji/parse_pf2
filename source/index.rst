@@ -3,11 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-04-16**
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-06-10**
+| Добавлена значительная часть :ref:`Книги мертвых (Book of the Dead) <Book-of-the-Dead>` (или смотрите :ref:`изменения <changelog--2022-06-10>`).
 
-| Внесены официальные :ref:`исправления <changelog--2022-04-16>` **Advanced Player's Guide**.
-| Завершен полный перевод **Gamemastery Guide**. Подробности в :ref:`истории изменений <changelog--2022-03-30>`.
 
+| **СООБЩЕСТВО**
+| Если вы хотите поддержать проект, то можете найти информацию на странице :doc:`support`.
+| `Discord сервер <https://discord.gg/FxwzjtX3mh>`_ - логичное продолжение Telegram чата.
 | `Telegram канал <https://t.me/PF2e_RU_channel>`_ - уведомления об обновлениях и изменения.
 | `Telegram чат <https://t.me/+UuDJ_hPEOGoySmY3>`_ - обратная связь, обсуждаем правила и просто трындим про PF2E.
 
@@ -35,5 +37,6 @@ Pathfinder 2E
 
 .. toctree::
    :maxdepth: 1
-      
+
+   support
    changelog
