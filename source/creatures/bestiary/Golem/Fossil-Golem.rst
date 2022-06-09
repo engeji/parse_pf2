@@ -88,7 +88,7 @@
 исцеляется от :t_acid:`кислоты` (область 2d8 ОЗ);
 :c_slowed:`замедляется` от :t_earth:`земли`
 
-**Уязвим к (Vulnerable to Stone to Flesh)**:
+**Уязвим к "Камню в плоть" (Vulnerable to Stone to Flesh)**:
 :ref:`spell--s--Stone-to-Flesh` отменяет антимагию голема и его сопротивление физическому урону на 1 раунд.
 Заклинание :ref:`spell--f--Flesh-to-Stone` мгновенно обращает этот эффект.
 

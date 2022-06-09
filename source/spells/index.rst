@@ -1070,6 +1070,8 @@
    focus/Spellmaster
    focus/Knights-of-Lastwall
    focus/Runelord
+   focus/Hallowed-Necromancer
+   focus/Reanimator
 
 
 

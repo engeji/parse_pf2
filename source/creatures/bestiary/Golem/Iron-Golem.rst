@@ -86,10 +86,10 @@
 исцеляется от :t_fire:`огня` (область 2d8 ОЗ);
 :c_slowed:`замедляется` от :t_electricity:`электричества`
 
-**Уязвим к (Vulnerable to Neutralize Poison)**:
+**Уязвим к "Нейтрализации яда" (Vulnerable to Neutralize Poison)**:
 Сотворение :ref:`spell--n--Neutralize-Poison` на голема отключает его "Атаку дыханием" на 1 минуту.
 
-**Уязвим к (Vulnerable to Rust)**:
+**Уязвим к ржавчине (Vulnerable to Rust)**:
 Магические эффекты вызывающие ржавление, такие как атака антеннами :doc:`ржавника </creatures/bestiary/Rust-Monster>`, нормально воздействуют на железного голема.
 
 ----------

@@ -146,6 +146,17 @@ Guns & Gears
 
 
 
+Book of the Dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Demon Lord, Orcus from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene and Clark Peterson, based on material by Gary Gygax.
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Book of the Dead** © 2022, Paizo Inc.; Authors: Brian Bauman, Tineke Bolleman. Logan Bonner, Jason Bulmahn, Jessica Catalan, John Compton, Chris Eng, Logan Harper, Michelle Jones, Jason Keeley, Luis Loza, Ron Lundeen, Liane Merciel, Patchen Mortimer, Quinn Murphy, Jessica Redekop, Mikhail Rekun, Solomon St. John, Michael Sayre, Mark Seifter, Sen.H.H.S., Kendra Leigh Speedling, Jason Tondro, Andrew White.
+
+
+
 Bestiary
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

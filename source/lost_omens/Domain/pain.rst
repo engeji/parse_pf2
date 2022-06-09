@@ -22,6 +22,7 @@
 	* :doc:`/lost_omens/Deity/Core/Calistria`
 	* :doc:`/lost_omens/Deity/Core/Zon-Kuthon`
 	* :doc:`/lost_omens/Deity/Other/Arazni`
+	* :doc:`/lost_omens/Deity/Other/More/Gyronna`
 	* :doc:`/lost_omens/Deity/Queen-of-Night/Doloras`
 	* :doc:`/lost_omens/Deity/Demon-Lord/Shax`
 	* :doc:`/lost_omens/Deity/Demon-Lord/Sifkesh`
