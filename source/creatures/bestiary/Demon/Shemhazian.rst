@@ -115,16 +115,14 @@
 
 **Врожденные сакральные заклинания** КС 37
 
-| **8 ур.**
-| :ref:`spell--d--Divine-Decree` (только зло)
+| **8 ур.** :ref:`spell--d--Divine-Decree` (только зло)
 | **5 ур.**
 | :ref:`spell--p--Prying-Eye` (x3)
 | :ref:`spell--d--Dimension-Door`
 | **4 ур.**
 | :ref:`spell--c--Clairvoyance` (x3)
 | :ref:`spell--d--Dimension-Door` (по желанию)
-| **2 ур.**
-| :ref:`spell--i--Invisibility` (по желанию)
+| **2 ур.** :ref:`spell--i--Invisibility` (по желанию)
 | **Постоянные (7 ур.)**
 | :ref:`spell--f--Fly`
 | :ref:`spell--t--True-Seeing`

@@ -508,7 +508,7 @@
 **Коренные обитатели**:
 воздушные элементали (`air elementals <https://2e.aonprd.com/MonsterFamilies.aspx?ID=41>`_),
 облачные драконы (`cloud dragons <https://2e.aonprd.com/MonsterFamilies.aspx?ID=176>`_),
-джинны (`djinn <https://2e.aonprd.com/Monsters.aspx?ID=212>`_),
+:doc:`джинны </creatures/bestiary/Genie/Djinni>`,
 :doc:`просители (воздушные пневмы) </creatures/bestiary/Petitioner>`
 
 **Источник**: Gamemastery Guide pg. 139
@@ -541,7 +541,7 @@
 
 **Коренные обитатели**:
 земляные элементали (`earth elementals <https://2e.aonprd.com/MonsterFamilies.aspx?ID=42>`_),
-шайтаны (`shaitans <https://2e.aonprd.com/Monsters.aspx?ID=213>`_),
+:doc:`шайтаны </creatures/bestiary/Genie/Shaitan>`,
 кристаллические драконы (`crystal dragons <https://2e.aonprd.com/MonsterFamilies.aspx?ID=177>`_),
 :doc:`просители (земляные пневмы) </creatures/bestiary/Petitioner>`
 
@@ -574,7 +574,7 @@
 
 **Коренные обитатели**:
 огненные элементали (`fire elementals <https://2e.aonprd.com/MonsterFamilies.aspx?ID=43>`_),
-эфриты (`efreet <https://2e.aonprd.com/Monsters.aspx?ID=214>`_),
+:doc:`эфриты </creatures/bestiary/Genie/Efreeti>`,
 азеры (`azers <https://2e.aonprd.com/Monsters.aspx?ID=1074>`_),
 магматические драконы (`magma dragons <https://2e.aonprd.com/MonsterFamilies.aspx?ID=178>`_),
 :doc:`просители (огненные пневмы) </creatures/bestiary/Petitioner>`
@@ -608,7 +608,7 @@
 
 **Коренные обитатели**:
 водные элементали (`water elementals <https://2e.aonprd.com/MonsterFamilies.aspx?ID=45>`_),
-мариды (`marids <https://2e.aonprd.com/Monsters.aspx?ID=215>`_),
+:doc:`мариды </creatures/bestiary/Genie/Marid>`,
 водные драконы (`brine dragons <https://2e.aonprd.com/MonsterFamilies.aspx?ID=175>`_),
 :doc:`просители (водные вневмы) </creatures/bestiary/Petitioner>`
 
@@ -620,7 +620,7 @@
 Его почти безграничные пространства соленых, пресных и солоноватых морей кишат всевозможной океанической жизнью, освещенные светом от границы с Планом Воздуха и уходящие в черные, донные глубины, где он граничит с Планом Земли.
 Хотя этот план прекрасно подходит для существ дышащих в воде, путешественники дышащие воздухом должны иметь собственный запас воздуха или магические способы для дыхания.
 Пузыри пригодной для дыхания атмосферы встречаются относительно редко и надежно охраняются, закрепленные за местами торговли с чужаками, как например великий город Виалеск, основанный :doc:`ундинами </ancestries_and_backgrounds/versatile_heritages/undine>`-иммигрантами.
-Океаны плана, усеянные огромными лесами ламинарии, магическими течениями и странными явлениями, являются домом империи мерфолков (`merfolk <https://2e.aonprd.com/MonsterFamilies.aspx?ID=73>`_), хищных и захватнических морских дьяволов (`sea devils <https://2e.aonprd.com/MonsterFamilies.aspx?ID=88>`_), а также владениями великих водных драконов.
+Океаны плана, усеянные огромными лесами ламинарии, магическими течениями и странными явлениями, являются домом империи :doc:`мерфолков </creatures/bestiary/Merfolk/index>`, хищных и захватнических :doc:`морских дьяволов </creatures/bestiary/Sea-Devil/index>`, а также владениями великих водных драконов.
 
 Когда-то мариды претендовали на почти абсолютное господство над своим родным планом, но их империя давно пришла в упадок и распалась.
 Их разрушенные города погрузились в пучины, а современные владения остаются лишь тенью былого величия.
@@ -1067,7 +1067,7 @@
 
 **Коренные обитатели**:
 :doc:`дьяволы </creatures/bestiary/Devil/index>`,
-адские гончии (`hellhounds <https://2e.aonprd.com/MonsterFamilies.aspx?ID=60>`_),
+:doc:`адские гончие </creatures/bestiary/Hell-Hound/index>`,
 :doc:`просители (проклятые) </creatures/bestiary/Petitioner>`
 
 **Источник**: Gamemastery Guide pg. 144

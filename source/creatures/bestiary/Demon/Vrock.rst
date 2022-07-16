@@ -96,12 +96,9 @@
 
 **Врожденные сакральные заклинания** КС 26
 
-| **5 ур.**
-| :ref:`spell--d--Dimension-Door`
-| **4 ур.**
-| :ref:`spell--d--Dimension-Door` (по желанию)
-| **2 ур.**
-| :ref:`spell--m--Mirror-Image`
+| **5 ур.** :ref:`spell--d--Dimension-Door`
+| **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
+| **2 ур.** :ref:`spell--m--Mirror-Image`
 
 **Ритуалы** КС 26; :ref:`ritual--Abyssal-Pact`
 

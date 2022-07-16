@@ -112,8 +112,7 @@
 
 **Врожденные сакральные заклинания** КС 26
 
-| **5 ур.**
-| :ref:`spell--d--Dimension-Door`
+| **5 ур.** :ref:`spell--d--Dimension-Door`
 | **4 ур.**
 | :ref:`spell--d--Dimension-Door` (по желанию)
 | :ref:`spell--g--Grim-Tendrils`

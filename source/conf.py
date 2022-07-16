@@ -78,7 +78,7 @@ html_css_files = [
 html_js_files = [
 	'https://cdnjs.cloudflare.com/ajax/libs/tooltipster/4.2.8/js/tooltipster.bundle.min.js',
 	'js/custom.js',
-	'js/traits_tooltips_v1.18.js',
+	'js/traits_tooltips_v1.19.js',
 ]
 
 html_scaled_image_link = False

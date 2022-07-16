@@ -112,19 +112,14 @@
 
 **Врожденные сакральные заклинания** КС 33
 
-| **7 ур.**
-| :ref:`spell--c--Cone-Of-Cold` (×2)
-| **6 ур.**
-| :ref:`spell--i--Illusory-Scene`
+| **7 ур.** :ref:`spell--c--Cone-Of-Cold` (×2)
+| **6 ур.** :ref:`spell--i--Illusory-Scene`
 | **5 ур.**
 | :ref:`spell--w--Wall-Of-Ice` (×3)
 | :ref:`spell--d--Dimension-Door`
-| **4 ур.**
-| :ref:`spell--d--Dimension-Door` (по желанию)
-| **Чары (7 ур.)**
-| :ref:`spell--r--Ray-Of-Frost`
-| **Постоянные (4 ур.)**
-| :ref:`spell--f--Fly`
+| **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
+| **Чары (7 ур.)** :ref:`spell--r--Ray-Of-Frost`
+| **Постоянные (4 ур.)** :ref:`spell--f--Fly`
 
 **Ритуалы** КС 33; :ref:`ritual--Infernal-Pact`
 

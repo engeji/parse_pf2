@@ -3,7 +3,7 @@
 
 .. rst-class:: creature-details
 
-Чемпион-скелет (Skeletal Champion)
+Скелет-чемпион (Skeletal Champion)
 ============================================================================================================
 
 Эти скелеты сохраняют хитрость, которой они обладали при жизни.
@@ -13,7 +13,7 @@
 .. rst-class:: creature
 .. _bestiary--Skeletal-Champion:
 
-Чемпион-скелет (`Skeletal Champion <https://2e.aonprd.com/Monsters.aspx?ID=373>`_) / Существо 2
+Скелет-чемпион (`Skeletal Champion <https://2e.aonprd.com/Monsters.aspx?ID=373>`_) / Существо 2
 ------------------------------------------------------------------------------------------------------------
 
 - :alignment:`НЗ`

@@ -105,8 +105,7 @@
 | :ref:`spell--d--Dimension-Door` (по желанию)
 | :ref:`spell--e--Enthrall` (по желанию)
 | :ref:`spell--c--Charm` (×3)
-| **Постоянные (7 ур.)**
-| :ref:`spell--t--True-Seeing`
+| **Постоянные (7 ур.)** :ref:`spell--t--True-Seeing`
 
 **Ритуалы** КС 36; :ref:`ritual--Infernal-Pact`
 

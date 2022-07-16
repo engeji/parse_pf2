@@ -536,6 +536,10 @@ img.game-icon {
 }
 
 aside.sidebar img.game-icon,
+section h2 + p img.game-icon,
+section h3 + p img.game-icon,
+section h4 + p img.game-icon,
+section h5 + p img.game-icon,
 p.h3.rubric + p img.game-icon {
 	float: left;
 	margin-right: 0.5em;
@@ -1137,10 +1141,15 @@ section.creature hr {
 	margin: 1px 0;
 }
 
+/*section.creature-details p a:first-child[href*="ability_glossary"],*/
 section.creature p a:first-child[href*="ability_glossary"],
-section.creature-details p a:first-child[href*="ability_glossary"] {
+section.creature p a:first-child[href*="Creating-a"],
+section.bst-ability-link p a:first-child[href*="ability_glossary"],
+section.bst-ability-link p a:first-child[href*="Creating-a"],
+p.ability-link a:first-child[href*="ability_glossary"] {
 	font-weight: bold;
 }
+
 
 section.creature-details aside.sidebar {
 	background-color: #efede9;

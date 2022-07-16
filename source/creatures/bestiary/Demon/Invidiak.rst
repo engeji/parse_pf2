@@ -83,18 +83,15 @@
 
 **Врожденные сакральные заклинания** КС 26
 
-| **7 ур.**
-| :ref:`spell--p--Possession` (дистанция касания)
+| **7 ур.** :ref:`spell--p--Possession` (дистанция касания)
 | **5 ур.**
 | :ref:`spell--d--Dimension-Door`
 | :ref:`spell--s--Shadow-Blast`
 | **4 ур.**
 | :ref:`spell--d--Dimension-Door` (по желанию)
 | :ref:`spell--d--Darkness`
-| **3 ур.**
-| :ref:`spell--f--Fear`
-| **Чары (4 ур.)**
-| :ref:`spell--t--Telekinetic-Projectile`
+| **3 ур.** :ref:`spell--f--Fear`
+| **Чары (4 ур.)** :ref:`spell--t--Telekinetic-Projectile`
 
 **Ритуалы** КС 26; :ref:`ritual--Abyssal-Pact`
 

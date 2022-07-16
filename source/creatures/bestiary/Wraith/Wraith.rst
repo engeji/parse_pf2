@@ -79,8 +79,7 @@
 весь урон 5 (кроме силы, :ref:`item--Ghost-Touch` или :t_positive:`позитивного`; двойное сопротивление против :t_magical:`немагического`)
 
 
-**Бессилие от солнца (Sunlight Powerlessness)**:
-Рэйф оказавшийся в солнечном свете получает :c_stunned:`ошеломлен 2` и :c_clumsy:`неуклюжесть 2`.
+**Бессилие от солнца (Sunlight Powerlessness)**: Рэйф оказавшийся в солнечном свете получает :c_stunned:`ошеломлен 2` и :c_clumsy:`неуклюжесть 2`.
 
 
 :ref:`cr_ability--Attack-of-Opportunity` |д-р|

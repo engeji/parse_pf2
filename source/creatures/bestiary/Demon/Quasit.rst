@@ -81,15 +81,12 @@
 
 **Врожденные сакральные заклинания** КС 17
 
-| **4 ур.**
-| :ref:`spell--r--Read-Omens`
+| **4 ур.** :ref:`spell--r--Read-Omens`
 | **2 ур.**
 | :ref:`spell--d--Detect-Alignment` (по желанию, только добро)
 | :ref:`spell--i--Invisibility` (по желанию, только на себя)
-| **1 ур.**
-| :ref:`spell--f--Fear`
-| **Чары (1 ур.)**
-| :ref:`spell--d--Detect-Magic`
+| **1 ур.** :ref:`spell--f--Fear`
+| **Чары (1 ур.)** :ref:`spell--d--Detect-Magic`
 
 
 **Исцеление Бездной (Abyssal Healing)** |д-1|

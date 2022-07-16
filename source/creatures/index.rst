@@ -205,6 +205,29 @@
 +-------------------+---------------+
 
 
+.. _BotD--Undead-Adjustments:
+
+Корректировки нежити (Undead Adjustments)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Источник**: Book of the Dead pg. 72
+
+":ref:`Книга мёртвых <Book-of-the-Dead>`" предлагает быстрые корректировки для тех случаев, когда вам нужно срочно создать существо с присущими нежити аттрибутами, но у вас нет времени создавать его с нуля.
+Полные правила находятся в разделе :ref:`The-Grim-Crypt--Undead-Adjustments`.
+Помимо корректировок для разных видов нежити, также есть базовые корректировки нежити:
+
+* :ref:`Undead-Adjustments--General`
+* :ref:`Undead-Adjustments--Ghost`
+* :ref:`Undead-Adjustments--Ghoul`
+* :ref:`Undead-Adjustments--Mummy`
+* :ref:`Undead-Adjustments--Shadow`
+* :ref:`Undead-Adjustments--Skeleton`
+* :ref:`Undead-Adjustments--Vampire`
+* :ref:`Undead-Adjustments--Wight`
+* :ref:`Undead-Adjustments--Zombie`
+
+
+
 
 .. _bestiary--languages:
 

@@ -120,8 +120,7 @@ Pathfinder #147: Tomorrow Must Burn pg. 78
 | :ref:`spell--d--Dimensional-Anchor` (×2)
 | :ref:`spell--d--Discern-Lies`
 | :ref:`spell--z--Zone-Of-Truth`
-| **2 ур.**
-| :ref:`spell--i--Invisibility` (по желанию, только на себя)
+| **2 ур.** :ref:`spell--i--Invisibility` (по желанию, только на себя)
 
 **Ритуалы** КС 25; :ref:`ritual--Infernal-Pact`
 
