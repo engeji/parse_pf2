@@ -267,6 +267,7 @@ aside.sidebar div.line-block {
 	background-color: #5e0000;
 	color: #fff;
 	text-align: inherit;
+	vertical-align: middle;
 }
 
 .rst-content table.docutils thead div.line-block {
