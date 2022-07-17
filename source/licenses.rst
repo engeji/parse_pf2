@@ -416,6 +416,20 @@ Azarketi Ancestry Web Supplement
 
 
 
+Adventure
+==========================================================================================================
+
+Shadows at Sundown
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Adventure: Shadows at Sundown** © 2022, Paizo Inc.; Author: Landon Winkler.
+
+
+
+
+
 Adventure Path
 ==========================================================================================================
 
@@ -549,3 +563,32 @@ Pathfinder #165: Eyes of Empty Death
 **Froghemoth from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
 
 **Pathfinder Adventure Path #165: Eyes of Empty Death** © 2021, Paizo Inc.; Authors: Stephen Radney- MacFarland, with James Jacobs and Mikhail Rekun.
+
+
+
+Pathfinder #167: Ready? Fight!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Adventure Path #167: Ready? Fight!** © 2021, Paizo Inc.; Authors: David N. Ross, with Joan Hong, Joshua Kim, Danita Rambo, Sen H.H.S., Tan Shao Han, and Ruvaid Virk.
+
+
+
+Pathfinder #169: Kindled Magic
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Grippli from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Adventure Path #169: Kindled Magic** © 2021, Paizo Inc.; Authors: Eleanor Ferron and Alexandria Bustion, with Shanyce Henley, Jenny Jarzabski, Jessica Redekop, and Mark Seifter.
+
+
+
+Pathfinder #178: Punks in a Powderkeg
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Adventure Path #178: Punks in a Powder Keg** © 2022, Paizo Inc.; Authors: Vanessa Hoskins, with Stephanie Lundeen and Matt Morris.

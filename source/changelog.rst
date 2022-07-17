@@ -12,6 +12,118 @@
 
 
 
+.. _changelog--2022-07-17:
+
+2022-07-17
+=====================================================================================================
+
+.. _changelog--BotD--2022-07-17:
+
+Книга мёртвых (Book of the Dead)
+---------------------------------------------------------------------------------------------
+
+Добавлен раздел :doc:`/classes/Book-of-the-Dead/The-Grim-Crypt` из "Книги мёртвых", в котором есть быстрые корректировки для превращения готовых существ в наиболее распространенные виды нежити.
+Ссылки на них также есть в :ref:`основном разделе Бестиария <BotD--Undead-Adjustments>`.
+
+----------
+
+Добавлено Осирионское божество :doc:`/lost_omens/Deity/Ancient-Osirian-God/Set`.
+
+----------
+
+В :ref:`Бестиарий <Creatures--Bestiary>` добавлена нежить расширяющая ассортимент уже имевшихся монстров, а также другие ее виды, на которые встречаются ссылки в тексте.
+Полный перечень смотрите далее.
+
+
+.. _changelog--B--2022-07-17:
+
+Бестиарий
+---------------------------------------------------------------------------------------------
+
+Добавлено много различной популярной нежити из Бестиариев и "Книги мертвых" от зомби и скелетов, до всех разновидностей вампиров.
+У всех видов монстров, которые имеют свои правила создания, конвертирования готовых существ или множество дополнительных умений, эти вещи убраны на отдельные страницы, так как могли захламлять титульные страницы этих семейств.
+Например :doc:`/creatures/bestiary/Zombie/Zombie-Abilities`, :doc:`/creatures/bestiary/Ghost/Creating-a-Ghost` или :doc:`/creatures/bestiary/Vampire-Nosferatu/Creating-a-Nosferatu`.
+
+**НЕЖИТЬ**
+
+- :doc:`/creatures/bestiary/Skeleton/index` (14)
+- :doc:`/creatures/bestiary/Zombie/index` (13)
+- :doc:`/creatures/bestiary/Mummy/index` (8)
+- :doc:`/creatures/bestiary/Lich/index` (4)
+- :doc:`/creatures/bestiary/Vampire/index` (3)
+- :doc:`/creatures/bestiary/Vampire-Vrykolakas/index` (3)
+- :doc:`/creatures/bestiary/Vampire-Nosferatu/index` (3)
+- :doc:`/creatures/bestiary/Vampire-Jiang-Shi/index` (2)
+- :doc:`/creatures/bestiary/Vampire-Vetalarana/index` (2)
+- :doc:`/creatures/bestiary/Vampire-Strigoi/index` (2)
+- :doc:`/creatures/bestiary/Beheaded/index` (5)
+- :doc:`/creatures/bestiary/Ghoul/index` (+2) (:doc:`/creatures/bestiary/Ghoul/Lacedon`, :doc:`/creatures/bestiary/Ghoul/Priest-of-Kabriri`)
+- :doc:`/creatures/bestiary/Wight/index` (+3) (:doc:`/creatures/bestiary/Wight/Hunter-Wight`, :doc:`/creatures/bestiary/Wight/Prowler-Wight`, :doc:`/creatures/bestiary/Wight/Wight-Commander`)
+- :doc:`/creatures/bestiary/Ghost/index` (+2) (:doc:`/creatures/bestiary/Ghost/Hungry-Ghost`, :doc:`/creatures/bestiary/Ghost/Ghost-Pirate`)
+- :doc:`/creatures/bestiary/Skull-Swarm/index` (3)
+- :doc:`/creatures/bestiary/Risen-Pet/index` (2)
+- :doc:`/creatures/bestiary/Draugr`
+- :doc:`/creatures/bestiary/Polong`
+- :doc:`/creatures/bestiary/Banshee`
+- :doc:`/creatures/bestiary/Bone-Ship`
+
+**ЖИВОТНЫЕ**
+
+- :doc:`/creatures/bestiary/Elephant/index` (4)
+- :doc:`/creatures/bestiary/Scorpion/index` (4)
+- :doc:`/creatures/bestiary/Wasp/index` (2) + :doc:`/creatures/bestiary/Hellwasp-Swarm`
+- :doc:`/creatures/bestiary/Ant/index` (2)
+- :doc:`/creatures/bestiary/Mosquito/index` (2)
+- :doc:`/creatures/bestiary/Bore-Worm/index` (2)
+- :doc:`/creatures/bestiary/Wolf/index` (2)
+- :doc:`/creatures/bestiary/Warg/index` (2)
+- :doc:`/creatures/bestiary/Squid/index` (2)
+- :doc:`/creatures/bestiary/Crocodile/index` (2)
+- :doc:`/creatures/bestiary/Owlbear`
+- :doc:`/creatures/bestiary/Griffon`
+- :doc:`/creatures/bestiary/Sportlebore/index`
+
+**ЧУДОВИЩА**
+
+- :doc:`/creatures/bestiary/Drake/index` (9)
+- :doc:`/creatures/bestiary/Hell-Hound/index` (2)
+- :doc:`/creatures/bestiary/Chupacabra`
+- :doc:`/creatures/bestiary/Manticore`
+- :doc:`/creatures/bestiary/Kraken`
+- :doc:`/creatures/bestiary/Wendigo`
+
+**ГУМАНОИДЫ И ПРОЧИЕ**
+
+- :doc:`/creatures/bestiary/Giant/index` (+13)
+- :doc:`/creatures/bestiary/Orc/index` (3)
+- :doc:`/creatures/bestiary/Drow/index` (6)
+- :doc:`/creatures/bestiary/Duergar/index` (4)
+- :doc:`/creatures/bestiary/Gnoll/index` (3)
+- :doc:`/creatures/bestiary/Dero/index` (3)
+- :doc:`/creatures/bestiary/Boggard/index` (3)
+- :doc:`/creatures/bestiary/Merfolk/index` (2)
+- :doc:`/creatures/bestiary/Sea-Devil/index` (3)
+- :doc:`/creatures/bestiary/Genie/index` (5)
+- :doc:`/creatures/bestiary/Alghollthu/index` (4)
+- :doc:`/creatures/bestiary/Yeti`
+- :doc:`/creatures/bestiary/Medusa`
+- :doc:`/creatures/bestiary/Dhampir/index`
+
+
+.. _changelog--edits--DATE:
+
+Исправления
+---------------------------------------------------------------------------------------------
+
+Мелкие исправления.
+
+- :ref:`spell--Pocket-Library`. В усилении 9-го уровня было написано что оно 3-го уровня.
+- :ref:`hazard--Flood-of-Spirits`. Были пропущены данные о спасброске.
+
+
+
+
+
 .. _changelog--2022-06-10:
 
 2022-06-10

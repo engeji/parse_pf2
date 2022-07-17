@@ -1,9 +1,9 @@
 .. include:: /helpers/roles.rst
 
 .. rst-class:: spell
-.. _spell--Mantle-Of-The-Magma-Heart:
+.. _spell--Mantle-of-the-Magma-Heart:
 
-Мантия магматического сердца (`Mantle Of The Magma Heart <https://2e.aonprd.com/Spells.aspx?ID=947>`_) / Закл. 5
+Мантия магматического сердца (`Mantle of the Magma Heart <https://2e.aonprd.com/Spells.aspx?ID=947>`_) / Закл. 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - трансмутация

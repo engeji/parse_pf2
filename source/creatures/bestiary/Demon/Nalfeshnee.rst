@@ -107,10 +107,8 @@
 | **5 ур.**
 | :ref:`spell--i--Illusory-Object` (по желанию)
 | :ref:`spell--d--Dimension-Door`
-| **4 ур.**
-| :ref:`spell--d--Dimension-Door` (по желанию)
-| **Постоянные (6 ур.)**
-| :ref:`spell--t--True-Seeing`
+| **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
+| **Постоянные (6 ур.)** :ref:`spell--t--True-Seeing`
 
 **Ритуалы** КС 34; :ref:`ritual--Abyssal-Pact`
 

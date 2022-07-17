@@ -1,9 +1,9 @@
 .. include:: /helpers/roles.rst
 
 .. rst-class:: spell
-.. _spell--Glimmer-Of-Charm:
+.. _spell--Glimmer-of-Charm:
 
-Мерцание шарма (`Glimmer Of Charm <https://2e.aonprd.com/Spells.aspx?ID=919>`_) / Закл. 5
+Мерцание шарма (`Glimmer of Charm <https://2e.aonprd.com/Spells.aspx?ID=919>`_) / Закл. 5
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - очарование

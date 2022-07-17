@@ -140,10 +140,8 @@ Pathfinder #149: Against the Scarlet Triad pg. 87
 | :ref:`spell--d--Dispel-Magic`
 | :ref:`spell--f--Fireball` (×2)
 | :ref:`spell--l--Lightning-Bolt` (×2)
-| **5 ур.**
-| :ref:`spell--d--Dimension-Door`
-| **4 ур.**
-| :ref:`spell--d--Dimension-Door` (по желанию)
+| **5 ур.** :ref:`spell--d--Dimension-Door`
+| **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
 
 **Ритуалы** КС 36; :ref:`ritual--Infernal-Pact`
 

@@ -118,10 +118,8 @@
 | :ref:`spell--s--Scrying`
 | :ref:`spell--v--Veil`
 | :ref:`spell--w--Warp-Mind`
-| **4 ур.**
-| :ref:`spell--d--Dimension-Door` (по желанию)
-| **3 ур.**
-| :ref:`spell--d--Dream-Message` (по желанию)
+| **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
+| **3 ур.** :ref:`spell--d--Dream-Message` (по желанию)
 
 **Ритуалы** КС 43; :ref:`ritual--Infernal-Pact`
 

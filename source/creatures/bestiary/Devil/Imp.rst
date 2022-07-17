@@ -87,15 +87,12 @@
 
 **Врожденные сакральные заклинания** КС 17
 
-| **4 ур.**
-| :ref:`spell--r--Read-Omens`
-| **2 ур.**
-| :ref:`spell--i--Invisibility` (по желанию, только на себя)
+| **4 ур.** :ref:`spell--r--Read-Omens`
+| **2 ур.** :ref:`spell--i--Invisibility` (по желанию, только на себя)
 | **1 ур.**
 | :ref:`spell--c--Charm`
 | :ref:`spell--d--Detect-Alignment` (по желанию, только добро)
-| **Чары (1 ур.)**
-| :ref:`spell--d--Detect-Magic`
+| **Чары (1 ур.)** :ref:`spell--d--Detect-Magic`
 
 
 :ref:`cr_ability--Change-Shape` |д-1|

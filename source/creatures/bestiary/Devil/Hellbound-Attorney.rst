@@ -83,8 +83,7 @@
 
 **Врожденные сакральные заклинания** КС 21
 
-| **1 ур.**
-| :ref:`spell--b--Burning-Hands`
+| **1 ур.** :ref:`spell--b--Burning-Hands`
 
 
 **Начальное заявление (Opening Statement)** |д-св|

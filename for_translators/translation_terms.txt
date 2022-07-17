@@ -171,6 +171,14 @@ Creature: существо
 		osyluth: осилут
 	fungus: грибковый
 	fungi: гриб
+	genie: гений (джин)
+		janni: джанн
+			jann - мн.число
+		djinni: джинни
+			djinn - мн.число
+		efreeti: эфрит
+		marid: марид
+		shaitan: шайтан
 	ooze: слизь
 	aberration: аберрация
 	spirit: дух
@@ -180,20 +188,21 @@ Creature: существо
 	monitor: наблюдатель
 	lizardfolk: людоящер
 	dragon
-		chromatic: цветной
-		metallic: металлический
-		brass: латунный
-		copper: медный
-		imperial: величественный дракон
-		magma: магматический
-		crystal: кристаллический
-		cloud: облачный
-		brine: водный
-		umbral: теневой
-		sovereign: монарший
-		underworld: подземный
-		sea: морской
-		underworld: подземный
+		Chromatic: цветной
+		Metallic: металлический
+			brass: латунный
+			copper: медный
+		Primal:
+			brine: водный
+			cloud: облачный
+			crystal: кристаллический
+			magma: магматический
+			umbral: теневой
+		Imperial: величественный
+			sea: морской
+			sovereign: монарший
+			underworld: подземный
+		Primeval: первозданный
 	alghollthu: алголлус
 	protean: протей
 	celestial
@@ -250,10 +259,10 @@ Creature: существо
 	dullahan: дуллахан
 	linnorm: линнорм
 		cairn: каирновый
-		crag: утёсов
-		fjord: фьордов
+		crag: скальный
+		fjord: фьордовый
 		ice: ледяной
-		shoal: мелководья
+		shoal: мелководный
 		taiga: таёжный
 		tarn: каровый
 		tor: горных пиков
@@ -279,6 +288,7 @@ Deity: Божество
 	Empyreal Lords: Небесные владыки
 	Outer Gods: Внешние Боги
 	Great Old Ones: Великие Древние
+	Forsaken: Покинутые (теневые боги калигни)
 	Irori: Ирори
 	Nethys: Нэфис
 	Shelyn: Шелин
@@ -343,6 +353,7 @@ Deity: Божество
 	Walkena: Уокена
 	Kurgess: Курджесс
 	Milani: Милани
+	Urxehl: Уркжелом (бол троллей)
 
 difficult terrain: сложная местность
 Disrupting Actions: Прерывание действий / :ref:`прерываете <ch9--Disrupting-Actions>`
@@ -426,6 +437,8 @@ heritage: наследственность
 	duskwalker: сумеречный
 	dhampir: дампир
 		moroi: морой, морои (множ.)
+			svetocher: светочер
+		jiang shi: цзянши
 	tiefling
 		hellspawn: адское отродье
 		pitborn: дитя преисподней
@@ -444,7 +457,7 @@ Investigator: Сыщик
 items: предметы
 	worn: надеваемый
 		armbands: нарукавники
-		belt: ремень
+		belt: ремень / пояс?
 		circlet: ободок
 		eyepiece: окуляр
 		headwear: головной убор
@@ -571,6 +584,9 @@ items: предметы
 		etched: гравирован(а) (о рунах)
 		invest: инвестировать :ref:`activity--Invest-An-Item`
 
+monster: монстр
+monstrosity: чудище
+
 Languages: языки
 	Taldane: Талдэйн (всеобщий язык)
 	Elven: Эльфийский
@@ -602,6 +618,7 @@ Locations:
 		Sekamina: Сэкамайна
 		Orv: Орв
 		Nar‑Voth: Нар-Вот
+		Nemret Noktoria: Немрет Ноктория
 	Mushfens: Месивые Топи (от слов месиво и топь)
 	Forest of Trials: Лес Испытаний
 	Valenhall: Валенхолл
@@ -700,6 +717,7 @@ plane: план
 	Shadow: Теневой
 	Ethereal: Эфирный (aka Space Between Spaces: Пространство Между Мест)
 		House of the Itinerant Soul: Дом Странствующей Души
+		Ghost World: Призрачный Мир
 	Boneyard: Могильник
 		Graveyard of Souls: Кладбище Душ
 		Spirelands: Земли Шпиля
@@ -870,7 +888,8 @@ Titles:
 	Jadwiga: Ядвига
 	Erutaki: Эрутакец
 	Varisia: Варисия
-	Varisian: Варисиец
+		Varisian: Варисиец
+		Cinderlands: Пепельные Земли
 	Keleshite: Келешиец
 	Chelaxian: Челиец
 	Nidalese: Нидалец (произносится Ньидолец)
@@ -883,8 +902,12 @@ Titles:
 	Garundi: Гарундиец
 	Mauxi: Маушиец
 	Tian Xia: Тянь Ся
-		tien: тиянский (человеческий этнос)
+		tien: тяньский (человеческий этнос)
 		Shenmen: Шенмэн
+		Xa Hoi: За Хой
+		Lung Wa: Лун Ва
+		Minkai: Минкай
+			Hiyosai: Хьёсай
 	Tian-Dan: Тянь-Дань
 	Tian-Yae: Тянь-Йэ
 	Alijae: Алижеец
@@ -898,12 +921,18 @@ Titles:
 	New Thassilonian: Новотассилонец
 	Padishah Empire: Падишахская империя
 	Nidal: Нидал (произносится Ньидол)
+		Pangolais: Панголаис (столица)
+		Nisroch: Нисрок (один из крупнейших городов)
+	Ustalav: Усталав
+		Graidmere: Грайдмир
+	Cheliax: Челия
+		Whisper Woods: Шепчущие Леса
 	Lirgen: Лирген
 	Shory: Шори
 	Crimson Reclaimers: Багровые восстановители
 	Nuldrig: Налдриг
 	Kyonin: Кьонин
-	Tanglebriar: Тэнлбрайар
+		Tanglebriar: Тэнлбрайар
 	Mwangi Expanse: Просторы Муанги
 	Nirmathas: Нирмафас
 	Broken Lands: Разоренные Земли
@@ -922,11 +951,6 @@ Titles:
 	Pahmet: Памэт
 	Vahird: Вахирд
 	Arclords of Nex: Верховные лорды Некса
-	janni: джанн
-	djinni: джинни
-	efreeti: эфрит
-	marid: марид
-	shaitan: шайтан
 	Rivethun: Риватун
 	Verduran Forest: Вердюранский лес
 	Wildwood: Диколесье
@@ -1000,6 +1024,8 @@ Titles:
 	Path of Salt: Соляной путь
 	Aspenthar: Аспентар
 	Hermea: Эрмея
+		Mengkare: Менкарэй
+		Glorious Endeavor: Прекрасное Стремление
 	Oenopion: Энопион
 	Bekyar: Бекьяр
 	Senghor: Сенгор
@@ -1094,6 +1120,9 @@ Titles:
 	Knights of the Aeon Star: Рыцари Звезды Вечности
 	Razatlani empire: Разатланская империя
 	Ivory Reapers: Костяные Жнецы
+	Shackles: Кандалы
+	Path of Aganhei: Путь Аганхей
+	Droskar's Crag: Утёс Дроскара
 	
 
 trait: признак / особенность
@@ -1159,6 +1188,8 @@ trait: признак / особенность
 	существа
 		amphibious: земноводный
 trigger: триггер (в описании способностей), провоцировать (о срабатывании триггера)
+
+undeath: несмерть, немертвость
 
 willing: готовый / готовность
 warden: наблюдатель, смотритель

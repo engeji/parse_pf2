@@ -113,8 +113,7 @@
 | :ref:`spell--d--Dimension-Door` (по желанию)
 | :ref:`spell--f--Freedom-Of-Movement`
 | :ref:`spell--h--Hydraulic-Torrent`
-| **Постоянные (2 ур.)**
-| :ref:`spell--s--See-Invisibility`
+| **Постоянные (2 ур.)** :ref:`spell--s--See-Invisibility`
 
 **Ритуалы** КС 26; :ref:`ritual--Infernal-Pact`
 

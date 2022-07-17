@@ -1,9 +1,9 @@
 .. include:: /helpers/roles.rst
 
 .. rst-class:: spell
-.. _spell--Mantle-Of-The-Frozen-Heart:
+.. _spell--Mantle-of-the-Frozen-Heart:
 
-Мантия ледяного сердца (`Mantle Of The Frozen Heart <https://2e.aonprd.com/Spells.aspx?ID=946>`_) / Закл. 5
+Мантия ледяного сердца (`Mantle of the Frozen Heart <https://2e.aonprd.com/Spells.aspx?ID=946>`_) / Закл. 5
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - трансмутация

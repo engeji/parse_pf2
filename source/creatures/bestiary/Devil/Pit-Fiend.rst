@@ -139,20 +139,16 @@
 | :ref:`spell--m--Miracle` (раз в год)
 | :ref:`spell--m--Meteor-Swarm`
 | :ref:`spell--p--Power-Word-Stun`
-| **9 ур.**
-| :ref:`spell--b--Bind-Soul` (по желанию)
+| **9 ур.** :ref:`spell--b--Bind-Soul` (по желанию)
 | **8 ур.**
 | :ref:`spell--d--Dispel-Magic` (по желанию)
 | :ref:`spell--d--Divine-Decree` (по желанию)
 | :ref:`spell--f--Fireball` (по желанию)
 | :ref:`spell--w--Wall-Of-Fire` (по желанию)
 | :ref:`spell--s--Scrying`
-| **5 ур.**
-| :ref:`spell--d--Dimension-Door`
-| **4 ур.**
-| :ref:`spell--d--Dimension-Door` (по желанию)
-| **Постоянные (8 ур.)**
-| :ref:`spell--t--True-Seeing`
+| **5 ур.** :ref:`spell--d--Dimension-Door`
+| **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
+| **Постоянные (8 ур.)** :ref:`spell--t--True-Seeing`
 
 **Ритуалы** КС 42; :ref:`ritual--Infernal-Pact`
 

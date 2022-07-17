@@ -96,19 +96,16 @@
 
 **Врожденные сакральные заклинания** КС 26
 
-| **5 ур.**
-| :ref:`spell--d--Dimension-Door`
+| **5 ур.** :ref:`spell--d--Dimension-Door`
 | **4 ур.**
 | :ref:`spell--d--Dimension-Door` (по желанию)
 | :ref:`spell--d--Divine-Wrath`
 | :ref:`spell--focus--Retributive-Pain`
-| **3 ур.**
-| :ref:`spell--f--Fear` (по желанию)
+| **3 ур.** :ref:`spell--f--Fear` (по желанию)
 | **2 ур.**
 | :ref:`spell--i--Illusory-Disguise` (по желанию)
 | :ref:`spell--i--Illusory-Object`
-| **Постоянные (6 ур.)**
-| :ref:`spell--t--True-Seeing`
+| **Постоянные (6 ур.)** :ref:`spell--t--True-Seeing`
 
 **Ритуалы** КС 26;
 :ref:`ritual--Infernal-Pact`

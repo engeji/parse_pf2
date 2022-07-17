@@ -8,16 +8,6 @@
 
 **Источник**: Bestiary # pg. ##
 
-.. sidebar:: |lore|
-.. sidebar:: |rules|
-.. sidebar:: |locations|
-.. sidebar:: |creatures|
-.. sidebar:: |treasure|
-
-   .. rubric:: ЗАГОЛОВОК (HEADER)
-
-   ТЕКСТ_САЙДБАРА
-
 ОПИСАНИЕ
 
 

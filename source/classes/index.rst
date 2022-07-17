@@ -350,3 +350,4 @@
 
    Book-of-the-Dead/Prayers-for-the-Living
    Book-of-the-Dead/Hymns-for-the-Dead
+   Book-of-the-Dead/The-Grim-Crypt
