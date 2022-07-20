@@ -1803,6 +1803,13 @@ d aaaaaaaaa, bbbbbbbbbbb, КС 696969 СПАС
 	изменено
 
 
+.. versionadded:: /errata-CR-r3
+	добавлено
+
+.. versionchanged:: /errata-CR-r3
+	изменено
+
+
 .. versionadded:: /errata-APG-r2
 	добавлено
 
