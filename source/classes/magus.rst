@@ -1684,7 +1684,7 @@
 
 .. _class-feat--Magus--Magic-Sense:
 
-Магическое чувство (`Magic Sense <https://2e.aonprd.com/Feats.aspx?ID=622>`_) / 12
+Магическое чувство (`Magic Sense (Magus) <https://2e.aonprd.com/Feats.aspx?ID=622>`_) / 12
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - аркана
