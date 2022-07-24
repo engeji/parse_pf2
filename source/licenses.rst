@@ -391,12 +391,14 @@ Grand Bazaar
 
 
 
-City of Absalom
+Absalom, City of Lost Omens
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
 
-**Pathfinder Lost Omens Absalom, City of Lost Omens** © 2021, Paizo Inc.; Authors: Allie Bustion, John Compton, Jeremy Corff, Katina Davis, Vanessa Hoskins, James Jacobs, Virginia Jordan, Erik Mona, Matt Morris, Liane Merciel, Dave Nelson, Samantha Phelan, Jessica Redekop, Mikhail Rekun, Brian Richmond, David N. Ross, Simone D. Sallé, Shahreena Shahrani, Abigail Slater, Chris Spivey, Diego Valdez, and Skylar- James Wall.
+**Pathfinder Lost Omens Absalom, City of Lost Omens** © 2021, Paizo Inc.; Authors: Allie Bustion, John Compton, Jeremy Corff, Katina Davis, Vanessa Hoskins, James Jacobs, Virginia Jordan, Erik Mona, Matt Morris, Liane Merciel, Dave Nelson, Samantha Phelan, Jessica Redekop, Mikhail Rekun, Brian Richmond, David N. Ross, Simone D. Sallé, Shahreena Shahrani, Abigail Slater, Chris Spivey, Diego Valdez, and Skylar-James Wall.
+
+
 
 
 
