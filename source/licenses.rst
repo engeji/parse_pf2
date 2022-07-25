@@ -391,6 +391,15 @@ Grand Bazaar
 
 
 
+Absalom, City of Lost Omens
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Lost Omens Absalom, City of Lost Omens** © 2021, Paizo Inc.; Authors: Allie Bustion, John Compton, Jeremy Corff, Katina Davis, Vanessa Hoskins, James Jacobs, Virginia Jordan, Erik Mona, Matt Morris, Liane Merciel, Dave Nelson, Samantha Phelan, Jessica Redekop, Mikhail Rekun, Brian Richmond, David N. Ross, Simone D. Sallé, Shahreena Shahrani, Abigail Slater, Chris Spivey, Diego Valdez, and Skylar-James Wall.
+
+
+
 
 
 Web Supplement
@@ -418,6 +427,31 @@ Azarketi Ancestry Web Supplement
 
 Adventure
 ==========================================================================================================
+
+The Fall of Plaguestone
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Adventure: The Fall of Plaguestone** © 2019, Paizo Inc.; Author: Jason Bulmahn.
+
+
+
+Troubles in Otari
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Adventure: Troubles in Otari** © 2020, Paizo Inc.; Authors: Jason Keeley, Lyz Liddell, and Ron Lundeen.
+
+
+
+The Slithering
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Adventure: The Slithering** © 2020, Paizo Inc.; Author: Ron Lundeen.
+
+
 
 Shadows at Sundown
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -491,6 +525,53 @@ Pathfinder #154: Siege of the Dinosaurs
 
 
 
+Pathfinder #155: Lord of the Black Sands
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**The Book of Fiends** © 2003, Green Ronin Publishing; Authors: Aaron Loeb, Erik Mona, Chris Pramas, and Robert J. Schwalb.
+
+**Armies of the Abyss** © 2002, Green Ronin Publishing; Authors: Erik Mona and Chris Pramas.
+
+**The Avatar's Handbook** © 2003, Green Ronin Publishing; Authors: Jesse Decker and Chris Thomasson.
+
+**Book of the Righteous** © 2002, Aaron Loeb.
+
+**Legions of Hell** © 2001, Green Ronin Publishing; Author: Chris Pramas.
+
+**The Unholy Warrior's Handbook** © 2003, Green Ronin Publishing; Author: Robert J. Schwalb.
+
+**Genie, Marid from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on material by Gary Gygax.
+
+**Pathfinder Adventure Path #155: Lord of the Black Sands** © 2020, Paizo Inc.; Authors: Mikko Kallio, with Andrew Mullen, Nathan Reinecke, David Schwartz, and Scott Young.
+
+
+
+Pathfinder #156: The Apocalypse Prophet
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Demon Lord, Baphomet from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on material by Gary Gygax.
+
+**Demon Lord, Pazuzu from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on material by Gary Gygax.
+
+**Pathfinder Adventure Path #156: The Apocalypse Prophet** © 2020, Paizo Inc.; Authors: Lyz Liddell, with Kevin Bryan, Steven Hammond, Andrew Mullen, Mikhail Rekun, Patrick Renie, and David N. Ross.
+
+
+
+Pathfinder #157: Devil at the Dreaming Palace
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Carbuncle from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Albie Fiore.
+
+**Pathfinder Adventure Path #157: Devil at the Dreaming Palace** © 2020, Paizo Inc.; Authors: James L. Sutter, with Luis Loza, Andrew Mullen, Samantha Phelan, and Patrick Renie.
+
+
+
 Pathfinder #158: Sixty Feet Under
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -499,6 +580,17 @@ Pathfinder #158: Sixty Feet Under
 **Daemon, Guardian from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Ian McDowall.
 
 **Pathfinder Adventure Path #158: Sixty Feet Under** © 2020, Paizo Inc.; Authors: Michael Sayre, with Saif Ansari, Leo Glass, Ron Lundeen, Jacob W. Michaels, Patrick Renie, and David N. Ross.
+
+
+
+Pathfinder #159: All or Nothing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Daemon, Piscodaemon from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
+
+**Pathfinder Adventure Path #159: All or Nothing** © 2020, Paizo Inc.; Authors: Jason Keeley, with Alexander Augunas, Jessica Catalan, Stephen Glicker, Mike Kimmel, Alex Riggs, and Mike Welham.
 
 
 
@@ -583,6 +675,32 @@ Pathfinder #169: Kindled Magic
 **Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
 
 **Pathfinder Adventure Path #169: Kindled Magic** © 2021, Paizo Inc.; Authors: Eleanor Ferron and Alexandria Bustion, with Shanyce Henley, Jenny Jarzabski, Jessica Redekop, and Mark Seifter.
+
+
+
+Pathfinder #175: Broken Tusk Moon
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Adventure Path #175: Broken Tusk Moon** © 2022, Paizo Inc.; Authors: Ron Lundeen and Stephanie Lundeen.
+
+
+
+Pathfinder #176: Lost Mammoth Valley
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Battlezoo Bestiary** © 2021, Skyscraper Studios Inc.; Authors: Stephen Glicker, Patrick Renie, AND Mark Seifter
+
+**Demon, Nabasu from Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
+
+**Demon, Shadow from Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Neville White.
+
+**Grippli from Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
+
+**Pathfinder Adventure Path #176: Lost Mammoth Valley** © 2022, Paizo Inc.; Author: Jessica Catalan.
 
 
 
