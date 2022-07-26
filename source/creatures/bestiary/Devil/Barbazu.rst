@@ -89,10 +89,8 @@
 
 **Врожденные сакральные заклинания** КС 19
 
-| **5 ур.**
-| :ref:`spell--d--Dimension-Door`
-| **4 ур.**
-| :ref:`spell--d--Dimension-Door` (по желанию)
+| **5 ур.** :ref:`spell--d--Dimension-Door`
+| **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
 
 **Ритуалы** КС 19;
 :ref:`ritual--Infernal-Pact`

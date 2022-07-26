@@ -88,10 +88,8 @@
 
 **Врожденные сакральные заклинания** КС 16
 
-| **3 ур.**
-| :ref:`spell--s--Slow`
-| **1 ур.**
-| :ref:`spell--f--Fear`
+| **3 ур.** :ref:`spell--s--Slow`
+| **1 ур.** :ref:`spell--f--Fear`
 
 **Ритуалы** КС 16; :ref:`ritual--Abyssal-Pact`
 

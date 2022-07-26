@@ -95,21 +95,16 @@
 | **7 ур.**
 | :ref:`spell--i--Illusory-Disguise` (по желанию)
 | :ref:`spell--r--Reverse-Gravity`
-| **6 ур.**
-| :ref:`spell--d--Dispel-Magic` (по желанию)
-| **5 ур.**
-| :ref:`spell--d--Dimension-Door`
+| **6 ур.** :ref:`spell--d--Dispel-Magic` (по желанию)
+| **5 ур.** :ref:`spell--d--Dimension-Door`
 | **4 ур.**
 | :ref:`spell--c--Confusion` (по желанию)
 | :ref:`spell--d--Dimension-Door` (по желанию)
-| **2 ур.**
-| :ref:`spell--m--Mirror-Image` (по желанию)
-| **Чары (7 ур.)**
-| :ref:`spell--t--Telekinetic-Projectile`
-| **Постоянные (6 ур.)**
-| :ref:`spell--t--True-Seeing`
-| **(5 ур.)**
-| :ref:`spell--t--Tongues`
+| **2 ур.** :ref:`spell--m--Mirror-Image` (по желанию)
+| **Чары (7 ур.)** :ref:`spell--t--Telekinetic-Projectile`
+| **Постоянные**
+| **(6 ур.)** :ref:`spell--t--True-Seeing`
+| **(5 ур.)** :ref:`spell--t--Tongues`
 
 **Ритуалы** КС 34; :ref:`ritual--Abyssal-Pact`
 

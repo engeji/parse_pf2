@@ -3,15 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-06-10**
-| Добавлена значительная часть :ref:`Книги мертвых (Book of the Dead) <Book-of-the-Dead>` (или смотрите :ref:`изменения <changelog--2022-06-10>`).
-
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-07-26**
+| Внесены изменения :ref:`3-го издания "Основной книги правил" <changelog--errata--CR--2022-07-20>`.
+| Добавлена всяческая :ref:`популярная нежить <changelog--2022-07-17>` из Бестиариев и "Книги мертвых" и :ref:`алхимические предметы <changelog--2022-07-26>` из других книг.
 
 | **СООБЩЕСТВО**
+| `Discord сервер <https://discord.gg/FxwzjtX3mh>`_ | `Telegram канал <https://t.me/PF2e_RU_channel>`_ | `Telegram чат <https://t.me/+UuDJ_hPEOGoySmY3>`_
 | Если вы хотите поддержать проект, то можете найти информацию на странице :doc:`support`.
-| `Discord сервер <https://discord.gg/FxwzjtX3mh>`_ - логичное продолжение Telegram чата.
-| `Telegram канал <https://t.me/PF2e_RU_channel>`_ - уведомления об обновлениях и изменения.
-| `Telegram чат <https://t.me/+UuDJ_hPEOGoySmY3>`_ - обратная связь, обсуждаем правила и просто трындим про PF2E.
 
 
 Pathfinder 2E

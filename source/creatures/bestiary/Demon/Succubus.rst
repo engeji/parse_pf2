@@ -95,21 +95,15 @@
 
 **Врожденные сакральные заклинания** КС 26
 
-| **6 ур.**
-| :ref:`spell--d--Dominate`
-| **5 ур.**
-| :ref:`spell--d--Dimension-Door`
+| **6 ур.** :ref:`spell--d--Dominate`
+| **5 ур.** :ref:`spell--d--Dimension-Door`
 | **4 ур.**
 | :ref:`spell--d--Dimension-Door` (по желанию)
 | :ref:`spell--s--Suggestion` (по желанию)
-| **3 ур.**
-| :ref:`spell--m--Mind-Reading` (по желанию)
-| **2 ур.**
-| :ref:`spell--d--Detect-Alignment` (по желанию)
-| **1 ур.**
-| :ref:`spell--c--Charm` (по желанию)
-| **Постоянные (5 ур.)**
-| :ref:`spell--t--Tongues`
+| **3 ур.** :ref:`spell--m--Mind-Reading` (по желанию)
+| **2 ур.** :ref:`spell--d--Detect-Alignment` (по желанию)
+| **1 ур.** :ref:`spell--c--Charm` (по желанию)
+| **Постоянные (5 ур.)** :ref:`spell--t--Tongues`
 
 **Ритуалы** КС 26; :ref:`ritual--Abyssal-Pact`
 

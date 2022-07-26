@@ -115,10 +115,8 @@
 
 **Врожденные сакральные заклинания** КС 31
 
-| **10 ур.**
-| :ref:`spell--s--Scrying` (по желанию, см. инфернальный вклад)
-| **7 ур.**
-| :ref:`spell--p--Plane-Shift`
+| **10 ур.** :ref:`spell--s--Scrying` (по желанию, см. инфернальный вклад)
+| **7 ур.** :ref:`spell--p--Plane-Shift`
 | **5 ур.**
 | :ref:`spell--l--Locate` (по желанию)
 | :ref:`spell--s--Sending` (по желанию)
@@ -131,12 +129,9 @@
 | :ref:`spell--d--Dimension-Door` (по желанию)
 | :ref:`spell--p--Private-Sanctum`
 | :ref:`spell--s--Silence`
-| **3 ур.**
-| :ref:`spell--m--Mind-Reading` (по желанию)
-| **Чары (7 ур.)**
-| :ref:`spell--d--Detect-Magic`
-| **Постоянные (5 ур.)**
-| :ref:`spell--t--Tongues`
+| **3 ур.** :ref:`spell--m--Mind-Reading` (по желанию)
+| **Чары (7 ур.)** :ref:`spell--d--Detect-Magic`
+| **Постоянные (5 ур.)** :ref:`spell--t--Tongues`
 
 **Ритуалы** КС 31; :ref:`ritual--Infernal-Pact`
 

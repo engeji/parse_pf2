@@ -134,16 +134,11 @@
 | **10 ур.**
 | :ref:`spell--d--Divine-Decree` (x2)
 | :ref:`spell--d--Dimension-Door`
-| **8 ур.**
-| :ref:`spell--d--Dispel-Magic` (по желанию)
-| **6 ур.**
-| :ref:`spell--d--Dominate` (по желанию)
-| **5 ур.**
-| :ref:`spell--d--Dimension-Door` (по желанию)
-| **Чары (10 ур.)**
-| :ref:`spell--t--Telekinetic-Projectile`
-| **Постоянные (6 ур.)**
-| :ref:`spell--t--True-Seeing`
+| **8 ур.** :ref:`spell--d--Dispel-Magic` (по желанию)
+| **6 ур.** :ref:`spell--d--Dominate` (по желанию)
+| **5 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
+| **Чары (10 ур.)** :ref:`spell--t--Telekinetic-Projectile`
+| **Постоянные (6 ур.)** :ref:`spell--t--True-Seeing`
 
 **Ритуалы** КС 44; :ref:`ritual--Abyssal-Pact`
 

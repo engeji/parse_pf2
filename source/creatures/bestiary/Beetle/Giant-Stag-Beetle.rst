@@ -20,6 +20,7 @@
 
 Гигантский жук-олень (`Giant Stag Beetle <https://2e.aonprd.com/Monsters.aspx?ID=50>`_) / Существо 4
 ------------------------------------------------------------------------------------------------------------
+
 - :alignment:`Н`
 - :size:`большой`
 - животное
@@ -70,4 +71,3 @@
 
 
 .. include:: /helpers/actions.rst
-.. include:: /helpers/bestiary-icons.rst

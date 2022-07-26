@@ -118,20 +118,15 @@
 Если этот Удар попадает, бабау наносит дополнительные 2d6 урона того же типа, а существо :c_frightened:`напугано 2`.
 
 
-**Внезапная атака (Sneak Attack)**:
-Удары бабау наносят дополнительные 2d6 точного урона :c_flat_footed:`застигнутым врасплох` существам.
+**Внезапная атака (Sneak Attack)**: Удары бабау наносят дополнительные 2d6 точного урона :c_flat_footed:`застигнутым врасплох` существам.
 
 
 **Врожденные сакральные заклинания** КС 24
 
-| **5 ур.**
-| :ref:`spell--d--Dimension-Door`
-| **4 ур.**
-| :ref:`spell--d--Dimension-Door` (по желанию)
-| **2 ур.**
-| :ref:`spell--d--Darkness`
-| **Постоянные (5 ур.)**
-| :ref:`spell--s--See-Invisibility`
+| **5 ур.** :ref:`spell--d--Dimension-Door`
+| **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
+| **2 ур.** :ref:`spell--d--Darkness`
+| **Постоянные (5 ур.)** :ref:`spell--s--See-Invisibility`
 
 **Ритуалы** КС 24; :ref:`ritual--Abyssal-Pact`
 

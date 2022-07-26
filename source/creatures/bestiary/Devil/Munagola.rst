@@ -114,10 +114,8 @@
 
 **Врожденные сакральные заклинания** КС 27
 
-| **5 ур.**
-| :ref:`spell--d--Dimension-Door`
-| **4 ур.**
-| :ref:`spell--d--Dimension-Door` (по желанию)
+| **5 ур.** :ref:`spell--d--Dimension-Door`
+| **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
 
 **Ритуалы** КС 27; :ref:`ritual--Infernal-Pact`
 

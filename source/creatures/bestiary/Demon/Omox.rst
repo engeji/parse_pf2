@@ -110,8 +110,7 @@
 | :ref:`spell--c--Control-Water`
 | :ref:`spell--d--Dimension-Door`
 | :ref:`spell--s--Stinking-Cloud`
-| **4 ур.**
-| :ref:`spell--d--Dimension-Door` (по желанию)
+| **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
 
 **Ритуалы** КС 32; :ref:`ritual--Abyssal-Pact`
 
