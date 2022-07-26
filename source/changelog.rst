@@ -11,6 +11,102 @@
 
 
 
+.. _changelog--2022-07-26:
+
+2022-07-26
+=====================================================================================================
+
+.. _changelog--edits--2022-07-26:
+
+Исправления
+---------------------------------------------------------------------------------------------
+
+Помимо большого количества опечаток и ошибок:
+
+- Действие архетипа вампира :ref:`action--Vampire--Drink Blood`. В требованиях добавлено пропущенное состояние :c_grabbed:`схвачен`.
+
+
+.. _changelog--Books--2022-07-26:
+
+Алхимия и не только
+---------------------------------------------------------------------------------------------
+
+@Доктор выборочно перевел для нас кучу :t_alchemical:`алхимических` предметов из приключений и других книг, до серии `Outlaws of Alkenstar <https://paizo.com/store/pathfinder/adventures/adventurePath/outlawsOfAlkenstar>`_.
+Здесь всё разбито по основным категориям и упорядочено от Lost Omens книг до отдельных приключений.
+Надстрочный текст в конце обозначает книгу.
+
+**БОМБЫ**
+
+- :ref:`item--Peshspine-Grenade` :sup:`AP149`
+- :ref:`item--Blindpepper-Bomb` :sup:`AP157`
+- :ref:`item--Tallow-Bomb` :sup:`AP175`
+- :ref:`item--Twigjack-Sack` :sup:`AP175`
+- :ref:`item--Mud-Bomb` :sup:`AP176`
+- :ref:`item--Pernicious-Spore-Bomb` :sup:`AP176`
+- :ref:`item--Water-Bomb` :sup:`AP176`
+
+**ЭЛИКСИРЫ**
+
+- :ref:`item--Vaccine` :sup:`LOL`
+- :ref:`item--Addiction-Suppressant` :sup:`LOL`
+- :ref:`item--Applereed-Mutagen` :sup:`LOL`
+- :ref:`item--Ambrosia-of-Undying-Hope` :sup:`AP156`
+- :ref:`item--Mnemonic-Acid` :sup:`AP159`
+- :ref:`item--Apricot-of-Bestial-Might` :sup:`AP167`
+- :ref:`item--Winterstep-Elixir` :sup:`AP176`
+- :ref:`item--Energy-Mutagen` :sup:`TFoP`
+-  :ref:`item--Stone-Body-Mutagen` :sup:`TFoP`
+- :ref:`item--Sixfingers-Elixir` :sup:`TS`
+- :ref:`item--Capsaicin-Tonic` :sup:`TiO`
+
+**ЯДЫ**
+
+- :ref:`item--Honeyscent` :sup:`LOL`
+- :ref:`item--Addlebrain` :sup:`AP147`
+- :ref:`item--False-Death` :sup:`AP149`
+- :ref:`item--Isolation-Draught` :sup:`AP149`
+- :ref:`item--Mage-Bane` :sup:`AP149`
+- :ref:`item--Gorgons-Breath` :sup:`AP149`
+- :ref:`item--Frenzy-Oil` :sup:`AP149`
+- :ref:`item--Weeping-Midnight` :sup:`AP149`
+- :ref:`item--Oblivion-Essence` :sup:`AP149`
+- :ref:`item--Nightmare-Salt` :sup:`AP149`
+- :ref:`item--Greengut` :sup:`AP155`
+- :ref:`item--Blackfinger-Blight` :sup:`AP159`
+- :ref:`item--Forgetful-Ink` :sup:`AP169`
+
+Новая разновидность ядов, создаваемых магией, без использования алхимии:
+
+- :ref:`ch11--Consumables--Divine-Poisons` (10) :sup:`AP160`
+
+**ИНСТРУМЕНТЫ**
+
+- :ref:`item--Cave-Worm-Repellent` :sup:`AP155`
+- :ref:`item--Blindpepper-Tube` :sup:`AP157`
+- :ref:`item--Quickmelt-Slick` :sup:`AP176`
+
+**НАРКОТИКИ**
+
+- :ref:`drug--Diluted-Hype` :sup:`LOL`
+- :ref:`drug--Hype` :sup:`LOL`
+- :ref:`drug--Plasma-Hype` :sup:`LOL`
+- :ref:`drug--Qat` :sup:`ACoLO`
+- :ref:`drug--Grit` :sup:`ACoLO`
+- :ref:`drug--Demon-Dust` :sup:`ACoLO`
+- :ref:`drug--Succubus-Kiss` :sup:`ACoLO`
+
+**ПРОЧЕЕ**
+
+- :ref:`item--Lovers-Ink` :sup:`LOL`
+- :ref:`item--Swamp-Lily-Quilt` :sup:`LOL`
+- :ref:`item--Vestige-Lenses` :sup:`LOL`
+- :ref:`item--Alchemical-Atomizer` :sup:`LOL`
+- :ref:`item--Sun-Orchid-Poultice` :sup:`LOL`
+- :ref:`weapon--Alchemical-Crossbow` :sup:`TFoP`
+
+
+
+
 
 .. _changelog--2022-07-20:
 
