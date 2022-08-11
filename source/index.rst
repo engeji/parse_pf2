@@ -3,9 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-07-26**
-| Внесены изменения :ref:`3-го издания "Основной книги правил" <changelog--errata--CR--2022-07-20>`.
-| Добавлена всяческая :ref:`популярная нежить <changelog--2022-07-17>` из Бестиариев и "Книги мертвых" и :ref:`алхимические предметы <changelog--2022-07-26>` из других книг.
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-08-11**
+| :ref:`Добавлен класс экстрасенса <changelog--2022-08-11>` из "Тёмного архива".
 
 | **СООБЩЕСТВО**
 | `Discord сервер <https://discord.gg/FxwzjtX3mh>`_ | `Telegram канал <https://t.me/PF2e_RU_channel>`_ | `Telegram чат <https://t.me/+UuDJ_hPEOGoySmY3>`_

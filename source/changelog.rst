@@ -11,6 +11,56 @@
 
 
 
+
+.. _changelog--2022-08-11:
+
+2022-08-11
+=====================================================================================================
+
+.. _changelog--edits--2022-08-11:
+
+Исправления
+---------------------------------------------------------------------------------------------
+
+В дополнение ко всевозможным мелким опечаткам:
+
+- Волшебник. :ref:`class-feature--Wizard--Arcane-Spellcasting`. Во 2-м абзаце исправлено 1-е предложение. Теперь оно четко гласит о том, что дополнительные чары получают только волшебники-специалисты, как и доп.слоты для заклинаний своей школы.
+
+
+.. _changelog--DA--2022-08-11:
+
+Тёмный архив (Dark Archive)
+---------------------------------------------------------------------------------------------
+
+Добавлен новый класс :doc:`/classes/Psychic` и его архетип :doc:`/classes/archetypes/Psychic`.
+
+----------
+
+Добавлены заклинания, на часть из которых ссылаются классовые особенности экстрасенса:
+
+- :ref:`spell--Phase-Bolt`
+- :ref:`spell--Warp-Step`
+- :ref:`spell--Kinetic-Ram`
+- :ref:`spell--Empty-Pack`
+- :ref:`spell--Bracing-Tendrils`
+- :ref:`spell--Focusing-Hum`
+- :ref:`spell--Moths-Supper`
+- :ref:`spell--Rally-Point`
+- :ref:`spell--Sea-of-Thought`
+- :ref:`spell--Shadow-Spy`
+- :ref:`spell--Implement-of-Destruction`
+- :ref:`spell--Soft-Landing`
+- :ref:`spell--Etheric-Shards`
+- :ref:`spell--Poltergeists-Fury`
+- :ref:`spell--Momentary-Recovery`
+- :ref:`spell--Telekinetic-Bombardment`
+- :ref:`spell--Falling-Sky`
+- :ref:`spell--Bilocation`
+
+
+
+
+
 .. _changelog--2022-07-26:
 
 2022-07-26

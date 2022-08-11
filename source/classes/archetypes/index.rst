@@ -38,6 +38,8 @@
    
    magus
    summoner
+
+   Psychic
    
 
 

@@ -37,7 +37,7 @@
 
 
 .. rst-class:: h3
-.. rubric:: Цителеш (Cytillesh)
+.. rubric:: Цителлеш (Cytillesh)
 
 |lore|
 
