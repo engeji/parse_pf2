@@ -373,7 +373,7 @@
 
 .. _ancestry-feat--Aphorite--Impose-Order:
 
-Наведение порядка (`Impose Order <https://2e.aonprd.com/Feats.aspx?ID=2487>`_) |д-р| / 13
+Наведение порядка (`Impose Order (Aphorite) <https://2e.aonprd.com/Feats.aspx?ID=2487>`_) |д-р| / 13
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - удача

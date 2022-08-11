@@ -560,6 +560,12 @@
 
 .. role:: t_portable
 
+.. role:: t_amp
+
+.. role:: t_psyche
+
+.. role:: t_mindshift
+
 
 
 .. role:: t_alchemist
@@ -601,6 +607,8 @@
 .. role:: t_gunslinger
 
 .. role:: t_inventor
+
+.. role:: t_psychic
 
 .. role:: t_dwarf
 

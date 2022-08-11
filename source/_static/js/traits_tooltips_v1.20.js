@@ -289,6 +289,7 @@ $(document).ready( function() {
 		"summoner": "Призыватель (Summoner): Обозначает умения класса призывателя.",
 		"inventor": "Изобретатель (Inventor): Обозначает умения класса изобретателя.",
 		"gunslinger": "Стрелок (Gunslinger): Обозначает умения класса стрелка.",
+		"psychic": "Эстрасенс (Psychic): Обозначает умения класса эстрасенса.",
 		"dwarf": "Дварф (dwarf): Существо с этим признаком является представителем родословной дварфов. Предмет с этим признаком создается и используется дварфами. Умения с этим признаком могут использовать или выбирать только дварфы. Дварфы - крепкий народ, который часто живет под землей и обычно обладают ночным зрением.",
 		"elf": "Эльф (elf): Существо с этим признаком является представителем родословной эльфов. Эльфы - таинственный народ с богатыми традициями магии и науки, и обычно обладают сумеречным зрением. Умения с этим признаком могут использовать и выбираться только эльфами. Оружие с этим признаком создается и используется эльфами.",
 		"gnome": "Гном (gnome): Существо с этим признаком является представителем родословной гномов. Гномы являются народом небольшого роста, умелыми в магии и ищущие нового опыта, а также обычно обладающие сумеречным зрением. Умение с этим признаком может быть использовано или выбрано только гномами. Оружие с этим признаком создается и используется гномами.",
@@ -466,6 +467,9 @@ $(document).ready( function() {
 		"mounted": "Стационарное (Mounted): Стационарные осадные орудия занимают определенный размер и имеют габариты, и обычно имеют показатели позволяющие атаковать их. Они используются для крупномасштабных военных действий.",
 		"portable": "Переносное (Portable): Переносные осадные орудия, такие как тараны, можно легче переносить, и они играют важную роль как в военных действиях, так и в небольших конфликтах или во время исследования.",
 		"adjustment": "Приспособление (Adjustment): Предметы с этим признаком нужны для изменения существующего снаряжения, обычно доспехов, щитов и оружия. Данный предмет будет помечать, какой вид снаряжения он модифицирует. Приспособление, модифицирующее доспех не может модифицировать одежду исследователя. Одновременно, на единицу снаряжения может воздействовать только 1 приспособление. Если не указано иначе, то для добавления или снятия приспособления требуется использование 10-минутной активности и набор для ремонта.",
+		"amp": "Расширение (Amp): Расширение - особая мыслеформа, которая изменяет свойства ваших пси-чар. Каждые пси-чары обладают своим собственным расширением, а способности с признаком \"расширение\" предоставляют различные расширения, которые вы можете применять к пси-чарам вместо их нормальных расширений.",
+		"psyche": "Психика (Psyche): Для использования умений с признаком \"психика\" у вас должна быть \"Раскрыта психика (Psyche is Unleashed)\", и они автоматически заканчиваются когда ваша раскрытая психика утихнет.",
+		"mindshift": "Сдвиг разума (Mindshift): Действие с этим признаком всегда может быть изменено для использования сырой силы вашего разума. При совершении этого действия, вы можете заменить любой наносимый им урон на ментальный, дать ему \"ментальный\" признак и заменить любой требуемый спасбросок на Волю. Действие теряет все признаки, соответствующие типам урона, которые оно больше не наносит.",
 	}
 
 	// Редкость
@@ -654,6 +658,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("призыватель")').tooltipster({content: traits_dict["summoner"]});
 	$('ul.traits li:textEquals("стрелок")').tooltipster({content: traits_dict["gunslinger"]});
 	$('ul.traits li:textEquals("изобретатель")').tooltipster({content: traits_dict["inventor"]});
+	$('ul.traits li:textEquals("экстрасенс")').tooltipster({content: traits_dict["psychic"]});
 	$('ul.traits li:textEquals("дварф")').tooltipster({content: traits_dict["dwarf"]});
 	$('ul.traits li:textEquals("эльф")').tooltipster({content: traits_dict["elf"]});
 	$('ul.traits li:textEquals("гном")').tooltipster({content: traits_dict["gnome"]});
@@ -832,6 +837,9 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("стационарное")').tooltipster({content: traits_dict["mounted"]});
 	$('ul.traits li:textEquals("переносное")').tooltipster({content: traits_dict["portable"]});
 	$('ul.traits li:textEquals("приспособление")').tooltipster({content: traits_dict["adjustment"]});
+	$('ul.traits li:textEquals("расширение")').tooltipster({content: traits_dict["amp"]});
+	$('ul.traits li:textEquals("психика")').tooltipster({content: traits_dict["psyche"]});
+	$('ul.traits li:textEquals("сдвиг разума")').tooltipster({content: traits_dict["mindshift"]});
 
 
 	$('span.t-attack').tooltipster({content: traits_dict["attack"]});
@@ -980,6 +988,7 @@ $(document).ready( function() {
 	$('span.t-summoner').tooltipster({content: traits_dict["summoner"]});
 	$('span.t-gunslinger').tooltipster({content: traits_dict["gunslinger"]});
 	$('span.t-inventor').tooltipster({content: traits_dict["inventor"]});
+	$('span.t-psychic').tooltipster({content: traits_dict["psychic"]});
 	$('span.t-dwarf').tooltipster({content: traits_dict["dwarf"]});
 	$('span.t-elf').tooltipster({content: traits_dict["elf"]});
 	$('span.t-gnome').tooltipster({content: traits_dict["gnome"]});
@@ -1158,4 +1167,7 @@ $(document).ready( function() {
 	$('span.t-mounted').tooltipster({content: traits_dict["mounted"]});
 	$('span.t-portable').tooltipster({content: traits_dict["portable"]});
 	$('span.t-adjustment').tooltipster({content: traits_dict["adjustment"]});
+	$('span.t-amp').tooltipster({content: traits_dict["amp"]});
+	$('span.t-psyche').tooltipster({content: traits_dict["psyche"]});
+	$('span.t-mindshift').tooltipster({content: traits_dict["mindshift"]});
 });

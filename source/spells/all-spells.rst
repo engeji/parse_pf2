@@ -37,6 +37,7 @@
    A/avatar
    B/Bandits-Doom
    B/Befitting-Attire
+   B/Bilocation
    B/Biting-Words
    B/Blazing-Dive
    B/Blazing-Fissure
@@ -45,6 +46,7 @@
    B/Bloodspray-Curse
    B/Boil-Blood
    B/Bottomless-Stomach
+   B/Bracing-Tendrils
    B/Breadcrumbs
    B/Bullhorn
    B/Burning-Blossoms
@@ -176,7 +178,9 @@
    E/Elemental-Confluence
    E/Elemental-Gift
    E/Elemental-Zone
+   E/Empty-Pack
    E/Envenom-Companion
+   E/Etheric-Shards
    E/Extract-Poison
    E/earthbind
    E/earthquake
@@ -194,6 +198,7 @@
    E/enthrall
    E/ethereal-jaunt
    E/expeditious-excavation
+   F/Falling-Sky
    F/Fated-Confrontation
    F/Feral-Shades
    F/Fey-Form
@@ -201,6 +206,7 @@
    F/Flame-Wisp
    F/Flammable-Fumes
    F/Flowing-Strike
+   F/Focusing-Hum
    F/Forceful-Hand
    F/Frigid-Flurry
    F/fabricated-truth
@@ -277,6 +283,7 @@
    H/hypnotic-pattern
    I/Ignite-Fireworks
    I/Impending-Doom
+   I/Implement-of-Destruction
    I/Inevitable-Disaster
    I/Inexhaustible-Cynicism
    I/Infectious-Enthusiasm
@@ -304,6 +311,7 @@
    I/item-facade
    J/Juvenile-Companion
    J/jump
+   K/Kinetic-Ram
    K/knock
    K/know-direction
    L/Life-Connection
@@ -327,6 +335,8 @@
    M/Mind-Of-Menace
    M/Mirror-Malefactors
    M/Mirrors-Misfortune
+   M/Momentary-Recovery
+   M/Moths-Supper
    M/Mud-Pit
    M/Murderous-Vine
    M/mad-monkeys
@@ -387,7 +397,9 @@
    P/Petal-Storm
    P/Phantom-Crowd
    P/Phantom-Prison
+   P/Phase-Bolt
    P/Pocket-Library
+   P/Poltergeists-Fury
    P/Portrait-Of-The-Artist
    P/Positive-Attunement
    P/Prismatic-Armor
@@ -431,6 +443,7 @@
    P/purple-worm-sting
    Q/Quick-Sort
    Q/quench
+   R/Rally-Point
    R/Rapid-Adaptation
    R/Ravenous-Portal
    R/Read-The-Air
@@ -470,11 +483,14 @@
    S/Scatter-Scree
    S/Schadenfreude
    S/Scorching-Ray
+   S/Sea-of-Thought
    S/Seashell-Of-Stolen-Sound
    S/Shadow-Army
    S/Shadow-Projectile
    S/Shadow-Raid
+   S/Shadow-Spy
    S/Shift-Blame
+   S/Soft-Landing
    S/Sonata-Span
    S/Soothing-Blossoms
    S/Soothing-Spring
@@ -574,6 +590,7 @@
    S/synaptic-pulse
    S/synesthesia
    T/Tame
+   T/Telekinetic-Bombardment
    T/Tempest-Of-Shades
    T/Temporary-Glyph
    T/Thicket-Of-Knives
@@ -629,6 +646,7 @@
    V/vomit-swarm
    W/Wall-Of-Water
    W/Warding-Aggression
+   W/Warp-Step
    W/Warriors-Regret
    W/Wash-Your-Luck
    W/Web-Of-Eyes
