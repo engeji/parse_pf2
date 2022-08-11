@@ -44,10 +44,10 @@ actions:
 	Raise a Shield: Поднять щит :ref:`action--Raise-a-Shield`
 	Release: Отпустить :ref:`action--Release`
 	Drop Prone: Упасть ничком :ref:`action--Drop-Prone`
-	Fly: Лететь :ref:`action--Fly`
+	Fly: Лететь :ref:`action--Fly` / :ref:`Лететь (Fly) <action--Fly>`
 	Arrest a Fall: Остановить Падение :ref:`action--Arrest-a-Fall`
 	Maneuver in Flight: Маневрирование в полете :ref:`skill--Acrobatics--Maneuver-in-Flight`
-	Burrow: Рыть :ref:`action--Burrow`
+	Burrow: Рыть :ref:`action--Burrow` / :ref:`Рытье (Burrowing) <action--Burrow>`
 	Sense Motive: Понять намерения :ref:`action--Sense-Motive`
 	Activate an Item: Активировать предмет :ref:`activity--Activate-An-Item` / :ref:`Активируете (Activate) <activity--Activate-An-Item>`
 	Invest An Item: Инвестировать предмет :ref:`activity--Invest-An-Item`
@@ -750,6 +750,17 @@ plane: план
 	Sydrixus: Сидрикс
 	Setsendu: Сэценду
 
+Psychic: экстрасенс
+	subconscious mind: подсознание
+	conscious mind: сознание
+	
+	amp (+признак): расширение
+		amp heightened: расширенное усиление
+	psyche (признак): психика
+		unleash: раскрыть психику
+		psyche subsides: психика утихает
+	mindshift (признак): сдвиг разума
+
 rage: ярость
 range: дистанция
 	range increment: шаг дистанции
@@ -779,7 +790,7 @@ senses: чувства, сенсорные чувства
 	spiritsense: духовное чувство
 	lifesense: жизнечувствительность
 	wavesense: волночувствительность
-	thoughtsense: нейрочувствительность
+	thoughtsense: мыслечувствительность
 Skill: Навык
 	Arcana: Аркана
 		Borrow an Arcane Spell: Одолжить арканное заклинание :ref:`skill--Arcana--Borrow-an-Arcane-Spell`
@@ -795,7 +806,7 @@ Skill: Навык
 		High Jump: Прыжок в высоту :ref:`skill--Athletics--HJump`
 		Long Jump: Прыжок в длину :ref:`skill--Athletics--LJump`
 		Shove: Толкнуть :ref:`skill--Athletics--Shove`
-		Swim: Плыть :ref:`skill--Athletics--Swim`
+		Swim: Плыть :ref:`skill--Athletics--Swim` / :ref:`Плыть (Swim) <skill--Athletics--Swim>`
 		Trip: Опрокинуть :ref:`skill--Athletics--Trip`; :ref:`Опрокидывание (Trip) <skill--Athletics--Trip>`
 		Disarm: Разоружить :ref:`skill--Athletics--Disarm`
 	Crafting: Ремесло

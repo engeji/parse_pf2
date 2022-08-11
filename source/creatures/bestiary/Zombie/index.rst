@@ -80,7 +80,7 @@
 
 **Источник**: Book of the Dead pg. 170
 
-Животные, такие как :doc:`змея </creatures/bestiary/Snake/index>`, :doc:`сововедведь </creatures/bestiary/Owlbear>` и :doc:`мамонт </creatures/bestiary/Elephant/Mammoth>`, могут легко превращаться в представленных здесь зомби.
+Животные, такие как :doc:`змея </creatures/bestiary/Snake/index>`, :doc:`совомедведь </creatures/bestiary/Owlbear>` и :doc:`мамонт </creatures/bestiary/Elephant/Mammoth>`, могут легко превращаться в представленных здесь зомби.
 Обычно они восстают из мест, проклятых некромантией, а не создаются намеренно.
 :doc:`Восставшие питомцы </creatures/bestiary/Risen-Pet/index>` иногда привязываются к зомби, особенно зомби своих бывших хозяев.
 Обычный зомби может стать подходящим компаньоном, способным бесконечно ласкать восставшего питомца, не давая ему заскучать.

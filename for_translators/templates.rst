@@ -279,12 +279,13 @@
 
 ОПИСАНИЕ
 
+
 .. _trait--TITLE:
 
-НАЗВАНИЕ (`TITLE <https>`_)
+НАЗВАНИЕ (признак) (`TITLE (trait) <https>`_)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-**Источник**: Guns & Gears pg. 9999999999999
+**Источник**: Dark Archive pg. 218
 
 ОПИСАНИЕ
 
@@ -1411,7 +1412,7 @@
 .. rst-class:: description
 .. _class-feature--CLASS--TITLE:
 
-НАЗВАНИЕ (TITLE) |д-#|
+НАЗВАНИЕ (`TITLE <https>`_) |д-#|
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - ПРИЗНАК_1
@@ -1824,6 +1825,13 @@ d aaaaaaaaa, bbbbbbbbbbb, КС 696969 СПАС
 	изменено
 
 .. versionadded:: /errata-LOAG-2
+	изменено
+
+
+.. versionadded:: /errata-DA-r1
+	добавлено
+
+.. versionchanged:: /errata-DA-r1
 	изменено
 
 
