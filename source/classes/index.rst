@@ -192,6 +192,8 @@
    alchemist
    investigator
    Inventor
+
+   Thaumaturge
    
    bard
    cleric
