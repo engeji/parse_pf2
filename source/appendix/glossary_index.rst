@@ -6486,7 +6486,8 @@ d4, d6, d8, d10, d12, d20, и d%
 
 Вы получаете урон каждый раунд.
 
-| :ref:`condition--Persistent-Damage`
+| :ref:`condition--Persistent-Damage` (состояние)
+| :ref:`ch9--Damage--Persistent-Damage` (подсчет урона)
 
 
 Окаменение (состояние) (petrified (condition))

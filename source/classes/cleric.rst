@@ -1430,7 +1430,7 @@
 
 .. _class-feat--Cleric--Improved-Command-Undead:
 
-Улучшенное повелеванье нежитью (`Improved Command Undead <https://2e.aonprd.com/Feats.aspx?ID=292>`_) / 10
+Улучшенное повелевание нежитью (`Improved Command Undead <https://2e.aonprd.com/Feats.aspx?ID=292>`_) / 10
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - жрец

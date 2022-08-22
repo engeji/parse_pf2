@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-08-11**
-| :ref:`Добавлен класс экстрасенса <changelog--2022-08-11>` из "Тёмного архива".
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-08-22**
+| Добавлен класс :ref:`тауматурга <changelog--2022-08-22>` и :ref:`экстрасенса <changelog--2022-08-11>` из "Тёмного архива".
 
 | **СООБЩЕСТВО**
 | `Discord сервер <https://discord.gg/FxwzjtX3mh>`_ | `Telegram канал <https://t.me/PF2e_RU_channel>`_ | `Telegram чат <https://t.me/+UuDJ_hPEOGoySmY3>`_
