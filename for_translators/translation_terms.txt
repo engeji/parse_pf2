@@ -707,6 +707,7 @@ plane: план
 		 Diovengia: Диовенжа
 	Abaddon: Абаддон
 		Awaiting-Consumption: Ожидание-Потребление (торговый город)
+		Bile Sluice: Желчный Перешеек
 	Axis: Оси (aka Perfect City: Идеальный Город)
 	Astral: Астральный (aka Silver Sea: Серебряное Море)
 	Heaven: Небесный
@@ -752,6 +753,8 @@ plane: план
 	Sydrixus: Сидрикс
 	Setsendu: Сэценду
 
+primeval: первобытный
+primordial: первородный
 Psychic: экстрасенс
 	subconscious mind: подсознание
 	conscious mind: сознание
@@ -1041,7 +1044,7 @@ Titles:
 	Path of Salt: Соляной путь
 	Aspenthar: Аспентар
 	Hermea: Эрмея
-		Mengkare: Менкарэй
+		Mengkare: Менкарэ
 		Glorious Endeavor: Прекрасное Стремление
 	Oenopion: Энопион
 	Bekyar: Бекьяр

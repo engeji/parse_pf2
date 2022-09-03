@@ -1144,9 +1144,9 @@ section.creature hr {
 
 /*section.creature-details p a:first-child[href*="ability_glossary"],*/
 section.creature p a:first-child[href*="ability_glossary"],
-section.creature p a:first-child[href*="Creating-a"],
+section.creature p a:first-child[href*="Creating-"],
 section.bst-ability-link p a:first-child[href*="ability_glossary"],
-section.bst-ability-link p a:first-child[href*="Creating-a"],
+section.bst-ability-link p a:first-child[href*="Creating-"],
 p.ability-link a:first-child[href*="ability_glossary"] {
 	font-weight: bold;
 }
