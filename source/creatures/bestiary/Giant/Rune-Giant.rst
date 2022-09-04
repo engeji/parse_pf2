@@ -111,7 +111,7 @@
 | :ref:`spell--c--Charm`
 | :ref:`spell--s--Suggestion`
 | **6 ур.**
-| :ref:`spell--d--Dominate` (x3)
+| :ref:`spell--d--Dominate` (×3)
 | :ref:`spell--t--True-Seeing`
 | **5 ур.** :ref:`spell--s--Sending`
 | **4 ур.**

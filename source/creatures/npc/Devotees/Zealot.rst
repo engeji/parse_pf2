@@ -85,7 +85,7 @@
 **Подготовленные сакральные заклинания** КС 19, атака +11
 
 | **2 ур.**
-| :ref:`spell--h--Harm` (x3)
+| :ref:`spell--h--Harm` (×3)
 | :ref:`spell--r--Restoration`
 | :ref:`spell--s--See-Invisibility`
 | :ref:`spell--s--Shield-Other`

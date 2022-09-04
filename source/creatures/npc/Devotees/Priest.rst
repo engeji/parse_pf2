@@ -74,8 +74,8 @@
 
 | **3 ур.**
 | :ref:`spell--c--Circle-Of-Protection`
-| :ref:`spell--h--Heal` (x3)
-| :ref:`spell--s--Searing-Light` (x2)
+| :ref:`spell--h--Heal` (×3)
+| :ref:`spell--s--Searing-Light` (×2)
 | **2 ур.**
 | :ref:`spell--g--Gentle-Repose`
 | :ref:`spell--s--Silence`

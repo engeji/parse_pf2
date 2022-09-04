@@ -93,7 +93,7 @@
 
 **Врожденные арканные заклинания** КС 33
 
-| **6 ур.** :ref:`spell--c--Chain-Lightning` (x3)
+| **6 ур.** :ref:`spell--c--Chain-Lightning` (×3)
 | **5 ур.** :ref:`ritual--Control-Weather` (? по желанию)
 | **3 ур.** :ref:`spell--l--Levitate` (по желанию)
 | **Постоянные (4 ур.)** :ref:`spell--f--Freedom-Of-Movement`

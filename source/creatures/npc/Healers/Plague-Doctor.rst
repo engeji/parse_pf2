@@ -75,7 +75,7 @@
 **Подготовленные сакральные заклинания** КС 23
 
 | **3 ур.**
-| :ref:`spell--h--Heal` (x3)
+| :ref:`spell--h--Heal` (×3)
 | :ref:`spell--n--Neutralize-Poison`
 | :ref:`spell--r--Remove-Disease`
 | **2 ур.**
@@ -83,7 +83,7 @@
 | :ref:`spell--r--Remove-Fear`
 | :ref:`spell--r--Restoration`
 | **1 ур.**
-| :ref:`spell--p--Purify-Food-And-Drink` (x2)
+| :ref:`spell--p--Purify-Food-And-Drink` (×2)
 | :ref:`spell--d--Detect-Poison`
 | **Чары (3 ур.)**
 | :ref:`spell--g--Guidance`

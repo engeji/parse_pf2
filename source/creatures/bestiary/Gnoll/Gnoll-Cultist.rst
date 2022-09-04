@@ -78,7 +78,7 @@
 
 | **2 ур.**
 | :ref:`spell--d--Darkness`
-| :ref:`spell--h--Harm` (x4)
+| :ref:`spell--h--Harm` (×4)
 | :ref:`spell--s--Spiritual-Weapon`
 | **1 ур.**
 | :ref:`spell--c--Command`

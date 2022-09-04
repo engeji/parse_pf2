@@ -46,7 +46,7 @@
 | **3 ур.**
 | :ref:`spell--b--Bind-Undead`
 | :ref:`spell--c--Circle-of-Protection`
-| :ref:`spell--h--Harm` (x3)
+| :ref:`spell--h--Harm` (×3)
 | :ref:`spell--v--Vampiric-Touch`
 | **2 ур.**
 | :ref:`spell--d--Dispel-Magic`

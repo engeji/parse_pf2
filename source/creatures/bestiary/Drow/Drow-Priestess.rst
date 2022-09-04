@@ -89,7 +89,7 @@
 **Подготовленные сакральные заклинания** КС 21
 
 | **2 ур.**
-| :ref:`spell--h--Harm` (x3)
+| :ref:`spell--h--Harm` (×3)
 | :ref:`spell--s--Silence`
 | :ref:`spell--s--Spiritual-Weapon`
 | **1 ур.**
@@ -108,7 +108,7 @@
 | **4 ур.** :ref:`spell--d--Darkness`
 | **3 ур.**
 | :ref:`spell--d--Dispel-Magic`
-| :ref:`spell--l--Levitate` (x3)
+| :ref:`spell--l--Levitate` (×3)
 | **2 ур.**
 | :ref:`spell--d--Darkness` (по желанию)
 | :ref:`spell--f--Faerie-Fire` (по желанию)

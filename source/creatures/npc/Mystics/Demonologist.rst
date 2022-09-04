@@ -92,7 +92,7 @@
 | :ref:`spell--h--Hideous-Laughter`
 | :ref:`spell--s--See-Invisibility`
 | **1 ур.**
-| :ref:`spell--f--Fear` (x2)
+| :ref:`spell--f--Fear` (×2)
 | :ref:`spell--f--Fleet-Step`
 | :ref:`spell--m--Mending`
 | **Чары (4 ур.)**

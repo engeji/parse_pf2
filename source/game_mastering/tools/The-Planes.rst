@@ -507,7 +507,7 @@
 
 **Коренные обитатели**:
 воздушные элементали (`air elementals <https://2e.aonprd.com/MonsterFamilies.aspx?ID=41>`_),
-облачные драконы (`cloud dragons <https://2e.aonprd.com/MonsterFamilies.aspx?ID=176>`_),
+:doc:`облачные драконы </creatures/bestiary/Dragon-Primal/Cloud/index>`,
 :doc:`джинны </creatures/bestiary/Genie/Djinni>`,
 :doc:`просители (воздушные пневмы) </creatures/bestiary/Petitioner>`
 
@@ -542,7 +542,7 @@
 **Коренные обитатели**:
 земляные элементали (`earth elementals <https://2e.aonprd.com/MonsterFamilies.aspx?ID=42>`_),
 :doc:`шайтаны </creatures/bestiary/Genie/Shaitan>`,
-кристаллические драконы (`crystal dragons <https://2e.aonprd.com/MonsterFamilies.aspx?ID=177>`_),
+:doc:`кристаллические драконы </creatures/bestiary/Dragon-Primal/Crystal/index>`,
 :doc:`просители (земляные пневмы) </creatures/bestiary/Petitioner>`
 
 **Источник**: Gamemastery Guide pg. 139
@@ -576,7 +576,7 @@
 огненные элементали (`fire elementals <https://2e.aonprd.com/MonsterFamilies.aspx?ID=43>`_),
 :doc:`эфриты </creatures/bestiary/Genie/Efreeti>`,
 азеры (`azers <https://2e.aonprd.com/Monsters.aspx?ID=1074>`_),
-магматические драконы (`magma dragons <https://2e.aonprd.com/MonsterFamilies.aspx?ID=178>`_),
+:doc:`магматические драконы </creatures/bestiary/Dragon-Primal/Magma/index>`,
 :doc:`просители (огненные пневмы) </creatures/bestiary/Petitioner>`
 
 **Источник**: Gamemastery Guide pg. 140
@@ -609,7 +609,7 @@
 **Коренные обитатели**:
 водные элементали (`water elementals <https://2e.aonprd.com/MonsterFamilies.aspx?ID=45>`_),
 :doc:`мариды </creatures/bestiary/Genie/Marid>`,
-водные драконы (`brine dragons <https://2e.aonprd.com/MonsterFamilies.aspx?ID=175>`_),
+:doc:`водные драконы </creatures/bestiary/Dragon-Primal/Brine/index>`,
 :doc:`просители (водные вневмы) </creatures/bestiary/Petitioner>`
 
 **Источник**: Gamemastery Guide pg. 140
@@ -699,7 +699,7 @@
 
 **Коренные обитатели**:
 ночные карги (`night hags <https://2e.aonprd.com/Monsters.aspx?ID=257>`_),
-эфирные пауки (`ether spiders <https://2e.aonprd.com/Monsters.aspx?ID=203>`_),
+:doc:`эфирные пауки </creatures/bestiary/Ether-Spider>`,
 :doc:`просители (затерроризированные) </creatures/bestiary/Petitioner>`
 
 **Источник**: Gamemastery Guide pg. 141
@@ -763,9 +763,9 @@
 
 **Коренные обитатели**:
 вельстраки (`velstracs <https://2e.aonprd.com/MonsterFamilies.aspx?ID=111>`_),
-калигни (`caligni <https://2e.aonprd.com/MonsterFamilies.aspx?ID=18>`_),
+:doc:`калигни </creatures/bestiary/Caligni/index>`,
 дзириаки (`d'ziriaks <https://2e.aonprd.com/Monsters.aspx?ID=644>`_),
-теневые драконы (`umbral dragons <https://2e.aonprd.com/MonsterFamilies.aspx?ID=179>`_),
+:doc:`теневые драконы </creatures/bestiary/Dragon-Primal/Umbral/index>`,
 :doc:`кайалы (фечлины) </ancestries_and_backgrounds/ancestries/fetchling>`,
 :doc:`просители (изувеченные) </creatures/bestiary/Petitioner>`
 
@@ -828,7 +828,7 @@
 :t_daemon:`дэймонические` предвестники
 
 **Коренные обитатели**:
-:t_daemon:`дэймоны`,
+:doc:`дэймоны </creatures/bestiary/Daemon/index>`,
 ночные карги (`night hags <https://2e.aonprd.com/Monsters.aspx?ID=257>`_),
 кошмары (`nightmares <https://2e.aonprd.com/MonsterFamilies.aspx?ID=76>`_),
 :doc:`просители (преследуемые) </creatures/bestiary/Petitioner>`
@@ -866,11 +866,11 @@
 Камасоц (Camazotz),
 :ref:`гоблинские боги-герои <Barghest--Hero-Gods>`,
 зарождающиеся повелители демонов,
-повелители :t_qlippoth:`клиппотов`
+:ref:`повелители клиппотов <qlippoth--Lords>`
 
 **Коренные обитатели**:
 :doc:`демоны </creatures/bestiary/Demon/index>`,
-:t_qlippoth:`клиппоты`,
+:doc:`клиппоты </creatures/bestiary/Qlippoth/index>`,
 :doc:`просители (лярвы) </creatures/bestiary/Petitioner>`
 
 **Источник**: Gamemastery Guide pg. 142

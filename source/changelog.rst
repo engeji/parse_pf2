@@ -12,20 +12,105 @@
 
 
 
-.. _changelog--2022-08-11:
+.. _changelog--2022-09-04:
 
-2022-08-11
+2022-09-04
 =====================================================================================================
 
-.. _changelog--edits--2022-08-11:
+.. _changelog--DA--2022-09-04:
+
+Тёмный архив (Dark Archive)
+---------------------------------------------------------------------------------------------
+
+Добавлен новый класс :doc:`/classes/Thaumaturge` и его архетип :doc:`/classes/archetypes/Thaumaturge`.
+
+
+.. _changelog--edits--2022-09-04:
 
 Исправления
 ---------------------------------------------------------------------------------------------
 
-В дополнение ко всевозможным мелким опечаткам:
+Несколько исправлений формулировок:
 
-- Волшебник. :ref:`class-feature--Wizard--Arcane-Spellcasting`. Во 2-м абзаце исправлено 1-е предложение. Теперь оно четко гласит о том, что дополнительные чары получают только волшебники-специалисты, как и доп.слоты для заклинаний своей школы.
+- :ref:`class-feature--Barbarian--Instinct--Spirit`. Духовная ярость (Умение инстинкта). Уточнено, что тип урона меняется только для доп.урона от Ярости.
+- :ref:`ancestry-feat--Hobgoblin--Remorseless-Lash`. Данная способность работает только с Ударами оружием. "Удар ближнего боя по напуганному врагу" исправлено на "Удар **оружием** ближнего боя".
+- :ref:`spell--t--Telekinetic-Projectile`. Метаемый объект должен находиться в радиусе действия заклинания. Формулировка "ничейный объект, который находится в пределах досягаемости" исправлена на "находящийся в пределах **дистанции**".
 
+В дополнение к мелким опечаткам:
+
+- Анади. :ref:`ancestry-feat--Anadi--Studious-Magic`. Исправлено название. Было "Усердная магиИ".
+- Жрец. :ref:`class-feat--Cleric--Improved-Command-Undead`. Исправлено название. Было "повелеванЬе".
+
+
+.. _changelog--changes--2022-09-04:
+
+Изменения
+---------------------------------------------------------------------------------------------
+
+Небольшое изменение в признаках:
+
+- :ref:`Эфирный (ethereal) <trait--ethereal>`. Изменено с "эфи́риал" на "эфирный", так как это не только признак существ.
+
+
+.. _changelog--B--2022-09-04:
+
+Бестиарий
+---------------------------------------------------------------------------------------------
+
+**ДРАКОНЫ**
+
+- :doc:`/creatures/bestiary/Dragon-Chromatic/index` (15)
+- :doc:`/creatures/bestiary/Dragon-Metallic/index` (15)
+- :doc:`/creatures/bestiary/Dragon-Primal/index` (15)
+- :doc:`/creatures/bestiary/Dragon-Imperial/index` (15)
+- :doc:`/creatures/bestiary/Ravener/index` (2)
+- :doc:`/creatures/bestiary/Faerie-Dragon`
+
+**ЭСТРАПЛАНАРНЫЕ**
+
+- :doc:`/creatures/bestiary/Daemon/index` (13)
+
+**ГУМАНОИДЫ И ПРОЧИЕ**
+
+- :doc:`/creatures/bestiary/Werecreature/index` (7)
+
+- :doc:`/creatures/bestiary/Ogre/index` (3)
+- :doc:`/creatures/bestiary/Ettin`
+
+- :doc:`/creatures/bestiary/Troll/index` (6)
+- :doc:`/creatures/bestiary/Trollhound`
+
+- :doc:`/creatures/bestiary/Caligni/index` (6)
+- :doc:`/creatures/bestiary/Owb/index` (2)
+
+**ЧУДОВИЩА**
+
+- :doc:`/creatures/bestiary/Spider/index` (6)
+- :doc:`/creatures/bestiary/Web-Lurker`
+- :doc:`/creatures/bestiary/Ether-Spider`
+
+- :doc:`/creatures/bestiary/Otyugh`
+- :doc:`/creatures/bestiary/Shambler`
+- :doc:`/creatures/bestiary/Ofalth`
+
+- :doc:`/creatures/bestiary/Basilisk/index` (2)
+- :doc:`/creatures/bestiary/Cockatrice`
+- :doc:`/creatures/bestiary/Chimera`
+- :doc:`/creatures/bestiary/Phoenix`
+- :doc:`/creatures/bestiary/Gug`
+
+**НЕЖИТЬ**
+
+- :doc:`/creatures/bestiary/Specter`
+
+
+
+
+
+.. _changelog--2022-08-11:
+
+2022-08-11
+=====================================================================================================
 
 .. _changelog--DA--2022-08-11:
 
@@ -56,6 +141,15 @@
 - :ref:`spell--Telekinetic-Bombardment`
 - :ref:`spell--Falling-Sky`
 - :ref:`spell--Bilocation`
+
+.. _changelog--edits--2022-08-11:
+
+Исправления
+---------------------------------------------------------------------------------------------
+
+В дополнение ко всевозможным мелким опечаткам:
+
+- Волшебник. :ref:`class-feature--Wizard--Arcane-Spellcasting`. Во 2-м абзаце исправлено 1-е предложение. Теперь оно четко гласит о том, что дополнительные чары получают только волшебники-специалисты, как и доп.слоты для заклинаний своей школы.
 
 
 

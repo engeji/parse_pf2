@@ -566,6 +566,8 @@
 
 .. role:: t_mindshift
 
+.. role:: t_esoterica
+
 
 
 .. role:: t_alchemist
@@ -609,6 +611,8 @@
 .. role:: t_inventor
 
 .. role:: t_psychic
+
+.. role:: t_thaumaturge
 
 .. role:: t_dwarf
 

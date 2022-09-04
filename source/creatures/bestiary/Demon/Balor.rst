@@ -132,7 +132,7 @@
 **Врожденные сакральные заклинания** КС 44
 
 | **10 ур.**
-| :ref:`spell--d--Divine-Decree` (x2)
+| :ref:`spell--d--Divine-Decree` (×2)
 | :ref:`spell--d--Dimension-Door`
 | **8 ур.** :ref:`spell--d--Dispel-Magic` (по желанию)
 | **6 ур.** :ref:`spell--d--Dominate` (по желанию)

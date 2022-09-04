@@ -74,7 +74,7 @@
 **Подготовленные сакральные заклинания** КС 17, атака +9
 
 | **1 ур.**
-| :ref:`spell--h--Heal` (x2)
+| :ref:`spell--h--Heal` (×2)
 | :ref:`spell--h--Harm`
 | :ref:`spell--m--Magic-Missile`
 | **Чары (1 ур.)**
