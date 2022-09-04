@@ -124,8 +124,8 @@
 **Врожденные сакральные заклинания** КС 38
 
 | **9 ур.**
-| :ref:`spell--b--Blade-Barrier` (x2)
-| :ref:`spell--w--Weapon-Storm` (x2)
+| :ref:`spell--b--Blade-Barrier` (×2)
+| :ref:`spell--w--Weapon-Storm` (×2)
 | **5 ур.** :ref:`spell--d--Dimension-Door`
 | **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
 | **Постоянные**

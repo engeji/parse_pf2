@@ -90,7 +90,7 @@
 **Источник**: Bestiary pg. 118
 
 Представленные здесь существа, считаются истинными драконами, но множество других драконических существ населяют Голарион и запределье.
-Среди них: мощные и смертоносные :doc:`линнормы </creatures/bestiary/Linnorm/index>`, разнообразные :doc:`дрейки </creatures/bestiary/Drake/index>`, причудливые :doc:`волшебные дракончики </creatures/bestiary/Faerie-Dragon>` и псевдодраконы, жестокие и коварные ази (azis) и зловещие :t_undead:`неживые` raveners (TODO).
+Среди них: мощные и смертоносные :doc:`линнормы </creatures/bestiary/Linnorm/index>`, разнообразные :doc:`дрейки </creatures/bestiary/Drake/index>`, причудливые :doc:`волшебные дракончики </creatures/bestiary/Faerie-Dragon>` и псевдодраконы, жестокие и коварные ази (azis) и зловещие :t_undead:`неживые` :doc:`рейвенеры </creatures/bestiary/Ravener/index>`.
 
 
 .. rst-class:: h3
