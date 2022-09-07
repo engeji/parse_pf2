@@ -1062,6 +1062,7 @@
    focus/Magus
    focus/Summoner
    focus/Psychic
+   
    focus/Elementalism
    focus/Beastmaster
    focus/Shadowdancer
@@ -1075,6 +1076,7 @@
    focus/Runelord
    focus/Hallowed-Necromancer
    focus/Reanimator
+   focus/Sleepwalker
 
 
 

@@ -162,6 +162,10 @@
    Vampire
    Zombie
 
+   Psychic-Duelist
+   Mind-Smith
+   Sleepwalker
+
 
    dlc/aldori-duelist
    dlc/runescarred
