@@ -9,6 +9,7 @@
    A/Animal-Allies
    A/Approximate
    A/Ash-Cloud
+   A/Awaken-Entropy
    A/abyssal-plague
    A/acid-arrow
    A/acid-splash
@@ -37,6 +38,7 @@
    A/avatar
    B/Bandits-Doom
    B/Befitting-Attire
+   B/Behold-the-Weave
    B/Bilocation
    B/Biting-Words
    B/Blazing-Dive
@@ -315,6 +317,7 @@
    K/knock
    K/know-direction
    L/Life-Connection
+   L/Loose-Times-Arrow
    L/Lose-The-Path
    L/Lucky-Number
    L/levitate
@@ -336,6 +339,7 @@
    M/Mirror-Malefactors
    M/Mirrors-Misfortune
    M/Momentary-Recovery
+   M/Morass-of-Ages
    M/Moths-Supper
    M/Mud-Pit
    M/Murderous-Vine
@@ -442,6 +446,7 @@
    P/purify-food-and-drink
    P/purple-worm-sting
    Q/Quick-Sort
+   Q/Quicken-Time
    Q/quench
    R/Rally-Point
    R/Rapid-Adaptation
@@ -496,16 +501,19 @@
    S/Soothing-Spring
    S/Spiritual-Attunement
    S/Spout
+   S/Stagnate-Time
    S/Sudden-Recollection
    S/Summon-Anarch
    S/Summon-Archmage
    S/Summon-Axiom
    S/Summon-Deific-Herald
    S/Summon-Draconic-Legion
+   S/Summon-Irii
    S/Summon-Kaiju
    S/Summon-Lesser-Servitor
    S/Summoners-Precaution
    S/Summoners-Visage
+   S/Suspended-Retribution
    S/Synchronize
    S/safe-passage
    S/sanctified-ground
@@ -592,10 +600,13 @@
    T/Tame
    T/Telekinetic-Bombardment
    T/Tempest-Of-Shades
+   T/Temporal-Twin
    T/Temporary-Glyph
    T/Thicket-Of-Knives
    T/Thundering-Dominance
    T/Time-Jump
+   T/Time-Pocket
+   T/Time-Sense
    T/Timely-Tutor
    T/Tortoise-And-The-Hare
    T/talking-corpse

@@ -1076,6 +1076,7 @@
    focus/Runelord
    focus/Hallowed-Necromancer
    focus/Reanimator
+   focus/Time-Mage
    focus/Sleepwalker
 
 

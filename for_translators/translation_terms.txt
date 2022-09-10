@@ -631,6 +631,7 @@ Locations:
 	Jinin: Джинин
 	Ling Shen: Лин Шен
 	Quain: Куэйн
+	Yixing: Иси́н
 	Jitska Imperium / Jistka: Империум Джистки, Джистский Империум
 	Deadshot Lands: Земли Дэдшот
 	Eihlona: Эйлона

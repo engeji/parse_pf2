@@ -162,6 +162,8 @@
    Vampire
    Zombie
 
+   Time-Mage
+   Chronoskimmer
    Psychic-Duelist
    Mind-Smith
    Sleepwalker
