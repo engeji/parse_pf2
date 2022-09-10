@@ -879,7 +879,7 @@ spell: заклинание
 		envision: вообразить
 spellcasting: колдовство / сотворение заклинания
 	spellcasting ability modifier: модификатор характеристики колдовства
-	spellcasting class feature: особенность заклинательского класса
+	spellcasting class feature: заклинательская особенность класса
 	tradition: обычай, колдовской обычай, магический обычай
 		arcane: арканный
 		divine: сакральный

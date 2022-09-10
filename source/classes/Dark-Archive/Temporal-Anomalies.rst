@@ -248,9 +248,4 @@
 
 
 
-
-
-
-
-
 .. include:: /helpers/actions.rst

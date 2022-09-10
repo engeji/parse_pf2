@@ -4081,7 +4081,7 @@
 
 **Предварительные условия**: эксперт Общества, :ref:`feat--Streetwise`
 
-**Источник**: Advanced Player's Guide pg. 
+**Источник**: Advanced Player's Guide pg. 209
 
 ----------
 
