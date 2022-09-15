@@ -23,7 +23,7 @@ copyright = '2022, Yuri "Balt" Voronin'
 author = 'Balt'
 
 # The full version, including alpha/beta/rc tags
-release = '1.10.1'
+release = '1.10.2'
 
 
 # -- General configuration ---------------------------------------------------
