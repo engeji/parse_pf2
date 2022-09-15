@@ -2478,6 +2478,20 @@ Lost Omens: The Mwangi Expanse pg. 308
 | :ref:`Ключевые термины тауматурга <sidebar--Thaumaturge--Key-Terms>`
 
 
+.. _trait--Deviant:
+
+Девиантный (признак) (`Deviant (trait) <https://2e.aonprd.com/Traits.aspx?ID=426>`_)
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+**Источник**: Dark Archive pg. 218
+
+Этот признак описывает странные сверхъестественные или паранормальные возможности.
+
+| :doc:`/classes/Dark-Archive/Deviant-Abilities`
+| :ref:`Deviant-Abilities--Classifications`
+| :ref:`Deviant-Abilities--Quirks`
+
+
 
 
 

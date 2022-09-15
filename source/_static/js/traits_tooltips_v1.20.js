@@ -472,6 +472,7 @@ $(document).ready( function() {
 		"psyche": "Психика (Psyche): Для использования умений с признаком \"психика\" у вас должна быть \"Раскрыта психика (Psyche is Unleashed)\", и они автоматически заканчиваются когда ваша раскрытая психика утихнет.",
 		"mindshift": "Сдвиг разума (Mindshift): Действие с этим признаком всегда может быть изменено для использования сырой силы вашего разума. При совершении этого действия, вы можете заменить любой наносимый им урон на ментальный, дать ему \"ментальный\" признак и заменить любой требуемый спасбросок на Волю. Действие теряет все признаки, соответствующие типам урона, которые оно больше не наносит.",
 		"esoterica": "Эзотерика (Esoterica): Признак \"эзотерика\" присутствует во многих способностях и классовых особенностях тауматурга, использующих различные талисманы, сверхъестественные безделушки и другие объекты, которые вы носите с собой. Для использования умений, обладающих признаком эзотерики, требуется, чтобы у вас в распоряжении была ваша эзотерика. Обычно предполагается, что эзотерика всегда при вас, но в некоторых редких обстоятельствах ее может не оказаться под рукой или ее у вас отберут.",
+		"deviant": "Девиантный (deviant): Этот признак описывает странные сверхъестественные или паранормальные возможности.",
 		// "11111111": "22222222 (11111111): 33333333",
 	}
 
@@ -845,6 +846,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("психика")').tooltipster({content: traits_dict["psyche"]});
 	$('ul.traits li:textEquals("сдвиг разума")').tooltipster({content: traits_dict["mindshift"]});
 	$('ul.traits li:textEquals("эзотерика")').tooltipster({content: traits_dict["esoterica"]});
+	$('ul.traits li:textEquals("девиантный")').tooltipster({content: traits_dict["deviant"]});
 	// $('ul.traits li:textEquals("22222222")').tooltipster({content: traits_dict["11111111"]});
 
 
@@ -1178,5 +1180,6 @@ $(document).ready( function() {
 	$('span.t-psyche').tooltipster({content: traits_dict["psyche"]});
 	$('span.t-mindshift').tooltipster({content: traits_dict["mindshift"]});
 	$('span.t-esoterica').tooltipster({content: traits_dict["esoterica"]});
+	$('span.t-deviant').tooltipster({content: traits_dict["deviant"]});
 	// $('span.t-11111111').tooltipster({content: traits_dict["11111111"]});
 });

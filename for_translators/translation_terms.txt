@@ -1144,6 +1144,11 @@ Titles:
 	Shackles: Кандалы
 	Path of Aganhei: Путь Аганхей
 	Droskar's Crag: Утёс Дроскара
+	Cloudspire: Клаудспайр
+	Katheer: Катир (столица Кадира)
+	Exarchate of the Infinite Clock: Экзархата Бесконечных Часов
+		Clockmakers: Часовщики
+	Yovala: Йовала
 	
 
 trait: признак / особенность
