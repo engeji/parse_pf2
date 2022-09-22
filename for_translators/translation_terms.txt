@@ -754,7 +754,7 @@ plane: план
 	Sydrixus: Сидрикс
 	Setsendu: Сэценду
 
-primeval: первобытный
+primeval: первозданный, первобытный
 primordial: первородный
 Psychic: экстрасенс
 	subconscious mind: подсознание
@@ -1146,9 +1146,11 @@ Titles:
 	Droskar's Crag: Утёс Дроскара
 	Cloudspire: Клаудспайр
 	Katheer: Катир (столица Кадира)
-	Exarchate of the Infinite Clock: Экзархата Бесконечных Часов
+	Exarchate of the Infinite Clock: Экзархат Вечного Механизма
 		Clockmakers: Часовщики
 	Yovala: Йовала
+	Outer Rifts: Внешние Разломы
+	Triaxus: Триаксус (планета)
 	
 
 trait: признак / особенность

@@ -399,7 +399,7 @@
 
 .. _plane--Material:
 
-Материальный план (`Material Plane <https://2e.aonprd.com/Planes.aspx?ID=1>`_) / План
+Материальный План (`Material Plane <https://2e.aonprd.com/Planes.aspx?ID=1>`_) / План
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - :alignment:`Н`
@@ -866,7 +866,7 @@
 Камасоц (Camazotz),
 :ref:`гоблинские боги-герои <Barghest--Hero-Gods>`,
 зарождающиеся повелители демонов,
-повелители клиппотов
+:ref:`повелители клиппотов <qlippoth--Lords>`
 
 **Коренные обитатели**:
 :doc:`демоны </creatures/bestiary/Demon/index>`,
