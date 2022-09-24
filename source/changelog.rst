@@ -49,10 +49,10 @@
 
 Добавлены различные монстры.
 
-- :doc:`/home/balt/pf2e_ru_translation/source/creatures/bestiary/Linnorm/index.rst` (10)
-- :doc:`/home/balt/pf2e_ru_translation/source/creatures/bestiary/Qlippoth/index.rst` (6)
-- :doc:`/home/balt/pf2e_ru_translation/source/creatures/bestiary/Cave-Worm/index.rst` (3 + :doc:`/home/balt/pf2e_ru_translation/source/creatures/bestiary/Frost-Worm.rst`)
-- :doc:`/home/balt/pf2e_ru_translation/source/creatures/bestiary/Cyclops/index.rst` (2)
+- :doc:`/creatures/bestiary/Linnorm/index` (10)
+- :doc:`/creatures/bestiary/Qlippoth/index` (6)
+- :doc:`/creatures/bestiary/Cave-Worm/index` (3 + :doc:`/creatures/bestiary/Frost-Worm`)
+- :doc:`/creatures/bestiary/Cyclops/index` (2)
 
 
 
