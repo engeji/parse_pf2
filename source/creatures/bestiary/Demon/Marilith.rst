@@ -129,8 +129,8 @@
 | **5 ур.** :ref:`spell--d--Dimension-Door`
 | **4 ур.** :ref:`spell--d--Dimension-Door` (по желанию)
 | **Постоянные**
-| **(6 ур.)** :ref:`spell--t--True-Seeing`
-| **(4 ур.)** :ref:`spell--f--Fly`
+| **6 ур.** :ref:`spell--t--True-Seeing`
+| **4 ур.** :ref:`spell--f--Fly`
 
 **Ритуалы** КС 38; :ref:`ritual--Abyssal-Pact`
 

@@ -3,7 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-09-04**
+| **ВАЖНЫЕ ОБНОВЛЕНИЯ | 2022-09-24**
+| Добавлен :ref:`контент трёх дел <changelog--2022-09-24>` "Темного Архива".
 | Добавлен класс :ref:`тауматурга <changelog--2022-09-04>` и :ref:`экстрасенса <changelog--2022-08-11>` из "Тёмного архива".
 
 | **СООБЩЕСТВО**

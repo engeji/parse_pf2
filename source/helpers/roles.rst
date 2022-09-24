@@ -568,6 +568,8 @@
 
 .. role:: t_esoterica
 
+.. role:: t_deviant
+
 
 
 .. role:: t_alchemist

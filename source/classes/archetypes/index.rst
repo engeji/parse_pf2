@@ -162,6 +162,12 @@
    Vampire
    Zombie
 
+   Time-Mage
+   Chronoskimmer
+   Psychic-Duelist
+   Mind-Smith
+   Sleepwalker
+
 
    dlc/aldori-duelist
    dlc/runescarred

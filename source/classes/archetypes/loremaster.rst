@@ -57,7 +57,7 @@
 ----------
 
 Вы изучили те лакомые кусочки магии, которые больше всего способствуют вашему получению и передаче знаний.
-Вы получаете :ref:`spell--g--Guidance`, :ref:`spell--m--Message` и :ref:`spell--s--Sigil` как врожденные оккультные чары. 
+Вы получаете :ref:`spell--g--Guidance`, :ref:`spell--m--Message` и :ref:`spell--s--Sigil` как врожденные оккультные чары.
 
 
 .. _arch-feat--Loremaster--Orthographic-Mastery:

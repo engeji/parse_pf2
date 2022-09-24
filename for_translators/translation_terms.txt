@@ -631,6 +631,7 @@ Locations:
 	Jinin: Джинин
 	Ling Shen: Лин Шен
 	Quain: Куэйн
+	Yixing: Иси́н
 	Jitska Imperium / Jistka: Империум Джистки, Джистский Империум
 	Deadshot Lands: Земли Дэдшот
 	Eihlona: Эйлона
@@ -753,7 +754,7 @@ plane: план
 	Sydrixus: Сидрикс
 	Setsendu: Сэценду
 
-primeval: первобытный
+primeval: первозданный, первобытный
 primordial: первородный
 Psychic: экстрасенс
 	subconscious mind: подсознание
@@ -878,7 +879,7 @@ spell: заклинание
 		envision: вообразить
 spellcasting: колдовство / сотворение заклинания
 	spellcasting ability modifier: модификатор характеристики колдовства
-	spellcasting class feature: особенность заклинательского класса
+	spellcasting class feature: заклинательская особенность класса
 	tradition: обычай, колдовской обычай, магический обычай
 		arcane: арканный
 		divine: сакральный
@@ -1143,6 +1144,13 @@ Titles:
 	Shackles: Кандалы
 	Path of Aganhei: Путь Аганхей
 	Droskar's Crag: Утёс Дроскара
+	Cloudspire: Клаудспайр
+	Katheer: Катир (столица Кадира)
+	Exarchate of the Infinite Clock: Экзархат Вечного Механизма
+		Clockmakers: Часовщики
+	Yovala: Йовала
+	Outer Rifts: Внешние Разломы
+	Triaxus: Триаксус (планета)
 	
 
 trait: признак / особенность

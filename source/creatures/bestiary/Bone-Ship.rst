@@ -199,7 +199,7 @@
 
 
 
-.. rst-class:: h3 b-sidebar
+.. rst-class:: h3
 .. rubric:: Пилотирование костяного корабля (Piloting a Bone Ship)
 
 |rules|

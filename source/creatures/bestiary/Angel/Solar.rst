@@ -134,15 +134,12 @@
 | **7 ур.**
 | :ref:`spell--r--Remove-Fear` (по желанию)
 | :ref:`spell--p--Plane-Shift`
-| **6 ур.**
-| :ref:`spell--r--Restoration` (по желанию)
+| **6 ур.** :ref:`spell--r--Restoration` (по желанию)
 | **5 ур.**
 | :ref:`spell--b--Breath-Of-Life`
 | :ref:`spell--d--Death-Ward`
-| **4 ур.**
-| :ref:`spell--d--Dimensional-Anchor` (по желанию)
-| **2 ур.**
-| :ref:`spell--i--Invisibility` (по желанию, только на себя)
+| **4 ур.** :ref:`spell--d--Dimensional-Anchor` (по желанию)
+| **2 ур.** :ref:`spell--i--Invisibility` (по желанию, только на себя)
 | **Постоянные (10 ур.)**
 | :ref:`spell--d--Detect-Alignment` (только зло)
 | :ref:`spell--t--Tongues`

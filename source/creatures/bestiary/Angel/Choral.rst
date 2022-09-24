@@ -90,23 +90,21 @@
 
 **Врожденные сакральные заклинания** КС 23, атака +13
 
-| **3-й уровень**
+| **3 ур.**
 | :ref:`spell--h--Heal`
 | :ref:`spell--r--Remove-Curse`
 | :ref:`spell--r--Remove-Disease`
 | :ref:`spell--r--Remove-Fear` (по желанию)
 | :ref:`spell--s--Sound-Burst`
-| **2-й уровень**
+| **2 ур.**
 | :ref:`spell--i--Invisibility` (по желанию, только на себя)
 | :ref:`spell--s--Sound-Burst` (по желанию)
-| **1-й уровень**
-| :ref:`spell--focus--Counter-Performance` (по желанию)
-| **Чары (3-й ур.)**
+| **1 ур.** :ref:`spell--focus--Counter-Performance` (по желанию)
+| **Чары (3 ур.)**
 | :ref:`spell--focus--Inspire-Courage`
 | :ref:`spell--focus--Inspire-Competence`
 | :ref:`spell--g--Ghost-Sound`
-| **Постоянные (5-й уровень)**
-| :ref:`spell--t--Tongues`
+| **Постоянные (5 ур.)** :ref:`spell--t--Tongues`
 
 **Ритуалы** КС 23; :ref:`ritual--Angelic-Messenger`
 

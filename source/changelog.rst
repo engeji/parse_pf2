@@ -12,6 +12,52 @@
 
 
 
+
+
+.. _changelog--2022-09-24:
+
+2022-09-24
+=====================================================================================================
+
+.. _changelog--DA--2022-09-24:
+
+Тёмный архив (Dark Archive)
+---------------------------------------------------------------------------------------------
+
+Добавлен контент из трёх дел.
+
+- :doc:`/classes/Dark-Archive/Deviant-Abilities`
+- :doc:`/classes/Dark-Archive/Temporal-Anomalies`
+- :doc:`/classes/Dark-Archive/Mindscapes`
+
+
+.. _changelog--edits--2022-09-24:
+
+Исправления
+---------------------------------------------------------------------------------------------
+
+Исправления ошибок.
+
+- :ref:`spell--f--Fire-Shield`. В усилении заклинания было написано "Сопротивление огню", вместо "холоду".
+- Чемпион. :ref:`class-feat--Champion--Pale-Horse`. Исправлено увеличение урона при повышении уровней с "на" на "до".
+
+
+.. _changelog--B--2022-09-24:
+
+Бестиарий
+---------------------------------------------------------------------------------------------
+
+Добавлены различные монстры.
+
+- :doc:`/home/balt/pf2e_ru_translation/source/creatures/bestiary/Linnorm/index.rst` (10)
+- :doc:`/home/balt/pf2e_ru_translation/source/creatures/bestiary/Qlippoth/index.rst` (6)
+- :doc:`/home/balt/pf2e_ru_translation/source/creatures/bestiary/Cave-Worm/index.rst` (3 + :doc:`/home/balt/pf2e_ru_translation/source/creatures/bestiary/Frost-Worm.rst`)
+- :doc:`/home/balt/pf2e_ru_translation/source/creatures/bestiary/Cyclops/index.rst` (2)
+
+
+
+
+
 .. _changelog--2022-09-04:
 
 2022-09-04

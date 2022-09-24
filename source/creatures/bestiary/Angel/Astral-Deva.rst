@@ -112,16 +112,11 @@
 | :ref:`spell--r--Remove-Curse`
 | :ref:`spell--r--Remove-Disease`
 | :ref:`spell--r--Remove-Fear`
-| **4 ур.**
-| :ref:`spell--d--Discern-Lies` (по желанию)
-| **2 ур.**
-| :ref:`spell--i--Invisibility` (по желанию, только на себя)
-| **1 ур.**
-| :ref:`spell--d--Detect-Alignment` (по желанию, только зло)
-| **Чары (7 ур.)**
-| :ref:`spell--l--Light`
-| **Постоянные (5 ур.)**
-| :ref:`spell--t--Tongues`
+| **4 ур.** :ref:`spell--d--Discern-Lies` (по желанию)
+| **2 ур.** :ref:`spell--i--Invisibility` (по желанию, только на себя)
+| **1 ур.** :ref:`spell--d--Detect-Alignment` (по желанию, только зло)
+| **Чары (7 ур.)** :ref:`spell--l--Light`
+| **Постоянные (5 ур.)** :ref:`spell--t--Tongues`
 
 **Ритуалы** КС 36; :ref:`ritual--Angelic-Messenger`
 
