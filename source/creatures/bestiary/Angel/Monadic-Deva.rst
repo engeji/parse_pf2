@@ -106,14 +106,10 @@
 | **5 ур.**
 | :ref:`spell--c--Creation`
 | :ref:`spell--r--Remove-Fear`
-| **4 ур.**
-| :ref:`spell--c--Charm`
-| **2 ур.**
-| :ref:`spell--i--Invisibility` (по желанию, только на себя)
-| **1 ур.**
-| :ref:`spell--d--Detect-Alignment` (по желанию, только зло)
-| **Постоянные (5 ур.)**
-| :ref:`spell--t--Tongues`
+| **4 ур.** :ref:`spell--c--Charm`
+| **2 ур.** :ref:`spell--i--Invisibility` (по желанию, только на себя)
+| **1 ур.** :ref:`spell--d--Detect-Alignment` (по желанию, только зло)
+| **Постоянные (5 ур.)** :ref:`spell--t--Tongues`
 
 **Ритуалы** КС 32; :ref:`ritual--Angelic-Messenger`
 

@@ -112,12 +112,9 @@
 | **4 ур.**
 | :ref:`spell--c--Create-Food`
 | :ref:`spell--h--Heal` (×3)
-| **2 ур.**
-| :ref:`spell--i--Invisibility` (по желанию, только на себя)
-| **1 ур.**
-| :ref:`spell--d--Detect-Alignment` (по желанию, только зло)
-| **Постоянные (5 ур.)**
-| :ref:`spell--t--Tongues`
+| **2 ур.** :ref:`spell--i--Invisibility` (по желанию, только на себя)
+| **1 ур.** :ref:`spell--d--Detect-Alignment` (по желанию, только зло)
+| **Постоянные (5 ур.)** :ref:`spell--t--Tongues`
 
 **Ритуалы** КС 29
 

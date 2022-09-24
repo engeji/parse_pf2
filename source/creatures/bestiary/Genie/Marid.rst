@@ -138,7 +138,8 @@
 | **2 ур.**
 | :ref:`spell--b--Blur` (по желанию)
 | :ref:`spell--i--Illusory-Object`
-| **Постоянные (5 ур.)** :ref:`spell--d--Detect-Magic`
+| **Постоянные**
+| **5 ур.** :ref:`spell--d--Detect-Magic`
 | **1 ур.** :ref:`spell--d--Detect-Alignment` (только добро или зло)
 
 

@@ -103,8 +103,8 @@
 | **2 ур.** :ref:`spell--m--Mirror-Image` (по желанию)
 | **Чары (7 ур.)** :ref:`spell--t--Telekinetic-Projectile`
 | **Постоянные**
-| **(6 ур.)** :ref:`spell--t--True-Seeing`
-| **(5 ур.)** :ref:`spell--t--Tongues`
+| **6 ур.** :ref:`spell--t--True-Seeing`
+| **5 ур.** :ref:`spell--t--Tongues`
 
 **Ритуалы** КС 34; :ref:`ritual--Abyssal-Pact`
 
