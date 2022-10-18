@@ -916,7 +916,7 @@
 
 .. _spell--focus--Manifold-Lives:
 
-Множество жизней (`Manifolf Lives <https://2e.aonprd.com/Spells.aspx?ID=1197>`_) / Фокус. 6
+Множество жизней (`Manifold Lives <https://2e.aonprd.com/Spells.aspx?ID=1197>`_) / Фокус. 6
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - :uncommon:`необычный`

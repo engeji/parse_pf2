@@ -235,7 +235,7 @@ NPC могут приходить и уходить или становитьс�
 
 
 
-.. |ls| unicode:: 0x2028
+.. |ls| unicode:: 0x206F
 	:trim:
 
 .. include:: /helpers/actions.rst

@@ -3,7 +3,7 @@
 .. rst-class:: versatile-heritage
 .. _heritage--Beastkin:
 
-Зверолюди (`Beastkin <https://2e.aonprd.com/Ancestries.aspx?ID=29>`_)
+Зверолюд (`Beastkin <https://2e.aonprd.com/Ancestries.aspx?ID=29>`_)
 =============================================================================================================
 
 .. epigraph::
