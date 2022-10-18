@@ -2029,7 +2029,7 @@ BOOKTITLE
 а́ е́ и́ о́ у́ ы́ э́ ю́ я́
 
 
-|ls| - line separator - вставит разрыв строки
+|ls| - line separator - вставит невидимый пробел
 
-.. |ls| unicode:: 0x2028
+.. |ls| unicode:: 0x206F
 	:trim:
