@@ -897,7 +897,7 @@ Swashbuckler
 	panache: кураж, самоуверенность
 	flair: талант, стиль (про совершение ударов)
 
-tap into: погрузиться в, подключиться к
+tap into: погрузиться в, подключиться к, обратиться к
 Thaumaturge: тауматург
 	implement: орудие
 	present: предъявлять
@@ -1151,6 +1151,10 @@ Titles:
 	Yovala: Йовала
 	Outer Rifts: Внешние Разломы
 	Triaxus: Триаксус (планета)
+	shadowcaller: призывающий тени (нидальская тема)
+	nightglass: ночное стекло (нидальская тема)
+	Mosquito Witch: Комариная ведьма
+	Ironbound Archipelago: Железный Архипелаг
 	
 
 trait: признак / особенность

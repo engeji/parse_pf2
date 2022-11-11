@@ -372,6 +372,7 @@
 .. toctree::
    :maxdepth: 2
 
+   Dark-Archive/Cryptids
    Dark-Archive/Secret-Societies
    Dark-Archive/Deviant-Abilities
    Dark-Archive/Temporal-Anomalies
