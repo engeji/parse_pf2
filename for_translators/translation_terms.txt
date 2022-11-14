@@ -753,6 +753,7 @@ plane: план
 	Back Alleys: Переулки
 	Sydrixus: Сидрикс
 	Setsendu: Сэценду
+	Echoing Pale: Отражающая Бледность (зазеркалье)
 
 primeval: первозданный, первобытный
 primordial: первородный

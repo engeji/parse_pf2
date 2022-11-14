@@ -234,6 +234,7 @@
 
 Здесь собраны остальные корректировки NPC из различных книг.
 
+* :ref:`Cryptids--Adjustments`
 * :ref:`Secret-Society--Member--Adjustments`
 
 

@@ -329,6 +329,7 @@ $(document).ready( function() {
 		"suli": "Сули (suli): Вид джинникинов воплощающих смесь элементов и обычно происходящих от джаннов.",
 		"sylph": "Сильф (sylph): Вид джинникинов произошедший от сущностей Воздушного плана, обычно джинни.",
 		"undine": "Ундина (undine): Вид джинникинов произошедший от сущностей Водного плана, обычно маридов.",
+		"reflection": "Отражение (reflection): Существо с этим признаком обладает универсальным наследием отражения. Отражения это существа скопированные с других живых индивидов, будь то клонированием, планарным дублированием или другим способом. Умения с этим признаком могут быть выбраны или использованы только отражениями.",
 		"humanoid": "Гуманоид (humanoid): Гуманоидные существа рассуждают и действуют так же, как люди. Обычно они являются прямоходящими и имеют 2 руки и 2 ноги.",
 		"amphibious": "Земноводный (amphibious): Земноводное существо может дышать в воде и на воздухе, даже за пределами предпочитаемой им среды, обычно бесконечно, но, по меньшей мере часами. У этих существ часто есть Скорость плавания. Их дробящие и рубящие безоружные Удары (Strikes) не получают обычный штраф -2 за нахождение под водой.",
 		"aquatic": "Водный (aquatic): Под водой, водные существа чувствуют себя как дома. Их дробящие и рубящие безоружные Удары (Strikes) не получают обычный штраф -2 за нахождение под водой. Водные существа могут дышать водой, но не воздухом.",
@@ -706,6 +707,7 @@ $(document).ready( function() {
 	$('ul.traits li:textEquals("сули")').tooltipster({content: traits_dict["suli"]});
 	$('ul.traits li:textEquals("сильф")').tooltipster({content: traits_dict["sylph"]});
 	$('ul.traits li:textEquals("ундина")').tooltipster({content: traits_dict["undine"]});
+	$('ul.traits li:textEquals("отражение")').tooltipster({content: traits_dict["reflection"]});
 	$('ul.traits li:textEquals("гуманоид")').tooltipster({content: traits_dict["humanoid"]});
 	$('ul.traits li:textEquals("земноводный")').tooltipster({content: traits_dict["amphibious"]});
 	$('ul.traits li:textEquals("водный")').tooltipster({content: traits_dict["aquatic"]});
@@ -1043,6 +1045,7 @@ $(document).ready( function() {
 	$('span.t-suli').tooltipster({content: traits_dict["suli"]});
 	$('span.t-sylph').tooltipster({content: traits_dict["sylph"]});
 	$('span.t-undine').tooltipster({content: traits_dict["undine"]});
+	$('span.t-reflection').tooltipster({content: traits_dict["reflection"]});
 	$('span.t-humanoid').tooltipster({content: traits_dict["humanoid"]});
 	$('span.t-amphibious').tooltipster({content: traits_dict["amphibious"]});
 	$('span.t-aquatic').tooltipster({content: traits_dict["aquatic"]});

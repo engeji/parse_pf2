@@ -162,6 +162,7 @@
    Vampire
    Zombie
 
+   Alter-Ego
    Time-Mage
    Chronoskimmer
    Psychic-Duelist
