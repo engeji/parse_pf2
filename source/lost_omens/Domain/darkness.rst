@@ -12,6 +12,7 @@
 
 | Начальное: :ref:`spell--focus--Cloak-of-Shadow`
 | Продвинутое: :ref:`spell--focus--Darkened-Eyes`
+| Продвинутое (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Isolation`
 
 
 **Божества**:

@@ -376,6 +376,7 @@
    Dark-Archive/Secret-Societies
    Dark-Archive/Deviant-Abilities
    Dark-Archive/Mirrors-and-Imposters
+   Dark-Archive/Cults
    Dark-Archive/Temporal-Anomalies
    Dark-Archive/Mindscapes
 

@@ -11,6 +11,7 @@
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Read-Fate`
+| Начальное (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--String-of-Fate`
 | Продвинутое: :ref:`spell--focus--Tempt-Fate`
 
 

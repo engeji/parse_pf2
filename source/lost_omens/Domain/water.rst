@@ -12,6 +12,7 @@
 
 | Начальное: :ref:`spell--focus--Tidal-Surge`
 | Продвинутое: :ref:`spell--focus--Downpour`
+| Продвинутое (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Purifying-Veil`
 
 
 **Божества**:

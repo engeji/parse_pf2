@@ -11,6 +11,7 @@
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Overstuff`
+| Начальное (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Frenzied-Revelry`
 | Продвинутое: :ref:`spell--focus--Take-its-Course`
 
 

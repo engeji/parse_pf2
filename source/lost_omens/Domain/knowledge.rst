@@ -12,6 +12,7 @@
 
 | Начальное: :ref:`spell--focus--Scholarly-Recollection`
 | Продвинутое: :ref:`spell--focus--Know-the-Enemy`
+| Продвинутое (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Wordsmith`
 
 
 **Божества**:

@@ -12,6 +12,7 @@
 
 | Начальное: :ref:`spell--focus--Deaths-Call`
 | Продвинутое: :ref:`spell--focus--Eradicate-Undeath`
+| Продвинутое (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Euphoric-Renewal`
 
 
 **Божества**:

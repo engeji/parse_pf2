@@ -12,6 +12,7 @@
 
 | Начальное: :ref:`spell--focus--Veil-of-Confidence`
 | Продвинутое: :ref:`spell--focus--Delusional-Pride`
+| Продвинутое (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Shaken-Confidence`
 
 
 **Божества**:

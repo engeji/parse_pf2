@@ -11,6 +11,7 @@
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Fire-Ray`
+| Начальное (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Cinder-Gaze`
 | Продвинутое: :ref:`spell--focus--Flame-Barrier`
 
 

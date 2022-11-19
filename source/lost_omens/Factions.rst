@@ -193,8 +193,9 @@
 
 Смотрите также:
 
-| **Архетипы**
-| :ref:`archetype--Red-Mantis-Assassin`
+| **Архетип**: :ref:`archetype--Red-Mantis-Assassin`
+| **Доп.информация**: "Темный архив". Культы - :ref:`Cults--The-Red-Mantis-Assassins`
+
 
 
 .. rst-class:: lo-faction

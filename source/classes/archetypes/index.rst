@@ -163,6 +163,7 @@
    Zombie
 
    Alter-Ego
+   Living-Vessel
    Time-Mage
    Chronoskimmer
    Psychic-Duelist
