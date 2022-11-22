@@ -164,6 +164,8 @@
 
    Alter-Ego
    Living-Vessel
+   Pactbinder
+   Curse-Maelstrom
    Time-Mage
    Chronoskimmer
    Psychic-Duelist

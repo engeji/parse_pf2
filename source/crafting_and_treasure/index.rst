@@ -478,6 +478,7 @@
    materials
    structures
    Siege-Weapons
+   Contracts
    Other
 
 
