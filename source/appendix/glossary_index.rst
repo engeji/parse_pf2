@@ -4600,7 +4600,7 @@ Lost Omens: The Mwangi Expanse pg. 308
 Команда (компонент активации предмета) (command (item activation component))
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| :ref:`ch11--Activation-Components--Command`
+| :ref:`Activate-an-Item--Component--Command`
 
 
 Команда животному (Command an Animal |д-1| (skill action))
@@ -5284,7 +5284,7 @@ d4, d6, d8, d10, d12, d20, и d%
 Вообразить (компонент активации предмета) (envision (item activation component))
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| :ref:`ch11--Activation-Components--Envision`
+| :ref:`Activate-an-Item--Component--Envision`
 
 
 Снаряжение (equipment)

@@ -247,6 +247,8 @@
 
 
 
+.. _Secret-Societies--Occult-Skill-Feats:
+
 Оккультные способности навыков (Occult Skill Feats)
 ---------------------------------------------------------------------------------------------------------
 
@@ -426,16 +428,16 @@
 **Источник**: Dark Archive pg. 82
 
 * :ref:`item--False-Bottomed-Mug`
-* :ref:`item--Forgetful-Drops`
-* :ref:`item--Glittering-Scarab`
+* :ref:`item--Traitors-Ring`
 * :ref:`item--Membership-Cords`
-* :ref:`item--Moonlit-Ink`
-* :ref:`item--Parchment-Of-Secrets`
+* :ref:`item--Glittering-Scarab`
 * :ref:`item--Self-Immolating-Note`
 * :ref:`item--Siblings-Coin`
-* :ref:`item--Silent-Bell`
+* :ref:`item--Moonlit-Ink`
+* :ref:`item--Forgetful-Drops`
+* :ref:`item--Parchment-of-Secrets`
 * :ref:`item--Society-Portrait`
-* :ref:`item--Traitors-Ring`
+* :ref:`item--Silent-Bell`
 
 
 
