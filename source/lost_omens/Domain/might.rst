@@ -11,6 +11,7 @@
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Athletic-Rush`
+| Начальное (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Victory-Cry`
 | Продвинутое: :ref:`spell--focus--Enduring-Might`
 
 

@@ -570,6 +570,12 @@
 
 .. role:: t_deviant
 
+.. role:: t_contract
+
+.. role:: t_aftermath
+
+.. role:: t_experiment
+
 
 
 .. role:: t_alchemist
@@ -693,6 +699,8 @@
 .. role:: t_sylph
 
 .. role:: t_undine
+
+.. role:: t_reflection
 
 .. role:: t_humanoid
 

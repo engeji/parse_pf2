@@ -33,7 +33,7 @@
 Базирующиеся в нации Усталав, ученые и философы этого полусекретного общества долгое время выступали против :ref:`Шепчущего пути <faith--Whispering-Way>`, но недавние события сделали их оппозицией зловещим целям :ref:`Ночных Вестников <Faction--Night-Heralds>`.
 Однако, предоставленные самим себе, члены этой фракции предпочитают исследовать и изучать пыльные секреты, скрытые в прошлом, особенно те, которые все еще ждут своего открытия в регионах Золотого Пути, особенно в нации Осирион.
 
-См. также :ref:`faith--Esoteric-Order-of-the-Palatine-Eye` в разделе Религии.
+См. также в разделе :ref:`Религии <faith--Esoteric-Order-of-the-Palatine-Eye>` и :ref:`Тайные Общества <Secret-Societies--The-Esoteric-Order-of-The-Palatine-Eye>`.
 
 
 .. rst-class:: lo-faction
@@ -193,8 +193,9 @@
 
 Смотрите также:
 
-| **Архетипы**
-| :ref:`archetype--Red-Mantis-Assassin`
+| **Архетип**: :ref:`archetype--Red-Mantis-Assassin`
+| **Доп.информация**: "Темный архив". Культы - :ref:`Cults--The-Red-Mantis-Assassins`
+
 
 
 .. rst-class:: lo-faction

@@ -834,6 +834,7 @@ section.craft-treasure-tattooslist section,
 section.craft-treasure-spell-catalysts section,
 section.craft-treasure-spellhearts section,
 section.craft-customizations section,
+section.contracts section,
 section.actions-descr section {
 	margin-top: 1.2em;
 }
@@ -954,6 +955,7 @@ section.craft-treasure-assistive section > h3,
 section.craft-treasure-wheelchairs section > h4,
 section.craft-treasure-spellhearts section > h2,
 section.craft-customizations section > h3,
+section.contracts section > h3,
 section.actions-descr section section > h5 {
 	box-sizing: border-box;
 	color: #404040;
@@ -1024,6 +1026,7 @@ section.craft-treasure-assistive section hr,
 section.craft-treasure-wheelchairs section hr,
 section.craft-treasure-spellhearts section hr,
 section.craft-customizations section hr,
+section.contracts section hr,
 section.actions-descr section hr,
 section.eidolon hr {
 	border-top: 1px solid #404040;
@@ -1152,6 +1155,7 @@ section.creature p a:first-child[href*="ability_glossary"],
 section.creature p a:first-child[href*="Creating-"],
 section.bst-ability-link p a:first-child[href*="ability_glossary"],
 section.bst-ability-link p a:first-child[href*="Creating-"],
+section.afflictions-list p a:first-child[href*="afflictions-curses-tempting"],
 p.ability-link a:first-child[href*="ability_glossary"] {
 	font-weight: bold;
 }

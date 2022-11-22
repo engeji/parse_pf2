@@ -12,6 +12,7 @@
 
 | Начальное: :ref:`spell--focus--Agile-Feet`
 | Продвинутое: :ref:`spell--focus--Travelers-Transit`
+| Продвинутое (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Inevitable-Destination`
 
 
 **Божества**:

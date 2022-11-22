@@ -11,6 +11,7 @@
 **Доменные заклинания**:
 
 | Начальное: :ref:`spell--focus--Blind-Ambition`
+| Начальное (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Hollow-Heart`
 | Продвинутое: :ref:`spell--focus--Competitive-Edge`
 
 

@@ -12,6 +12,7 @@
 
 | Начальное: :ref:`spell--focus--Pushing-Gust`
 | Продвинутое: :ref:`spell--focus--Disperse-into-Air`
+| Продвинутое (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Wind-Whispers`
 
 
 **Божества**:

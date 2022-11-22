@@ -1,9 +1,9 @@
 .. include:: /helpers/roles.rst
 
 .. rst-class:: spell
-.. _spell--Mind-Of-Menace:
+.. _spell--Mind-of-Menace:
 
-Разум угрозы (`Mind Of Menace <https://2e.aonprd.com/Spells.aspx?ID=949>`_) / Закл. 3
+Разум угрозы (`Mind of Menace <https://2e.aonprd.com/Spells.aspx?ID=949>`_) / Закл. 3
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 - очарование

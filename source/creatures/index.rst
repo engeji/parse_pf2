@@ -227,6 +227,16 @@
 * :ref:`Undead-Adjustments--Zombie`
 
 
+.. _bestiary--Other-Adjustments:
+
+Прочие корректировки (Other Adjustments)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Здесь собраны остальные корректировки NPC из различных книг.
+
+* :ref:`Cryptids--Adjustments`
+* :ref:`Secret-Society--Member--Adjustments`
+
 
 
 .. _bestiary--languages:

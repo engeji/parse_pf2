@@ -11,6 +11,45 @@
 
 
 
+.. _changelog--2022-11-22:
+
+2022-11-22
+=====================================================================================================
+
+.. _changelog--DA--2022-11-22:
+
+Тёмный архив (Dark Archive)
+---------------------------------------------------------------------------------------------
+
+Добавлен контент из 5 дел.
+
+- :doc:`/classes/Dark-Archive/Cryptids` от Longstrider
+- :doc:`/classes/Dark-Archive/Secret-Societies` от Доктор
+- :doc:`/classes/Dark-Archive/Mirrors-and-Imposters`
+- :doc:`/classes/Dark-Archive/Cults` вместе с Longstrider и Доктор
+- :doc:`/classes/Dark-Archive/Curses-and-Pacts`
+
+
+.. _changelog--edits--2022-11-22:
+
+Исправления
+---------------------------------------------------------------------------------------------
+
+Исправления ошибок.
+
+- :ref:`feat--Battle-Cry`. Исправлено первое предложение. Данное умение применяется на :c_observed:`замеченную` цель, а не ту которая видит как вы его применяете.
+- Исправлены опечатки в названиях способностей: :ref:`spell--focus--Manifold-Lives`, :ref:`arch-feat--Time-Mage--Timeline-Splitting-Spell`, :ref:`arch-feat--Mind-Smith--Advanced-Runic-Mind-Smithing`
+- Прочие мелкие опечатки.
+
+
+.. _changelog--B--2022-11-22:
+
+Бестиарий
+---------------------------------------------------------------------------------------------
+
+Добавлены :doc:`/creatures/bestiary/Kushtaka`.
+
+
 
 
 
@@ -27,8 +66,8 @@
 Добавлен контент из трёх дел.
 
 - :doc:`/classes/Dark-Archive/Deviant-Abilities`
-- :doc:`/classes/Dark-Archive/Temporal-Anomalies`
-- :doc:`/classes/Dark-Archive/Mindscapes`
+- :doc:`/classes/Dark-Archive/Temporal-Anomalies` от Longstrider
+- :doc:`/classes/Dark-Archive/Mindscapes` от Доктор
 
 
 .. _changelog--edits--2022-09-24:

@@ -411,11 +411,6 @@
 
 
 
-
-
-
-
-
 Список универсальных наследий
 ------------------------------------------------------------------------------------------------------
 
@@ -430,6 +425,7 @@
    versatile_heritages/dhampir
    versatile_heritages/duskwalker
    versatile_heritages/beastkin
+   versatile_heritages/Reflection
    versatile_heritages/geniekin
    versatile_heritages/ifrit
    versatile_heritages/oread

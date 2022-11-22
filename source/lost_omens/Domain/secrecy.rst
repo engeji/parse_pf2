@@ -12,6 +12,7 @@
 
 | Начальное: :ref:`spell--focus--Forced-Quiet`
 | Продвинутое: :ref:`spell--focus--Safeguard-Secret`
+| Продвинутое (:ref:`апокрифическое <Domains--Apocryphal-Domain-Spells>`): :ref:`spell--focus--Weaponize-Secret`
 
 
 **Божества**:

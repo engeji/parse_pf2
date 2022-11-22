@@ -499,7 +499,7 @@
 
 .. _class-feature--Gunslinger--Way--Drifter:
 
-Путь скитальца (`Way Of The Drifter <https://2e.aonprd.com/Ways.aspx?ID=1>`_)
+Путь скитальца (`Way of the Drifter <https://2e.aonprd.com/Ways.aspx?ID=1>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Guns & Gears pg. 108
@@ -611,7 +611,7 @@
 
 .. _class-feature--Gunslinger--Way--Pistolero:
 
-Путь пистолеро (`Way Of The Pistolero <https://2e.aonprd.com/Ways.aspx?ID=2>`_)
+Путь пистолеро (`Way of the Pistolero <https://2e.aonprd.com/Ways.aspx?ID=2>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Guns & Gears pg. 109
@@ -730,7 +730,7 @@
 
 .. _class-feature--Gunslinger--Way--Sniper:
 
-Путь снайпера (`Way Of The Sniper <https://2e.aonprd.com/Ways.aspx?ID=3>`_)
+Путь снайпера (`Way of the Sniper <https://2e.aonprd.com/Ways.aspx?ID=3>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Guns & Gears pg. 109
@@ -837,7 +837,7 @@
 
 .. _class-feature--Gunslinger--Way--Vanguard:
 
-Путь авангарда (`Way Of The Vanguard <https://2e.aonprd.com/Ways.aspx?ID=4>`_)
+Путь авангарда (`Way of the Vanguard <https://2e.aonprd.com/Ways.aspx?ID=4>`_)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Источник**: Guns & Gears pg. 110

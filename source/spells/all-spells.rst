@@ -214,6 +214,7 @@
    F/fabricated-truth
    F/faerie-fire
    F/false-life
+   F/False-Nature
    F/false-vision
    F/familiars-face
    F/fear

@@ -97,7 +97,7 @@
 
 
 .. rst-class:: h3
-.. rubric:: Скоровища рейвенера (Ravener Treasure)
+.. rubric:: Сокровища рейвенера (Ravener Treasure)
 
 |treasure|
 

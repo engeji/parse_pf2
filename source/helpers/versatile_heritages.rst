@@ -9,6 +9,7 @@
    /ancestries_and_backgrounds/versatile_heritages/dhampir
    /ancestries_and_backgrounds/versatile_heritages/duskwalker
    /ancestries_and_backgrounds/versatile_heritages/beastkin
+   /ancestries_and_backgrounds/versatile_heritages/Reflection
    /ancestries_and_backgrounds/versatile_heritages/geniekin
    ├ Ифрит (Ifrit) </ancestries_and_backgrounds/versatile_heritages/ifrit>
    ├ Ореад (Oread) </ancestries_and_backgrounds/versatile_heritages/oread>
